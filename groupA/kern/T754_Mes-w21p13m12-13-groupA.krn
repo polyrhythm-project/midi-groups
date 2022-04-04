@@ -1,0 +1,35 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T754_Mes-21/13/12-13]
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:B	*	*grp:B	*	*
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*staff1	*
+*I"Piano	*	*	*I"Soprano	*	*
+*I'Pno.	*	*	*I'Tr. Solo	*	*
+*clefG2	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*C:	*C:	*	*C:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*	*8va	*	*	*	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:b:i:t=(avec pedale)	!LO:TX:a:B:t=Modéré, un peu vif	!LO:DY:rj	!LO:TX:a:B:t=Modéré, un peu vif	!	!LO:DY:rj
+8fnL 8a-X 8bn 8cc#X	16ryy	4ryy	2ryy	4ryy	4ryy
+.	8ryy	.	.	.	.
+16anL 16b 16cc#X 16ee-X	.	.	.	.	.
+16a-XJJ 16cc#X 16dd 16ff	16ryy	.	.	.	.
+16bnKL 16dd 16ee-X 16gg	8ryy	.	.	.	4ryy
+[8.gJ [8.an [8.b [8.cc#X	.	.	.	.	.
+.	8ryy	.	.	.	.
+=2	=2	=2	=2	=2	=2
+4g_ 4a_ 4b_ 4cc#X_\	8ryy	.	4ryy	.	.
+.	8ryy	.	.	.	4ryy
+16gLL] 16a] 16b] 16cc#X]\	8ryy	.	8ryy	4ryy	.
+16e-X 16an 16a-X 16dd	.	.	.	.	.
+16g 16an 16dd 16ee-X	16ryy	.	8ryy	.	.
+16fnJJ 16a-X 16bn 16cc#X	16ryy	.	.	.	.
+*	*X8va	*	*	*	*
+=3	=3	=3	=3	=3	=3
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED:Jason Lee
+!!!EEV:2022/01/03

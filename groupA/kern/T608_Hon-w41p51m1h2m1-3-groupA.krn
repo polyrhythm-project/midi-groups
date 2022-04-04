@@ -1,0 +1,73 @@
+!!!COM: Arthur Honegger
+!!!OTL: [T608_Hon-w41p51m1h2m1-3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part9	*part9	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trumpet in C	*	*I"Trumpet in C	*	*I"Horn III. IV.	*	*I"Horn I. II.	*	*I"Bassoons	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'C Tpt.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*
+*clefG2	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+!	!	!LO:TX:a:t=[martellato]	!	!LO:TX:a:t=[martellato]	!	!LO:TX:a:t=[martellato]	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=120]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+1r	f	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	8bL	f	8ccL 8ee	f	2r	f	2r	f	1r	f
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8a	.	8cc 8ee	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8a	.	8cc 8ee	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8aJ	.	8ccJ 8ee	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8aL	.	8ccL 8ee	.	8r	.	8r	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8b^	.	8cc^ 8ee	.	8e 8cc	sf	8b 8ee	sf	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8r	.	8r	.	4r	.	4r	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	8bJ	.	8ccJ 8ee	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+*clefF4	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*clefF4	*	*	*
+!!LO:REH:t=2
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+8r	.	8ryy	.	8ryy	.	8ryy	.	8g#X	.	8dd 8aa	sf	8.r	.	8.r	.	8.r	.
+8AA^	.	8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
+.	.	.	.	.	.	.	.	.	.	.	.	16AA^	.	16AA^	.	16AA^	.
+!LO:TX:t=P:problem: Note should have diagonal line to next note indicating a gliss. 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+(2.D^	.	8ryy	.	8ryy	.	8ryy	.	4r	.	4r	.	(2.D	.	(2.D	.	(2.D	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	2r	.	2r	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+!	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!	!	!	!	!	!	!	!	!	!
+8G#X)	sf	8ryy	.	8ryy	.	8ryy	.	1r	.	1r	.	8G#X^L)	.	8G#X^L)	.	8G#X^L)	.
+8r	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8G#^	.	8G#^	.	8G#^	.
+4r	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8G#^	.	8G#^	.	8G#^	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8G#^J	.	8G#^J	.	8G#^J	.
+4r	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	4r	.	4r	.	4r	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4G#^	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	4G#^	.	4G#^	.	4G#^	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+1r	.	8ryy	.	8ryy	.	8ryy	.	1r	.	1r	.	8r	.	8r	.	8r	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8A'	.	8A'	.	8A'	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	4BB-^	.	4BB-^	.	4BB-X^	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8r	.	8r	.	8r	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8BBX'	.	8BBX'	.	8BBn'	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	4c^	.	4c^	.	4c^	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3)][(s4,s5)][([(s6,s7)]s8,s9)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/25
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/18

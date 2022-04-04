@@ -1,0 +1,152 @@
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Jeux (Games), Ballet in One Act for Orchestra
+!!!OMV:
+!!!example: 180
+!!!work: Deb-40
+!!!OMD-full: Très lent
+!!!OMD: [Scherzando molto grazioso (Mouv't)]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Iflt	*
+*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Trumpet in C I	*	*I"Horn in F III.IV.	*	*I"Horn in F I.II.	*	*I"Bassoons	*	*I"Clarinets in A	*	*I"English Horn	*	*I"Flute I	*
+*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*ITrd4c7	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[b-]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*F:	*	*F:	*	*A:	*	*A:	*	*A:	*	*A:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=sempre pizz.	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!LO:TX:b:i:t=de la pointe	!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=72]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:notation differs from original to diplay the rhythm	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:t=%s doux	!LO:S:a	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s léger	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	40%3bLL]	p	8%3ryy	.	8%3r)yy	.	4ryy	4ryy	24ryy	4ryy	8%3r	.	8%3r	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3a	>	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3g#	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+8.ryy	.	8.ryy	.	8.ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	16.ryy	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3e#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	]]	.	.	.	.	32ryy	.	.	.	.	.	.	.
+=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:i:t=simile	!	!	!	!	!	!	!	!LO:TX:a:t=4o	!LO:DY:t=%s doux	!LO:TX:a:t=2o	!LO:DY:t=%s doux	!	!	!	!LO:TUP:r=8	!LO:DY:t=%s léger	!	!	!	!
+8.ryy	.	8.ryy	.	8.ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	8%3r	.	4ryy	4ryy	4ryy	4ryy	4.ryy	.	16ryy	24ryy	4ryy	(40%3e#XLL	p >	(40%3bbLL	p >
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	16rbbyy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#	.	40%3aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	8rbbyy	24ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3g#	.	40%3gg#	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+8.ryy	.	8.ryy	.	8.ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3a	.	40%3ff#	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	16.ryy	.	16.ryy	.	.	.	8rbbyy	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3bJJ)	]	40%3ee#XJJ)	]
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+8.ryy	.	8.ryy	.	8.ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	(40%3b'LL	p >	4.ryy	.	4.ryy	.	4ryy	.	24ryy	16ryy	.	8%3r	.	8%3r	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	16rcyy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3a'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	24ryy	8rcyy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3g#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	8.ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3f#'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	16.ryy	.	24ryy	8rcyy	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40%3e#'XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.
+.	.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	]]	.	.	.	.	32ryy	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][([(s8,s9)][(s10,s11)][(s12,s13)][(s14,s15)])]
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage; Ballet
+!!!MCN: Monteux, Pierre
+!!!MDT: 1913/05/15
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1913
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 130
+!!!excerpt-end-measure: 132
+!!!excerpt-start-time: 3:12
+!!!excerpt-end-time: 3:15
+!!!excerpt-duration-sec: 3
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [72]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/04/12
+!!!ONB: Converted from MusicXML on 2020/07/28

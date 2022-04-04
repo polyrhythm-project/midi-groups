@@ -1,0 +1,47 @@
+!!!COM: Charles Ives
+!!!OTL: [T232B_Ive-w4p24m53-57]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*
+*B:	*	*B:	*	*B:	*	*B:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[quarter]=120	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack
+4ryy	4ryy	4ryy	4ryy	2ryy	4ryy	2b)	pp
+2ryy	4ryy	2ryy	4ryy	.	.	.	.
+.	.	.	.	4ryy	4ryy	4gg#^	f
+=2	=2	=2	=2	=2	=2	=2	=2
+2ryy	.	2ryy	.	2ryy	.	4ff#	.
+.	.	.	.	.	.	4ee	.
+4ryy	.	4ryy	.	4ryy	.	4dd#	.
+=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*^	*	*	*
+4ryy	.	4ryy	.	8ryy	2ryy	.	2cc#	.
+.	.	.	.	8ryy	.	.	.	.
+2ryy	.	2ryy	.	4ryy	.	.	.	.
+*	*	*	*	*v	*v	*	*	*
+.	.	.	.	4ryy	4ryy	4gg# 4ccc#	f
+=4	=4	=4	=4	=4	=4	=4	=4
+4.ryy	.	4.ryy	.	4ryy	.	4bb	.
+.	.	.	.	4ryy	.	4aa#	.
+4.ryy	.	4.ryy	.	.	.	.	.
+.	.	.	.	4ryy	.	4gg#	.
+=5	=5	=5	=5	=5	=5	=5	=5
+*	*	*	*	*^	*	*^	*
+8ryy	4ryy	8ryy	4ryy	8ryy	2.ryy	4ryy	([2ff#	4ff#	<
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4.ryy	4ryy	4.ryy	4ryy	4ryy	.	4ryy	.	[4an^	[ > ]
+*	*	*	*	*	*	*	*v	*v	*
+.	.	.	.	8ryy	.	4ryy	8aL] 8ff#]	.
+8ryy	4ryy	8ryy	4ryy	8ryy	.	.	8a#X'J 8ee)	.
+*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

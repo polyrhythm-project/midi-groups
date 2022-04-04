@@ -1,0 +1,120 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T618_Hin-w13p8m19-27]
+**kern		**kern		**dynam
+*grp:A		*grp:B		*
+*part1		*part1		*part1
+*staff2		*staff1		*
+*I"Piano		*		*
+*I'Pno.		*		*
+*ICklav		*ICklav		*
+*Ipiano		*Ipiano		*
+*clefF4		*clefG2		*
+*k[]		*k[]		*
+*C:		*C:		*
+*M2/4		*M2/4		*
+=1		=1		=1
+!		!LO:TX:t=[[quarter]=146]		!
+4ryy	4r	.
+4ryy	4e^ 4ee	4ryy
+=2		=2		=2
+*M4/4		*M4/4		*
+*^		*^		*
+4rdyy	2ryy	2.a 2.b 2.aa	8rc	4ryy
+.	.	.	4ee-X 4ff	.
+4ryy	.	.	.	.
+.	.	.	4ee- 4ff	.
+4rdyy	2ryy	.	.	.
+.	.	.	4ee- 4ff	.
+4ryy	.	[<4g#X [4a#X [4gg#X	.	.
+.	.	.	8ee- 8ff	.
+=3	=3	=3	=3	=3
+4rdyy	2ryy	1ryy	8g#] 8a#] 8gg#]	4ryy
+.	.	.	4a 4b 4aa	.
+4ryy	.	.	.	.
+.	.	.	[8cc^ [>8ee-X [>8bb	.
+2rdyy	4ryy	.	8ccL] 8ee-] 8bb]	4ryy
+.	.	.	8bJ 8dd 8gg	.
+.	4ryy	.	[<4b-X [>4dd-X [>4aa	.
+=4	=4	=4	=4	=4
+4ryy	4ryy	2ryy	8b-L] 8dd-] 8aa]	4ryy
+.	.	.	8f 8ff	.
+4rdyy	2ryy	.	8e 8ee	.
+.	.	.	8dJ 8dd	.
+4ryy	.	4a 4b 4aa	8r	.
+.	.	.	4ee-X 4ff	.
+4rdyy	4ryy	4a 4b 4aa	.	.
+.	.	.	8ee- 8ff	4ryy
+=5	=5	=5	=5	=5
+4rdyy	2ryy	2.cc 2.dd 2.ccc	8rc	4ryy
+.	.	.	4gg-X 4aa-X	.
+4ryy	.	.	.	.
+.	.	.	4gg- 4aa-	.
+4rdyy	2ryy	.	.	.
+.	.	.	4gg- 4aa-	.
+4ryy	.	[<4b [4cc#X [4bb	.	.
+.	.	.	8gg- 8aa-	.
+=6	=6	=6	=6	=6
+4rdyy	2ryy	1ryy	8b] 8cc#] 8bb]	.
+.	.	.	4ccn 4dd 4ccc	.
+4ryy	.	.	.	.
+.	.	.	[8ee-X^ [>8gg-X [>8ddd	.
+2rdyy	4ryy	.	8ee-L] 8gg-] 8ddd]	.
+.	.	.	8ddJ 8ff 8bb-X	.
+.	4ryy	.	[4cc#X [>4ee- [>4cccn	.
+=7	=7	=7	=7	=7
+4ryy	4ryy	8ryy@	8cc#L] 8ee-] 8ccc]	.
+.	.	8ryy@	8a-X 8aa-X	.
+4rdyy	2ryy	8ryy@	8g 8gg	.
+.	.	8ryy@	8fJ 8ff	.
+4ryy	.	4cc 4dd 4ccc	8rc	.
+.	.	.	4gg-X 4aa-X	.
+4rdyy	4ryy	4cc 4dd 4ccc	.	.
+.	.	.	8gg- 8aa-	.
+*	*	*v	*v	*
+*clefG2	*	*		*
+=8	=8	=8		=8
+8ryy@yy	8ryy	8r	4ryy
+.	.	(>16qqbb#X/LL	.
+.	.	16qqddd/JJ	.
+8ryy@yy	8ryy	4ccc#X^)	4ryy
+8ryy	4ryy	.	.
+8ryy	.	[8ccc#	4ryy
+!	!	!		!
+12ryy@yy	8ryy	12ccc#L]	.
+24ryy@yy	.	12ccc#	.
+24ryy@yy	8ryy	.	.
+12ryy@yy	.	[12ccc#^J	.
+!	!	!		!
+16ryy	4ryy	12ccc#L]	.
+16ryy	.	.	.
+.	.	12ccc#	.
+16ryy	.	.	.
+.	.	12ccc#J	.
+16ryy	.	.	.
+*v	*v	*		*
+=9		=9		=9
+!		!		!
+4ryy	(24dddLL	.
+.	24eee	.
+.	24fff	.
+.	24eee	.
+.	24ddd	.
+.	24cccJJ)	.
+16ryy	4.ddd	.
+16ryy	.	.
+16ryy	.	.
+16ryy	.	.
+!LO:TR:acc=-		!		!
+4ryy	.	.
+.	(>16qqccc#X/LL	.
+.	16qqeee-X/JJ	.
+.	4ddd^)	4ryy
+16ryy	.	.
+16ryy	.	.
+16ryy	[8ddd	4ryy
+16ryy	.	.
+=		=		=
+*-		*-		*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above

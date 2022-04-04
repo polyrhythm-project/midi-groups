@@ -1,0 +1,59 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T383_Str-24/20/81-86]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*
+*I'Pno.	*I'Pno.	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+=81	=81	=81
+!	!LO:TX:t=[[quarter]=84]	!LO:DY:ed=brack
+!	!LO:T:n=1:b	!
+!	!LO:T:n=2:b	!
+!	!LO:T:n=3:a	!
+8ryy	8aL] 8cc#X] 8ee]	p
+8ryy	8b 8dd	.
+8ryy	8a 8cc#X	.
+8ryy	8cc#J 8ee	.
+=82	=82	=82
+!	!LO:TX:a:t=2/8	!
+8ryy	/8gL 8b 8dd	.
+8ryy	8aJ 8cc#X	.
+!	!LO:TX:a:t=3/8	!
+8ryy	/[4g [4b [4dd	.
+8ryy	.	.
+=83	=83	=83
+8ryy	8gL] 8b] 8dd]	.
+!	!LO:TX:a:t=4/8	!
+8ryy	[8c#XJ [8a [8cc#X [8ee	.
+8ryy	4c#] 4a] 4cc#] 4ee]	.
+8ryy	.	.
+=84	=84	=84
+8ryy	8gL 8b 8dd	.
+!	!LO:TX:a:t=5/8	!
+8ryy	[8c#XJ [8a [8cc#X [8ee	.
+8ryy	4c#_ 4a_ 4cc#_ 4ee_	.
+8ryy	.	.
+=85	=85	=85
+8ryy	8c#L] 8a] 8cc#] 8ee]	.
+8ryy	8gJ 8b 8dd	.
+8ryy	[4c#X [4a [4cc#X [4ee	.
+8ryy	.	.
+=86	=86	=86
+8ryy	8c#L] 8a] 8cc#] 8ee]	.
+8ryy	8BJ 8d	.
+8ryy	[4c#X [4e	.
+8ryy	.	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/28
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/10

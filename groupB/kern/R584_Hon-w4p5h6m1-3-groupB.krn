@@ -1,0 +1,90 @@
+!!!COM: Honegger, Arthur
+!!!OTL: Rapsodie (Rhapsody) for Two Flutes, Clarinet and Piano
+!!!example: 584
+!!!work: Hon-4
+!!!OMD-full: Larghetto
+!!!OMD: [Tempo (Allegro)]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff4	*staff4/5	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano	*	*	*I"Clarinet in A	*	*I"Flute II	*	*I"Flute I	*
+*I'Pno.	*	*	*I'Cl.	*	*I'Fl.	*	*I'Fl.	*
+*ICklav	*ICklav	*	*ICww	*	*ICww	*	*ICww	*
+*Ipiano	*Ipiano	*	*Iclars	*	*Iclars	*	*Iflt	*
+*	*	*	*ITrd2c3	*	*	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
+*E:	*	*	*	*	*E:	*	*E:	*
+*M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+!!LO:REH:t=6
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+!	!	!	!	!	!	!	!LO:TX:t=[[quarter] = 160]	!
+4ryyyy	8ryy	4ryy	4r	.	4r	.	4r	.
+.	8ryy	.	.	.	.	.	.	.
+1ryyyy	8ryy	.	8e'L	4ryy	8g#'L	4ryy	8cc#'L	4ryy
+.	8ryy	.	8e'J	.	8f##X'J	.	8b'J	.
+.	8ryy	.	4e'	.	4g#'	.	4cc#'	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	4f#'	.	4b'	.	4dd#'	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	4r	.	4r	.	4r	.
+.	8ryy	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+4ryyyy	8ryy	.	12gX'L	.	12ccn'L	.	12ee'L	.
+.	.	.	12g'	.	12cc'	.	12ee'	.
+.	8ryy	.	.	.	.	.	.	.
+.	.	.	12g'J	.	12cc'J	.	12ee'J	.
+1ryyyy	8ryy	.	4f#'	.	4b'	.	4ddn'	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	4e'	.	4g#'	.	4cc#'	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	4r	.	4r	.	4r	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	12f#'L	.	12a#X'L	.	12cc#'L	.
+.	.	.	12f#'	.	12a#'	.	12cc#'	.
+.	8ryy	.	.	.	.	.	.	.
+.	.	.	12f#'J	.	12a#'J	.	12cc#'J	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+4ryyyy	8ryy	.	4d'	.	4f##X'	.	4b'	.
+.	8ryy	.	.	.	.	.	.	.
+1ryyyy	8ryy	.	8e-X'L	.	8e#X'L	.	8a'L	.
+.	8ryy	.	8d'J	.	8f##'J	.	8b'J	.
+.	8ryy	.	4c#X	.	4en	.	4g#	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	2c#	.	2e	.	2g#	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]{(s4,s5)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!CDT: 1892/03/10-1955/11/27
+!!!CBL: Le Havre, France
+!!!CDL: Paris, France
+!!!CNT: Swiss, French
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1917/11/17
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1917
+!!!MPN: Roy, Manouvrier; Tournier; Vaurabourg, Andrée
+!!!ODT: 1917
+!!!PDT: 1923
+!!!excerpt-start-measure: 46
+!!!excerpt-end-measure: 48
+!!!excerpt-start-time: 3:43
+!!!excerpt-end-time: 3:48
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 5/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [160]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2021/04/12
+!!!ONB: Converted from MusicXML on 2021/04/12

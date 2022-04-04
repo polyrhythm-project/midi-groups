@@ -1,0 +1,110 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T728A_Mes-w12b1p2m16-19]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part1	*part 1	*part1	*part1
+*staff3	*	*staff2	*staff2	*staff1	*staff1
+*I"Pedals	*	*I"Organ	*	*	*
+*I Ped.	*	*I Org.	*	*	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:a:i:t=legato	!	!LO:TX:a:t=R–gambe voix cel	!	!LO:TX:t=[[eighth]=155]	!
+!	!	!LO:TX:a:i:t=staccato	!	!LO:TX:a:B:t=Un peu vif	!
+4.D	mf	8g#X L 8cc 8ff	p	2.ryy	.
+.	.	8a#X 8dd 8ff#X	.	.	.
+.	.	8b J 8ee 8gg#X	.	.	.
+4.G#X	.	8ccn L 8ffn 8aa#X	.	.	.
+.	.	8dd 8ff#X 8bb	.	.	.
+.	.	8ee J 8gg#X 8ccc	.	.	.
+4F	.	8ffn L 8aa#X 8ddd	.	4ryy	.
+.	.	8ee 8gg# 8ccc	.	.	.
+4E	.	8dd 8ff#X 8bb	.	8ryy	.
+!	!	!	!	!LO:TX:a:t=G–montre 8 bourdon 16	!LO:DY:t=%s legato
+.	.	8b 8ee 8gg#X	.	28ryy	4ryy
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+8G#	.	8a#X J 8dd 8ff#X	.	.	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+=2	=2	=2	=2	=2	=2
+4D	.	8g#X L 8cc 8ffn	.	8.ryy	.
+.	.	8a#X 8dd 8ff#X	.	.	.
+.	.	.	.	16ryy	.
+[8G#X	.	8b J 8ee 8gg#X	.	8ryy	.
+4.G#]	.	8ccn L 8ffn 8aa#X	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	8dd 8ff#X 8bb	.	4ryy	.
+.	.	8ee J 8gg#X 8ccc	.	.	.
+4Fn	.	8ffn L 8aa#X 8ddd	.	8ryy	.
+!	!	!	!	!LO:TUP:b:r=8:num=3	!
+.	.	8ee 8gg# 8ccc	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+4E	.	8dd 8ff#X 8bb	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	8b 8ee 8gg#X	.	4ryy	.
+8G#	.	8a#X J 8dd 8ff#X	.	.	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3
+4.D	.	8g#X L 8cc 8ffn	.	8ryy	.
+.	.	8a#X 8dd 8ff#X	.	28ryy	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+.	.	8b J 8ee 8gg#X	.	.	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+.	.	.	.	28ryy	.
+4G#X	.	8ccn L 8ffn 8aa#X	.	8.ryy	.
+.	.	8dd 8ff#X 8bb	.	.	.
+.	.	.	.	16ryy	.
+[8F	.	8ee J 8gg#X 8ccc	.	8ryy	.
+4.F]	.	8ffn L 8aa#X 8ddd	.	8ryy	.
+!	!	!	!	!LO:TUP:b:r=8:num=3	!
+.	.	8ee 8gg# 8ccc	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	8dd 8ee 8aa#X	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+8EL	.	8b 8ee 8gg#X	.	32ryy	.
+.	.	.	.	32ryy	.
+.	.	.	.	32ryy	.
+.	.	.	.	32ryy	.
+8G#J	.	8a#X J 8dd 8ff#X	.	32ryy	.
+.	.	.	.	32ryy	.
+.	.	.	.	32ryy	.
+.	.	.	.	32ryy	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4
+4.D	.	8g#X L 8cc 8ffn	.	8.ryy	.
+.	.	8a#X 8dd 8ff#X	.	.	.
+.	.	.	.	16ryy	.
+.	.	8b J 8ee 8gg#X	.	8ryy	.
+8FL	.	8cc L 8ffn 8aa#X	.	16ryy	.
+.	.	.	.	16ryy	.
+8E	.	8dd 8ff#X 8bb	.	4ryy	.
+8G#XJ	.	8ee J 8gg#X 8ccc	.	.	.
+4D	.	8ffn L 8aa#X 8ddd	.	8ryy	.
+!	!	!	!	!LO:TUP:b:r=8:num=3	!
+.	.	8ee 8gg# 8ccc	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+[8E	.	8dd 8ff#X 8bb	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+8EL]	.	8b 8ee 8gg#X	.	24ryy	.
+.	.	.	.	24ryy	.
+.	.	.	.	24ryy	.
+8G#J	.	8a#X J 8dd 8ff#X	.	16ryy	.
+.	.	.	.	16ryy	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!EED: Jason Lee
+!!!EEV: 2021/09/21

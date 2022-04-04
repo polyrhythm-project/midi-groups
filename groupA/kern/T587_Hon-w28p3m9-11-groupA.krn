@@ -1,0 +1,53 @@
+!!!COM: Arthur Honegger
+!!!OTL: [T587_Hon-w28p3m9-11]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*	*part3	*part3	*part2	*	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"C Instrument II	*	*I"C Instrument I	*
+*I'Pno.	*	*	*	*I' II	*	*I'I	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*
+*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=126]	!
+.	.	8ryy	.	.	.	.	.
+!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!	!
+(8AL	.	2ryy	4ryy	(8d#XL	.	8ryy	4ryy
+8B	.	.	.	8f#X	.	8ryy	.
+8d#XJ)	.	.	.	8g#XJ)	.	8ryy	.
+(8AL	.	.	.	(8d#L	.	8ryy	.
+.	.	8ryy	.	.	.	.	.
+8B	.	4.ryy	.	8f#	.	8ryy	.
+8d#J)	.	.	.	8g#J)	.	8ryy	.
+(8AL	.	.	.	(8d#L	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2
+.	.	8ryy	.	.	.	.	.
+8B	.	2ryy	.	8f#X	.	8ryy	.
+8d#XJ)	.	.	.	8g#XJ)	.	8ryy	.
+(8AL	.	.	.	(8d#XL	.	8ryy	.
+8B	.	.	.	8f#	.	8ryy	.
+.	.	8ryy	.	.	.	.	.
+8d#J)	.	4.ryy	.	8g#J)	.	8ryy	.
+(8AL	.	.	.	(8d#L	.	8ryy	.
+8B	.	.	.	8f#	.	8ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3
+.	.	8ryy	.	.	.	.	.
+8d#XJ)	.	2ryy	.	8g#XJ)	.	8ryy	.
+(8AL	.	.	.	(8d#XL	.	8ryy	.
+8B	.	.	.	8f#	.	8ryy	.
+8d#J)	.	.	.	8g#J)	.	8ryy	.
+.	.	8ryy	.	.	.	.	.
+(8AL	.	4.ryy	.	(8d#L	.	8ryy	.
+8B	.	.	.	8f#	.	8ryy	.
+8d#J)	.	.	.	8g#J)	.	8ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/25
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/10

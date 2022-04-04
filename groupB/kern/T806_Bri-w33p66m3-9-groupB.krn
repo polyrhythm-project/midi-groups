@@ -1,0 +1,121 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T806_Bri-w33p66m3-9]
+**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*grp:A	*
+*part5	*part5	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*staff3	*	*staff2	*	*staff1	*
+*I"Violin II	*	*I"Violin I	*	*I"Soprano	*	*	*I"Oboe	*	*I"Flute	*
+*I'Vln. II	*	*I'Vln. I	*	*I'S.	*	*	*I'Ob.	*	*I'Fl.	*
+*clefG2	*	*clefG2	*	*clefG2	*	*	*clefG2	*	*clefG2	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*	*A:	*	*A:	*
+*M6/8	*	*M6/8	*	*M6/8	*	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*tremolo	*	*tremolo	*	*	*	*	*	*	*	*
+!!LO:TX:t=[Allegretto grazioso ([eighth]=160)
+!LO:TX:a:t=[pizz.non div.]	!LO:DY:t=%s sempre	!LO:TX:a:t=[pizz.non div.]	!LO:DY:t=%s sempre	!	!	!	!	!LO:DY:t=sempre %s	!	!
+16ryy	4ryy	16ryy	4ryy	8r	.	.	8ryy	4ryy	4%3ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:i:rj:t=dolce	!	!	!	!	!	!
+16ryy	.	16ryy	.	8.cc#	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.
+16ryy	.	16ryy	.	16ff#	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	4ee	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	8b	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16ryy	.	16ryy	.	8.cc#	4ryy	.	8ryy	.	4%3ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.
+16ryy	.	16ryy	.	16ff#	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	[8ee	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	8ee]	.	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	8b	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	[8cc#	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+16ryy	.	16ryy	.	16cc#]	.	.	8ryy	.	4%3ryy	.
+16ryy	.	16ryy	.	16ff#	4ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:S:a	!	!	!
+16ryy	.	16ryy	.	8.cc#	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.
+16ryy	.	16ryy	.	16ff#	4ryy	.	.	.	.	.
+16ryy	4ryy	16ryy	4ryy	8.cc#	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	8ryy	4ryy	.	.
+16ryy	.	16ryy	.	16ff#	4ryy	4ryy	.	.	.	.
+16ryy	.	16ryy	.	16ee	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	16dd	4ryy	4ryy	.	.	.	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:b:i:t=poco	!	!LO:TX:b:i:t=poco	!	!	!	!	!	!	!	!
+16ryy	4ryy	16ryy	4ryy	4cc#	4ryy	.	8ryy	4ryy	4.ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	8ryy	4ryy	.	.
+16ryy	4ryy	16ryy	4ryy	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	[8f#	4ryy	.	8ryy	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	8f#]	.	.	8ryy	.	8ryy	.
+16ryy	4ryy	16ryy	4ryy	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	16r	.	.	8ryy	4ryy	8ryy	.
+16ryy	.	16ryy	.	16cc#	4ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!LO:DY:b:i:t=%s dolce
+16ryy	.	16ryy	.	16cc#	4ryy	.	8ryy	.	8ryy	4ryy
+16ryy	.	16ryy	.	16dd	4ryy	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+16ryy	.	16ryy	.	8.cc#^	4ryy	.	4%3ryy	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16a#X	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	[8b	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	16b]	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16ff#	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	8b	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	16r	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16cc#	4ryy	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+16ryy	.	16ryy	.	16cc#	4ryy	.	4%3ryy	.	8ryy	.
+16ryy	.	16ryy	.	16dd	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	8.cc#^	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16a#X	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	8.b	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16ff#	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	8b	4ryy	.	.	.	8ryy	4ryy
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+16ryy	.	16ryy	.	16r	.	.	4%3ryy	.	8ryy	.
+!	!LO:HP:t=poco %s	!	!LO:HP:t=poco %s	!	!	!	!	!	!	!
+16ryy	4ryy	16ryy	4ryy	16cc#	4ryy	4ryy	.	.	.	.
+16ryy	.	16ryy	.	16cc#	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16dd	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	8.cc#^	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16cc#	4ryy	.	.	.	.	.
+16ryy	.	16ryy	.	8.a	4ryy	.	.	.	8ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	4ryy
+16ryy	.	16ryy	.	.	.	.	.	.	8ryy	.
+16ryy	.	16ryy	.	16cc#	4ryy	.	.	.	.	4ryy
+*	*	*Xtremolo	*	*	*	*	*	*	*	*
+*Xtremolo	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3[(s4,s5)]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/11/19

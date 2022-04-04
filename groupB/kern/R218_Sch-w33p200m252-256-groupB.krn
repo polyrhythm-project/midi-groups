@@ -1,0 +1,106 @@
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!OMV: Act II, Scene 2
+!!!example: 218
+!!!work: Sch-33
+!!!OMD-full: Sehr rash
+!!!OMD: [Leicht bewegt]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff10	*staff9	*staff9	*	*staff8	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICstr	*	*ICklav	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*	*Iarpa	*	*Ipiano	*	*Imando	*	*Imando	*	*Ifagot	*	*Iclarb	*	*Iclars	*
+*I"Violoncello	*	*I"Viola III	*	*I"Viola II	*	*I"Viola I	*	*I"Violin I	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"Harp	*	*I"Piano	*	*I"Mandolin II	*	*I"Mandolin I	*	*I"Bassoons	*	*I"Bass Clarinet [C]	*	*I"Clarinets [C]	*
+*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. I	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*	*I'Hp.	*	*I'Pno.	*	*I'Mand.	*	*I'Mand.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*
+*clefF4	*	*clefC3	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)	=139(252)
+!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=stacc.	!	!LO:TX:a:t=a2	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*haupt	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
+4%3ryy	.	8ryy	.	4ryy	.	4ryy	.	4%3ryy	.	4G#X	pp	Le-	8ryy	4ryy	4ryy	4ryy	.	.	8e-XL	mf	8e-XL	mf	8e-XL	mf	8e-XL	mf	(4G#X	p	(4G#X	p	(4G#X	p
+.	.	8ryy	4ryy	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	8dn	.	8dn	.	8dn	.	8dn	.	.	.	.	.	.	.
+*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16ryy	.	8ryy	4ryy	8ryy	4ryy	.	.	4Bn	.	-bens-	4ryy	4ryy	.	8ryy	4ryy	4ryy	8b-X	.	8b-X	.	8b-X	.	8b-X	.	4Bn	.	4BnX	.	4BnX	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	4ryy	.	8anJ	.	8anJ	.	8anJ	.	8anJ	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	4ryy	.	4ryy	.	.	.	4Gn	.	-lust	8ryy	4ryy	.	8ryy	4ryy	.	8fnL	.	8fnL	.	8fnL	.	8fnL	.	4Gn	.	4G	.	4G	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	8ryy	.	.	8en	.	8en	.	8en	.	8en	.	.	.	.	.	.	.
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+2ryy	.	16ryy	.	8ryy	.	8ryy	.	2ryy	.	4F#X	.	scheut	4ryy	4ryy	.	8ryy	4ryy	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	4F#X	.	4F#X	.	4F#X	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	4ryy	.	8ccnJ	.	8ccnJ	.	8ccnJ	.	8ccnJ	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	4ryy	.	4ryy	.	.	.	4Gn	.	ihr	8ryy	.	.	8ryy	4ryy	.	8ccL	.	8ccL	.	8ccL	.	8ccL	.	4Gn)	<	4Gn)	<	4Gn)	<
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	8ryy	4ryy	.	8ryy	4ryy	.	8dd-	.	8dd-	.	8dd-	.	8dd-	.	.	[[	.	[[	.	[[
+*	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4%3ryy	.	16ryy	.	8ryy	.	8ryy	.	4%3ryy	.	4en	.	En-	(8g-XL	En-	.	8ryy	4ryy	.	8g-X	.	8g-X	.	8g-X	.	8g-X	.	(4en	.	(4enX	.	(4enX	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8fnJ)	.	.	8ryy	.	.	8fnJ	.	8fnJ	.	8fnJ	.	8fnJ	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	8ryy	.	.	.	4G#X	.	-de	(8b-XL	-de	.	4ryy	.	.	8b-XL	.	8b-XL	.	8b-XL	.	8b-XL	.	4G#X	.	4G#X	.	4G#X	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.	8cc-XJ)	.	.	.	.	.	8cc-X	.	8cc-X	.	8cc-X	.	8cc-X	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	16ryy	.	.	.	4An	.	nicht,	4cc-	nicht,	.	8ryy	4ryy	.	8ddn	.	8ddn	.	8ddn	.	8ddn	.	4An)	.	4An)	.	4An)	.
+.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	16ryy	.	.	.	.	.	.	.	.	.	8ryy	.	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	8ee-XJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	8ryy	.	4en	.	furcht	8ryy	4ryy	.	8ryy	4ryy	.	8ccnL	.	8ccnL	.	8ccnL	.	8ccnL	.	(4en	.	(4enX	.	(4enX	.
+.	.	.	.	.	.	.	.	8ryy	4ryy	.	.	.	8ryy	.	.	8ryy	.	.	8dd-X	.	8dd-X	.	8dd-X	.	8dd-X	.	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	8ryy	4ryy	16ryy	.	4fn	.	los	4ryy	4ryy	.	8ryy	4ryy	.	8ff#X	.	8ff#X	.	8ff#X	.	8ff#X	.	4fn	.	4fn	.	4fn	.
+.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	8ryy	.	16ryy	.	.	.	.	.	.	.	8ryy	.	.	8ggnJ	.	8ggnJ	.	8ggnJ	.	8ggnJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	4ryy	.	4ryy	.	4An	.	sucht	8ryy	4ryy	.	8ryy	4ryy	.	8dnL	.	8dnL	.	8dnL	.	8dnL	.	4An)	.	4An)	.	4An)	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	8ryy	.	.	8e-X	.	8e-X	.	8e-X	.	8e-X	.	.	.	.	.	.	.
+=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+16ryy	4ryy	2ryy	.	2ryy	.	8ryy	.	8ryy	.	4B-X	.	sie	4ryy	4ryy	.	8ryy	4ryy	.	8ccn	.	8ccn	.	8ccn	.	8ccn	.	(4B-X	.	(4B-X	.	(4B-X	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	8dd-XJ	.	8dd-XJ	.	8dd-XJ	.	8dd-XJ	.	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	.	.	.	.	8ryy	.	4ryy	.	4c-X	.	es	8ryy	4ryy	.	8ryy	4ryy	.	8anL	.	8anL	.	8anL	.	8anL	.	4c-X)	.	4c-X)	.	4c-X)	.
+.	.	.	.	.	.	8ryy	4ryy	.	.	.	.	.	8ryy	4ryy	.	8ryy	.	.	8a-X	.	8a-X	.	8a-X	.	8a-X	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5)][(s6)][(s7)][(s8,s9,s10)][(s11[(s12,s13,s14)]s15,s16)]
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Rosbaud, Hans
+!!!MDT: 1957/06/06
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1957
+!!!MPN: Fiedler, Hans; Melchert, Helmut
+!!!ODT: 1932
+!!!PDT: 1957
+!!!excerpt-start-measure: 139(252)
+!!!excerpt-end-measure: 143(256)
+!!!excerpt-start-time: 5:28
+!!!excerpt-end-time: 5:33
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/4
+!!!Xfilter: slurcheck
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [160]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

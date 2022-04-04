@@ -1,0 +1,42 @@
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: [T141_Jan-w38p7m5-7]
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*staff1	*
+*I"Piano	*	*	*I"Soprano Solo	*	*
+*I'Pno.	*	*	*I'S. Solo	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*
+*F:	*F:	*	*F:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+=5	=5	=5	=5	=5	=5
+*^	*	*	*	*	*
+!	!	!	!	!LO:TX:t=[[quarter]=58]	!	!
+!	!LO:TX:t=P:problem: Ties should not be obstructing notes below the staff.	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack
+8FFL	[2.FF	(8fL	p	8ryy	4ryy	4ryy
+8DD	.	8d	.	8ryy	4ryy	.
+8CC	.	8c)	.	8ryy	4ryy	.
+8GG	.	(8g	.	8ryy	4ryy	.
+8FF	.	8f	.	8ryy	4ryy	.
+8CCJ	.	8cJ)	.	8ryy	4ryy	.
+=6	=6	=6	=6	=6	=6	=6
+8FFL	2.FF_	(8fL	<	8ryy	4ryy	.
+8DD	.	8d	.	8ryy	4ryy	.
+8CC	.	8c)	.	4ryy	4ryy	4ryy
+8BB-	.	(8b-	.	.	.	.
+8AA	.	8a	.	4ryy	4ryy	.
+8FFJ	.	8fJ)	[	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+(8DL	2.FF]	(8ddL	.	4ryy	4ryy	.
+8C	.	8cc	.	.	.	.
+8AA)	.	8a)	.	2ryy	4ryy	4ryy
+(8G	.	(8gg	.	.	.	.
+8F	.	8ff	.	.	.	.
+8CJ)	.	8ccJ)	.	.	.	.
+*v	*v	*	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/12/03

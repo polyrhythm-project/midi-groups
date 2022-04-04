@@ -1,0 +1,130 @@
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [T406_Web-w17p7m22-27]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Violin	*I"Violin	*I"Bass Clarinet [C]	*I"Bass Clarinet [C]	*I"Voice	*I"Voice	*I"Voice
+*I'Vc.	*	*I'Vln.	*	*I'B. Cl.	*	*I'Voice	*	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*
+*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*
+*C:	*	*C:	*	*C:	*	*C:	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[quarter] = [quarter-dot]	!	!LO:DY:ed=brack
+4%3r	.	4%3r	.	8.r	.	12ryy	4ryy	4ryy
+.	.	.	.	.	.	12ryy	4ryy	.
+!	!	!	!	!	!	!LO:TX:B:t=accel.	!	!
+.	.	.	.	.	.	12ryy	.	4ryy
+.	.	.	.	(32d-XLLL	p <	.	.	.
+.	.	.	.	32cnJJJ	.	.	.	.
+.	.	.	.	32AnLLL<	.	4ryy	.	.
+.	.	.	.	32AA-X)	.	.	.	.
+.	.	.	.	32Fn'	.	.	.	.
+.	.	.	.	32EEnX'JJ	.	.	.	.
+.	.	.	.	(32BBn-LL	.	.	.	.
+.	.	.	.	32Gn	[[	.	.	.
+.	.	.	.	32BXJJJ)	f	.	.	.
+.	.	.	.	32r	[	.	.	.
+!	!	!	!	!	!	!LO:TX:B:t=lebhaft	!	!
+.	.	.	.	4r	.	12ryy	4ryy	4ryy
+.	.	.	.	.	.	12ryy	4ryy	.
+.	.	.	.	.	.	12ryy	4ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!LO:TX:a:t=( [quarter] = ca 80 )	!	!
+6r	.	(28%3ggg#XL	pp	6r	.	8ryy	4ryy	.
+.	.	28%3eeen	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	4ryy	4ryy
+6Cn~ 6F#X	ppp	.	.	(6c#X	ppp	.	.	.
+.	.	28%3ee-X	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.
+.	.	28%3dddn)	.	.	.	.	.	.
+[6Fn~ [6en	<	.	.	[6BBX)	<	.	.	.
+.	.	.	.	.	.	8ryy	4ryy	4ryy
+.	.	(28%3aan	<	.	.	.	.	.
+6F] 6e]	[[	.	.	6BB]	[[	12ryy	4ryy	.
+.	.	28%3cc#X	.	.	.	.	.	.
+.	.	.	.	.	.	12ryy	4ryy	.
+.	.	28%3cnJ)	[	.	.	.	.	.
+12r	.	.	.	12r	.	12ryy	4ryy	.
+!!linebreak:original
+*	*	*	*	*clefG2	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*
+4.GG#X^	pp >	4.Bn^ 4.f#X	pp >	(>12b-L	pp	6ryy	4ryy	.
+.	.	.	.	12G	.	.	.	.
+.	.	.	.	12e-J	.	6ryy	4ryy	.
+*	*	*	*	*clefF4	*	*	*	*
+.	.	.	.	20dLL	<	.	.	.
+.	.	.	.	20a-X	.	.	.	.
+.	.	.	.	.	.	6ryy	4ryy	4ryy
+.	.	.	.	20A	.	.	.	.
+8r	]	8r	]	.	.	.	.	.
+.	.	.	.	20C	.	.	.	.
+.	.	.	.	20d-XJJ	[	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*
+!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!	!
+4F#X 4en	p >	(8ee-XL 8gg	f >	4FF)	p >	8ryy	4ryy	.
+.	.	8anJ 8ddn	.	.	.	8ryy	4ryy	4ryy
+.	.	8qB-X/	]	.	.	.	.	.
+4r	]	12c#XL)	.	12r	]	8ryy	4ryy	.
+.	.	(12bbn	p	(12aL	p >	.	.	.
+.	.	.	.	.	.	8ryy	4ryy	4ryy
+.	.	12fff#XJ	>	12G#XJ)	.	.	.	.
+*	*	*8va	*	*	*	*	*	*
+!	!	!LO:TX:a:i:t=verklingend	!	!	!	!	!	!
+16r	.	16bb-XLL 16aaan	.	16r	]	12ryy	.	4ryy
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!
+16EE-X'LL 16AA-X	p >	16bbn 16eeen	.	16d'^LL	pp >	.	.	.
+.	.	.	.	.	.	12ryy	4ryy	.
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!
+16EE-' 16AA-	.	16bbb-X	.	16d'	.	.	.	.
+.	.	.	.	.	.	12ryy	4ryy	4ryy
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!
+16EE-'JJ 16AA-	]	16ffffnJJ)	]	16d'JJ	]	.	.	.
+!!pagebreak:original
+*	*	*X8va	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*
+!	!	!	!	!	!	!LO:TX:t=ruhig ( [quarter]= ca 56 )	!	!
+12r	ppp	12r	ppp	8r	.	10ryy	4ryy	.
+!LO:TX:b:rj:t=col legno	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
+24En'^LL 24B-X	.	24Bn'^LL	.	.	.	.	.	.
+.	.	.	.	.	.	10ryy	4ryy	.
+24E'J 24B-	.	24B'J	.	32c'^LLL	ppp	.	.	.
+.	.	.	.	32c'	.	.	.	.
+24E'L 24B-	.	24B'L	.	.	.	.	.	.
+.	.	.	.	32c'	.	.	.	.
+.	.	.	.	.	.	10ryy	4ryy	.
+24E'JJ 24B-	.	24B'JJ	.	.	.	.	.	.
+.	.	.	.	32c'JJJ	.	.	.	.
+24E'LL 24B-	>	24B'LL	>	32D-X'LLL	>	.	.	.
+.	.	.	.	32D-'	.	.	.	.
+24E'J 24B-	.	24B'J	.	.	.	.	.	.
+.	.	.	.	.	.	10ryy	4ryy	4ryy
+.	.	.	.	32A'	.	.	.	.
+24E'L 24B-	.	24B'L	.	.	.	.	.	.
+.	.	.	.	32A'JJJ	]	.	.	.
+24E'JJ 24B-	.	24B'JJ	.	8r	.	.	.	.
+.	.	.	.	.	.	10ryy	4ryy	4ryy
+12r	]	12r	]	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!	!
+2r	.	2r	.	16r	.	28ryy	4ryy	4ryy
+.	.	.	.	.	.	28ryy	4ryy	.
+.	.	.	.	8EE-^T	ppp >	.	.	.
+.	.	.	.	.	.	28ryy	4ryy	.
+.	.	.	.	.	.	28ryy	4ryy	.
+.	.	.	.	.	.	28ryy	4ryy	.
+.	.	.	.	.	.	28ryy	4ryy	.
+.	.	.	.	16r	]	.	.	.
+.	.	.	.	.	.	28ryy	4ryy	.
+.	.	.	.	4r	.	4ryy	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2)][(s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

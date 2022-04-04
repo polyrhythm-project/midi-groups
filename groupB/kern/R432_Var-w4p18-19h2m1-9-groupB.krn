@@ -1,0 +1,152 @@
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: Octandre for Eight Instruments
+!!!OMV: Movement 3: Grave - Animé et jubilatoire (Animated and Jubilant)
+!!!example: 432
+!!!work: Var-4
+!!!OMD-full: Grave
+!!!OMD: Subitement très vif et nerveux
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Trombone	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Eb	*	*I"Oboe	*	*I"Flute	*
+*I'Cb.	*	*I'Tbn.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Eb Cl.	*	*I'Ob.	*	*I'Fl.	*
+*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Itromt	*	*Itromp	*	*Icor	*	*Ifagot	*	*Iclarp	*	*Ioboe	*	*Iflt	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd-2c-3	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[0]	*	*k[]	*	*k[0]	*	*k[]	*	*k[]	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+!	!	!	!	!LO:TX:a:t=(sourd.)	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	4r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t= Subitement très vif et nerveux ([quarter]=132)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=  	!
+8ryy	4ryy	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+2.ryy	4ryy	2.ryy	4ryy	[4gg^Z	fff	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy
+.	.	.	.	(8.ggL]	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ffJk)Z	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ee^LLZ	.	.	.	.	.	.	.	.	.	.	.
+.	4ryy	.	4ryy	16rJ	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy
+.	4ryy	.	4ryy	[8gg^J	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+8ryy	.	8ryy	.	2.gg_	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.
+8ryy	4ryy	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+12ryy	.	12ryy	.	2gg_	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+*M	*	*M	*	*M	*	*M	*	*M	*	*M	*	*M	*	*M	*
+!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!	!LO:TX:a:B:t=[*M = 2½]	!
+8ryy	.	8ryy	.	(8.ggL]	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+32ryy	4ryy	4.ryy	4ryy	.	.	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	16ffJk	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	8eeL)	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	8ee'J	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	4ryy	8ryy	4ryy	[8ee^	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+8ryy	.	8ryy	.	1ee]	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12ryy	.	12ryy	.	4ggZ	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+8ryy	.	8ryy	.	(32ffLLZ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	32gg	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	[8.ffJJ^	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ffL])	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	.	16ryy	.	8ee^,JZ	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+8ryy	.	8ryy	.	16ee^KL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	[8.gg^J	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4ryy	.	4ryy	.	2.gg_	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+12ryy	.	12ryy	.	4gg]	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+12ryy	.	12ryy	.	.	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.	12ryy	.
+8ryy	.	8ryy	.	(16ffKL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	[8.ee^J)	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	4ee]	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+4ryy	.	4ryy	.	[4ee^	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+8ryy	.	8ryy	.	2.ee_	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	>	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4ryy	.	4ryy	.	.	.	4r^yy	.	4r^yy	.	4r^yy	.	4r^yy	.	4r^yy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+4ryy	.	4ryy	.	1ee]	]]	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+16ryy	4ryy	16ryy	4ryy	.	mp <	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+2ryy	.	2ryy	.	.	[[	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!CDT: 1883/12/22-1965/11/06
+!!!CBL: Paris, France
+!!!CDL: New York, United States
+!!!CNT: French, American
+!!!AGN: Instrumental; Chamber
+!!!MCN: Schmitz, Robert
+!!!MDT: 1924/01/13
+!!!MGN: unknown
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN:
+!!!ODT: 1923
+!!!PDT: 1923
+!!!excerpt-start-measure: 24
+!!!excerpt-end-measure: 32
+!!!excerpt-start-time: 1:01
+!!!excerpt-end-time: 1:16
+!!!excerpt-duration-sec: 15
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 132
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

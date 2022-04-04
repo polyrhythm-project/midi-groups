@@ -1,0 +1,123 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T623_Hin-w20p24m59-66]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A		*grp:A	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2		*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2		*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I		*	*I"Clarinet in Eb	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I		*	*I'Eb Cl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr		*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln		*	*Iclars	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2		*	*clefG2	*
+*	*	*	*	*	*	*		*	*ITrd-2c-3	*
+*k[]	*	*k[]	*	*k[]	*	*k[]		*	*k[b-e-a-]	*
+*	*	*	*	*	*	*		*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4		*	*M3/4	*
+!!LO:REH:t=C
+=1	=1	=1	=1	=1	=1	=1		=1	=1	=1
+!	!	!	!	!	!	!		!	!LO:TX:t=[half-dot]=66	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!		!LO:DY:ed=brack	!	!
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	8r	.
+.	.	.	.	.	.	.	.	(8eeXL	pp
+*	*	*	*	*	*	*^		*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!
+4ryy	4ryy	4ryy	.	8ryy	4ryy	8ryy	2ryy	4ryy	8gg	.
+!	!	!	!	!LO:TX:a:t=0	!	!	!	!	!	!
+.	.	.	.	8ryy	.	8ryy	.	.	8bb-	.
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	4ryy	12ryy	.	8ryy	.	.	8ddd	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	8ggJ	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	4ryy	.	8ryy	.	8ryy	4ryy	.	8bb-L	.
+.	.	.	.	8ryy	.	8ryy	.	.	8ddd	.
+4ryy	.	4ryy	.	4ryy	.	12ryy	4ryy	.	8gg	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	8bb-	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+4ryy	.	4ryy	.	12ryy	.	8ryy	4ryy	.	8ddd	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	8ggJ)	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!LO:TX:a:t=0	!	!	!	!	!	!
+4ryy	.	4ryy	.	8ryy	.	12ryy	4ryy	.	(8ccc^L	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	8bb-)	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+4ryy	.	4ryy	.	8ryy	.	4ryy	4ryy	.	(8bb-^	.
+!	!	!	!	!LO:TX:a:t=0	!	!	!	!	!	!
+.	.	.	.	8ryy	.	.	.	.	8aaX)	.
+4ryy	.	4ryy	.	8ryy	.	12ryy	4ryy	.	(8aa^	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	8ggJ)	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	.	4ryy	.	8ryy	.	8ryy	4ryy	.	(12ggL	.
+.	.	.	.	.	.	.	.	.	12ff	.
+.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	12aaXJ	.
+4ryy	.	4ryy	.	12ryy	.	4ryy	4ryy	.	8ggL	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ff	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+4ryy	.	4ryy	.	8ryy	.	12ryy	4ryy	.	8ee-	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	8bb-J)	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!LO:TX:a:t=0	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:t=P:problem: cross-measure beaming to be implemented	!	!	!	!
+4ryy	.	4ryy	.	8ryy	.	8ryy	4ryy	.	(12aaXL	.
+.	.	.	.	.	.	.	.	.	12gg	.
+.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	12ffJ	.
+4ryy	.	4ryy	.	8ryy	.	4ryy	4ryy	.	12ggL	.
+.	.	.	.	.	.	.	.	.	12ff	.
+.	.	.	.	8ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12ee-J)	.
+4ryy	.	4ryy	.	8ryy	.	8ryy	4ryy	.	(8ggL	.
+!	!	!	!	!LO:TX:a:t=0	!	!	!	!	!	!
+.	.	.	.	8ryy	.	8ryy	.	.	8bb-J	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4ryy	.	4ryy	.	12ryy	.	8ryy	4ryy	.	8dddL	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	8gg	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+4ryy	.	4ryy	.	8ryy	.	8ryy	4ryy	.	8bb-	.
+.	.	.	.	8ryy	.	8ryy	.	.	8ddd	.
+4ryy	.	4ryy	.	4ryy	.	12ryy	4ryy	.	8gg	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	8bb-J	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4ryy	.	4ryy	.	12ryy	.	8ryy	4ryy	.	8dddL	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	8ggJ)	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+4ryy	.	4ryy	.	8ryy	.	12ryy	2ryy	.	(8ccc^L	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	8bb-)	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+4ryy	.	4ryy	.	8ryy	.	4ryy	.	.	(8bb-^	.
+.	.	.	.	8ryy	.	.	.	.	8aaXJ)	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4ryy	.	4ryy	.	8ryy	.	12ryy	4ryy	.	(8aaX^L	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	8ggJ)	.
+.	.	.	.	.	.	12ryy	.	.	.	.
+4ryy	.	4ryy	.	8ryy	.	8ryy	2ryy	.	(12ggLi	.
+.	.	.	.	.	.	.	.	.	12ff	.
+.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	12aaJ	.
+4ryy	.	4ryy	.	12ryy	.	4ryy	.	.	8ggL	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ffJ	.
+.	.	.	.	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=		=	=	=
+*-	*-	*-	*-	*-	*-	*-		*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4,s5)]
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

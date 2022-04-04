@@ -1,0 +1,96 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Symphony No. 5
+!!!OMV: Movement 1
+!!!example: 485
+!!!work: Mau-85
+!!!OMD-full: Adagio
+!!!OMD: [Allegro]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*	*	*Itimpa	*	*Icor	*	*Icor	*	*Ifagot	*	*Ifagot	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Trumpet in C I.II.	*	*I"Horn in F III. IV.	*	*I"Horn in F I. II.	*	*I"Bassoon III.	*	*I"Bassoon I. II.	*	*I"Clarinet in Bb III	*	*I"Clarinet in Bb I. II.	*	*I"Oboe III.	*	*I"Oboe I. II.	*	*I"Flute I. II.	*	*I"Piccolo I.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Timp.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*F:	*	*F:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+!	!	!	!	!	!	!	!	!LO:TX:t=[half]=84	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=84]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	! 	!	!	!	!	!	!LO:T:n=1:b	!	!LO:T:n=1:b	!	!	!
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8C	f	8r	.	8r	.	8r)j	.	2.ryy	4ryy	4ryy	4ryy	2.ryy	4ryy	4ryy	4ryy	2.ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	4cc~	f	4c~	f	4c~	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	[8ee-X	.	[8e-X	.	[8e-X	.	.	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.
+2ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	8ee-L]	.	8e-L]	.	8e-L]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8cc'J	.	8c'J	.	8c'J	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	8een'	.	8e'	.	8e'	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F'	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+1ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8C'	.	4cc~	.	4c~	.	4c~	.	2.ryy	.	4ryy	.	2.ryy	.	4ryy	.	2.ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	4ee-X	.	4e-X	.	4e-X	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	8cc'L	.	8c'L	.	8c'L	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8een'J	.	8e'J	.	8e'J	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F'L	.	8r	.	8r	.	8r	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8C'J	.	[8cc~	.	[8c~	.	[8c~	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+1ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	2r	.	8cc]	.	8c]	.	8c]	.	2.ryy	.	4ryy	.	2.ryy	.	4ryy	.	2.ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	4ee-X	.	4e-X	.	4e-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8cc'	.	8c'	.	8c'	.	.	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	8een'	.	8e'	.	8e'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F'	.	8r	.	8r	.	8r	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8C'	.	4cc~	.	4c~	.	4c~	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=60
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	2r	.	4ee-X	.	4e-X	.	4e-X	.	2.ryy	.	4ryy	.	2.ryy	.	4ryy	.	2.ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8cc'L	.	8c'L	.	8c'L	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8een'J	.	8e'J	.	8e'J	.	.	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F'L	.	2r	.	2r	.	2r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8C'J	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2[(s3,s4)][(s5,s6)][(s7,s8)])][([(s9,s10)]s11)][(s12)][(s13,s14,s15,s16,s17)]
+!!!Xfilter: slurcheck
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Kubelik, Rafael
+!!!MDT: 1947/05/28
+!!!MGN: Czech Philharmonic Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1947
+!!!MPN:
+!!!ODT: 1946
+!!!PDT: 1950
+!!!excerpt-start-measure: 57
+!!!excerpt-end-measure: 60
+!!!excerpt-start-time: 2:32
+!!!excerpt-end-time: 2:37
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [84]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -1,0 +1,42 @@
+!!!COM: Charles Ives
+!!!OTL: [T236C_Ive-w18p3m15]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*	*part4	*part4	*part3	*	*part2	*	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Bells	*	*I"Bugle [C]	*	*I"Violin	*
+*I'Pno.	*	*	*	*I'Tub. B.	*	*I'C Tpt.	*	*I'Vln.	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^	*	*^	*	*	*	*	*	*	*
+*	*	*	*	*^	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=160	!
+!	!	!	!	!	!	!	!LO:TX:b:i:t=marcato sempre	!	!	!	!	!
+!	!	!	!LO:TX:b:i:t=marcato sempre	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:b:i:t=marcato sempre	!LO:DY:ed=brack
+2r	3FF#X	<	1ryy	7ryy	7ryy	4ryy	5ryy	4ryy	]4cc	f	7ryy	4ryy
+.	.	.	.	7ryy	7ryy	.	.	.	.	.	7ryy	.
+.	.	.	.	.	.	.	5ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	2ee	.	.	.
+.	.	.	.	7ryy	7ryy	.	.	.	.	.	7ryy	.
+.	3BB	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	5ryy	.	.	.	.	.
+.	.	[	.	7ryy	7ryy	4ryy	.	.	.	.	7ryy	4ryy
+[2Fn [2A#X	.	ff	.	.	.	4ryy	.	.	.	.	.	.
+.	.	.	.	7ryy	7ryy	.	.	.	.	.	7ryy	.
+.	.	.	.	.	.	.	5ryy	.	.	.	.	.
+.	3FF#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	7ryy	7ryy	.	.	.	.	.	7ryy	.
+.	.	.	.	.	.	.	.	.	12ccL	.	.	.
+.	.	.	.	.	.	.	5ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12ee	.	.	.
+.	.	.	.	7ryy	7ryy	.	.	.	.	.	7ryy	.
+.	.	.	.	.	.	.	.	.	12gJ	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*v	*v	*v	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][({(s4,s5)})]

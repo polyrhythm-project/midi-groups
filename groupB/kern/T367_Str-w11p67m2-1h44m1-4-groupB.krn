@@ -1,0 +1,87 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T367_Str-w11p67m2-1h44m1-4]
+**kern	**dynam	**kern	**dynam	**text	**text	**text	**kern	**dynam	**text	**text	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part6	*	*part5	*	*part5	*part5	*part5	*part4	*	*part4	*part4	*part4	*part3	*	*part2	*	*part1	*
+*staff6	*	*staff5	*	*staff5	*staff5	*staff5	*staff4	*	*staff4	*staff4	*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Tenor II	*	*	*	*	*I"Tenor I	*	*	*	*	*I"Horn in F I	*	*I"Clarinet in A	*	*I"Flute	*
+*I'Vc.	*	*I'T.	*	*	*	*	*I'T.	*	*	*	*	*I'Hn.	*	*I'Cl.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*	*clefGv2	*	*	*	*	*clefGv2	*	*	*	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*ITrd0c0	*	*	*	*	*ITrd0c0	*	*	*	*	*ITrd4c7	*	*ITrd2c3	*	*	*
+*k[]	*	*k[]	*	*	*	*	*k[]	*	*	*	*	*k[b-]	*	*k[f#c#g#]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M4/8	*	*M4/8	*	*	*	*	*M4/8	*	*	*	*	*M4/8	*	*M4/8	*	*M4/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=63	!
+!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4ryy	.	2ryy	.	.	.	.	8ryy	4ryy	4ryy	4ryy	4ryy	2ryy	.	8ryy	4ryy	8r	mf
+.	.	.	.	.	.	.	8ryy	.	4ryy	4ryy	4ryy	.	.	8ryy	.	(32aLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bJJJ	.
+!LO:TX:a:t=[pizz.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*
+8ryy	4ryy	.	.	.	.	.	8ryy	.	4ryy	4ryy	4ryy	.	.	8ryy	.	40ccLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40ccJJJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tuplet	*
+8ryy	.	.	.	.	.	.	8ryy	.	4ryy	4ryy	4ryy	.	.	8ryy	.	24bLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M5/8	*	*M5/8	*	*	*	*	*M5/8	*	*	*	*	*M5/8	*	*M5/8	*	*M5/8	*
+*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*
+!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4.ryy	.	8ryy	4ryy	.	.	.	4ryy	8ryy	.	4ryy	4ryy	4ryy	4.ryy	.	8ryy	.	4a~	.
+.	.	8ryy	.	4ryy	4ryy	4ryy	.	8ryy	.	.	.	4ryy	.	.	8ryy	.	.	.
+.	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	8ryy	.	4ryy	4ryy	4ryy	.	.	8ryy	.	8g)	.
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	.	.	.	8ryy	.	8ryy	.	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+8ryy	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	4ryy	4ryy	4ryy	8ryy	4ryy	8ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4.ryy	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	.	4ryy	4ryy	4ryy	4ryy	.	8ryy	.	[8aL	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8:a:xbr	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	56aLL]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(56g	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56a	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56b	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56cc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56eeJJ	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8:a:xbr	!
+.	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	8ryy	.	56ffLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56bb	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56eeeJJJ	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8:a:xbr	!
+8ryy	.	4ryy	.	.	.	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	8ryy	.	56fffLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56eee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56bb	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56ggJJ	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=8:a:xbr	!
+8ryy	.	.	.	.	.	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	8ryy	.	56ffLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56cc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56b	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56a	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	56gJJJ	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M3/8	*	*M3/8	*	*	*	*	*M3/8	*	*	*	*	*M3/8	*	*M3/8	*	*M3/8	*
+8%3ryy	.	8%3ryy	.	.	.	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	.	8ryy	.	8a)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	4r	.
+.	.	.	.	.	.	.	8ryy	.	4ryy	4ryy	4ryy	8ryy	.	8ryy	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)][(s4,s5)][(s6)]

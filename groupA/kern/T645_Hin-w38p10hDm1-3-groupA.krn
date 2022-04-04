@@ -1,0 +1,64 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T645_Hin-w38p10hDm1-3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello IV	*	*I"Violoncello III	*	*I"Violoncello II	*	*I"Violoncello I	*	*I"Solo Viola	*
+*I'Vc. IV	*	*I'Vc. III	*	*I'Vc. II	*	*I'Vc. I	*	*I'Vla.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Icello	*	*Icello	*	*Icello	*	*Iviola	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
+!!LO:REH:t=D
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=120]	!LO:DY:ed=brack
+4r	.	4r	.	4r	.	4r	.	4ryy	4ryy
+*	*	*	*	*	*	*	*	*clefC3	*
+4AA'u	p	4AA'u	p	4C'u	p	4D'u	p	8ryy	4ryy
+.	.	.	.	.	.	.	.	8ryy	.
+4r'	.	4r'	.	4r'	.	4r'	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+(8AAuL	.	(8AAuL	.	(8CuL	.	(8DuL	.	8ryy	.
+8GGJ)	.	8GGJ)	.	8BBJ)	.	8EJ)	.	8ryy	.
+4r	.	4r	.	4r	.	4r	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+(4GGu	.	(4GGu	.	(4BBu	.	(4Eu	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+8FF#X)	.	8FF#X)	.	8AA)	.	8F#X)	.	8ryy	.
+8r	.	8r	.	8r	.	8r	.	8ryy	.
+4BB'u	.	4BB'u	.	4D'u	.	(8F#uL	.	8ryy	.
+.	.	.	.	.	.	8E#XJ)	.	8ryy	.
+4r	.	4r	.	4r	.	4r	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+4GG#X'u	.	4BB'u	.	4D'u	.	4An'u	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+8r	.	8r	.	8r	.	8r	.	4ryy	.
+(8CC#Xu	.	(8FF#Xu	.	(8Du	.	(8Au	.	.	.
+4CC#')	.	4EE#X')	.	4C#X')	.	4G#X')	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+4r	.	4r	.	4r	.	4r	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+4DDn'u	.	4DDn'u	.	4Cn'u	.	4F#X'u	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+4r	.	4r	.	4r	.	4r	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+(8DDuL	.	(8DDuL	.	4BB-X'u	.	(8F#XuL	.	8ryy	.
+8EEJ)	.	8EEJ)	.	.	.	8G#XJ)	.	8ryy	.
+4r	.	4r	.	4r'	.	4r	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+(8EEuL	.	(8EEuL	.	4D-X'u	.	(8G#XuL	.	8ryy	.
+8FFJ)	.	8FFJ)	.	.	.	8AJ)	.	8ryy	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[([(s2,s3,s4,s5)])]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/02
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/18

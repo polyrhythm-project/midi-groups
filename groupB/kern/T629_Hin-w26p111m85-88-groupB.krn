@@ -1,0 +1,56 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T629_Hin-w26p111m85-88]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Solo Violin	*	*I"Cornet in Bb	*	*I"Piccolo	*	*I"Piccolo	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Cor.	*	*I'Picc.	*	*I'Picc.	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*ITrd1c2	*	*ITrd0c0	*	*ITrd0c0	*
+*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:a:t=[con sord.]	!LO:DY:t=%s dim	!	!LO:DY:t=%s dim	!LO:TX:t=[[half]=160]	!LO:DY:t=%s dim
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+1ryy	.	1ryy	.	(8eeeL	>	1ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	.	.	8ccc	.	.	.	.	.	.	.
+.	.	.	.	8bb	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8dddJ	.	.	.	.	.	.	.
+.	.	.	.	8ddd-XL	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8bb-X	.	.	.	.	.	.	.
+.	.	.	.	8aa	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	8cccJ	.	.	.	8ryy	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	4ryy	.	8ccc-XL	.	1ryy	.	4ryy	.	4ryy	.
+.	.	.	.	8aa-X	.	.	.	.	.	.	.
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!
+4ryy	4ryy	4ryy	4ryy	8gg	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8bb-XJ	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	8aanL	.	.	.	2ryy	.	2ryy	.
+.	.	.	.	8ff#X	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	8aa	.	.	.	.	.	.	.
+.	.	.	.	8ff#J	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4ryy	.	8aa-XL	.	1ryy	.	8ryy	.	8ryy	.
+.	.	.	.	8ff	.	.	.	8ryy	.	8ryy	.
+4ryy	.	4ryy	.	8aa-	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8ffJ	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	8ggL	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8ee	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	8gg	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8eeJ	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	.	4ryy	.	8gg-XL	.	1ryy	4ryy	4ryy	.	4ryy	.
+.	.	.	.	8ee-X	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	8gg-	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	8ee-J	.	.	.	8ryy	.	8ryy	.
+4ryy	.	4ryy	.	8gg-L	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	8ee-	.	.	.	.	.	.	.
+4ryy	4ryy	4ryy	4ryy	8gg-	.	.	.	4ryy	4ryy	4ryy	4ryy
+.	.	.	.	8ee-J)	]	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4,s5,s6

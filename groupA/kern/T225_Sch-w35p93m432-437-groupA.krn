@@ -1,0 +1,86 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T225_Sch-w35p93m432-437]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violin Solo	*	*I"Trombone II. III.	*	*I"Trumpet I. II.	*	*I"Bass Clarinet 	*	*I"Clarinet	*	*I"Flute	*
+*I'Vln. S.	*	*I'Tbn.	*	*I'C Tpt.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Fl. I. II.	*
+*clefG2	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*
+!!LO:REH:t=432
+!!LO:TX:t=[Andante Grazioso [quarter]=72]
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:t=[ %s ]	!	!	!	!	!	!	!	!	!	!
+4A]	4ryy	2ryy	.	8ryy	.	2ryy	.	2ryy	.	2ryy	.
+!	!	!	!	!LO:TX:a:t=m. D.	!	!	!	!	!	!	!
+.	.	.	.	8ryy	4ryy	.	.	.	.	.	.
+8A-XL	.	.	.	8ryy	.	.	.	.	.	.	.
+8e-XJ	.	.	.	8ryy	.	.	.	.	.	.	.
+!!LO:REH:t=433
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8.GnL	.	2ryy	.	8ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	.	.	8ryy	.	.	.	.	.	.	.
+8.dn	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	.	.	.
+[8cnJ	.	.	.	8ryy	.	.	.	.	.	.	.
+!!LO:REH:t=434
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+16c]	.	8ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+4c#X	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=m. D.	!	!	!	!	!	!	!	!	!
+.	.	8ryy	4ryy	.	.	.	.	.	.	.	.
+.	.	8.ryy	.	.	.	.	.	.	.	.	.
+8dnL	.	.	.	.	.	.	.	.	.	.	.
+[16GnJk	.	16ryy	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=435
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+16GLL]	.	16ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+16e-XJJ	.	16ryy	.	.	.	.	.	.	.	.	.
+8.A-XL	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	4ryy	.	.	.	.	.	.	.	.	.
+8.B-XJ	.	.	.	.	.	.	.	.	.	.	.
+!!linebreak:original
+!!LO:REH:t=436
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+(8.enL	4ryy	2ryy	.	2ryy	.	16ryy	.	16ryy	.	2ryy	.
+!	!	!	!	!	!	!	!LO:DY:rj	!	!LO:DY:rj	!	!
+.	.	.	.	.	.	16ryy	4ryy	16ryy	4ryy	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+8.fn	4ryy	.	.	.	.	16ryy	4ryy	16ryy	4ryy	.	.
+.	.	.	.	.	.	4ryy	.	4ryy	.	.	.
+8BnJ)	4ryy	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=437
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*	*tremolo	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Flzg	!
+8g-XL	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	64ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+8.fn	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+.	.	.	.	.	.	.	.	.	.	64ryy	.
+*	*	*	*	*	*	*	*	*	*	*Xtremolo	*
+.	.	.	.	.	.	.	.	.	.	16ryy	4ryy
+8.BnJ	4ryy	.	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1[(s2,s3)])][(s4,s5)]s6
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/10/19

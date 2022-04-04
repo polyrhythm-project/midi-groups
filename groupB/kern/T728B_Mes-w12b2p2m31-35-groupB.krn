@@ -1,0 +1,67 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T728B_Mes-w12b2p2m31-35]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Organ	*	*
+*I'Org.	*	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*A:	*C:	*
+=1	=1	=1
+!	!LO:TX:t=[[eighth]=150]	!
+!LO:TX:a:i:t=staccato	!LO:TX:a:i:t=legato	!
+!LO:TX:a:t=R{ 	!LO:TX:a:B:t=Plus vif	!
+8ryy	8.ggL	4ryy
+16ryy	.	.
+16ryy	8.bb-XJ	.
+16ryy	.	.
+16ryy	.	.
+16ryy	8aaL	.
+8ryy	.	.
+.	8ccc#XJ	.
+16ryy	.	.
+=2	=2	=2
+16ryy	8.ggL	.
+16ryy	.	.
+16ryy	.	.
+16ryy	8.bb-XJ	.
+8ryy	.	.
+8ryy	8aaL	.
+8ryy	8ccc#XJ	.
+!!linebreak:original
+=3	=3	=3
+!	!LO:TX:b:i:t=cresc.	!
+16ryy	8.ggL	.
+16ryy	.	.
+16ryy	.	.
+8ryy	8.bb-XJ	.
+16ryy	.	.
+16ryy	8aaL	.
+8ryy	.	.
+.	8ccc#XJ	.
+16ryy	.	.
+=4	=4	=4
+16ryy	8.ggL	.
+16ryy	.	.
+16ryy	.	.
+16ryy	8.bb-XJ	.
+8ryy	.	.
+8ryy	8aaL	.
+16ryy	8ccc#XJ	.
+16ryy	.	.
+=5	=5	=5
+16ryy	8.ggL	.
+8ryy	.	.
+8ryy	8.bb-XJ	.
+16ryy	.	.
+16ryy	8aaL	.
+16ryy	.	.
+16ryy	8ccc#XJ	.
+16ryy	.	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!EED: Jason Lee
+!!!EEV: 2021/09/21

@@ -1,0 +1,122 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T458_Mau-w14p27h2m6-h3m4]
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*	*part4	*part4	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Violin	*	*I"Trumpet in Bb	*I"Bassoon	*	*I"Clarinet in Bb	*
+*I'Vc.	*	*I'Vln.	*	*I'Tpt.	*I'Bsn.	*	*I'Cl.	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2	*
+*	*	*	*	*ITrd1c2	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*C:	*	*C:	*
+*M2/2	*	*M2/2	*	*M2/2	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*met(c|)	*	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!LO:TX:t=[quarter]=136	!
+!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+!	!	!	!	!	!	!	!LO:TX:a:B:t=[Poco a poco allegro]	!LO:DY:t=poco %s
+!	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack
+4ryy	4ryy	1ryy	.	1ryy	1r	.	8d#XL	f
+.	.	.	.	.	.	.	8eJ)	.
+8ryy	.	.	.	.	.	.	.	.
+4ryy	.	.	.	.	.	.	(8cL	<
+.	.	.	.	.	.	.	8dJ	.
+4ryy	.	.	.	.	.	.	8d#XL	.
+.	.	.	.	.	.	.	8eJ)	.
+4ryy	.	.	.	.	.	.	(8cL	.
+.	.	.	.	.	.	.	8dJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	.	.	.	.	.	.	.
+*	*	*	*	*	*clefC4	*	*	*
+4ryy	.	1ryy	.	1ryy	4r	.	8d#XL	.
+.	.	.	.	.	.	.	8eJ)	[
+!	!	!	!	!	!	!LO:DY:ed=brack	!	!
+4ryy	.	.	.	.	(8c#XL	f <	4r	.
+.	.	.	.	.	8dJ	.	.	.
+4ryy	.	.	.	.	8eL	.	2r	.
+.	.	.	.	.	8fJ	.	.	.
+8ryy	.	.	.	.	.	.	.	.
+4ryy	.	.	.	.	8f#XL	.	.	.
+.	.	.	.	.	8gJ)	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	2ryy	.	1ryy	(8eL	.	2r	.
+.	.	.	.	.	8fJ	.	.	.
+4ryy	.	.	.	.	8f#XL	.	.	.
+.	.	.	.	.	8gJ	.	.	.
+2ryy	.	4ryy	.	.	8a)	[	(8aL	.
+.	.	.	.	.	8r	.	8a#XJ	.
+.	.	8ryy	.	.	.	.	.	.
+.	.	4ryy	4ryy	.	4r	.	8bL)	.
+.	.	.	.	.	.	.	(8gJ	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1ryy	.	4ryy	.	1ryy	1r	.	8aL	<
+.	.	.	.	.	.	.	8a#XJ	.
+.	.	4ryy	.	.	.	.	8bL	.
+.	.	.	.	.	.	.	8ccJ	.
+.	.	8ryy	.	.	.	.	.	.
+.	.	4ryy	.	.	.	.	8cc#XL	.
+.	.	.	.	.	.	.	8ddJ)	.
+.	.	4ryy	.	.	.	.	(8bL	.
+.	.	.	.	.	.	.	8ccJ	[
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1ryy	.	4ryy	.	1ryy	1r	.	8cc#X')	.
+.	.	.	.	.	.	.	8r	.
+.	.	8ryy	.	.	.	.	.	.
+.	.	4ryy	.	.	.	.	(8ddL	<
+.	.	.	.	.	.	.	8dd#XJ	.
+.	.	4ryy	.	.	.	.	8eeL	.
+.	.	.	.	.	.	.	8ccJ	.
+.	.	4ryy	.	.	.	.	8ddL	.
+.	.	.	.	.	.	.	8dd#XJ	[
+!!LO:REH:t=3
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+.	.	8ryy	.	.	.	.	.	.
+1ryy	.	4ryy	.	1ryy	1r	.	8ee')	f
+.	.	.	.	.	.	.	8r	.
+.	.	4ryy	.	.	.	.	(8ccL	<
+.	.	.	.	.	.	.	8ddJ	.
+.	.	4ryy	.	.	.	.	8dd#XL	.
+.	.	.	.	.	.	.	8eeJ	.
+.	.	8ryy	.	.	.	.	.	.
+.	.	4ryy	.	.	.	.	8ffL	.
+.	.	.	.	.	.	.	8ff#XJ	[
+!!pagebreak:original
+*	*	*	*	*	*clefF4	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1ryy	.	4ryy	.	1ryy	1r	.	8gg')	.
+.	.	.	.	.	.	.	8r	.
+.	.	4ryy	.	.	.	.	(8ggL	.
+.	.	.	.	.	.	.	8eeJ	.
+.	.	8ryy	.	.	.	.	.	.
+.	.	4ryy	.	.	.	.	8ffL	.
+.	.	.	.	.	.	.	8ff#XJ	.
+.	.	4ryy	.	.	.	.	8ggL)	.
+.	.	.	.	.	.	.	(8eeJ	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1ryy	.	4ryy	.	1ryy	1r	.	8ffL	<
+.	.	.	.	.	.	.	8ff#XJ	.
+.	.	8ryy	.	.	.	.	.	.
+.	.	4ryy	.	.	.	.	8gg)	.
+.	.	.	.	.	.	.	8r	.
+.	.	4ryy	.	.	.	.	(8ggL	.
+.	.	.	.	.	.	.	8aaJ	.
+.	.	4ryy	.	.	.	.	8aa#XL	.
+.	.	.	.	.	.	.	8bbJ	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+.	.	8ryy	4ryy	.	.	.	.	.
+1ryy	.	4ryy	.	1ryy	1r	.	8cccL)	.
+.	.	.	.	.	.	.	(8ggJ	.
+.	.	4ryy	.	.	.	.	8aaL	.
+.	.	.	.	.	.	.	8bbJ	.
+.	.	4ryy	.	.	.	.	8cccL)	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!
+.	.	.	.	.	.	.	(8aa-XJ	.
+.	.	8ryy	4ryy	.	.	.	.	.
+.	.	4ryy	.	.	.	.	8bb-L	.
+.	.	.	.	.	.	.	8cccJ)	[
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]

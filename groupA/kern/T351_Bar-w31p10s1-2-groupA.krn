@@ -1,0 +1,91 @@
+!!!COM: Béla Bartók
+!!!OTL: [T351_Bar-w31p10s1-2]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*I"Piano
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+!	!LO:TX:t=Allegro vivace, [quarter]=152	!LO:DY:t=%s non legato
+4r	16ryy	4ryy
+.	16ryy	.
+.	16ryy	.
+.	16ryy	.
+16r	4ryy	.
+16E-LL	.	.
+16F	.	.
+16GJJ	.	.
+=2	=2	=2
+4An	16ryy	.
+.	16ryy	.
+.	4ryy	.
+16FLL	.	.
+16GJ	.	.
+[8A-XJ	16ryy	.
+.	16ryy	.
+=3	=3	=3
+*M3/8	*M3/8	*
+8A-L]	4ryy	.
+16G-XL	.	.
+16FJ	.	.
+[8F-XJ	8ryy	.
+=4	=4	=4
+*M2/4	*M2/4	*
+8F-L]	16ryy	.
+.	16ryy	.
+16G-XL	4ryy	.
+16A-JJ	.	.
+[4An	.	.
+.	16ryy	.
+.	16ryy	.
+=5	=5	=5
+*M3/8	*M3/8	*
+8AL]	4ryy	.
+16A-XL	.	.
+16F#XJ	.	.
+[8GJ	8ryy	.
+=6	=6	=6
+8G]	16ryy	.
+.	16ryy	.
+8.G-XL	8ryy	.
+.	16ryy	.
+16F-XJk	16ryy	.
+=7	=7	=7
+*M1/4	*M1/4	*
+8G-XL	4ryy	.
+8A-J	.	.
+=8	=8	=8
+*M2/4	*M2/4	*
+4.An	16ryy	.
+.	16ryy	.
+.	16ryy	.
+.	16ryy	.
+.	4ryy	.
+8A-X	.	.
+=9	=9	=9
+4dn	16ryy	.
+.	16ryy	.
+.	4ryy	.
+8G	.	.
+!LO:TX:t=P:problem:cross-bar beaming	!	!
+[8cL	16ryy	.
+.	16ryy	.
+=10	=10	=10
+*M3/8	*M3/8	*
+8cJ]	4ryy	.
+[4c-X	.	.
+.	8ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/14
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/09

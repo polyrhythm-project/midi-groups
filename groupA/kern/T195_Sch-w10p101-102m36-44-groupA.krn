@@ -1,0 +1,154 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T195_Sch-w10p101-102m36-44]
+**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*
+*part2	*part2	*part2	*part2	*part1	*	*
+*staff3	*staff3	*staff2	*staff2	*staff1	*	*
+*I"Piano	*	*I"Piano	*	*I"Voice	*	*
+*clefF4	*	*clefG2	*	*clefF4	*	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*
+*M6/4	*	*M6/4	*	*M6/4	*	*
+=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:B:t=Etwas bewegter
+(8CC^L	.	(8C<^L	4ryy	2%3ryy	.	.
+8DD-X	.	8D-<	.	.	.	.
+8FF)	.	8F<)	.	.	.	.
+(8EE^	.	(8E<^	.	.	.	.
+8GGn	.	8Gn<	.	.	.	.
+8BB-XJ)	.	8B-X<J)	.	.	.	.
+(8AA^L	.	(>8A<^L	.	.	.	.
+8BB-	.	8B-<	4ryy	.	.	.
+8D-X)	.	8d-X)	.	.	.	.
+(<8C^<	.	(>8c^>	.	.	.	.
+8E	.	8e	.	.	.	.
+8GJ)	.	8gJ)	4ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4An	.	(8f^L 8ff	4ryy	8ryy	.	.
+.	.	8dd-X	.	8ryy	4ryy	4ryy
+*grp:B	*	*	*	*	*	*
+8ryy	.	8cc)	.	4ryy	4ryy	.
+8ryy	.	(8gn^ 8ggn	.	.	.	.
+12ryy	.	8dd-	.	4ryy	4ryy	.
+12ryy	.	.	.	.	.	.
+.	.	8ccJ)	.	.	.	.
+12ryy	.	.	.	.	.	.
+4ryy	.	(8a-X^L 8aa-X	.	4.ryy	4ryy	4ryy
+.	.	8ff-X	.	.	.	.
+8ryy	.	8ee-X)	.	.	.	.
+8ryy	.	(8b-^ 8bb-	.	8ryy	4ryy	.
+12ryy	.	8ff-	.	4ryy	4ryy	.
+12ryy	.	.	.	.	.	.
+.	.	8ee-J)	.	.	.	.
+12ryy	.	.	.	.	.	4ryy
+=3	=3	=3	=3	=3	=3	=3
+4ryy	.	(8cc^L 8aa-X 8ccc	.	4.ryy	4ryy	4ryy
+.	.	8ddd-X	.	.	.	.
+*grp:A	*	*	*	*	*	*
+4r	.	8ddn)	.	.	.	.
+.	.	(8dd^ 8bb- 8dddn	.	8ryy	4ryy	.
+[4D-X^ [4d-X	.	8eee-X	.	4ryy	4ryy	4ryy
+.	.	8eenJ)	.	.	.	.
+4D-] 4d-]	.	(8ff^L 8bb- 8ddd-X 8fff	.	4ryy	.	.
+.	.	8ggg-X	.	.	.	.
+4BB- 4B-	.	8ee)	.	4ryy	.	.
+.	.	(8bb-^ 8ddd- 8ggg-	.	.	.	.
+4GG-X 4G-X	.	8ee	.	8ryy	4ryy	4ryy
+.	.	8b-XJ)	4ryy	8ryy	.	.
+=4	=4	=4	=4	=4	=4	=4
+*grp:A	*	*	*	*	*	*
+4FFn 4Fn	.	(8dn^L 8b-X 8cc#X	4ryy	2ryy	4ryy	.
+.	.	8dd	.	.	.	.
+2AA-X 2A-X	.	8c#X)	.	.	.	.
+.	.	(8a-X^ 8ccn	.	.	.	.
+.	.	8Bn	.	8ryy	4ryy	.
+.	.	8gnJ 8bn)	.	8ryy	.	.
+2FF-X 2F-X	.	(8B-X^L 8f#X 8an	.	4.ryy	4ryy	.
+.	.	8b-X	.	.	.	.
+.	.	8An)	.	.	.	.
+.	.	(8f-X^ 8a-X	.	8ryy	4ryy	.
+4EE-X 4E-X	.	8Gn	.	4ryy	4ryy	.
+.	.	8e-XJ 8gn)	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+(<8CC#X^<L	.	8dnL 8f#X	4ryy	2ryy	4ryy	.
+8DDn	.	8F#XJ	.	.	.	.
+8FF#X)	.	8r	.	.	.	.
+(8EE#X^	.	(8E#<^>L	.	.	.	.
+8GG#X	.	8G#<	.	4ryy	4ryy	.
+8BBnJ)	.	8Bn<J)	.	.	.	.
+(8AA#X^L	.	(8A#<^>L	.	2.ryy	.	.
+8BB	.	8B<	.	.	.	.
+8D#X)	.	8d#X)	.	.	.	.
+(<8Dn^<	.	(>8dn^>^>	.	.	.	.
+8Fn	.	8fn	.	.	.	.
+8A-XJ)	.	8a-XJ)	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+4cn	.	(8aa-X^L 8aaa-X	4ryy	8ryy	.	.
+.	.	8fff-X	.	8ryy	4ryy	4ryy
+*grp:B	*	*	*	*	*	*
+8ryy	.	8eee-X)	.	4ryy	4ryy	.
+8ryy	.	(8ggn^ 8gggn	.	.	.	.
+12ryy	.	8dddn	.	4ryy	4ryy	.
+12ryy	.	.	.	.	.	.
+.	.	8ccc#XJ)	.	.	.	.
+12ryy	.	.	.	.	.	.
+4ryy	.	(8gg-X^L 8ggg-X	.	4.ryy	4ryy	.
+.	.	8cccn	.	.	.	.
+8ryy	.	8bbn)	.	.	.	.
+8ryy	.	(8een^ 8eeen	.	8ryy	4ryy	.
+12ryy	.	8bb-X	.	4ryy	4ryy	.
+12ryy	.	.	.	.	.	.
+.	.	8aanJ)	.	.	.	.
+12ryy	.	.	.	.	.	.
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7
+*	*	*^	*	*	*	*
+4ryy	.	(8ff#X^L 8fff#X	2.ryy	4ryy	4.ryy	4ryy	.
+.	.	8aan	.	.	.	.	.
+*grp:A	*	*	*	*	*	*	*
+4r	.	8gg#X)	.	.	.	.	.
+.	.	(8een^ 8eeen	.	.	8ryy	4ryy	.
+[(4C^ [4c	.	8aa	.	.	4ryy	4ryy	.
+.	.	8gg#J)	.	.	.	.	.
+*	*	*v	*v	*	*	*	*
+8CL] 8c]	.	4dd 4ddd	.	4ryy	.	.
+8An	.	.	.	.	.	.
+8G#X)	.	4r	.	4ryy	.	.
+(8AA^ 8A	.	.	.	.	.	.
+*	*	*^	*	*	*	*
+!	!	!LO:TX:b:t=pesante	!	!	!	!	!LO:DY:rj
+8Fn	.	8ffnL 8fffn	4aan	4ryy	8ryy	4ryy	4ryy
+8E-XJ)	.	8ee-XJ 8eee-X	.	.	8ryy	4ryy	.
+*	*	*v	*v	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8
+*grp:B	*	*	*	*	*	*
+8ryy	.	(8ffn^L 8ccc#X	.	4.ryy	4ryy	.
+8ryy	.	8aan	.	.	.	.
+8ryy	.	8ggn)	.	.	.	.
+8ryy	.	(8ee-X 8bbn	.	8ryy	4ryy	.
+8ryy	.	8aa	.	4ryy	4ryy	.
+8ryy	.	8cc#XJ 8ffn)	.	.	.	.
+8ryy	.	(8ee-XL	.	4.ryy	4ryy	.
+8ryy	.	8bn 8gg	.	.	.	.
+8ryy	.	8ff	.	.	.	.
+8ryy	.	8anJ 8cc#X)	.	8ryy	4ryy	.
+8ryy	.	8r	4ryy	4ryy	4ryy	.
+8ryy	.	8aan 8ccc#X 8fffn 8aaan	4ryy	.	.	.
+=9	=9	=9	=9	=9	=9	=9
+*grp:A	*	*	*	*	*	*
+8r	.	4gg#X 4cccn 4eee 4ggg#X	4ryy	2ryy	4ryy	.
+8GGG#X 8GG#X	.	.	.	.	.	.
+4AAA 4AA	.	4.ggn^ 4.ccc 4.eee 4.gggn	.	.	.	.
+4.BBB#X^ 4.BB#X	.	.	.	4ryy	4ryy	.
+.	.	8ff#X 8ddd#X 8fff#X	.	.	.	.
+.	.	4ffn 4dddn 4fffn	.	2.ryy	.	.
+8CC#X 8C#X	4ryy	.	.	.	.	.
+4DD 4D	.	4.ee^ 4.ff#X 4.cccn 4.eee	.	.	.	.
+[4FF#X^ [4F#X	.	.	.	.	.	.
+.	4ryy	8ee-X 8ccc 8eee-X	4ryy	.	.	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2022/01/11

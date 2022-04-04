@@ -1,0 +1,90 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T361_Str-w3p29m1h43m1-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B		*	*grp:B	*	*grp:B	*
+*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3		*part3	*part2	*part2	*part1	*part1
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3		*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F I.	*	*I"Bassoon II.	*	*I"Clarinet in A I.	*	*I"Oboe I. II.		*	*I"Alto Flute	*	*I"Flute I.	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Ob.		*	*I'G Fl.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww		*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Ifagot	*	*Iclars	*	*Ioboe		*	*Iflt_a	*	*Iflt	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2		*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*		*	*ITrd3c5	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[f#c#g#]	*	*k[]		*	*k[f#]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4		*	*M3/4	*	*M3/4	*
+!!LO:REH:t=43
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1		=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!LO:TX:t=[[quarter]=66]	!
+4%3ryy	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.	4r	.	4r	.	[2cc#X	4ryy	[2ccc#X	4ryy
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	[4ee	4ryy	(4gg#X^	(4a#X^	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ee]	.	8ff##X)	8an)	4ryy	8cc#]	.	8ccc#]	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	8r	4ryy	8r	.	8r	4ryy	8r	4ryy
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2		=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!	!	!	!	!	!		!	!	!	!	!
+!	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!LO:DY:t=%s molto cant.	!	!	!	!	!		!	!	!	!	!
+12ryy	4ryy	(2D-X	4ryy	(8dd-XL	4ryy	4%3r	.	(4F	4ryy	[2.AA-X	4ryy	4%3r	.	4%3r	.	4%3r	.	4%3r	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ee-XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	(8ff	.	.	.	4A-X	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	4Dn)	.	.	.	.	.	4F	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8cc-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3		=3	=3	=3	=3	=3
+12ryy	.	[2G-X	.	(4b-X	.	(8dvL	4ryy	8.B-L	.	(2.AA-]	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8e-XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cJk	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	4b--	.	(8g-X	.	2d-X)	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	4en	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	(8G-L]	.	4a-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8FJ)	.	.	.	8f)	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4		=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!
+12ryy	.	8A-X	.	2g-X	.	(8anL	4ryy	4r	.	[2.A-X)	.	4%3r	.	(4dd-Xi	2.r	4ryy	4%3r	.	4%3r	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	.	.	8b-XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	4r	.	.	.	(8cc	.	(2d-Xi	.	.	.	.	.	4ff	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	4an	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	4r	.	4f)	.	.	.	.	.	.	.	.	.	4dd-	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b-)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+12ryy	.	4%3r	.	(4.g-X	.	(8bnL	.	8dn	.	2.A-_	4ryy	4%3r	.	8.gg-XL	2.r	.	4%3r	.	4%3r	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ccJ	.	4e-X	4ryy	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa-XJk	.	.	.	.	.	.
+12ryy	.	.	.	.	.	8ffL	.	.	.	.	.	.	.	2bb-X	.	.	.	.	.	.
+12ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:b:i:t=poco	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8f	.	8dd-XJ	.	8f	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*
+12ryy	.	.	.	4c)	.	8ddnL	.	12ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ee-XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	4ryy	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4,s5,s6,s7,s8,s9,s10
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

@@ -1,0 +1,92 @@
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!OMV: Act I, Scene 4
+!!!example: 215
+!!!work: Sch-33
+!!!OMD-full: Lebhaft
+!!!OMD: Breit
+**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff7	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICvox	*	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Itenor	*	*	*Ituba	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Iflt	*
+*I"ARON	*	*	*I"Tuba	*	*I"Horn II [C]	*	*I"Bassoon I	*	*I"Clarinet II [C]	*	*I"English Horn [C]	*	*I"Flute I	*
+*I'ARON	*	*	*I'Tba.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Fl.	*
+*clefGv2	*	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M2/2	*	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)	=81(523)
+!LO:TX:t=MOSES ist wieder näher.	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Breit ([half]=44)	!
+2ryy	4ryy	4ryy	2ryy	4ryy	2ryy	4ryy	1r)jyy	.	2ryy	4ryy	4r	.	1ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	4.e-X~	p	.	.
+4.ryy	4ryy	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	4.dn~	.	.	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+2ryy	4ryy	.	2ryy	.	2ryy	.	1ryy	.	2ryy	.	4.e-X~	.	1ryy	.
+.	.	.	.	.	.	.	.	.	.	.	4.dn~	.	.	.
+4ryy	4ryy	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	4e~	.	.	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+2ryy	4ryy	.	2ryy	.	2ryy	.	1ryy	.	2ryy	.	4r	.	1ryy	.
+.	.	.	.	.	.	.	.	.	.	.	4.b-~	.	.	.
+4.ryy	4ryy	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	4.ccn~	.	.	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+2ryy	4ryy	.	2ryy	.	2ryy	.	1ryy	.	2ryy	.	4.b-~	.	1ryy	.
+.	.	.	.	.	.	.	.	.	.	.	4.ccn~	.	.	.
+2ryy	4ryy	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	4bX~	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
+2.ryy	4ryy	.	1ryy	.	2ryy	.	1ryy	.	2ryy	.	8r	.	2ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	4.a-X~	.	.	.
+.	.	.	.	.	2ryy	.	.	.	2ryy	.	4.gn~	.	2ryy	.
+4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	[8a-~	.	.	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+8ryy	.	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	4a-~]	.	2ryy	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.ryy	4ryy	.	.	.	.	.	.	.	.	.	4.gn~	.	.	.
+.	.	.	4ryy	.	4.ryy	.	4ryy	.	4.ryy	.	.	.	4.ryy	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	4dd-X~	.	.	.
+8ryy	4ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	.	8r	.	8ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)]s7
+!!!CDT: 1874/09/13-1951/07/13
+!!!CBL: Vienna, Austria
+!!!CDL: Los Angeles, United States
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Rosbaud, Hans
+!!!MDT: 1957/06/06
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1957
+!!!MPN: Fiedler, Hans; Melchert, Helmut
+!!!ODT: 1932
+!!!PDT: 1957
+!!!excerpt-start-measure: 81(523)
+!!!excerpt-end-measure: 86(528)
+!!!excerpt-start-time: 2:57
+!!!excerpt-end-time: 3:15
+!!!excerpt-duration-sec: 18
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: half
+!!!excerpt-tempo-rate: 44
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

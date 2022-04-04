@@ -1,0 +1,173 @@
+!!!COM: Aaron Copland
+!!!OTL: [T719_Cop-w31p15m164-175]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contrabass	*I"Contrabass	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Solo Clarinet in Bb	*I"Solo Clarinet in Bb
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Cl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd1c2	*
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
+*D-:	*	*D-:	*	*D-:	*	*D-:	*	*D-:	*	*D-:	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=(half)	!	!	!	!	!	!	!	!LO:TX:a:rj:t=[div. in 3]	!	!	!
+!LO:TX:a:rj:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:rj:t=[unis., arco]	!LO:DY:ed=brack	!	!	!	!	!LO:TX:a:i:rj:t=[at the point]	!LO:DY:ed=brack	!	!
+4ryy	4ryy	4ryy	4ryy	4r	.	4rv	.	8ryy	4ryy	4r	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!LO:TX:a:rj:t=[div.]	!LO:DY:ed=brack	!	!	!LO:DY:t=[ %s spicc. ]	!	!	!	!LO:DY:ed=brack
+4ryy	.	4ryy	.	4A-' 4a-	mf	8b-'L	8g-'L	mf	4ryy	.	4ccc`	mf
+.	.	.	.	.	.	8d-'J	8d-'J	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+4ryy	.	4ryy	.	4r'	.	4r	.	8ryy	.	4r	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*^	*	*	*	*	*
+4ryy	.	4ryy	.	4G-' 4g-	.	8cc'L	8a-'L	.	4ryy	.	4fff`	.
+.	.	.	.	.	.	8e-'J	8e-'J	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+!!LO:REH:t=165
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	4ryy	.	4r'	.	4rv	.	8ryy	.	4r	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*^	*	*	*	*	*
+4ryy	.	4ryy	.	4F' 4f	.	8ff'L	8dd-'L	.	4ryy	.	4ccc`	.
+.	.	.	.	.	.	8a-'J	8a-'J	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+4ryy	.	4ryy	.	4r'	.	4r	.	8ryy	.	4r	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*^	*	*	*	*	*
+4ryy	.	4ryy	.	4G-' 4g-	.	8dd-'L	8b-'L	.	4ryy	.	4ddd-`	.
+.	.	.	.	.	.	8f'J	8f'J	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4ryy	.	4r'	.	4rv	.	8ryy	.	4ccc`	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*^	*	*	*	*	*
+4ryy	.	4ryy	.	4A-' 4a-	.	8b-'L	8g-'L	.	4ryy	.	4fff`	.
+.	.	.	.	.	.	8d-'J	8d-'J	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+4ryy	.	4ryy	.	4r'	.	4r	.	8ryy	.	4r`	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*^	*	*	*	*	*
+4ryy	.	4ryy	.	4B-' 4b-	.	8cc'L	8a-'L	.	4ryy	.	4ccc`	.
+.	.	.	.	.	.	8e-'J	8e-'J	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*^	*	*	*	*	*	*	*
+4ryy	.	4ryy	.	8ryy@	4r	.	2r	.	8ryy	.	4r`	.
+.	.	.	.	8ryy@	.	.	.	.	8ryy	.	.	.
+*	*	*	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=spicc.	!	!	!	!
+!	!	!	!	!	!	!LO:HP:t=poco cresc.	!	!	!LO:TX:a:t=div. in 2	!	!LO:HP:t=poco cresc.	!	!LO:HP:t=poco cresc.
+4ryy	.	4ryy	.	4a-	(8A-L	<	.	.	8ryy	8ryy	4ryy	4ddd-	<
+.	.	.	.	.	8a-'J)	.	.	.	8ryy	8ryy	.	.	.
+*	*	*	*	*	*	*	*^	*	*v	*v	*	*	*
+!	!LO:HP:t=poco cresc.	!	!LO:HP:t=poco cresc.	!	!	!	!	!	!LO:HP:t=poco cresc.	!	!	!	!
+4ryy	4ryy	4ryy	4ryy	8ryy@	4r	.	8ff'L	8dd-'L	<	4ryy	.	4ccc	.
+.	.	.	.	8ryy@	.	.	8a-'J	8a-'J	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*^	*	*	*
+4ryy	.	4ryy	.	4g-	(8G-L	.	4r	.	8ryy	8ryy	.	4r	.
+.	.	.	.	.	8g-'J)	.	.	.	8ryy	8ryy	.	.	.
+*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:a:i:t=sim.	!	!	!	!	!	!
+4ryy	.	4ryy	.	8ryy@	4r	.	8dd-L	8b-L	.	4rvyy	.	4fff	.
+.	.	.	.	8ryy@	.	.	8fJ	8fJ	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*^	*	*	*
+4ryy	.	4ryy	.	4a-	(8A-L	.	4r	.	8ryy	8ryy	.	4ccc	.
+.	.	.	.	.	8a-'J)	.	.	.	8ryy	8ryy	.	.	.
+*	*	*	*	*	*	*	*^	*	*v	*v	*	*	*
+4ryy	.	4ryy	.	8ryy@	4r	.	8b-L	8g-L	.	4ryy	.	4r	.
+.	.	.	.	8ryy@	.	.	8d-J	8d-J	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*^	*	*	*
+4ryy	.	4ryy	.	4g-	(8G-L	.	4r	.	8ryy	8ryy	.	4ddd-	.
+.	.	.	.	.	8g-'J)	.	.	.	8ryy	8ryy	.	.	.
+*	*	*	*	*v	*v	*	*	*	*v	*v	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*^	*	*	*	*	*
+!LO:TX:a:t=Tutti	!	!LO:TX:a:t=div.	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!	!
+4ryy	4ryy	4ryy	.	4r	.	8ccL	8a-L	.	4rvyy	.	4ccc	.
+.	.	.	.	.	.	8e-J	8e-J	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*^	*	*	*
+4ryy	.	4ryy	4ryy	(8FL	f	4r	4r	.	8ryy	8ryy	4ryy	4fff	.
+.	.	.	.	8f'J)	.	.	.	.	8ryy	8ryy	.	.	.
+*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+4ryy	.	4r'yy	.	4r	.	8ffL	8dd-L	f	4ryy	.	4ccc	f
+.	.	.	.	.	.	8a-J	8a-J	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*^	*	*	*
+4ryy	.	4ryy	.	(8G-L	.	4r	4r	.	8ryy	8ryy	.	8ddd-L	.
+.	.	.	.	8g-'J)	.	.	.	.	8ryy	8ryy	.	8cccJ	.
+*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+!!LO:REH:t=170
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4ryy	.	4r'yy	.	4r	.	8dd-'L	8b-'L	.	4ryy	.	8ddd-L	.
+.	.	.	.	.	.	8f'J	8f'J	.	.	.	8cccJ	.
+*	*	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*clefC4	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*^	*	*	*
+4r'yy	.	4ryy	.	(8A-L	.	4r	.	8ryy	8ryy	.	8bb-L	.
+.	.	.	.	8a-'J)	.	.	.	8ryy	8ryy	.	8aa-J	.
+!	!	!	!	!	!	!LO:TX:a:t=unis.	!	!	!	!	!	!
+4ryy	.	4r'yy	.	4r	.	8ee-'L	.	8ryy	8ryy	.	4r	.
+.	.	.	.	.	.	8b-'J	.	8ryy	8ryy	.	.	.
+4r'yy	.	4ryy	.	(8B-L	.	8b-'L	.	8ryy	8ryy	.	8ddd-L	.
+.	.	.	.	8b-'J)	.	8f'J	.	8ryy	8ryy	.	8cccJ	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4ryy	.	4r'yy	.	4r	.	4r	.	4ryy	.	8bb-L	.
+.	.	.	.	.	.	.	.	.	.	8aa-J	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=unis.	!	!	!
+4r'yy	.	4ryy	.	(8cL	.	8ee-'L	.	8ryy	.	4r	.
+.	.	.	.	8cc'J)	.	8b-'J	.	8ryy	.	.	.
+4ryy	.	4r'yy	.	4r	.	8b-'L	.	8ryy	.	8ffL	.
+.	.	.	.	.	.	8f'J	.	8ryy	.	8gg-J	.
+4r'yy	.	4ryy	.	(8B-L	.	4r	.	4ryy	.	8aa-L	.
+.	.	.	.	8b-'J)	.	.	.	.	.	8bb-J	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4ryy	.	4r'yy	.	4r	.	8gg-'L	.	8ryy	.	4r	.
+.	.	.	.	.	.	8dd-'J	.	8ryy	.	.	.
+!	!	!LO:TX:a:i:t=sim.	!	!	!	!	!	!	!	!	!
+4r'yy	.	4ryy	.	(8cL	.	8ee-'L	.	8ryy	.	8ee-L	.
+.	.	.	.	8cc'J)	.	8b-'J	.	8ryy	.	8ffJ	.
+4ryy	.	4r'yy	.	4r	.	4r	.	4ryy	.	8gg-L	.
+.	.	.	.	.	.	.	.	.	.	8aa-J	.
+!	!	!	!	!	!	!LO:TX:a:i:t=sim.	!	!LO:TX:a:i:t=sim.	!	!	!
+4ryy	.	4ryy	.	(8d-L	.	8gg-L'	.	8ryy	.	4r	.
+.	.	.	.	8dd-'J)	.	8dd-J'	.	8ryy	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4ryy	.	4r'yy	.	4r	.	8bb-L'	.	8ryy	.	4r	.
+.	.	.	.	.	.	8ffJ'	.	8ryy	.	.	.
+4r'yy	.	4ryy	.	(8e-L	.	4r	.	4ryy	.	8bb-L	<
+.	.	.	.	8ee-'J)	.	.	.	.	.	8aa-J	.
+4ryy	4ryy	4r'yy	4ryy	4r	<	8gg-L'	<	8ryy	4ryy	8gg-L	.
+.	.	.	.	.	.	8dd-J'	.	8ryy	.	8ffJ	.
+4r'yy	.	4ryy	.	(8d-L	.	8ee-L'	.	8ryy	.	8ee-L	.
+.	.	.	.	8dd-'J)	.	8b-J'	.	8ryy	.	8dd-J	.
+*	*	*	*	*clefG2	*	*	*	*	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+!	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!	!	!
+4ryy	.	4r'yy	.	4r	.	8ee-L'	.	8ryy	.	4r	.
+.	.	.	.	.	.	8b-J'	.	8ryy	.	.	.
+4ryy	.	4ryy	.	(8e-L	.	8b-L'	.	8ryy	.	8ffL	.
+.	.	.	.	8ee-'J)	.	8fJ'	.	8ryy	.	8gg-J	.
+4ryy	.	4ryy	.	4r	.	4r	.	4ryy	.	8aa-L	.
+.	.	.	.	.	.	.	.	.	.	8bb-J	.
+4ryy	.	4ryy	.	(8fL	.	8gg-L'	.	8ryy	.	4r	.
+.	.	.	.	8ff'J)	.	8dd-J'	.	8ryy	.	.	.
+!!LO:REH:t=175
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4ryy	.	4ryy	.	4r	.	8bb-L'	.	8ryy	.	8r	.
+.	.	.	.	.	.	8ffJ'	.	8ryy	.	8eee-	.
+4ryy	.	4ryy	.	(8g-L	.	8ddd-L'	.	8ryy	.	8fffL	.
+.	.	.	.	8gg-'J)	.	8aa-J'	.	8ryy	.	8eee-J	.
+4ryy	.	4ryy	.	4r	.	8bb-L'	.	8ryy	.	8ddd-L	.
+.	.	.	.	.	.	8ffJ'	.	8ryy	.	8ccc-XJ	.
+4ryy	.	4ryy	.	(8a-L	.	8gg-L'	.	8ryy	.	8bb-L	.
+.	.	.	.	8aa-'J)	.	8dd-J'	.	8ryy	.	8aa-J	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4,s5,s6)]

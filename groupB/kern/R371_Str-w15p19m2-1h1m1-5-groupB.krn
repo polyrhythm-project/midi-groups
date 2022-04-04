@@ -1,0 +1,112 @@
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: L'Histoire du soldat (The Soldier's Tale), to be Read, Played, and Danced
+!!!OMV: Part II: Royal March
+!!!example: 371
+!!!work: Str-15
+!!!OMD-full: none
+!!!OMD: none
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part8	*part8	*part7	*part7	*part6	*part6	*part5	*	*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Icbass	*	*Ivioln	*	*Ibdrum	*	*Ipiatt	*	*Itromt	*	*Icornt	*	*Ifagot	*	*Iclars	*
+*I"Contrabass	*	*I"Violin I	*	*I"Bass Drum	*	*I"Cymbal	*	*I"Trombone	*	*I"Cornet in Bb	*	*I"Bassoon	*	*I"Clarinet in Bb	*
+*I'Cb.	*	*I'Vln. I	*	*I'B. D.	*	*I'Cym.	*	*I'Tbn.	*	*I'Picc. Tpt.	*	*I'Bsn.	*	*I'Cl.	*
+*	*	*	*	*stria2	*	*stria1	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefG2	*	*clefX	*	*clefX	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*ITrd1c2	*
+*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*B-:	*	*B-:	*	*C:	*	*C:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*
+*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8b-	sf	8ryy	4ryy	8ryy	4ryy
+!	!	!	!LO:DY:t=%s secco	!	!	!	!	!	!	!	!LO:DY:i:t=sub. meno %s	!	!LO:DY:i:t=sub. meno %s	!	!LO:DY:i:t=sub. meno %s
+8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8r	f	8ryy	4ryy	8ryy	4ryy
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!	!	!	!	!
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ffL	.	8ryy	.	8ryy	.
+.	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	8ff	.	8ryy	.	8ryy	.
+!	!LO:DY:t=%s secco	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	4ryy	8ryy	.	.	.	.	.	.	.	8eeXJ	.	8r'yy	.	8r'yy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!	!	!	!	!LO:TX:a:t=bag. à tête en capoc	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	2ryy	.	2ryy	.	(20eeXLL	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	20ff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20ee	.	.	.	.	.
+!	!	!	!	!LO:TX:b:t=au bord	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	4ryy	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	20dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20b-JJ)	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=au milieu	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	4ryy	.	.	.	.	[4dd	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4ryy	.	8ryy	.	2ryy	.	2ryy	.	2ryy	.	8ddL]	.	8ryy	.	8ryy	.
+.	.	8ryy	.	.	.	.	.	.	.	8ff	.	8ryy	.	8ryy	.
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	.	8ryy	.	.	.	.	.	.	.	8ff	.	8r'yy	.	8r'yy	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	8eeXJ	.	8ryy	.	8ryy	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	4ryy	.	8ryy	4ryy	2ryy	.	2ryy	.	(20eeXLL	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	20ff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20ee	.	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20ccJJ)	.	.	.	.	.
+4ryy	.	8ryy	.	4ryy	.	.	.	.	.	(20ddLL	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	20ee	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20dd	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	20cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20gJJ)	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+8ryy	.	8ryy	.	4ryy	.	2ryy	.	2ryy	.	(20ccLL	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	20dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20cc	.	.	.	.	.
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8r'yy	.	8r'yy	.
+.	.	.	.	.	.	.	.	.	.	20b-	.	.	.	.	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	20gJJ)	.	.	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8b-L	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	4ryy	.	.	.	.	16b-L	.	8ryy	.	8ryy	.
+.	.	.	.	.	4ryy	.	.	.	.	16fJJ	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6)][(s7,s8)]
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Stage; Theatrical
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1918/09/28
+!!!MGN: unknown
+!!!MLC: Lausanne, Switzerland
+!!!MPD: 1918
+!!!MPN: unknown
+!!!ODT: 1918
+!!!PDT: 1924
+!!!excerpt-start-measure: 8
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:07
+!!!excerpt-end-time: 0:14
+!!!excerpt-duration-sec: 7
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [112]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,115 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T628_Hin-w22p47-48hHm3-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin	*	*I"Piano	*	*	*I"Trombone	*	*I"Trumpet in C	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln.	*	*I'Pno.	*	*	*I'Tbn.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=55]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=[pizz.]	!LO:DY:t=%s dim.	!LO:TX:a:t=[pizz.]	!LO:DY:t=%s dim.	!LO:TX:a:t=[pizz.]	!LO:DY:t=%s dim.	!LO:TX:a:t=[pizz.]	!LO:DY:t=%s dim.	!	!	!	!LO:TX:a:t=[mit dämpfer]	!	!LO:TX:a:t=[mit dämpfer]	!	!LO:TX:a:t=[mit dämpfer]	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=55]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemwnted yet	!LO:TX:t=P:problem:Hanging slur not implemwnted yet	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8BB-XL	p	8BB-XL	p	8B-XL	p	8B-XL	p	32ryy	32ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	32ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+16r	.	16r	.	16r	.	16r	.	16ryy	16ryy	.	.	.	.	.	.	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	32ryy	.
+16AAJk	.	16AAJk	.	16AJk	.	16AJk	.	32ryy	32ryy	.	.	.	.	.	.	.	16ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+8F	.	8F	.	8f	.	8f	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	8.ryy	4ryy	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	32ryy	4ryy	16ryy	.	16ryy	4ryy
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+8AAL	pp	8AAL	pp	8AL	pp	8AL	pp	32ryy	32ryy	.	4ryy	.	4ryy	.	4ryy	.	16ryy	.	16ryy	.	8.ryy	.	8.ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	4ryy	16r'yy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+16r	.	16r	.	16r	.	16r	.	16ryy	16ryy	.	.	.	.	.	.	.	16ryy	.	8ryy	.	.	.	.	.
+16BBnJk	.	16BBnJk	.	16BnJk	.	16BnJk	.	16ryy	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	32ryy	4ryy	32ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	32ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8C	.	8C	.	8c	.	8c	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	4ryy	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	8ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+8AAL	>	8AAL	>	8AL	>	8AL	>	32ryy	32ryy	.	4ryy	.	4ryy	.	4ryy	.	8ryy	.	32ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s	!	!	!	!	!	!
+16r	.	16r	.	16r	.	16r	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	4ryy	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+16BBJk	.	16BBJk	.	16BJk	.	16BJk	.	16ryy	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s
+8C	.	8C	.	8c	.	8c	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	4ryy	32ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	32ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s	!	!	!	!
+.	.	.	.	.	.	.	.	32ryy	32ryy	4ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	4ryy	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+!!pagebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8AAL	.	8AAL	.	8AL	.	8AL	.	32ryy	32ryy	.	4ryy	.	4ryy	.	4ryy	.	8.ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	8.ryy	.	8.ryy	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+16r	]	16r	]	16r	]	16r	]	32ryy	32ryy	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BBJk	.	16BBJk	.	16BJk	.	16BJk	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	32ryy	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+8C	.	8C	.	8c	.	8c	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!LO:DY:t=sempre %s	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!LO:DY:t=sempre %s	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!LO:DY:t=sempre %s	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	16ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	32ryy	.
+8r	.	8r	.	8r	.	8r	.	8ryy	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+4r	.	4r	.	4r	.	4r	.	4ryy	4ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	32ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4%3r	.	4%3r	.	4%3r	.	4%3r	.	4%3ryy	4%3ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	32ryy	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	8.ryy	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	8.ryy	.	8.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	32ryy	.	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	32ryy	.	32ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	32ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][({(s8,s9)})][(s10,s11,s12,s13)]

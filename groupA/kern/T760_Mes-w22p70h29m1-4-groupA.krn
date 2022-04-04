@@ -1,0 +1,69 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T760_Mes-w22p70h29m1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern		**dynam		**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:A	*	*grp:A	*	*grp:B		*		*	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part25	*part25	*part24	*part24	*part23	*part23	*part22	*part22	*part21	*part21	*part20	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part17	*part16	*part16	*part15		*part15		*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff26	*	*staff25	*	*staff24	*	*staff23	*	*staff22	*	*staff21	*	*staff20	*	*staff19	*	*staff18	*staff17	*	*staff16	*	*staff15		*		*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"	*	*I"Viola Divisi	*	*I"	*	*I"Violin II Divisi	*	*I"Violin I	*	*I"Ondes Martenot	*	*I"Piano	*	*	*I"Glockenspiel	*	*I"Wood Block/Snare Drum/Bass Drum		*		*I"Tuba	*	*I"3 Trombones	*	*I"Cornet in Bb	*	*I"	*	*I"3 Trumpets in C	*	*I"Piccolo Trumpet in D	*	*I"4 Horns in F	*	*I"3 Bassoons	*	*I"Bass Clarinet in A	*	*I"2 Clarinets in A	*	*I"Cor Anglais	*	*I"2 Oboes	*	*I"2 Flutes	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.	*	*I'	*	*I'Vla.	*	*I'	*	*I'Vln. II	*	*I'Vln. I	*	*I'Ondes M.	*	*I'Pno.	*	*	*I'Glock.	*	*I'Perc.		*		*I'Tba.	*	*I'Tbn.	*	*I'Cor.	*	*I'	*	*I'C Tpt.	*	*I'D Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio		*		*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Iondes	*	*Ipiano	*Ipiano	*	*Iglock	*	*		*		*Ituba	*	*Itromt	*	*Icor	*	*Icor	*	*Itromp	*	*Itromp	*	*Icor	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*clefG2	*	*clefG2	*	*clefX		*		*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-14c-24	*	*		*		*	*	*	*	*ITrd1c2	*	*	*	*	*	*ITrd-1c-2	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*ITrd2c3	*	*ITrd4c7	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]		*		*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[f#c#]	*	*k[b-]	*	*k[]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4		*		*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1		=1		=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=176]	!
+!	!	!LO:TX:a:t=arco	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:TX:a:t=(Clavier - cuivré - C 1 2 3)	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2ryy	.	16dLL	4ryy	16anLL	4ryy	16ddLL	4ryy	16b-XLL	4ryy	16aa-XLL	4ryy	16bb-XLL	4ryy	2ryy	.	4r	4r	.	4r	.	16ryy	.	.	2ryy	.	4ryy	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	4ryy	.	2ryy	.	2ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16c	.	16f#X	.	16cc	.	16bn	.	16gg	.	16bbn	.	.	.	.	.	.	.	.	8.ryy	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1. 2.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=à 2	!	!	!
+.	.	16B-X	.	16fn	.	16b-X	.	16f#X	.	16ee	.	16ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	16A-XJJ	.	16dnJJ	.	16a-XJJ	.	16gJJ	.	16dd#XJJ	.	16ggJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1. 3.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s martelé	!	!	!		!	!	!	!	!	!	!	!	!LO:TX:a:t=3.	!	!	!	!	!	!LO:TX:b:t=2. 4.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16c#XLL	.	16g#XLL	.	16cc#XLL	.	16bnLL	.	16aanLL	.	16bbnLL	.	.	.	16bLL	16bbLL	4ryy	16bbbLL	4ryy	8.ryy	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16Bn	.	16e#X	.	16bn	.	16cc	.	16gg#X	.	16ccc	.	.	.	16cc	16ccc	.	16cccc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!LO:TX:a:t=à 3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16An	.	16en	.	16an	.	16g	.	16ffn	.	16gg	.	.	.	16g	16gg	.	16ggg	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	4ryy	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.
+.	.	16GJJ	.	16c#XJJ	.	16gJJ	.	16a-XJJ	.	16eeJJ	.	16aa-XJJ	.	.	.	16a-XJJ	16aa-XJJ	.	16aaa-XJJ	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2		=2		=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4ryy	.	16cnLL	.	16gnLL	.	16ccnLL	.	16ccLL	.	16bb-XLL	.	16cccLL	.	4ryy	.	16ccLL	16cccLL	.	16ccccLL	.	8ryy	4ryy	.	4ryy	.	8ryy	.	2ryy	.	2ryy	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	16B-X	.	16en	.	16b-X	.	16cc#X	.	16aan	.	16ccc#X	.	.	.	16cc#X	16ccc#X	.	16cccc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=à 3	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16A-X	.	16e-X	.	16a-X	.	16g#X	.	16gg-X	.	16gg#X	.	.	.	16g#X	16gg#X	.	16ggg#X	.	16ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	.	.	8ryy	.	.	.	.	.	.	.
+.	.	16G-XJJ	.	16cnJJ	.	16g-XJJ	.	16anJJ	.	16ffJJ	.	16aanJJ	.	.	.	16anJJ	16aanJJ	.	16aaanJJ	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	16BnLL	.	16f#XLL	.	16bnLL	.	16cc#XLL	.	16bbnLL	.	16ccc#XLL	.	8ryy	4ryy	16cc#XLL	16ccc#XLL	.	16cccc#XLL	.	16ryy	8ryy	4ryy	8ryy	4ryy	4ryy	.	.	.	.	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16An	.	16d#X	.	16an	.	16dd	.	16aa#X	.	16ddd	.	.	.	16dd	16ddd	.	16dddd	.	8.ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16Gn	.	16dn	.	16gn	.	16a	.	16ggn	.	16aa	.	8ryy	.	16a	16aa	.	16aaa	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16FnJJ	.	16BJJ	.	16fnJJ	.	16b-XJJ	.	16ff#XJJ	.	16bb-XJJ	.	.	.	16b-XJJ	16bb-XJJ	.	16bbb-XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3		=3		=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2ryy	.	16A#XLL	.	16fnLL	.	16a#XLL	.	16ddLL	.	16cccnLL	.	16dddLL	.	2ryy	.	16ddLL	16dddLL	.	16ddddLL	.	8ryy	.	2ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16G#X	.	16d	.	16g#X	.	16ee-X	.	16bbn	.	16eee-X	.	.	.	16ee-X	16eee-X	.	16eeee-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16F#X	.	16d-X	.	16f#X	.	16b-X	.	16aa-X	.	16bb-X	.	.	.	16b-X	16bb-X	.	16bbb-X	.	4.ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16EJJ	.	16B-XJJ	.	16eJJ	.	16bnJJ	.	16ggJJ	.	16bbnJJ	.	.	.	16bnJJ	16bbnJJ	.	16bbbnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AnLL	.	16eLL	.	16anLL	.	16dd#XLL	.	16ddd-XLL	.	16ddd#XLL	.	.	.	16dd#XLL	16ddd#XLL	.	16dddd#XLL	.	.	.	.	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	16Gn	.	16c#X	.	16gn	.	16een	.	16ccc	.	16eeen	.	.	.	16een	16eeen	.	16eeeen	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Fn	.	16cn	.	16fn	.	16b	.	16aan	.	16bb	.	.	.	16b	16bb	.	16bbb	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	16E-XJJ	.	16AJJ	.	16e-XJJ	.	16ccnJJ	.	16aa-XJJ	.	16cccnJJ	.	.	.	16ccnJJ	16cccnJJ	.	16ccccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4		=4		=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	16d#XLL	.	16g#XLL	.	16dd#XLL	.	16bLL	.	16ggLL	.	16bbLL	.	8ryy	.	16bLL	16bbLL	.	16bbbLL	.	8ryy	8ryy	4ryy	8ryy	.	4ryy	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16c#X	.	16e#X	.	16cc#X	.	16cc	.	16ff#X	.	16ccc	.	.	.	16cc	16ccc	.	16cccc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16B	.	16en	.	16b	.	16g	.	16ee-X	.	16gg	.	8ryy	.	16g	16gg	.	16ggg	.	4.ryy	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16AJJ	.	16c#XJJ	.	16aJJ	.	16a-XJJ	.	16ddnJJ	.	16aa-XJJ	.	.	.	16a-XJJ	16aa-XJJ	.	16aaa-XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	16dnLL	.	16gnLL	.	16ddnLL	.	16ccLL	.	16aa-XLL	.	16cccLL	.	4ryy	.	16ccLL	16cccLL	.	16ccccLL	.	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16cn	.	16en	.	16ccn	.	16cc#X	.	16gg	.	16ccc#X	.	.	.	16cc#X	16ccc#X	.	16cccc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16B-X	.	16e-X	.	16b-X	.	16g#X	.	16een	.	16gg#X	.	.	.	16g#X	16gg#X	.	16ggg#X	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	16A-XJJ	.	16cnJJ	.	16a-XJJ	.	16anJJ	.	16dd#XJJ	.	16aanJJ	.	.	.	16anJJ	16aanJJ	.	16aaanJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8,s9[(s10,s11)]s12,s13,s14)][(s15)][(s16)][({(s17,s18)})][(s19)][(s20[(s21,s22)][(s23,s24)]s25,s26)]

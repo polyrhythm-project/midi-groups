@@ -1,0 +1,138 @@
+!!!COM: Aaron Copland
+!!!OTL: [T725_Cop-w43p37-39m207-219]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Violin I	*	*I"Violin I	*	*I"Violin Solo	*	*I"Vibraphone	*	*I"Oboe 1	*	*I"Flute 1. 2.	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'Vln. I	*	*I'Vln. I	*	*I'Vln.	*	*I'Vib.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
+*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*	*MM69	*
+=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207	=207
+!!LO:TX:a:t=Slightly slower ([quarter]=69)
+!	!	!LO:TX:a:t=[sord.] Tutti div.	!	!LO:TX:a:t=[sord.] div.	!	!LO:TX:a:t=[sord.] div.	!	!	!	!LO:TX:a:t=(2nd) half	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:hanging slur (in addition to hanging tie)	!LO:DY:ed=brack	!	!	!	!
+1r	.	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	1ryy	.	8ryy	4ryy	4ryy	.	4ryy	.	1r	.	4ryy	.	4.ryy	4ryy	1r	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[(1st) half div.]	!	!LO:TX:a:t= [(1st) half div.]	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=sord.	!	!LO:TX:a:t=sord.	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	4ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:artifical harmonics	!	!LO:TX:t=P:problem:artifical harmonics and dotted slurs	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!LO:TX:a:t=with Ped.(Motor on-low)	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:head=dia	!	!	!	!	!	!	!LO:DY:t=sempre %s (delicate sonority)	!	!	!	!	!	!LO:DY:t= %s  thin tone
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	.	.	8ryy	4ryy
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.	2ryy	.	2ryy	.	.	.	2ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208	=208
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4%3r	.	2ryy	.	2ryy	.	2ryy	.	4%3ryy	.	4%3ryy	.	8ryy	.	8ryy	.	4%3r	.	8ryy	.	4%3ryy	.	4%3r	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.	2ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209	=209
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
+!	!	!	!	!LO:TX:t=P:problem:there should be two harmonics markings aligned vertically	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+1r	.	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	1ryy	.	1ryy	.	4.ryy	.	4.ryy	.	2r	.	4.ryy	.	1ryy	.	1r	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!LO:DY:t= %s dolce	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	4r	mp	2ryy	.	.	.	.	.	2ryy	.
+.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	.	.	.	.	.	.	.	(4ggg#Xu	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=210
+=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210	=210
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	2ryy	4ryy	2ryy	4ryy	2ryy	4ryy	4%3ryy	.	4%3ryy	.	4ryy	.	4ryy	.	4fff#X)	.	4ryy	.	4%3ryy	.	4%3r	.	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2eee	.	2ryy	.	.	.	.	.	2ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211	=211
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(1st) half div.	!	!LO:TX:a:t=(1st) half div.	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	2ryy	.	2ryy	.	2ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	4ryy	.	(4.fffn	.	4ryy	.	4%3ryy	.	4%3r	.	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.	2ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.aai)	.	.	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212	=212
+4%3r	.	2ryy	.	2ryy	.	2ryy	.	4%3ryy	.	4%3ryy	.	4.ryy	.	4.ryy	.	2.cc#X	.	4.ryy	.	4%3ryy	.	4%3r	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	4.ryy	.	.	.	4.ryy	.	.	.	.	.	4.ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!pagebreak:original
+=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213	=213
+!	!	!LO:TX:a:t=half	!	!LO:TX:a:t=half	!	!LO:TX:a:t=half	!	!	!	!LO:TX:a:t=half sord.	!	!	!	!	!	!LO:TX:a:t=always softer	!	!	!	!	!	!	!	!LO:TX:a:t=always softer	!
+4%3r	.	2ryy	4ryy	2ryy	4ryy	2ryy	4ryy	4%3ryy	.	2ryy	4ryy	4ryy	.	4ryy	.	4%3r	.	4ryy	.	4%3ryy	.	4%3r	.	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.	2ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214	=214
+4%3r	.	2ryy	.	2ryy	.	2ryy	.	4%3ryy	.	2ryy	.	8ryy	.	8ryy	.	4r	.	8ryy	.	4%3ryy	.	4%3r	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	4.ryy	.	.	.	4.ryy	.	.	.	.	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	4ryy	.	8ryy	.	8ryy	.	(4eeeu	.	8ryy	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	8ryy	.
+!!LO:REH:t=215
+=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215	=215
+!	!	!LO:TX:a:t=quarter	!	!LO:TX:a:t=quarter	!	!LO:TX:a:t=quarter	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	2ryy	.	2ryy	.	2ryy	.	4%3ryy	.	2ryy	.	4ryy	.	4ryy	.	4ddd)	.	4ryy	.	4%3ryy	.	4%3r	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ccc	.	2ryy	.	.	.	.	.	2ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216	=216
+*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4r	.	2ryy	.	2ryy	.	2ryy	.	4%3ryy	.	2ryy	.	4.ryy	.	4.ryy	.	4ccc#X	.	4.ryy	.	4%3ryy	.	4%3r	.	4ryy	.
+!LO:TX:a:t=1. Solo (arco)	!LO:DY:t=%s  dolce legato	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	mp	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2ff	> ]	.	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	4.ryy	.	.	.	4.ryy	.	.	.	.	.	4.ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4GG#X	.	4ryy	.	4ryy	.	4ryy	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217	=217
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
+*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:a:t=2. Soli	!	!LO:TX:a:t=4. Soli div.	!	!LO:TX:a:t=4. Soli div.	!	!LO:TX:a:t=2. Soli	!	!LO:TX:a:t=2. Soli	!	!LO:TX:a:t=halfdiv.	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AA#X	.	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2ryy	.	2ryy	.	[1b	p	2ryy	.	1ryy	.	1r	.	2ryy	.
+4BB#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2. Soli	!	!LO:TX:a:t=2. Soli	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+4C#X	.	.	.	.	.	.	.	.	.	.	.	2ryy	4ryy	2ryy	4ryy	.	.	2ryy	4ryy	.	.	.	.	2ryy	4ryy
+!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4BB	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=218	=
+2Go	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	4.ryy	.	4.ryy	.	1b_	.	4.ryy	.	1ryy	.	1r	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+!LO:TX:t=P:problem:artifical harmonics	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	4ryy	.	.	8ryy	4ryy	.	.	.	.	8ryy	4ryy
+!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2G#X [2d#X	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	.	.	.	2ryy	.
+!	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy
+=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219	=219
+!LO:T:n=2:dot	!	!	!	!	!	!	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!LO:T:n=2:dot	!	!	!	!	!	!	!	!	!	!	!
+[2.G#;_] [2.d#X]	>	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.b;_	>	2.ryy	.	1ryy	.	2r;	.	1ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!LO:DY:t=%s freely [poetic]	!	!
+8G#] 8d#]	]	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8b]	]	8ryy	.	.	.	(8ff#XL	mp	.	.
+8r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	8ryy	.	.	.	8aa#XJ	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:hanging slur	!	!	!
+=220	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4)][(s5,s6,s7,s8,s9,s10,s11,s12,s13)]
+!!!RDF**kern: i = editorial accidental, paren
+!!!EED:Jason Lee
+!!!EEV:2021/09/15

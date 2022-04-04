@@ -1,0 +1,100 @@
+!!!COM: (Edward) Benjamin Britten
+!!!OTL: [T805_Bri-w21p23m405-411]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[Poco animato [quarter]=78]
+!	!	!	!	!	!LO:DY:t=[ %s legatis.]	!	!LO:DY:t=[ %s legatis.]
+4ryy	.	4ryy	.	(8f#XL	4ryy	8aao)j	4ryy
+.	.	.	.	8ddJ	.	8dv	.
+!LO:TX:a:rj:t=pizz.	!LO:DY:b:t=%s pesante	!	!LO:DY:rj	!	!	!	!
+4ryy	4ryy	4ryy	4ryy	8aao)	.	(8ff#XL	.
+.	.	.	.	8dv	.	8aJ)	.
+4ryy	.	4ryy	.	(8ff#XL	.	(8f#XL	.
+.	.	.	.	8aJ)	.	8ddJ	.
+4ryy	.	4ryy	.	(8f#L	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+4ryy	.	4ryy	.	8aao)	.	(8ff#L	.
+.	.	.	.	8dv	.	8aJ)	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	4ryy	.	(8ff#XL	.	(8f#XL	.
+.	.	.	.	8aJ)	.	8ddJ	.
+4ryy	.	4ryy	.	(8f#XL	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+4ryy	.	4ryy	.	8aao)	.	(8ff#XL	.
+.	.	.	.	8dv	.	8aoJ)	.
+4ryy	.	4ryy	.	(8ff#L	.	(8f#L	.
+.	.	.	.	8aJ)	.	8ddJ	.
+4ryy	.	4ryy	.	(8f#L	.	8aa)	.
+.	.	.	.	8ddJ	.	8dv	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4ryy	.	8aao)	.	(8ff#XL	.
+.	.	.	.	8dv	.	8aJ)	.
+4ryy	4ryy	4ryy	4ryy	(8ff#XL	.	(8f#XL	.
+.	.	.	.	8aJ)	.	8ddJ	.
+4.ryy	.	4.ryy	.	(8f#XL	4ryy	8aao)	4ryy
+.	.	.	.	8ddJ	.	8av	.
+.	.	.	.	8aa)	.	(8dddL	.
+4.ryy	.	4.ryy	.	8av	.	8ff#J)	.
+.	.	.	.	(8ff#L	.	(8ddL	.
+.	4ryy	.	4ryy	8dddJ)	4ryy	8aaJ	4ryy
+=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	4ryy	2.ryy	4ryy	8ddv	4ryy	8fff#X)	4ryy
+.	.	.	.	(8fff#X	.	8av	.
+4ryy	.	.	.	8aa)	.	(8dddL	4ryy
+.	.	.	.	8av	4ryy	8ff#XJ)	.
+4ryy	.	.	.	(8dddL	.	(8f#XL	.
+.	.	.	.	8ff#XJ)	.	8ddJ	.
+2ryy	.	4ryy	.	(8f#XL	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+.	.	4ryy	4ryy	8aao)	.	(8ff#L	.
+.	.	.	.	8dv	4ryy	8aJ)	4ryy
+=5	=5	=5	=5	=5	=5	=5	=5
+4ryy	.	4ryy	.	(8ff#XL	4ryy	(8f#XL	4ryy
+.	.	.	.	8aJ)	.	8ddJ	.
+4ryy	4ryy	4ryy	4ryy	(8f#XL	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+4ryy	.	4ryy	.	8aao)	.	(8ff#XL	.
+.	.	.	.	8dv	.	8aJ)	.
+4ryy	.	4ryy	.	(8ff#L	.	(8f#L	.
+.	.	.	.	8aJ)	.	8ddJ	.
+4ryy	.	4ryy	.	(8f#L	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+!!LO:REH:t=410
+=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	8aa)	.	(8ff#XL	.
+.	.	.	.	8dv	.	8aJ)	.
+4ryy	.	4ryy	.	(8ff#XL	.	(8f#XL	.
+.	.	.	.	8aJ)	.	8ddJ	.
+4ryy	.	4ryy	.	(8f#XL	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+4ryy	.	4ryy	.	8aao)	.	(8ff#L	.
+.	.	.	.	8dv	.	8aJ)	.
+4ryy	.	4ryy	.	(8ff#L	.	(8f#L	.
+.	.	.	.	8aJ)	.	8ddJ	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4ryy	.	4ryy	.	(8f#XL	.	8aao)	.
+.	.	.	.	8ddJ	.	8dv	.
+4ryy	.	4ryy	.	8aao)	.	(8ff#XL	.
+.	.	.	.	8dv	.	8aJ)	.
+4.ryy	4ryy	4.ryy	4ryy	(8ff#XL	4ryy	(8f#XL	4ryy
+.	.	.	.	8aJ)	.	8ddJ	.
+.	.	.	.	(8dL	.	8aao)	.
+4.ryy	.	4.ryy	.	8aJ	.	8f#v	.
+.	.	.	.	8ff#)	.	(8ddL	.
+.	4ryy	.	4ryy	8dv	.	8aaoJ)	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2022/01/12

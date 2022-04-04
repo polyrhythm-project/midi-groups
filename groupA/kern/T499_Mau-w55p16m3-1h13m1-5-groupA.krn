@@ -1,0 +1,157 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T499_Mau-55/16/3-1[13]1-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:t=[ %s cresc. ]
+!	!	!	!	!	!	!	!LO:HP:t= 
+16BB'LL 16Fn	mf	([4ee	f	8ryy	.	4ryy	4ryy
+16BB' 16F	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:ed=brack	!	!
+16BB' 16F	.	.	.	16ryy	4ryy	.	.
+16BB'JJ 16F	.	.	.	16ryy	.	.	.
+4r	.	8eeL])	.	16ryy	.	4.ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	(8gg-XJ	.	8ryy	.	.	.
+16BB'LL 16F	.	8ee-XL	.	8ryy	.	.	.
+16BB' 16F	.	.	.	.	.	.	.
+16BB' 16F	.	8anJ)	.	16ryy	.	8ryy	.
+16BB'JJ 16F	.	.	.	16ryy	.	.	.
+4r	.	(8ffL	.	16ryy	.	4ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	8dd-XJ	.	8ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+16BB'LL 16F	.	8cc-XL)	.	8ryy	.	4.ryy	.
+16BB' 16F	.	.	.	.	.	.	.
+16BB' 16F	.	(8gg-XJ	.	16ryy	.	.	.
+16BB'JJ 16F	.	.	.	16ryy	.	.	.
+4r	<	8ee-XL	<	16ryy	.	.	.
+.	.	.	.	16ryy	.	.	.
+.	.	8anJ	.	8ryy	.	8ryy	4ryy
+16BB'LL 16F	.	4ff)	.	8ryy	.	4ryy	.
+16BB' 16F	.	.	.	.	.	.	.
+16BB' 16F	.	.	.	16ryy	4ryy	.	.
+16BB'JJ 16F	.	.	.	16ryy	.	.	.
+4r	[	(8dd-XL	[	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	[8b-XJ	.	8ryy	4ryy	8ryy	4ryy
+=3	=3	=3	=3	=3	=3	=3	=3
+16AA#X'LL 16F#X	.	8b-L])	.	8ryy	.	4.ryy	.
+16AA#' 16F#	.	.	.	.	.	.	.
+16AA#' 16F#	.	(8ggnJ	.	16ryy	.	.	.
+16AA#'JJ 16F#	.	.	.	16ryy	.	.	.
+4r	.	8eenL	.	16ryy	.	.	.
+.	.	.	.	16ryy	.	.	.
+.	.	8b-XJ)	.	8ryy	.	8ryy	.
+16AA#'LL 16F#	<	(8ff#XL	.	8ryy	.	4ryy	4ryy
+16AA#' 16F#	.	.	.	.	.	.	.
+16AA#' 16F#	.	8dd#XJ)	<	16ryy	4ryy	.	.
+16AA#'JJ 16F#	.	.	.	16ryy	.	.	.
+4r	[	(8ggL	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	8eeJ	[[	8ryy	4ryy	8ryy	4ryy
+!!LO:REH:t=13
+=4	=4	=4	=4	=4	=4	=4	=4
+!	!LO:DY:rj:t=poco %s	!	!	!	!	!	!
+16GG'LL 16G	f	8b-XL)	.	8ryy	.	8ryy	4ryy
+16GG' 16G	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:rj:t=poco %s	!	!
+16GG' 16G	.	(8cc#XJ	f	16ryy	4ryy	8ryy	.
+16GG'JJ 16G	.	.	.	16ryy	.	.	.
+8r	.	8aL	.	16ryy	.	4ryy	.
+.	.	.	.	16ryy	.	.	.
+!	!LO:DY:t=%s espress.	!	!	!	!	!	!
+(8GG	f	8gJ)	.	16ryy	.	.	.
+.	.	.	.	16ryy	.	.	.
+8E-XL	.	[2b-	.	8ryy	.	8ryy	.
+8B-XJ	.	.	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+8AnL)	<	.	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+(8GJ	.	.	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+*clefG2	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5
+8gL	.	8b-L]	.	8ryy	.	8ryy	.
+8aJ	.	(8ee-XJ	<	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+4b-X)	[	8ddL	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	8gJ)	[[	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+*clefF4	*	*	*	*	*	*	*
+(8GL	.	(8ccnL	.	8ryy	.	8ryy	.
+8AJ	.	[8b-XJ	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+4B-X)	.	8b-L])	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	(8ee-J	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+!!linebreak:original
+=6	=6	=6	=6	=6	=6	=6	=6
+(8e-XL	<	8ddL)	.	8ryy	.	8ryy	.
+8fJ	.	(8gJ	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+4f#X	.	8ccL	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	8b-XJ)	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+4g)	[	(4ee-X	<	8ryy	.	8ryy	.
+.	.	.	.	16ryy	4ryy	8ryy	4ryy
+.	.	.	.	16ryy	.	.	.
+(8B-XL	.	8dd-XL)	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+8cJ	.	[8gg-XJ	[	16ryy	.	8ryy	4ryy
+.	.	.	.	16ryy	4ryy	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4d-X	<	8ff#XL]	.	8ryy	.	8ryy	.
+.	.	8eenJ	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+4e-X	.	[4gg^	.	16ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	.	.	16ryy	.	8ryy	4ryy
+.	.	.	.	16ryy	.	.	.
+*clefG2	*	*	*	*	*	*	*
+!	!	!	!LO:DY:rj:t=molto %s	!	!	!	!
+8fnL)	f [	8ggL]	f	8ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.
+(8e-XJ	.	(8ff#XJ	.	16ryy	4ryy	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ryy	.	.	.
+8g-XL	.	8ggL	.	16ryy	.	12ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+8d-XJ)	.	8eeJ)	.	16ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ryy	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+(8f-XL	.	(8ggL	.	8ryy	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+8e-XJ	.	8ff#XJ)	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+8g-XL	.	(8ff#L	.	16ryy	.	12ryy	.
+.	.	.	.	16ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+8d-XJ)	.	8eeJ)	.	16ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ryy	.	.	.
+(8f-L	.	[4gg^	.	8ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.
+8e-J	.	.	.	16ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ryy	.	.	.
+[4gn)	.	8ggL]	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+.	.	[8ff#XJ	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

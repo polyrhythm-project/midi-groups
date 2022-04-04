@@ -1,0 +1,62 @@
+!!!COM: Charles Ives
+!!!OTL: [T241_Ive-w23p18m57]
+**kern		**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A		*grp:A		*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5		*part5		*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6		*staff5		*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano		*I"Piano		*I"Piano	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Pno.		*		*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4		*clefG2		*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]		*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:		*C:		*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4		*M4/4		*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=L
+=1		=1		=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^		*^		*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+20ALL	4GG 4G	20cc#XLL 20dddn	8dd#X	ff	7ryy	4ryy	7%2ryy	4ryy	7.ryy	4ryy	7.ryy	4ryy
+20E	.	20bbn	.	.	.	.	.	.	.	.	.	.
+20D	.	20aa	.	.	.	.	.	.	.	.	.	.
+.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	7ryy	.	.	.	.	.	.	.
+20Fn	.	20ff#X	.	.	.	.	.	.	.	.	.	.
+20D#XJJ	.	20gg#XJJ	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	14ryy	.	14ryy	.
+28FLL	4GG 4G	28ddnLL 28eee-X	8een	.	.	.	.	.	.	.	.	.
+28E	.	28bb	.	.	7ryy	.	21%2ryy	.	21%2ryy	.	21%2ryy	.
+28Dn	.	28aa	.	.	.	.	.	.	.	.	.	.
+28Fn	.	28ff#X	.	.	.	.	.	.	.	.	.	.
+.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	21%2ryy	.	21%4ryy	.	21%4ryy	.
+28D#X	.	28gg#X	.	.	.	.	.	.	.	.	.	.
+28C#X	.	28aa#X	.	.	7ryy	.	.	.	.	.	.	.
+28F#XJJ	.	28ggnJJ	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	21%2ryy	.	.	.	.	.
+44ALLL	4GG 4G	44cc#XLLL 44dddn	8dd#X	.	.	.	.	.	.	.	.	.
+44E	.	44bb	.	.	.	.	.	.	.	.	.	.
+44D#	.	44aa	.	.	.	.	.	.	.	.	.	.
+44Fn	.	44ff#X	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	7ryy	.	7.ryy	.	7.ryy	.	7.ryy	.
+44D#X	.	44gg#X	.	.	.	.	.	.	.	.	.	.
+44C#X	.	44aa#X	.	.	.	.	.	.	.	.	.	.
+.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+44F#X	.	44ggn	.	.	.	.	.	.	.	.	.	.
+44B	.	44ee	.	.	.	.	.	.	.	.	.	.
+44G#X	.	44ccc	.	.	.	.	.	.	.	.	.	.
+44cn	.	44ccc#X	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	7%2ryy	.	.	.	.	.	.	.
+44CnJJJ 44E-X	.	44aa-XJJJ	.	.	.	.	.	.	.	.	.	.
+28FLL	4GG 4G	28ccnLL 28eee-X	8ddn	.	.	.	.	.	.	.	.	.
+28E	.	28bb	.	.	.	.	14ryy	.	14ryy	.	14ryy	.
+28Dn	.	28aa	.	.	.	.	.	.	.	.	.	.
+28Fn	.	28ff#X	.	.	.	.	7ryy	.	14ryy	.	7ryy	.
+.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+28D#X	.	28gg#X	.	.	.	.	.	.	.	.	.	.
+28C#X	.	28aa#X	.	.	.	.	.	.	14ryy	.	.	.
+28F#XJJ	.	28ggnJJ	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*		*v	*v	*	*	*	*	*	*	*	*	*
+=		=		=	=	=	=	=	=	=	=	=
+*-		*-		*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]

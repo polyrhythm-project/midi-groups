@@ -1,0 +1,130 @@
+!!!COM: Frank Martin
+!!!OTL: [T563-Mai-w35p5h7m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:C	*grp:C	*grp:B	*grp:B	*grp:C	*grp:C	*grp:C	*grp:C
+*part14	*part14	*part14	*part14	*part13	*part13	*part13	*part13	*part12	*part12	*part12	*part12	*part11	*part11	*part9	*part9	*part8	*part8	*part8	*part8	*part7	*part7	*part7/8	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff19	*staff19	*staff18	*staff18	*staff17	*staff17	*staff16	*staff16	*staff15	*staff15	*staff14	*staff14	*staff13	*staff13	*staff11	*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff7	*staff7/8	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contrabass	*I"Contrabass	*I"Contrabass	*I"Contrabass	*I"Violoncello	*I"Violoncello	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Timpani	*I"Timpani	*I"Piano	*I"Piano	*I"Piano	*I"Piano	*I"Harp	*I"Harp	*I"Harp	*I"Horn in F II	*I"Horn in F II	*I"Contrabassoon	*I"Contrabassoon	*I"Bassoon I	*I"Bassoon I	*I"Bass Clarinet (C)	*I"Bass Clarinet (C)	*I"Clarinet in Bb I	*I"Clarinet in Bb I	*I"Flute I	*I"Flute I
+*I'Cb.	*	*	*	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*	*	*I'Vln. II	*	*I'Timp.	*	*I'Pno.	*	*	*	*I'Hp.	*	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICklav	*	*ICklav	*	*ICstr	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Itimpa	*	*Ipiano	*	*Ipiano	*	*Iarpa	*Iarpa	*	*Icor	*	*Ifag_c	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Iflt	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd0c0	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[0]	*	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=132]	!
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+12GGG'~	p	(24DDLL	p	12GG'~	p	12GG'~	p	(24DLL	p	(24DLL	p	12.r	.	2ryy	.	2ryy	.	2ryy	.	8ryy	8ryy	4ryy	2ryy	.	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.
+.	.	24CC#XJJ)	.	.	.	.	.	24C#XJJ)	.	24C#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12GG'~	.	12GG'~	.	(24DLL	.	(24DLL	.	12G'~	.	12G'~	.	(24dLL	p	.	.	.	.	.	.	4ryy	4ryy	.	.	.	16ryy	.	8ryy	4ryy	16ryy	.	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	24C#XJJ)	.	24C#XJJ)	.	.	.	.	.	24c#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12.r'~	.	12.r	.	12.r	.	12.r	.	12.r	.	12.r	.	6.r	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	16ryy	.	4ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	4ryy	.	.	16ryy	4ryy	16ryy	4ryy
+12GGG'~	.	(24CC#LL	.	12GG'~	.	12GG'~	.	(24C#LL	.	(24C#LL	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	.	.	16.ryy	.	.	.	16.ryy	.	16.ryy	.
+.	.	24DD	.	.	.	.	.	24D	.	24D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24CC#JJ)	.	24r	.	24r	.	24C#JJ)	.	24C#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	4ryy	.	.	32ryy	4ryy	32ryy	4ryy
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+6.r'~	.	6.r	.	12r	.	12r	.	6.r	.	6.r	.	12r	.	2ryy	.	2ryy	.	2ryy	.	4ryy	4ryy	.	2ryy	.	4ryy	.	8.ryy	4ryy	4ryy	.	8.ryy	4ryy	8.ryy	4ryy
+.	.	.	.	(24D/	.	(24D/	.	.	.	.	.	(24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24C#XLL	.	24C#XLL	.	.	.	.	.	24c#XLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24D	.	24D	.	.	.	.	.	24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	4ryy	.	.	16ryy	4ryy	16ryy	4ryy
+.	.	.	.	24C#JJ)	.	24C#JJ)	.	.	.	.	.	24c#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12GG'~	.	12GG'~	.	(24DLL	.	(24DLL	.	12G'~	.	12G'~	.	(24dLL	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	8ryy	4ryy	16ryy	.	8ryy	4ryy	16ryy	.	16ryy	.
+.	.	.	.	24C#JJ)	.	24C#JJ)	.	.	.	.	.	24c#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12GGG'~	.	(24DDLL	.	12GG'~	.	12GG'~	.	(24DLL	.	(24DLL	.	12.r	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	16ryy	.	.	.	16ryy	.	.	.	.	.
+.	.	24CC#XJJ)	.	.	.	.	.	24C#XJJ)	.	24C#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!LO:TX:a:t=div.	!	!	!	!LO:TX:a:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12.r'~	.	24r	.	12.r	.	24r	.	12.r	.	12.r	.	6.r	.	2ryy	.	2ryy	.	2ryy	.	8ryy	8ryy	.	8ryy	.	8ryy	.	8.ryy	.	8ryy	.	8.ryy	.	8.ryy	.
+.	.	(24DDLL	.	.	.	(24DLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24CC#XJJ)	.	.	.	24C#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:rj:t=II.	!	!	!	!	!	!	!	!	!	!	!
+12EEE'~	.	(24BBBLL	.	12GG#X'~	.	(24BBLL	.	12E'~	.	12E'~	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	8ryy	4ryy	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	24AAA#X	.	.	.	24AA#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.
+24r	.	24BBBJJ)	.	24r	.	24BBJJ)	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12CC#X'~	.	12CC#X'~	.	(24AA#XLL	.	(24AA#LL	.	12C#X'~	.	12E#X'~	.	12.r	.	.	.	.	.	.	.	8ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	24GG#JJ)	.	24GG#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12C#X'~	.	12C#X'~	.	(24A#XLL	.	(24A#XLL	.	12c#X'~	.	12c#X'~	.	12e#X'~	.	.	.	.	.	.	.	8ryy	8ryy	.	16ryy	.	16ryy	.	8ryy	.	16ryy	.	8ryy	.	8ryy	.
+.	.	.	.	24G#XJJ)	.	24G#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+12.r	.	12.r	.	12.r	.	12.r	.	12.r	.	12.r	.	6.r	.	2ryy	.	2ryy	.	2ryy	.	8r)yy	8r)yy	.	2ryy	.	8ryy	.	16ryy	.	8ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.
+12AAAn'~	.	(24EELL	.	12AAn'~	.	12AAn'~	.	(24ELL	.	(24EnLL	.	.	.	.	.	.	.	.	.	4ryy	4ryy	.	.	.	4ryy	.	16.ryy	.	4ryy	.	16.ryy	.	16.ryy	.
+.	.	24DD#X	.	.	.	.	.	24D#X	.	24D#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24EEJJ)	.	24r	.	24r	.	24EJJ)	.	24EJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	32ryy	.	32ryy	.
+12.r	.	12.r	.	24r	.	24r	.	12.r	.	12.r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	.	(24D#XLL	.	(24D#XLL	.	.	.	.	.	(24d#XLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	.	24EJJ)	.	24EJJ)	.	.	.	.	.	24eJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12AA'~	.	12AA'~	.	(24D#LL	.	(24D#LL	.	12A'~	.	12A'~	.	(24d#LL	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	16ryy	.	8ryy	.	16ryy	.	8ryy	.	8ryy	.
+.	.	.	.	24EJJ)	.	24EJJ)	.	.	.	.	.	24eJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+12.r	.	24r	.	12.r	.	24r	.	24r	.	12.r	.	6.r	.	2ryy	.	2ryy	.	2ryy	.	8r)yy	8r)yy	.	8ryy	.	8ryy	.	16ryy	.	8ryy	.	16ryy	.	16ryy	.
+.	.	(24EELL	.	.	.	(24ELL	.	(24ELL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.
+.	.	24DD#XJJ)	.	.	.	24D#XJJ)	.	24D#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12FFF#X'~	.	(24CC#XLL	.	12AA#X'~	.	(24C#XLL	.	(24C#XLL	.	12F#X'~	.	.	.	.	.	.	.	.	.	4ryy	4ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	24BBB#X	.	.	.	24BB#X	.	24BB#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24CC#JJ)	.	24r	.	24C#JJ)	.	24C#JJ)	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12.r	.	12.r	.	24r	.	12.r	.	12.r	.	12.r	.	24r	.	.	.	.	.	.	.	.	.	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	(24C#XLL	.	.	.	.	.	.	.	(24c#XLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	8.ryy	4ryy	16ryy	.	8.ryy	4ryy	8.ryy	4ryy
+.	.	.	.	24BB#XJJ)	.	.	.	.	.	.	.	24B#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12FF#X'~	.	12FF#X'~	.	(24C#LL	.	12A#X'~	.	12F#X'~	.	12f#X'~	.	(24c#LL	.	.	.	.	.	.	.	8ryy	8ryy	.	16ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	24BB#	.	.	.	.	.	.	.	24B#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24r	.	24C#JJ)	.	24r	.	24r	.	24r	.	24c#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=sordo e secco/senza ped./una corda	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12D#X'~	.	12D#X'~	.	12D#X'~	.	(24B#XLL	.	12A#X'~	.	12f##X'~	.	12d#X'~	.	4ryy	.	4ryy	.	4ryy	.	8ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	.	.	24A#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12DD#X'~	.	12AA#X'~	.	(24BB#XLL	.	(24BB#XLL	.	12D#X'~	.	12G##X'~	.	12.r	.	.	.	.	.	.	.	4.ryy	4.ryy	.	16ryy	.	16ryy	.	4ryy	.	16ryy	.	4ryy	.	4ryy	.
+.	.	.	.	24AA#XJJ)	.	24AA#XJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.
+24r	.	24r	.	24r	.	24r	.	24r	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=3:xbr	!	!LO:TUP:r=3:xbr	!	!	!	!	!	!	!LO:TUP:r=3:xbr	!	!	!	!LO:TUP:r=3:xbr	!	!	!	!	!
+6.r	.	6.r	.	6.r	.	6.r	.	6.r	.	6.r	.	6.r	.	8ryy	.	24ryy	.	24ryy	.	.	.	.	4ryy	.	24ryy	.	.	.	24ryy	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	4ryy	24ryy	4ryy	.	.	.	.	.	24ryy	4ryy	.	.	24ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	4ryy	24ryy	4ryy	.	.	.	.	.	24ryy	4ryy	.	.	24ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	4ryy	24ryy	.	24ryy	.	.	.	.	.	.	24ryy	.	8ryy	.	24ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	24ryy	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	24ryy	.	.	.	24ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6)][({(s7,s8)})][({(s9,s10)})][(s11)][(s12,s13[({(s14,s15)})][({(s16,s17)})][({(s18,s19)})])]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = hairpin accent
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/03
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/16

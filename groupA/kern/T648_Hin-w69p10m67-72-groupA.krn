@@ -1,0 +1,61 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T648_Hin-w69p10m67-72]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*
+*I"Harp	*	*
+*I'Hp.	*	*
+*ICstr	*ICstr	*
+*Iarpa	*Iarpa	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+!	!LO:TX:t=[[half-dot]=80]	!
+!	!LO:TX:t=P:problem:cross-measure beaming to be implemented	!LO:DY:ed=brack
+4e-X	8ryy	4ryy
+.	8ryy	.
+4B-X	8ryy	.
+.	8ryy	.
+4e-	8ryy	.
+.	8ryy	.
+=2	=2	=2
+4f	8ryy	.
+.	8ryy	.
+8G-XL	8ryy	.
+8B-XJ	8ryy	.
+4f	8ryy	.
+.	8ryy	.
+=3	=3	=3
+4e-X	8ryy	.
+.	8ryy	.
+4A-X	8ryy	.
+.	8ryy	.
+4e-	8ryy	.
+.	8ryy	.
+=4	=4	=4
+2f 2b-X	8ryy	.
+.	8ryy	.
+.	8ryy	.
+.	8ryy	.
+4d-X 4g-X	8ryy	.
+.	8ryy	.
+=5	=5	=5
+4e-X 4a-X	8ryy	.
+.	8ryy	.
+8dd-XL	8ryy	.
+8a-J	8ryy	.
+4dd-	8ryy	.
+.	8ryy	.
+=6	=6	=6
+2e-X 2a-X	8ryy	.
+.	8ryy	.
+.	8ryy	.
+.	8ryy	.
+4B-X 4f	8ryy	.
+.	8ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

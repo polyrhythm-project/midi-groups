@@ -1,0 +1,167 @@
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Piano Sonata No. 7 in B-flat Major, op. 83
+!!!OMV: Movement 3
+!!!example: 582
+!!!work: Pro-35
+!!!OMD-full: Precipitato
+!!!OMD: Precipitato
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*clefF4	*clefF4	*
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
+*M7/8	*M7/8	*
+=1	=1	=1
+!	!LO:TX:t=[[eighth]=368]	!
+!	!	!
+8r	4ryy	4ryy
+8BBB- 8BB-	.	.
+4CC#X^ 4C#X	8ryy	.
+!	!	!
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=2	=2	=2
+8r	4ryy	.
+8BBB- 8BB-	.	.
+8r	4ryy	.
+8CC#X 8C#X	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=3	=3	=3
+8r	4ryy	.
+8BBB- 8BB-	.	.
+4CC#X^ 4C#X	8ryy	.
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=4	=4	=4
+8r	4ryy	.
+8BBB- 8BB-	.	.
+8r	4ryy	.
+8EE- 8E-	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=5	=5	=5
+8r	4ryy	.
+8BBB- 8BB-	.	.
+4CC#X^ 4C#X	8ryy	.
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=6	=6	=6
+8r	4ryy	.
+8BBB- 8BB-	.	.
+*	*clefG2	*
+8r	4ryy	.
+8EE- 8E-	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=7	=7	=7
+8r	4ryy	.
+8BBB- 8BB-	.	.
+4CC#X^ 4C#X	8ryy	.
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=8	=8	=8
+8r	4ryy	.
+8BBB- 8BB-	.	.
+8r	4ryy	.
+8AA 8A	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=9	=9	=9
+8r	4ryy	.
+8BBB- 8BB-	.	.
+4CC#X^ 4C#X	8ryy	.
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=10	=10	=10
+8r	4ryy	.
+8BBB- 8BB-	.	.
+8r	4ryy	.
+8AA 8A	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=11	=11	=11
+!	!	!
+8r	4ryy	4ryy
+8BBB- 8BB-	.	.
+4CC#X^ 4C#X	8ryy	.
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=12	=12	=12
+8r	4ryy	.
+8BBBn 8BBn	.	.
+8r	4ryy	.
+8FF#X 8F#X	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=13	=13	=13
+8r	4ryy	.
+8BBB-X 8BB-X	.	.
+4CC#X^ 4C#X	8ryy	.
+.	4ryy	.
+8BBB- 8BB-	.	.
+4r	8ryy	.
+.	8ryy	.
+=14	=14	=14
+8r	4ryy	.
+8BBBn 8BBn	.	.
+8r	4ryy	.
+8FF#X 8F#X	.	.
+8r	8ryy	.
+4r	8ryy	.
+.	8ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: i = editorial accidental, paren
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1943/01/18
+!!!MGN:
+!!!MLC: Moscow, Russia
+!!!MPD: 1943
+!!!MPN: Richter, Sviatoslav
+!!!ODT: 1942
+!!!PDT: 1943
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:16
+!!!excerpt-duration-sec: 16
+!!!excerpt-time-signature: 7/8
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {368}
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

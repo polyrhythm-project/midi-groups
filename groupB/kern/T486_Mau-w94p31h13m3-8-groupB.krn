@@ -1,0 +1,55 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T486_Mau-94/31/[13]3-8]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
+*clefF4	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*
+=133	=133	=133	=133	=133	=133	=133
+*	*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=103]	!
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
+!	!LO:T:a	!	!LO:DY:t=poco %s	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s espress.
+2ryy	8ryy	8ryy	4ryy	(2E-X)	f	(8ee-X:	f
+.	8ryy	8ryy	.	.	.	4gg-X)	.
+*	*v	*v	*	*	*	*	*
+.	8ryy	4ryy	.	.	.	.
+.	8ryy	.	.	.	(8ee-	.
+=134	=134	=134	=134	=134	=134	=134
+2ryy	8ryy	.	4B-X)	.	4bb-X	.
+.	8ryy	.	.	.	.	.
+.	8ryy	.	(4Bn	.	4aa	.
+.	8ryy	.	.	.	.	.
+=135	=135	=135	=135	=135	=135	=135
+2ryy	8ryy	.	4d)	.	4ff)	.
+.	8ryy	.	.	.	.	.
+.	8ryy	.	(8BnL	.	(8ccc-XL	.
+.	8ryy	.	[8e-XJ	.	[8bb-XJ	.
+=136	=136	=136	=136	=136	=136	=136
+2ryy	8ryy	.	8e-])	.	8bb-])	.
+.	8ryy	.	(4d	.	(4aa	.
+.	8ryy	.	.	.	.	.
+.	8ryy	.	[8Bn	.	[8ff	.
+=137	=137	=137	=137	=137	=137	=137
+2ryy	8ryy	.	8BL])	.	8ffL])	.
+.	8ryy	.	(8dJ	.	(8ccc-XJ	.
+.	4ryy	4ryy	4e-X)	.	4bb-X)	.
+*	*	*	*clefG2	*	*	*
+=138	=138	=138	=138	=138	=138	=138
+2ryy	8ryy	.	(4g-X	<	(4eee-X	<
+.	4.ryy	4ryy	.	.	.	.
+.	.	.	/[4b-X)	[	[4bbb-X)	[
+=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/04
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/05

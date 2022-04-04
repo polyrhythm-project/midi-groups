@@ -1,0 +1,67 @@
+!!!COM: (Edward) Benjamin Britten
+!!!OTL: [T802_Bri-w27p24h3m1-3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B		*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8		*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8		*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trombone III.	*	*I"Trombone I.II.	*	*I"Trumpet III in D	*	*I"Trumpet I.II. in C		*	*I"Horn III.IV. in F	*	*I"Horn I.II. in F	*	*I"Clarinet II in Eb	*	*I"Clarinet I in A	*	*I"Oboe I.II.	*	*I"Piccolo	*	*I"Flute I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tbn.	*	*I'Tbn.	*	*I'D Tpt.	*	*I'C Tpt.		*	*I'Hn.	*	*I'Hn.	*	*I'Eb Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Picc.	*	*I'Fl.	*
+*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2		*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-1c-2	*	*		*	*ITrd4c7	*	*ITrd4c7	*	*ITrd-2c-3	*	*ITrd2c3	*	*	*	*ITrd-7c-12	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]		*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:		*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2		*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+!!LO:REH:t=3
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1		=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:t=[Allegro spiritoso [half]=80]
+!LO:TX:a:rj:t=[unis.]	!	!LO:TX:a:rj:t=[unis.]	!	!LO:TX:a:rj:t=[unis.]	!	!LO:TX:a:rj:t=[unis.]	!	!	!LO:DY:t=%s sosten.	!	!LO:DY:t=%s sosten.	!LO:TX:a:rj:t=Solo	!	!LO:TX:a:rj:t=Solo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8a`L	4ryy	8dd`L	4ryy	8ee`L	4ryy	8aa`L	4ryy	[1d	4ryy	[1d [1f#	4ryy	8ryy	4ryy	8ryy	1reyy	4ryy	1r	.	1r	.	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8ryy	.	8rffyy	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	8ryy	.	8rffyy	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8a`L	.	8dd`L	.	8ee`L	.	8aa`L	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8ryy	.	8raayy	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	8ryy	.	8raayy	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:rj:t=Solo	!	!	!	!	!	!LO:DY:t=%s sosten.	!	!	!	!	!	!	!	!	!	!
+8g#`L	.	8dd`L	.	8ee`L	.	8aa`L	.	1d_	.	1d] 1f#]	.	8ryy	.	2rffyy	8ryy	4ryy	[1e [1g#	4ryy	[1e [1g#	4ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d`	.	8a`	.	8gg#`	.	8eee`	.	.	.	.	.	8ryy	.	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ryy	.	.	8ryy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8e`J	.	8gg#`J	.	8dd`J	.	8ggg#Z`J	.	.	.	.	.	8ryy	.	.	8ryy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8g#`L	.	8dd`L	.	8ee`L	.	8aa`L	.	.	.	.	.	8ryy	.	4ryy	8ryy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d`	.	8a`	.	8gg#`	.	8eee`	.	.	.	.	.	8ryy	.	.	8rbyy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ryy	.	8ryy	4r^yy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8e`J	.	8gg#`J	.	8dd`J	.	8ggg#`J	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a`L	.	8dd`L	.	8ee`L	.	8aa`L	.	1d_	.	[1f# [1a	4ryy	8r^yy	.	8rffyy	2reyy	.	1e] 1g#]	.	1e] 1g#]	.	8r'yy	.	8r'yy	.	8r'yy	.	8r'yy	.	8r'yy	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	8r^yy	.	8raayy	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8a`L	.	8dd`L	.	8ee`L	.	8aa`L	.	.	.	.	.	8ryy	.	2rffyy	8ryy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8r^yy	.	.	8ryy	.	.	.	.	.	8r'yy	.	8r'yy	.	8r'yy	.	8r'yy	.	8r'yy	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	4ryy	.	.	4ryy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3[(s4,s5)])][([(s6,s7)][(s8,s9)][(s10,s11)])][(s12,s13,s14,s15)]
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: > =above
+!!!EED:Jason Lee
+!!!EEV:2022/01/12

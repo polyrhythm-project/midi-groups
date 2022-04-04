@@ -1,0 +1,158 @@
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
+!!!OMV:
+!!!example: 130
+!!!work: Jan-33
+!!!OMD-full: Con moto
+!!!OMD: [Con moto]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff14	*staff14	*staff13	*staff13	*staff12	*staff12	*staff11	*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Itimpa	*	*Itromt	*	*Icor	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin Solo	*	*I"Timpani	*	*I"Trombones	*	*I"Horns in F	*	*I"Bassoons	*	*I"Bass Clarinet in Bb	*	*I"Clarinets in Bb	*	*I"Oboes	*	*I"Flutes	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*	*I'Timp.	*	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[]	*	*k[b-e-a-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*C:	*	*E-:	*	*F:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=2
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
+4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	32ryy	4ryy	4.ryy	4ryy	4.ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+8%3ryy	.	8%3ryy	.	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	8%3ryy	.	32ryy	.	8%3ryy	.	8%3ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+8%3ryy	.	8%3ryy	.	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	8%3ryy	.	32ryy	4ryy	8%3ryy	.	8%3ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[0]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*F:	*	*C:	*	*B-:	*	*B-:	*	*C:	*	*C:	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!
+8%3ryy	.	8%3ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	8%3ryy	.	32ryy	.	8%3ryy	.	8%3ryy	.	4.ryy	.	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ryy	4ryy	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy
+*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||	=67||
+!	!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!LO:TX:t=	!	!LO:TUP:num=2	!	!	!	!	!	!	!	!LO:TX:a:B:	!	!	!	!	!	!LO:TX:t=Vivo ([quarter-dot]=84)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
+8%3ryy	.	8%3ryy	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	8%3ryy	.	64%3ryy	4ryy	8%3ryy	.	8%3ryy	.	4.ryy	.	4.ryy	.	16%3ryy	.	4.ryy	.	16%3ryy	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.	64%3ryy	.	.	.	64%3ryy	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.	64%3ryy	.	.	.	64%3ryy	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.	64%3ryy	.	.	.	64%3ryy	.
+.	.	.	.	64%3ryy	.	64%3ryy	.	64%3ryy	.	.	.	64%3ryy	4ryy	.	.	.	.	.	.	.	.	64%3ryy	.	.	.	64%3ryy	.
+=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:	=68!|:
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=stacc.	!
+4ryy	4ryy	16%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8ryy	.	8%3ryy	.	8%3ryy	.	8ryy	4.ryy	.	8ryy	.	8ryy	.	8ryy	.	8ddd#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	8ryy	.	.	8ryy	.	8ryy	.	8ryy	.	8bb	.
+!	!	!LO:TX:t=P:problem:Cello duplets should be beamed over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16%3ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	8ryy	.	.	8ryy	.	8ryy	.	8ryy	.	8ddd#J	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+4ryy	.	16%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	4.ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8ccc#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa	.
+.	.	16%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#J	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+4ryy	.	16%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	4.ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8bbL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.
+.	.	16%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8bbJ	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+!	!	!	!	!	!	!LO:TUP:num=2	!	!LO:TUP:num=2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	16%3ryy	.	8%3ryy	.	64%3ryy	4ryy	64%3ryy	4ryy	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	4.ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	4.bb]	.
+.	.	.	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16%3ryy	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	64%3ryy	.	64%3ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7)][(s8)][(s9,s10,s11,s12,s13,s14)]
+!!!CDT: 1854/07/03-1928/08/12
+!!!CBL: Hukvaldy, Moravia
+!!!CDL: Moravaská Ostrava, Czech Republic
+!!!CNT: Czech
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Ostrcil, Otakar
+!!!MDT: 1917/11/14
+!!!MGN: Czech Philharmonic Orchestra
+!!!MLC: Prague, Czechia
+!!!MPD: 1917
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 63
+!!!excerpt-end-measure: 71
+!!!excerpt-start-time: 1:28
+!!!excerpt-end-time: 1:36
+!!!excerpt-duration-sec: 8
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {203}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

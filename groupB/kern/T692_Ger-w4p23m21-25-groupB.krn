@@ -1,0 +1,83 @@
+!!!COM: George Gershwin
+!!!OTL: [T692_Ger-w4p23m21-25]
+**kern	**kern	**dynam	**kern	**text
+*grp:A	*grp:B	*	*grp:B	*
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*staff1
+*I"Piano	*	*	*I"Treble Solo	*
+*I'Pno.	*	*	*I'Tr. Solo	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*E-:	*	*E-:	*
+*M4/4	*M4/4	*	*M4/4	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+=1!|:	=1!|:	=1!|:	=1!|:	=1!|:
+!LO:T:b	!	!	!LO:TX:a:t=B♭7	!
+4ryy	8f'L]	4ryy	8fL	4ryy
+.	8a-'	.	8a-	4ryy
+!	!	!	!LO:TX:a:t=A♭	!
+4ryy	8g'	.	8g	4ryy
+.	8f'J	.	8fJ	4ryy
+!	!	!	!LO:TX:a:t=B♭7	!
+4ryy	8b-'L	.	8b-L	4ryy
+.	8b-'J	.	8b-J	4ryy
+!	!	!	!LO:TX:a:t=A♭	!
+4ryy	8r	.	8r	.
+.	8f'	.	8f	4ryy
+=2	=2	=2	=2	=2
+!	!	!	!LO:TX:a:t=B♭7	!
+.	(8qb-/	.	.	.
+4ryy	8a-'L)	.	8a-L	4ryy
+.	8g'	.	8g	4ryy
+!	!	!	!LO:TX:a:t=A♭	!
+4ryy	8f'	.	8f	4ryy
+.	8b-'J	.	8b-J	4ryy
+!	!	!	!LO:TX:a:t=B♭7	!
+4ryy	8b-'	.	8b-	4ryy
+.	8r	.	8r	.
+!	!	!	!LO:TX:a:t=A♭	!
+4ryy	8f'L	.	8fL	4ryy
+.	8a-'J	.	8a-J	4ryy
+!!linebreak:original
+=3	=3	=3	=3	=3
+!	!	!	!LO:TX:a:t=B♭7	!
+4ryy	8g'L	.	8gL	4ryy
+.	8f'	.	8f	4ryy
+!	!	!	!LO:TX:a:t=A♭	!
+4ryy	8b-'	.	8b-	4ryy
+.	8b-'J	.	8b-J	4ryy
+!	!	!	!LO:TX:a:t=B♭7	!
+4ryy	8r	.	8r	.
+.	8f'L	.	8fL	4ryy
+!	!	!	!LO:TX:a:t=A♭	!
+.	(8qb-/	.	.	.
+4ryy	8a-')	.	8a-	4ryy
+.	8g'J	.	8gJ	4ryy
+=4	=4	=4	=4	=4
+!	!	!	!LO:TX:a:t=B♭7	!
+4ryy	8f'	.	4f	4ryy
+.	8r	.	.	.
+4ryy	2.B-^	.	2.B-	4ryy
+4ryy	.	.	.	.
+4ryy	.	.	.	.
+=5	=5	=5	=5	=5
+.	(16qqg/LL	.	.	.
+.	16qqa-/	.	.	.
+!	!	!	!LO:TX:a:t=E♭	!
+.	16qqan/JJ	.	.	.
+4ryy	8b-'L)	.	8b-L	4ryy
+.	8dd-X'	.	8dd-X	4ryy
+!	!	!	!LO:TX:a:t=D♭	!
+4ryy	8cc'	.	8cc	4ryy
+.	8b-'J	.	8b-J	4ryy
+!	!	!	!LO:TX:a:t=E♭7	!
+4ryy	8ee-'L	.	8ee-L	4ryy
+.	8ee-'J	.	8ee-J	4ryy
+!	!	!	!LO:TX:a:t=D♭	!
+4ryy	8r	.	8r	.
+.	8b-'	.	8b-	4ryy
+=	=	=	=|	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED:Jason Lee
+!!!EEV:2021/12/23

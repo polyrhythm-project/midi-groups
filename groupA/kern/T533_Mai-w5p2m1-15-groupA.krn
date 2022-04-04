@@ -1,0 +1,104 @@
+!!!COM: Frank Martin
+!!!OTL: [T533_Mai-w5p2m1-15]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=68]	!
+!	!	!	!	!	!	!LO:TX:a:B:t=Andante con moto	!
+4%3r	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+*clefC4	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2
+!	!LO:DY:t= %s molto espress.	!	!	!	!	!	!
+2dd^	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	4ryy	.	4ryy	.	4ryy	.
+[4d	.	4ryy	.	4ryy	.	4ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8d]	.	4ryy	.	4ryy	.	4ryy	.
+8r	.	.	.	.	.	.	.
+8r	.	4ryy	.	4ryy	.	4ryy	.
+(4a	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+8b-)	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+[2.a	4ryy	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5
+8a]	.	4ryy	.	4ryy	.	4ryy	.
+(4g	4ryy	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+8f)	.	.	.	.	.	.	.
+(8gL	4ryy	4ryy	.	4ryy	.	4ryy	.
+8aJ)	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+([2f	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+8fL]	.	4ryy	.	4ryy	.	4ryy	.
+8gJ)	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+[2.e	4ryy	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8e]	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+8r	.	.	.	.	.	.	.
+4r	.	4.ryy	.	4ryy	.	4ryy	.
+4r	.	.	.	4ryy	.	4ryy	.
+.	.	8ryy	4ryy	.	4ryy	.	4ryy
+=9	=9	=9	=9	=9	=9	=9	=9
+4%3r	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+=10	=10	=10	=10	=10	=10	=10	=10
+2dd^	4ryy	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+[4d	.	4ryy	.	4ryy	.	4ryy	.
+=11	=11	=11	=11	=11	=11	=11	=11
+8dL]	.	4ryy	.	4ryy	.	4ryy	.
+(8e	.	.	.	.	.	.	.
+8f	.	4ryy	.	4ryy	.	4ryy	.
+8gJ)	.	.	.	.	.	.	.
+([4a	.	4ryy	.	4ryy	.	4ryy	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8aL]	.	4ryy	.	4ryy	.	4ryy	.
+8bnJ)	.	.	.	.	.	.	.
+(4.cc	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+8b)	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+(8bn	.	4ryy	.	4ryy	.	4ryy	.
+4b-X	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+8a)	.	.	.	.	.	.	.
+(8aL	.	4ryy	.	4ryy	.	4ryy	.
+8b-J)	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+(4.a	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+8g)	.	.	.	.	.	.	.
+[4g	.	4ryy	.	4ryy	.	4ryy	.
+=15	=15	=15	=15	=15	=15	=15	=15
+8gL]	.	4ryy	.	4ryy	.	4ryy	.
+(8Bn	.	.	.	.	.	.	.
+8c#X	.	8ryy	.	4ryy	.	4ryy	.
+8dJ)	.	8ryy	.	.	.	.	.
+(8eL	.	4ryy	.	4ryy	.	4ryy	.
+8fJ)	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/17

@@ -1,0 +1,94 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Piano Trio No. 1
+!!!OMV: Movement 5
+!!!example: 492
+!!!work: Mau-24
+!!!OMD-full: Allegro con brio
+!!!OMD: [Allegro con brio]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*ICstr	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Icello	*	*Ivioln	*
+*I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
+*clefF4	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M2/2	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
+=99	=99	=99	=99	=99	=99	=99
+!	!	!	!	!	!LO:TX:t=[half]=132	!
+!	!	!LO:DY:ed=brack	!	!	!	!
+!	!	!	!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.
+8ryy	8ryy	4ryy	(4F#X	f <	(4ddd	f <
+8ryy	8ryy	.	.	.	.	.
+*clefG2	*	*	*	*	*	*
+*	*8va	*	*	*	*	*
+4ryy	4ryy	4ryy	2d)	[	2bbb-X~)	[
+4ryy	4ryy	.	.	.	.	.
+4ryy	4ryy	.	(4Fn	<	(4ccc#X	<
+*clefF4	*	*	*	*	*	*
+!!LO:REH:t=100
+=100	=100	=100	=100	=100	=100	=100
+4ryy	4ryy	.	2d-X)	[	2aaa-X)	[
+4ryy	4ryy	.	.	.	.	.
+4ryy	4ryy	.	(4E	<	(4cccn	<
+4ryy	4ryy	.	4c)	[	4aaa-X)	[
+=101	=101	=101	=101	=101	=101	=101
+4ryy	4ryy	.	(4B	<	(4een	<
+4ryy	4ryy	.	2g)	[	2ccc#X)	[
+4ryy	4ryy	.	.	.	.	.
+4ryy	4ryy	.	(4f	[ <	(4dd	<
+*	*X8va	*	*	*	*	*
+=102	=102	=102	=102	=102	=102	=102
+4ryy	4ryy	.	2a-X)	[	2bb)	[
+*clefG2	*	*	*	*	*	*
+4ryy	4ryy	.	.	.	.	.
+4ryy	4ryy	.	(4f#X	<	(4cc#X	<
+4ryy	4ryy	.	4an)	[	4aa)	[
+*	*	*	*clefG2	*	*	*
+=103	=103	=103	=103	=103	=103	=103
+4ryy	4ryy	.	(4g	.	(4b	.
+4ryy	4ryy	.	2dd)	.	2fn)	.
+4ryy	4ryy	.	.	.	.	.
+4ryy	4ryy	.	(4d#X	.	(4g	.
+=104	=104	=104	=104	=104	=104	=104
+4ryy	4ryy	.	2b)	.	2d)	.
+4ryy	4ryy	.	.	.	.	.
+4ryy	4ryy	.	(4c#Xi	.	(4ei	.
+4ryy	4ryy	.	[4a	.	[4c#X	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][({(s3,s4)})]
+!!!Xfilter: slurcheck
+!!!CDT: 1890/12/08-1959/08/28
+!!!CBL: Polička, Bohemia
+!!!CDL: Liestal, Switzerland
+!!!CNT: Czech
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1930/11/14
+!!!MGN: Trio Filomusi
+!!!MLC: Paris, France
+!!!MPD: 1930
+!!!MPN: unknown
+!!!ODT: 1930
+!!!PDT: 1931
+!!!excerpt-start-measure: 99
+!!!excerpt-end-measure: 104
+!!!excerpt-start-time: 1:34
+!!!excerpt-end-time: 1:40
+!!!excerpt-duration-sec: 6
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: [half]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

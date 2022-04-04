@@ -1,0 +1,57 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T523_Mau-w83b2p7m9-12]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+!	!LO:TX:t=[Poco Allegro [quarter]=112]	!LO:DY:ed=brack
+16ryy	16gLL 16cc	mf
+16ryy	16e	.
+16ryy	16g 16cc	.
+16ryy	16eJJ	.
+16ryy	16gLL 16dd	.
+16ryy	16f	.
+16ryy	16g 16cc	.
+16ryy	16eJJ)j	.
+=2	=2	=2
+16ryy	(16fLL 16b	.
+16ryy	16e	.
+16ryy	16a 16dd	.
+16ryy	16fJJ	.
+16ryy	16gLL 16cc	.
+16ryy	16e	.
+16ryy	16g 16cc	.
+16ryy	16eJJ)	.
+!!linebreak:original
+=3	=3	=3
+16ryy	(16gLL 16cc	.
+16ryy	16e	.
+16ryy	16g 16cc	.
+16ryy	16eJJ	.
+16ryy	16gLL 16dd	.
+16ryy	16f	.
+16ryy	16g 16cc	.
+16ryy	16eJJ)	.
+=4	=4	=4
+16ryy	(16fLL 16b	.
+16ryy	16e	.
+16ryy	16g 16dd	.
+16ryy	16fJJ	.
+16ryy	16gLL 16cc	.
+16ryy	16eJ)	.
+!	!	!LO:DY:t=poco %s
+8ryy	8g'J 8ee 8gg	f
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/16

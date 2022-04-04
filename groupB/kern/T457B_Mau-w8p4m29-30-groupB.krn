@@ -1,0 +1,36 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T457B_Mau-w8p4m29-30]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+*M3/8	*M3/8	*
+=1	=1	=1
+!	!LO:TX:t=[eighth]=160	!LO:DY:t=%s risoluto
+!LO:TX:b:t=[P]	!	!LO:DY:ed=brack
+!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!
+8ryy	8ffnL 8fffn	ff
+!LO:TX:b:t=[x]	!	!
+8ryy	16r	.
+.	16ee-XL 16eee-X	.
+!LO:TX:b:t=[P]	!	!
+8ryy	16een 16eeen	.
+.	16ffJJ 16fff	.
+=2	=2	=2
+!LO:TX:b:t=[x]	!	!
+8ryy	8gg-XL 8ggg-X	.
+!LO:TX:b:t=[P]	!	!
+8ryy	16r	.
+.	16ffnL 16fffn	.
+!LO:TX:b:t=[x]	!	!
+8ryy	16gg- 16ggg-	<
+.	16ggnJJ 16gggn	.[
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

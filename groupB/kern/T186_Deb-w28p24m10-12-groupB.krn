@@ -1,0 +1,45 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T186_Deb-w28p24m10-12]
+**kern	**dynam	**kern		**dynam
+*part1	*part1	*part1		*part1
+*staff2	*staff2	*staff1		*staff1
+*I"Piano	*	*		*
+*I'Pno.	*	*		*
+*clefF4	*	*clefG2		*
+*k[b-e-a-]	*	*k[b-e-a-]		*
+*E-:	*	*E-:		*
+*M2/4	*	*M2/4		*
+=1	=1	=1		=1
+*	*	*^		*
+*grp:A	*	*grp:B	*grp:A	*
+!!LO:TX:a:i:t=très net et très sec
+!!LO:TX:a:B:t=[Allegro giusto]
+!	!LO:DY:rj	!	!	!LO:DY:rj
+8ryy	4ryy	(16b-^KL	8rcyy	4ryy
+.	.	8a-)	.	.
+8ryy	.	.	8ryy	.
+.	.	16b-Jk	.	.
+8ryy	.	8f'L	8rcyy	.
+8ryy	.	8b-'J	8ryy	.
+=2	=2	=2	=2	=2
+8ryy	.	(16a-^KL	8rcyy	.
+.	.	8f)	.	.
+8ryy	.	.	8ryy	.
+.	.	16e-Jk	.	.
+8ryy	.	8c-'L	8ryy	.
+8ryy	.	8e-'J	8ryy	.
+*	*	*v	*v	*
+=3	=3	=3		=3
+8ryy	.	16ryy	.
+.	.	8ryy	.
+8ryy	.	.	.
+.	.	16ryy	4ryy
+8ryy	.	8ryy	.
+8ryy	.	8ryy	4ryy
+=	=	=		=
+*-	*-	*-		*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/10/13

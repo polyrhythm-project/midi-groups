@@ -1,0 +1,67 @@
+!!!COM: Béla Bartók
+!!!OTL: [T346_Bar-w45p28m199-206]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*	*part4	*part4	*part3	*	*part3	*	*part2	*part2	*part1	*part1
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass II	*	*I"Violoncello II	*	*I"Viola II	*	*I"Violin IV	*	*I"Violin III	*	*I"Contrabass I	*	*I"Violoncello I	*	*I"Viola I	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*	*I"Harp	*	*	*	*I"Bass Drum	*	*I"Snare Drum senza corda	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*	*I'Hp.	*	*	*	*I'B. D.	*	*I'S. D.	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*stria1	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefX	*	*clefX	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199	=199
+!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=div. pizz.	!	!LO:TX:a:t=div. pizz.	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:t=[[quarter]=144]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Bartók pizz. notated by "", to be visualized	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s secco	!	!	!	!	!	!	!LO:TX:t=[at the edge of the drum]	!
+8EEEnL	p	8D-XL	p	8C#XL 8G	p	8eL	p	8anL	p	8EEnL	p	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	4ryy	4ryy	8e-XL	.	8aL	p	2ryy	4ryy	4ryy	4ryy
+8EE-X	.	8BB-X	.	8A#X	.	8c#X	.	8G 8g	.	8E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	8F-X	.	8B-X	.	.	.	.	.
+8DD-X	.	8GG 8G	.	8An	.	8A#X	.	8e	.	8D-X	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8Gn	.	8d-X	.	.	.	8ryy	.
+8BBB-XJ	.	8EEnJ	.	8GJ	.	8AnJ	.	8c#XJ	.	8BB-XJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8B-XJ	.	8f-XJ	.	.	.	8ryy	.
+!!LO:REH:t=200
+=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200	=200
+8GGGL	.	8E-XL	.	8EL	.	8GL	.	8A#XL	.	8GGL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8d-XL	.	8gnL	.	2ryy	.	4ryy	.
+8EEEn	.	8D-X	.	8C#X 8G	.	8e	.	8an	.	8EEn	.	.	.	.	.	.	.	.	.	.	.	.	.	8e-X	.	8a	.	.	.	.	.
+8EE-X	.	8BB-X	.	8A#X	.	8c#X	.	8G 8g	.	8E-X	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F-X	.	8B-X	.	.	.	4ryy	.
+8DD-XJ	.	8GGJ 8G	.	8AnJ	.	8A#XJ	.	8eJ	.	8D-XJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8GnJ	.	8d-XJ	.	.	.	.	.
+=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201	=201
+8BBB-XL	.	8EEnL	.	8GL	.	8AnL	.	8c#XL	.	8BB-XL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8B-XL	.	8f-XL	.	2ryy	.	2ryy	.
+8GGG	.	8E-X	.	8E	.	8G	.	8A#X	.	8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	8d-X	.	8gn	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=sempre simile	!	!LO:TX:a:i:t=sempre simile	!	!LO:TX:a:i:t=sempre simile	!	!LO:TX:a:i:t=sempre simile	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EEEn	.	8D-X	.	8C#X 8G	.	8e	.	8an	.	8EEn	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8e-X	.	8a	.	.	.	.	.
+8EE-XJ	.	8BB-XJ	.	8A#XJ	.	8c#XJ	.	8GJ 8g	.	8E-XJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F-XJ	.	8B-XJ	.	.	.	.	.
+=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202	=202
+8DD-XL	.	8GGL 8G	.	8AnL	.	8A#XL	.	8eL	.	8D-XL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8GnL	.	8d-XL	.	2ryy	.	2ryy	.
+8BBB-X	.	8EEn	.	8G	.	8An	.	8c#X	.	8BB-X	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X	.	8f-X	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!	!	!	!	!
+8GGG	.	8E-X	.	8E	.	8G	.	8A#X	.	8GG	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8d-X	.	8gn	.	.	.	.	.
+8EEEnJ	.	8D-XJ	.	8C#XJ 8G	.	8eJ	.	8anJ	.	8EEnJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8e-XJ	.	8anJ	.	.	.	.	.
+=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203	=203
+8EE-XL	.	8BB-XL	.	8A#XL	.	8c#XL	.	8GL 8g	.	8E-XL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F-XL	.	8B-XL	.	2ryy	.	2ryy	.
+8DD-X	.	8GG 8G	.	8An	.	8A#X	.	8e	.	8D-X	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8Gn	.	8d-X	.	.	.	.	.
+8BBB-X	.	8EEn	.	8G	.	8An	.	8c#X	.	8BB-X	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X	.	8f-X	.	.	.	.	.
+8GGGJ	.	8E-XJ	.	8EJ	.	8GJ	.	8A#XJ	.	8GGJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8d-XJ	.	8gnJ	.	.	.	.	.
+=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204	=204
+8EEEnL	.	8D-XL	.	8C#XL 8G	.	8eL	.	8anL	.	8EEnL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8e-XL	.	8aL	.	2ryy	.	2ryy	.
+8EE-X	.	8BB-X	.	8A#X	.	8c#X	.	8G 8g	.	8E-X	.	.	.	.	.	.	.	.	.	.	.	.	.	8F-X	.	8B-X	.	.	.	.	.
+8DD-X	.	8GG 8G	.	8An	.	8A#X	.	8e	.	8D-X	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8Gn	.	8d-X	.	.	.	.	.
+8BBB-XJ	.	8EEnJ	.	8GJ	.	8AnJ	.	8c#XJ	.	8BB-XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-XJ	.	8f-XJ	.	.	.	.	.
+=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205	=205
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[at the edge of the drum]	!
+8GGGL	.	8E-XL	.	8EL	.	8GL	.	8A#XL	.	8GGL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8d-XL	.	8gnL	.	2ryy	.	4ryy	.
+8EEEn	.	8D-X	.	8C#X 8G	.	8e	.	8an	.	8EEn	.	.	.	.	.	.	.	.	.	.	.	.	.	8e-X	.	8a	.	.	.	.	.
+8EE-X	.	8BB-X	.	8A#X	.	8c#X	.	8G 8g	.	8E-X	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F-X	.	8B-X	.	.	.	8ryy	.
+8DD-XJ	.	8GGJ 8G	.	8AnJ	.	8A#XJ	.	8eJ	.	8D-XJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8GnJ	.	8d-XJ	.	.	.	8ryy	.
+=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206	=206
+8BBB-XL	.	8EEnL	.	8GL	.	8AnL	.	8c#XL	.	8BB-XL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8B-XL	.	8f-XL	.	2ryy	.	4ryy	.
+8GGG	.	8E-X	.	8E	.	8G	.	8A#X	.	8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	8d-X	.	8gn	.	.	.	.	.
+8EEEn	.	8D-X	.	8C#X 8G	.	8e	.	8an	.	8EEn	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8e-X	.	8a	.	.	.	4ryy	.
+8EE-XJ	.	8BB-XJ	.	8A#XJ	.	8c#XJ	.	8GJ 8g	.	8E-XJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8F-XJ	.	8B-XJ	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][({(s3,s4)})][({(s5,s6)})][(s7,s8,s9,s10,s11)][(s12,s13,s14,s15,s16)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/14
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/04

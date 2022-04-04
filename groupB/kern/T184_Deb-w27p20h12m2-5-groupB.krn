@@ -1,0 +1,89 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T184_Deb-w27p20h12m2-5]
+**kern	**dynam	**kern		**dynam		**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A		*		*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part16	*part16	*part15		*part15		*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff17	*	*staff16		*		*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello		*		*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Harp	*	*	*I"Castanets	*	*I"Tambourine	*	*I"Horn in F	*	*I"Horn in F	*	*I"Bassoon	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.		*		*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'Hp.	*	*	*I'Perc.	*	*I'Perc.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Cl.	*	*I'Picc.	*
+*	*	*		*		*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4		*		*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefF4	*	*clefX	*	*clefX	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd-7c-12	*
+*k[f#]	*	*k[f#]		*		*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*k[f#]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:		*		*G:	*	*G:	*	*G:	*	*G:	*	*G:	*G:	*	*C:	*	*C:	*	*F:	*	*F:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M3/8	*	*M3/8		*		*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=1	=1	=1		=1		=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*^		*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:b:t=1.2.	!	!LO:TX:b:t=1.2.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:b:t=2e arco	!	!	!	!LO:TX:b:t=3.4.	!	!LO:TX:b:t=3.4.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:a:t=1er Div. Pizz.	!	!	!	!LO:TX:b:t=5.6.	!	!LO:TX:b:t=5.6.	!	!	!	!LO:TX:[t=[eighth]=176]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=176]	!
+!LO:TX:b:t=[pizz.]	!	!	!	!LO:DY:a	!LO:DY:b	!LO:TX:a:t=arco	!	!LO:TX:b:rj:t=arco	!	!	!	!LO:TX:a:B:t=Meno mosso, poco a poco	!	!	!LO:TX:a:t=à2	!	!	!	!	!	!LO:TX:a:B:t=4°	!	!LO:TX:a:B:t=2°	!	!	!	!	!	!	!LO:DY:b:i:t=%s expressif	!LO:TX:a:t=à2	!LO:DY:b:i:t=%s expressif	!LO:TX:a:B:t=Meno mosso, poco a poco	!
+8ryy	4ryy	8ryy	4.ryy	4ryy	4ryy	8r	.	8r	.	8%3ryy	.	8%3ryy	.	8ryy	8ryyyy	4ryy	8%3r	.	8%3r	.	4.ryy	4ryy	4.ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8r	4ryy	8r	4ryy	8%3ryy	.
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:a:t=sur la touche	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	.	.	4G#X~ 4B 4d	4ryy	(>24G#X'LL 24B 24d	4ryy	.	.	.	.	8ryy	8ryyyy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	(16ELL	.	(16ELL	.	.	.
+.	.	.	.	.	.	.	.	24G#' 24B 24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16F	.	16F	.	.	.
+.	.	.	.	.	.	.	.	24G#'J 24B 24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	8G#'J 8B 8d	.	.	.	.	.	8ryy	8ryyyy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	16G	.	16G	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-XJJ	.	16A-XJJ	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=dim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*
+*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8%3ryy	.	8ryy	4.ryy	.	.	4G#X~ 4B 4d	.	24G#X'LL 24B 24d	.	8%3ryy	.	8%3ryy	.	8ryy	8ryyyy	.	8%3r	.	8%3r	.	4.ryy	.	4.ryy	.	8%3ryy	.	8%3ryy	.	(24G~LL	.	(24G~LL	.	8%3ryy	.
+.	.	.	.	.	.	.	.	24G#' 24B 24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24A-X	.	24A-X	.	.	.
+.	.	.	.	.	.	.	.	24G#'J 24B 24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24GJ)	.	24GJ)	.	.	.
+.	.	8ryy	.	.	.	.	.	8G#' 8B 8d)	.	.	.	.	.	8ryy	8ryyyy	.	.	.	.	.	.	.	.	.	.	.	.	.	8F')	.	8F')	.	.	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8ryy	.	.	.	8G#~ 8B 8d	.	[8G#~J [8B [8d	.	.	.	.	.	8ryy	8ryyyy	.	.	.	.	.	.	.	.	.	.	.	.	.	[8F~J	.	[8F~J	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefC4	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*
+*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8%3ryy	.	8ryy	4.ryy	.	.	8r	.	8G#L] 8B] 8d]	.	8%3ryy	.	8%3ryy	.	8ryy	8ryyyy	.	8r	.	8%3r	.	4.ryy	.	4.ryy	.	8r	.	8r	.	(16FnXLL]	4ryy	(16FnXLL]	4ryy	8%3ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16G	.	16G	.	.	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8ryy	.	.	.	4G#X~ 4B 4d	.	(24G#X'L 24B 24d	.	.	.	.	.	8ryy	8ryyyy	.	24Re'\LL	4ryy	.	.	.	.	.	.	8r	.	8r	.	16A-X	.	16A-X	.	.	.
+.	.	.	.	.	.	.	.	24G#' 24B 24d	.	.	.	.	.	.	.	.	24Re'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B-J	.	16B-J	.	.	.
+.	.	.	.	.	.	.	.	24G#'J 24B 24d	.	.	.	.	.	.	.	.	24Re'J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:a:t=%s marc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:b:i:t=%s doux	!	!LO:DY:b:i:t=%s doux	!	!	!	!	!	!
+.	.	8ryy	.	.	4ryy	.	.	8G#'J 8B 8d	.	.	.	.	.	8ryy	8ryyyy	.	8Re'J	4ryy	.	.	.	.	.	.	[8G#X~	4ryy	[8B~ [8d	4ryy	[8A-~J)	4ryy	[8A-~J)	4ryy	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8%3ryy	.	8ryy	4.ryy	.	.	4G#X~ 4B 4d	.	24G#X'LL 24B 24d	.	8ryy	.	8ryy	.	8ryy	8ryyyy	.	8r	.	32Re\LLL	4ryy	4.ryy	.	4.ryy	.	4G#X]	4ryy	4B] 4d]	4ryy	(8A-XL]	4ryy	(8A-XL]	4ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	24G#' 24B 24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	24G#'J 24B 24d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: artificial harmonics	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:b:i:t=%s doux
+!	!	!	!	!	!LO:HP:a	!	!	!	!	!	!LO:DY:b:i:t=%s doux	!LO:N:head=dia	!LO:DY:b:i:t=%s doux	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8ryy	.	.	4ryy	.	.	8G#' 8B 8d)	.	8ryy	4ryy	8ryy	4ryy	8ryy	8ryyyy	.	8Re\L	4ryy	32Re\	.	.	.	.	.	.	.	.	.	8G~	.	8G~	.	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=pizz.	!	!	!	!	!	!LO:N:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8ryy	.	4ryy	4ryy	8G#' 8B 8d	.	[8G#~J [8B [8d	.	8ryy	.	8ryy	.	8ryy	8ryyyy	.	8ReJ	4ryy	32Re\	.	.	.	.	.	8G'	4ryy	8B' 8d	4ryy	[8F~J)	4ryy	[8F~)J	4ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32Re\JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*		*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=		=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-		*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)],[([(s6,s7)])][(s8,s9)][({(s10,s11)})][(s12,s13,s14,s15,s16,s17)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED:Jason Lee
+!!!EEV:2021/10/12

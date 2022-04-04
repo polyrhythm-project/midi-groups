@@ -1,0 +1,126 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T154_Deb-w13p13m151-157]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=151	=151	=151	=151	=151	=151	=151	=151
+!	!	!	!	!	!	!LO:TX:t=[[half]=63]	!
+!	!	!	!	!	!	!LO:TX:a:B:t=a Tempo rubato	!
+12ryy	4ryy	1A 1a	mp	(4dd	mp	12ryy	4ryy
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	8cc#XL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	8ddJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	(4cc#	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	8bnL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	8cc#J)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+=152	=152	=152	=152	=152	=152	=152	=152
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
+12ryy	.	(12f#XL	.	(12bnL	.	12ryy	.
+12ryy	.	12d	.	12g#X	.	12ryy	.
+12ryy	.	12BnJ)	.	12f#XJ)	.	12ryy	.
+12ryy	.	(12BL	.	(12dL	.	2ryy	.
+12ryy	.	12G#X	.	12f#	.	.	.
+12ryy	.	12F#XJ)	.	12g#J)	.	.	.
+12ryy	.	(12f#L	.	(12bL	.	.	.
+12ryy	.	12d	.	12g#	.	.	.
+12ryy	.	12BJ)	.	12f#J)	.	.	.
+12ryy	.	(12BL	.	(12dL	.	4ryy	.
+12ryy	.	12G#	.	12f#	.	.	.
+12ryy	.	12F#J)	.	12g#J)	.	.	.
+=153	=153	=153	=153	=153	=153	=153	=153
+!	!LO:HP:t=dim.	!	!LO:HP:t=dim.	!	!LO:HP:t=dim.	!	!LO:HP:t=dim.
+12ryy	4ryy	(4Bn	>	(>4bn	>	12ryy	4ryy
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	8AL	.	8aL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	8BJ)	.	8bJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	(4A	.	(4a	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	8G#XL	.	8g#XL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	8AJ)	.	8aJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+=154	=154	=154	=154	=154	=154	=154	=165
+12ryy	.	2G#X	.	2g#X	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+*	*	*tuplet	*	*tuplet	*	*	*
+12ryy	.	(6F#X	.	(6f#X	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	6G#	.	6g#	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	6A)	.	6a)	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+=155	=155	=155	=155	=155	=155	=155	=155
+12ryy	.	(4Bn	.	(>4bn	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	8AL	.	8aL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	8BJ)	.	8bJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	(4A	.	(4a	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	8G#XL	.	8g#XL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	8AJ)	.	8aJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+=156	=156	=156	=156	=156	=156	=156	=156
+12ryy	.	2G#X	.	2g#X	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	(4F#X	.	(4f#X	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	4En)	.	4en)	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+=157	=157	=157	=157	=157	=157	=157	=157
+!	!LO:HP:t=très dim.	!	!LO:HP:t=très dim.	!	!LO:HP:t=très dim.	!	!LO:HP:t=très dim.
+12ryy	4ryy	(4D	>	(4d	>	12ryy	4ryy
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	8C#XL	.	8c#XL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	8DJ)	.	8dJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	(4C#	.	(4c#	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+12ryy	.	8CnL	.	8cnL	.	12ryy	.
+12ryy	.	.	.	.	.	12ryy	.
+.	.	8C#XJ)	.	8c#XJ)	.	.	.
+12ryy	.	.	.	.	.	12ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/01/26

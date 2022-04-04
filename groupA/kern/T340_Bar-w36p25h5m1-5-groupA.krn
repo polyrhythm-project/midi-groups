@@ -1,0 +1,79 @@
+!!!COM: Béla Bartók
+!!!OTL: [T340_Bar-w36p25h5m1-5]
+**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B		*grp:B	*grp:B	*grp:B	*grp:B		*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4		*part4	*part3	*part3	*part2		*part2	*part1	*part1
+*staff5	*	*staff4		*	*staff3	*	*staff2		*	*staff1	*
+*I"Solo Violin	*	*I"Horn in F I. II.		*	*I"Bassoon I. II.	*	*I"Clarinet in A I. II.		*	*I"Oboe I. II.	*
+*I'Vl. Solo	*	*I'Hn. I. II.		*	*I'Bsn. I. II.	*	*I'Cl. I. II.		*	*I'Ob. I. II.	*
+*clefG2	*	*clefG2		*	*clefF4	*	*clefG2		*	*clefG2	*
+*	*	*ITrd4c7		*	*	*	*ITrd2c3		*	*	*
+*k[]	*	*k[b-]		*	*k[]	*	*k[]		*	*k[]	*
+*M2/4	*	*M2/4		*	*M2/4	*	*M2/4		*	*M2/4	*
+!!LO:REH:t=5
+=30	=30	=30		=30	=30	=30	=30		=30	=30	=30
+*	*	*		*	*	*	*^		*	*	*
+!	!LO:DY:t=meno %s	!		!	!	!	!	!	!	!LO:TX:t=[Allegro moderato, [quarter]=104]	!
+8ffL	f	2ryy	.	8ryy	.	4rgyy	2rffyy	.	4ryy	.
+!	!	!		!	!	!LO:DY:t=%s marc.	!	!	!	!	!
+(16fL 16ff	.	.	.	8ryy	4ryy	.	.	.	.	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.
+(16fLL 16ff	.	.	.	8ryy	.	8rgyy	.	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!	!	!	!LO:DY:t=%s marc.	!	!LO:DY:t=%s marc.
+(16f 16ff	.	.	.	8ryy	.	8ryy	.	4ryy	8ryy	4ryy
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.
+=31	=31	=31		=31	=31	=31	=31	=31	=31	=31	=31
+(16fLL 16ff	.	2ryy	.	8ryy	.	8ryy	8ryyyy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!	!	!	!LO:DY:a	!	!
+(16f 16ff	.	.	.	8ryy	.	8ryy	8ryy	4ryy	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.
+(16fLL 16ff	.	.	.	8r~yy	.	8rddyy	8ryy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	.	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.
+=32	=32	=32		=32	=32	=32	=32	=32	=32	=32	=32
+*	*	*^		*	*	*	*	*	*	*	*
+(16fLL 16ff	.	8ryy	2rAyy	.	8ryy	.	4rddyy	8ryy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	8ryy	.	4ryy	8ryy	.	.	8rcyy	.	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+(16fLL 16ff	.	4ryy	.	.	8ryy	.	8rddyy	8rcyy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	.	.	.	8r~yy	.	8ryy	8ryy	.	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+!!linebreak:original
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+(16fLL 16ff	.	8ryy	2rAyy	.	8ryy	.	8rffyy	2rgyy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	8ryy	.	.	8ryy	.	8ryy	.	.	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+(16fLL 16ff	.	8ryy	.	.	8ryy	.	4rffyy	.	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	8ryy	.	.	8ryy	.	.	.	.	8r~yy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+*M3/4	*	*M3/4	*	*	*M3/4	*	*M3/4	*	*	*M3/4	*
+(16fLL 16ff	.	8ryy	4%3rAyy	.	8ryy	.	8rffyy	8ryy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	8ryy	.	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+(16fLL 16ff	.	4ryy	.	.	8ryy	.	4rffyy	8ryy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	.	.	.	8ryy	.	.	8ryy	.	8r~yy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+(16fLL 16ff	.	4ryy	.	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16ff 16aa)	.	.	.	.	.	.	.	.	.	.	.
+(16f 16ff	.	.	.	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16eeoJJ 16ff)	.	.	.	.	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*v	*v	*	*	*
+=	=	=		=	=	=	=		=	=	=
+*-	*-	*-		*-	*-	*-	*-		*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4)][(s5)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/19
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/30

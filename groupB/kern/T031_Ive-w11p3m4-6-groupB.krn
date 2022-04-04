@@ -1,0 +1,54 @@
+!!!COM: Ives, Charles
+!!!OTL: [T031_Ive-w11p3m4-6]
+**kern		**kern	**dynam	**kern	**kern		**dynam
+*grp:A		*grp:A	*grp:A	*grp:A	*grp:B		*grp:B
+*part3		*part3	*part3	*part2	*part1		*part1
+*staff4		*staff3	*staff3	*staff2	*staff1		*staff1
+*I"Piano		*I"Piano	*I"Piano	*I"Clarinet in Bb	*I"Violin		*I"Violin
+*I'Pno.		*	*	*I'Cl.	*I'Vln.		*
+!!pagebreak:original
+*clefF4		*clefG2	*	*clefG2	*clefG2		*
+*		*	*	*ITrd1c2	*		*
+*k[]		*k[]	*	*k[]	*k[]		*
+*C:		*C:	*	*C:	*C:		*
+*M4/4		*M4/4	*	*M4/4	*M4/4		*
+=1		=1	=1	=1	=1		=1
+*^		*	*	*	*^		*
+!	!	!	!LO:DY:ed=brack	!	!	!	!
+8ryy	8ryy	8ryy	4ryy	1ryy	(>4A	2ryy	mp
+8ryy	4.ryy	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	.	8.B-XL	.	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	16BnJk	.	.
+*	*	*	*	*	*	*cue	*
+8ryy	4ryy	8ryy	.	.	4ccc\)	4cc	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	.	.	(12b-X'L	4ryy	.
+.	.	.	.	.	12a'	.	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	[12g#X^^J	.	.
+*	*	*	*	*	*v	*v	*
+=2	=2	=2	=2	=2	=2		=2
+8ryy	8ryy	8ryy	.	1ryy	4g#])	.
+8ryy	4.ryy	8ryy	.	.	.	.
+8ryy	.	8ryy	4ryy	.	(8f#X'L	<
+8ryy	.	8ryy	.	.	8g#X'	.
+8ryy	4.ryy	8ryy	.	.	8a#X'	.
+8ryy	.	8ryy	.	.	8b#X'	.
+8ryy	.	8ryy	.	.	8cc#X'	.
+8ryy	8ryy	8ryy	4ryy	.	8dd#X'J)	[
+=3	=3	=3	=3	=3	=3		=3
+8ryy	4.ryy	8ryy	.	1ryy	(2eeen	mf
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	4.ryy	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	4fff#X	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	4ryy	4ryy	.	.	4ggg)	.
+8ryy	.	.	.	.	.	.
+*v	*v	*	*	*	*		*
+=		=	=	=	=		=
+*-		*-	*-	*-	*-		*-
+!!!system-decoration: s1,s2[({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

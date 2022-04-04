@@ -1,0 +1,192 @@
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [T417_Web-w12p8m1-9]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=mit Dämpfer	!	!LO:TX:a:t=mit Dämpfer	!	!LO:TX:a:t=mit Dämpfer	!	!LO:TX:a:t=mit Dämpfer	!
+!	!	!	!	!	!	!LO:TX:a:B:t=Fließend ([quarter] = ca 84)	!
+4ryy	.	8r	.	8r	.	4r	.
+!	!	!LO:N:head=dia:n=2	!	!	!	!	!
+.	.	4En~`>o 4An	4ryy	4aan`~o	4ryy	.	.
+8ryy	.	.	.	.	.	4bb-Xtt	4ryy
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+4ryy	4ryy	8r	4ryy	8r	4ryy	.	.
+!	!	!LO:TX:b:t=am Steg	!	!LO:TX:b:t=am Steg	!	!	!
+.	.	8ee-X`L	4ryy	8ccc#X`L	4ryy	8r	4ryy
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+8ryy	4ryy	8ffn`J	4ryy	8bbn`J	4ryy	8f#X`> 8bno	4ryy
+=2	=2	=2	=2	=2	=2	=2	=2
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+4ryy	4ryy	4r	.	4r	.	8r	.
+!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
+.	4ryy	.	.	.	.	8Gn~	.
+*clefC4	*	*	*	*	*	*	*
+!	!	!LO:TX:b:t=am Steg	!	!LO:TX:a:t=am Steg	!	!	!
+12ryy	.	8ee-X~	4ryy	8an`>~	4ryy	8r	.
+!LO:N:head=dia:n=2	!	!	!	!	!	!LO:TX:a:t=arco	!
+12ryy	4ryy	.	.	.	.	.	.
+.	.	8r	4ryy	8r	4ryy	8c#X`>N	4ryy
+!	!	!	!	!	!	!LO:TX:B:a:t=rit.	!
+12ryy	4ryy	.	.	.	.	.	.
+4ryy	4ryy	4enTT	4ryy	4r	.	4r	.
+=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:TX:b:t=am Steg	!	!	!	!LO:TX:a:B:t=tempo	!
+!	!	!	!	!	!	!LO:TUP:a	!
+12ryy	.	12r	.	12r	.	12r	.
+!LO:N:head=dia:n=2	!	!	!	!LO:N:head=dia:n=2	!	!LO:N:head=dia:n=2	!
+12ryy	4ryy	12b-X~`	4ryy	12fn~ 12b-X	4ryy	12ccn~`o 12ffn	4ryy
+12ryy	4ryy	12r	4ryy	12r	4ryy	12r	4ryy
+12ryy	.	8r	.	4ff#XTT	4ryy	8r	.
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+6ryy	4ryy	.	.	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=pizz.	!
+!	!	!LO:N:head=dia	!	!	!	!	!
+.	.	8cn`o	4ryy	.	.	8aan'	4ryy
+*clefF4	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:a:t=arco	!
+.	4ryy	.	.	.	.	.	.
+8ryy	.	4r	.	4r	4ryy	4G#X	4ryy
+8ryy	4ryy	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+!!linebreak:original
+*	*	*clefG2	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*tremolo	*	*	*
+!LO:TUP:a	!	!	!	!LO:N:head=dia:n=2	!	!LO:TX:a:t=pizz.	!
+!	!	!	!	!	!	!LO:TX:a:B:t=rit. – – –	!
+12ryy	4ryy	8r	.	32ee-X 32aa-XoLLL	4ryy	8r	.
+.	.	.	.	32ee-X 32aa-Xo	.	.	.
+.	.	.	.	32ee-X 32aa-Xo	.	.	.
+12ryy	.	.	.	.	.	.	.
+.	.	.	.	32ee-X 32aa-XoJJJ	.	.	.
+.	.	(8bnL	4ryy	8r	4ryy	8eeen~	4ryy
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+12ryy	4ryy	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TUP:a	!
+8.ryy	.	8bb-X	4ryy	16r	.	12r	.
+.	.	.	.	8an`>~	4ryy	.	.
+!	!	!	!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	.	.	12gg#X~`	4ryy
+.	.	8eenJ	4ryy	.	.	.	.
+.	.	.	.	.	.	12r	4ryy
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+16ryy	4ryy	.	.	16r	.	.	.
+4ryy	.	8gn)	.	12r	.	8r	.
+.	.	.	4ryy	6cn	4ryy	.	.
+!	!	!	!	!	!	!LO:TX:a:B:t=tempo	!
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+.	.	8r	.	.	4ryy	[8ffn [8bb-Xo	4ryy
+=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!LO:N:head=dia:n=2	!	!LO:TUP:a	!
+4ryy	.	8r	.	4cc#X 4ff#Xo	4ryy	12ffL] 12bb-o]	4ryy
+.	.	.	.	.	.	12rdd	.
+*	*	*clefC3	*	*	*	*	*
+!	!	!LO:N:head=dia	!	!	!	!	!
+!	!	!LO:TX:t=P:problem:cue pitches not shown here	!	!	!	!	!
+.	.	8gn`o	4ryy	.	.	.	.
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+.	.	.	4ryy	.	4ryy	[12aanJ [12dddno	4ryy
+*clefC4	*	*	*	*	*	*	*
+!LO:TX:b:t=am Steg	!	!	!	!	!	!	!
+!LO:TX:a:rj:t=arco	!	!	!	!LO:TX:a:t=am Steg	!	!	!
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+2ryy	4ryy	8r	.	8r	.	8aa] 8dddo]	.
+*	*	*	*	*	*	*	*
+*	*	*tremolo	*	*	*	*	*
+!	!	!LO:N:head=dia:n=2	!	!	!	!	!
+.	.	32e-X 32a-XoLLL	4ryy	32ggn 32fff#XLLL	4ryy	8r	4ryy
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	.	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	.	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	.	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	16r	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	.	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	16Bn~LL	4ryy
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	.	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	16een~	4ryy
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	.	.
+.	.	32e-X 32a-X	.	32ggn 32fff#X	.	[16cccn^JJ	4ryy
+.	.	32e-X 32a-XJJJ	4ryy	32ggn 32fff#XJJJ	4ryy	.	.
+*	*	*Xtremolo	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!LO:TX:a:t=rit.	!
+!	!	!	!	!	!	!LO:TX:a:i:t=(lang)	!
+4r;yy	.	4r;	.	4r;	.	4.ccc;]	4ryy
+!	!	!LO:N:head=dia:n=2	!	!LO:TX:a:t=pizz.	!	!	!
+8ryy	.	8C#X`>~o 8F#X	4ryy	12r	.	.	.
+!	!	!	!	!LO:TX:a:i:t=sehr zart	!LO:DY:rj	!LO:TX:a:B:t=rit. – – –	!
+.	.	.	.	12dn~L	4ryy	.	4ryy
+*clefF4	*	*	*	*	*	*	*
+!LO:N:head=dia	!	!	!	!	!	!	!
+!LO:TX:t=P:problem:cue pitches not shown here	!	!	!	!	!	!	!
+4ryy	4ryy	8r	.	.	.	8r	.
+.	.	.	.	12B-X~J	4ryy	.	.
+.	.	4r	.	8an~	.	16r	.
+.	.	.	.	.	.	[8.f#X	4ryy
+*	*	*	*	*	*	*	*
+.	4ryy	.	.	.	4ryy	.	.
+*	*	*	*	*	*	*	*
+8ryy	.	.	.	8r	.	.	4ryy
+!!pagebreak:original
+=7	=7	=7	=7	=7	=7	=7	=7
+!	!	!	!	!	!	!LO:TX:a:B:t=tempo	!
+8ryy	.	8r	.	4r	.	4f#X]	4ryy
+4ryy	4ryy	4Bn~	4ryy	.	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!
+.	.	.	.	12r	.	4r;	4ryy
+.	.	.	.	[6ggn;	4ryy	.	.
+8r;yy	4ryy	8r;	4ryy	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+4ryy	.	8r	.	4gg]	4ryy	4r	.
+.	.	8A-X`>~N	4ryy	.	4ryy	.	.
+*clefC4	*	*	*	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8	=8
+!LO:TX:b:t=am Steg	!	!	!	!	!	!	!
+2.ryy	4ryy	4r	.	4r	.	4r	.
+*	*	*clefG2	*	*	*	*	*
+!	!	!LO:N:head=dia:n=2	!	!LO:N:head=dia:n=2	!	!LO:TX:a:t=am Griffbrett	!
+.	.	4eenoN 4aanN	4ryy	4enoN 4anN	4ryy	8r	.
+.	.	.	.	.	.	[4.cc#X	4ryy
+.	.	4r	4ryy	4r	.	.	4ryy
+=9	=9	=9	=9	=9	=9	=9	=9
+!	!	!	!	!LO:TX:a:t=am Steg	!	!	!
+8.ryy	.	4r	.	32ccnLLL	4ryy	8cc#]	4ryy
+.	.	.	.	32ccn	.	.	.
+.	.	.	.	32ccn	.	.	.
+.	.	.	.	32ccn	.	.	.
+.	.	.	.	32ccn	.	8r	4ryy
+.	.	.	.	32ccn	.	.	.
+!LO:TX:a:i:t=sehr zart	!	!	!	!	!	!	!
+16ryy	4ryy	.	.	32ccn	.	.	.
+.	.	.	.	32ccnJJJ	.	.	.
+!	!	!	!	!LO:TX:t=P:problem:tuplet tremolo not showing correctly	!	!	!
+!	!	!	!	!LO:TUP:a	!	!LO:TX:a:t=am Steg	!
+4ryy	4ryy	4r	.	48ccLLL	.	4r	.
+.	.	.	.	48cc	.	.	.
+.	.	.	.	48cc	.	.	.
+.	.	.	.	48cc	.	.	.
+.	.	.	.	48cc	.	.	.
+.	.	.	.	48cc	.	.	.
+.	.	.	.	48cc	.	.	.
+.	.	.	.	48ccJJJ	.	.	.
+*	*	*	*	*Xtremolo	*	*	*
+.	.	.	.	12r	4ryy	.	.
+*	*	*clefC3	*	*	*	*	*
+!	!	!LO:TR:acc=n	!	!	!	!LO:TX:t=[quarter] = ca 42	!LO:DY:rj
+4ryy	4ryy	4gnTT	4ryy	4r	.	[8g#X~L	4ryy
+.	.	.	4ryy	.	.	8g#~J]	4ryy
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = hairpin accent
+!!!EED:Jason Lee
+!!!EEV:2021/12/06

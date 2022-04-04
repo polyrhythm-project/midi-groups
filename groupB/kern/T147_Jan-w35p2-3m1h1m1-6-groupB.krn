@@ -1,0 +1,97 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T147_Jan-w35p2-3m1h1m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contrabass	*I"Contrabass	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Violin Solo	*I"Violin Solo	*I"Tubular Bells	*I"Tubular Bells	*I"Bassoon I.II.	*I"Bassoon I.II.	*I"Clarinet in Bb I.II.	*I"Clarinet in Bb I.II.	*I"Flute I.II.	*I"Flute I.II.
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*	*I'Tub. B.	*	*I'Bsn.	*	*I'Cl.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+8.ryy	4ryy	8.ryy	4ryy	16f#XLL 16a#X	ff	8.ryy	4ryy	16ff#XLL 16aa#X	ff	16%9ryy	.	16%9ryy	.	16%9ryy	.	16%9ryy	.	16%9ryy	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	16f#LL 16a#	.	8.ryy	.	16ff#LL 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	16f#LL 16a#	.	8.ryy	.	16ff#LL 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=1
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[eighth-dot]=47	!
+8.ryy	4ryy	8.ryy	4ryy	16f#XLL 16a#X	p	8.ryy	4ryy	16ff#XLL 16aa#X	p	64%3ryy	.	16%9ryy	.	16%9ryy	.	16%9ryy	.	16%9ryy	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=espr.	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	64%3ryy	4ryy	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	64%3ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	64%3ryy	4ryy	.	.	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	16f#LL 16a#	.	8.ryy	.	16ff#LL 16aa#	.	8.ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	16f#LL 16a#	.	8.ryy	.	16ff#LL 16aa#	.	8.ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8.ryy	.	8.ryy	.	16f#XLL 16a#X	.	8.ryy	.	16ff#XLL 16aa#X	.	8.ryy	.	16%9ryy	.	16%9ryy	.	16%9ryy	.	16%9ryy	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	16f#LL 16a#	.	8.ryy	.	16ff#LL 16aa#	.	8.ryy	4ryy	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16f#JJ 16a#	.	.	.	16ff#JJ 16aa#	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	8.ryy	.	16f#LL 16a#	.	8.ryy	.	16ff#LL 16aa#	.	8.ryy	4ryy	.	.	.	.	.	.	.	.
+.	.	.	.	16f# 16a#	.	.	.	16ff# 16aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	[16f#JJ [16a#	.	.	.	[16ff#JJ [16aa#	.	.	.	.	.	.	.	.	.	.	.
+!!pagebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
+8.ryy	4ryy	16ryy	.	16f#KL] 16a#]	<	16ryy	4ryy	16ff#KL] 16aa#]	<	8.ryy	4ryy	16%9ryy	.	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy
+.	.	16ryy	4ryy	8f#X 8a#X	.	16ryy	.	8ff#X 8aa#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	16ryy	.	8f# 8a#	.	16ryy	.	8ff# 8aa#	.	8.ryy	.	.	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	8f# 8a#	.	16ryy	.	8ff# 8aa#	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	4ryy	16ryy	.	.	.	16ryy	.	.	.	8.ryy	4ryy	.	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	8f#J 8a#	[	16ryy	.	8ff#J 8aa#	[	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	4ryy	.	.	16ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8.ryy	.	16ryy	.	8.f#X~L 8.an	.	16ryy	.	8.ff#X~L 8.aan	.	8.ryy	.	16ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	8ryy	4ryy	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	16ryy	.	[8.f#~ [8.a#X	.	16ryy	.	[8.ff#~ [8.aa#X	.	8.ryy	.	8ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+8.ryy	.	16ryy	.	8.f#J] 8.a#]	.	16ryy	.	8.ff#J] 8.aa#]	.	8.ryy	.	8.ryy	.	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!
+8.ryy	4ryy	16ryy	4ryy	8.f#X~ 8.an	mf <	16ryy	4ryy	8.ff#X~L 8.aan	mf <	8.ryy	4ryy	16ryy	.	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	16ryy	.	[8.f#~ [8.a#X	.	16ryy	.	[8.ff#~ [8.aa#X	.	8.ryy	.	8ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+8.ryy	.	16ryy	.	8.f#] 8.a#]	.	16ryy	.	8.ff#J] 8.aa#]	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8.ryy	.	16ryy	.	8.f#X~ 8.an	.	16ryy	.	8.ff#X~L 8.aan	.	8.ryy	.	16ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.ryy	.	16ryy	.	[8.f#~ [8.a#X	.	16ryy	.	[8.ff#~ [8.aa#X	.	8.ryy	.	8ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+8.ryy	4ryy	16ryy	.	8.f#] 8.a#]	[	16ryy	.	8.ff#J] 8.aa#]	[	8.ryy	4ryy	8.ryy	.	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	4ryy	.	.	16ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]s4[(s5[(s6,s7)]s8,s9,s10)]

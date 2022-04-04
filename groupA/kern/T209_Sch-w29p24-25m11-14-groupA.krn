@@ -1,0 +1,78 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T209_Sch-w29p24-25m11-14]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[eighth]=60]	!
+!	!	!LO:TX:b:i:t=gestoßen, sehr kurz	!	!LO:TX:a:i:t=gestoßen, sehr kurz	!	!LO:TX:a:B:t=immer gleiches Tempo und sehr ruhig	!
+16CCnLL`	pp	16ryy	.	16e-XLL`	pp	8ryy	.
+!	!	!LO:TX:a:i:t=sehr zart	!	!	!	!	!
+16BB-X`	.	32ryy	4ryy	16en`	.	.	.
+.	.	32ryy	.	.	.	.	.
+!	!	!	!	!	!	! 	!LO:DY:t=%s molto espress.
+16GGn`	.	16ryy	.	16dn`	.	8ryy	4ryy
+16A-XJJ`	.	32ryy	.	16d-XJJ`	.	.	.
+.	.	32ryy	.	.	.	.	.
+16r	.	16ryy	.	16r	.	16ryy	.
+16AAnLL`	.	32ryy	.	16g-XLL`	.	16ryy	.
+.	.	32ryy	.	.	.	.	.
+16r	.	32ryy	.	16r	.	8ryy	.
+.	.	32ryy	.	.	.	.	.
+16BBnJJ`	.	32ryy	.	16fnJJ`	.	.	.
+.	.	32ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!
+16E-X`LL	.	32ryy	.	16cnLL`	.	16ryy	.
+.	.	16ryy	.	.	.	.	.
+16FFn`	.	.	.	16Bn`	.	16ryy	.
+.	.	32ryy	.	.	.	.	.
+16A-X`JJ	.	32ryy	.	16c#XJJ`	.	4ryy	.
+.	.	16ryy	.	.	.	.	.
+16r`	.	.	.	16r	.	.	.
+.	.	32ryy	.	.	.	.	.
+16GGnLL	.	32ryy	.	16dnLL`	.	.	.
+.	.	16ryy	.	.	.	.	.
+16F#X	.	.	.	16an`	.	.	.
+.	.	32ryy	.	.	.	.	.
+16EnJJ	.	16ryy	.	16b-XJJ`	.	16ryy	.
+16F#X`LL	.	32ryy	.	16cnLL`	.	16ryy	.
+.	.	32ryy	.	.	.	.	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3
+16GGn`	.	16ryy	.	16B-X`	.	16ryy	4ryy
+16An`	.	32ryy	.	16dn`	.	8ryy	4ryy
+.	.	32ryy	.	.	.	.	.
+16D#X`JJ	.	16ryy	.	16A-XJJ`	.	.	.
+16r	.	32ryy	.	16r	.	16ryy	.
+.	.	32ryy	.	.	.	.	.
+16r	.	32ryy	.	16r	.	4ryy	4ryy
+.	.	32ryy	.	.	.	.	.
+16BBnLL	.	16ryy	.	16fnLL`	.	.	.
+16EnJJ	.	16ryy	.	16c#XJJ`	.	.	.
+16r	.	32ryy	.	16r	.	.	.
+.	.	32ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+16r	.	32ryy	.	16r	.	16ryy	.
+.	.	16.ryy	.	.	.	.	.
+16An`LL	.	.	.	16f#XLL`	.	16ryy	.
+16BBn`	.	32ryy	.	16fn`	.	8ryy	.
+.	.	16ryy	.	.	.	.	.
+16dn`JJ	.	.	.	16gnJJ`	.	.	.
+.	.	32ryy	.	.	.	.	.
+16D-X`	.	16ryy	.	16A-X`	.	16ryy	.
+16r`	.	16ryy	.	16r	.	16ryy	.
+16EE-XLL	.	16ryy	.	16cnLL`	.	16ryy	.
+16EEnJJ	.	32ryy	.	16B-XJJ`	.	16ryy	.
+.	.	32ryy	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

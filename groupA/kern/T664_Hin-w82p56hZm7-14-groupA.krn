@@ -1,0 +1,86 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T664_Hin-w82p56hZm7-14]
+**kern			**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A			*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part8			*part8	*part7	*	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8			*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"			*	*I"Percussion	*	*I"	*	*I"Timpani	*	*I"Clarinet in Bb I. II.	*	*I"Oboe I. II.	*	*I"Flute I. II.	*	*I"Piccolo	*
+*I'			*	*I'Perc.	*	*I'	*	*I'Timp.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*ICidio			*	*ICidio	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*			*	*	*	*	*	*Itimpa	*	*Iclars	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*clefG2			*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*			*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*	*	*ITrd-7c-12	*
+*k[]			*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[]	*
+*C:			*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/2			*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+=1			=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!			!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=[Holzblock]			!	!	!	!LO:TX:a:t=[Glocken]	!	!	!	!	!	!	!	!	!	!	!
+!			!LO:DY;ed=brack	!LO:TX:b:t=[Tom-tom]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!
+4Ra/	4ryy	4Rg\	4ryy	1f	4ryy	4ryy	4ryy	2ryy	.	2ryy	.	2ryy	.	1ryy	.
+4r	.	4r	.	.	.	4ryy	.	.	.	.	.	.	.	.	.
+*			*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*
+4r	.	12Rg\L	.	.	.	2ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	.
+.	.	12Rg\	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12Rg\J	.	.	.	.	.	.	.	.	.	.	.	.	.
+4Ra/	.	4Rg\	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.
+=2			=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2r	.	4Rg\	.	1d	.	4ryy	.	1ryy	.	1ryy	.	1ryy	.	1ryy	.
+.	.	4r	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+*^			*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:b:t=[Kl. Gong]	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=[Kl. Becken]	!		!	!LO:TX:a:t=[Triangel]	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2Rf/	4r	.	4Ree/	.	.	.	4ryy	.	.	.	.	.	.	.	.	.
+.	[4Re\	.	4Ree/	.	.	.	4ryy	.	.	.	.	.	.	.	.	.
+=3	=3		=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!		!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=I.	!	!	!
+4r	1Re]	.	4r	.	[1c	.	2ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	1ryy	.
+4Ra/	.	.	4Ree/	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.
+!	!		!	!	!LO:DY:t=%s dim.	!	!	!	!LO:DY:t=%s dim.	!	!	!	!	!	!	!	!
+4Ra/	.	.	4Rg\	4ryy	.	.	4ryy	4ryy	2ryy	.	2ryy	.	2ryy	.	.	.
+4r	.	.	4r	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+*v	*v		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=4			=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!			!	!	!	!	!LO:DY:t=%s dim.	!	!	!	!	!	!	!	!	!	!
+4r	.	12Rg\L	.	2c]	4ryy	4ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	12Rg\	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12Rg\J	.	.	.	.	.	.	.	.	.	.	.	.	.
+!			!LO:DY:t=%s dim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4Ra/	4ryy	4Rg\	.	.	.	4ryy	.	.	.	.	.	.	.	.	.
+!			!	!	!	!	!	!	!	!LO:TX:a:t=I.	!	!LO:TX:a:t=I.	!	!	!	!	!
+2r	.	4Rg\	.	[2A	.	2ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	4ryy	4ryy
+.	.	4r	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+=5			=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*^			*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+2r	1Rf	4rA	.	4Ree/	.	2A]	.	4ryy	.	1ryy	.	1ryy	.	1ryy	.	1ryy	.
+.	.	2.Re\	.	4Ree/	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4r	.	[2f	.	4ryy	.	.	.	.	.	.	.	.	.
+4Ra/	.	.	.	4Ree/	.	.	.	4ryy	.	.	.	.	.	.	.	.	.
+*v	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=6			=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4Ra/	.	4Rg\	.	2f]	.	1ryy	.	1ryy	.	1ryy	.	4ryy	.	4ryy	.
+4r	.	4r	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.
+4r	.	12Rg\L	.	[2d	.	.	.	.	.	.	.	2ryy	.	2ryy	.
+.	.	12Rg\	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12Rg\J	.	.	.	.	.	.	.	.	.	.	.	.	.
+4Ra/	.	4Rg\	.	.	.	.	.	.	.	.	.	.	.	.	.
+=7			=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!			!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=I.	!	!	!
+2r	.	4Rg\	.	2d]	.	1ryy	.	1ryy	.	1ryy	.	4ryy	4ryy	4ryy	4ryy
+.	.	4r	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.
+*^			*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+[2Rf/	4r	.	4Ree/	.	[2c	.	.	.	.	.	.	.	2ryy	.	2ryy	.
+.	[4Re\	.	4Ree/	.	.	.	.	.	.	.	.	.	.	.	.	.
+=8	=8		=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4r	1Re]	.	4r	.	2c]	.	1ryy	.	1ryy	.	1ryy	.	1ryy	.	4ryy	.
+4Ra/	.	.	4Ree/	.	.	.	.	.	.	.	.	.	.	.	4ryy	.
+4Ra/	.	.	4Rg\	.	[2A	.	.	.	.	.	.	.	.	.	2ryy	.
+4r	.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=			=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-			*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]s5[(s6,s7,s8)]

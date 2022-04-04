@@ -1,0 +1,63 @@
+!!!COM: Hindemith, Paul
+!!!OTL: [T665_Hin-w87p15m23-27]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Bass	*	*I"Cello	*	*I"Timpani	*	*I"Solo Clarinet in A	*	*I"Piccolo	*
+*I'Db.	*	*I'Vc.	*	*I'Timp.	*	*I'Cl.	*	*I'Picc.	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*ITrd2c3	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[f#c#g#]	*	*k[]	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+!	!	!LO:TX:t=[[half]=152]	!	!	!	!	!	!	!
+!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!LO:TX:a:t=[pizz.]	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!LO:TX:t=[[half]=152]	!
+4ryy	4ryy	4ryy	4ryy	1ryy	.	4cX)	mf	2r	.
+4ryy	.	4ryy	.	.	.	4r	.	.	.
+4ryy	.	4ryy	.	.	.	4r	.	[2eee-X	mf <
+4ryy	.	4ryy	.	.	.	(8ffXL	.	.	.
+.	.	.	.	.	.	8ggXJ	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+4ryy	.	4ryy	.	4ryy	.	4aa-X)	.	(10eee-L]	.
+.	.	.	.	.	.	.	.	10ddd	.
+.	.	.	.	.	.	.	.	10eee-X	.
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+4ryy	.	4ryy	.	4ryy	4ryy	4r	.	.	.
+.	.	.	.	.	.	.	.	10eee	.
+.	.	.	.	.	.	.	.	10fffJ	.
+2ryy	.	2ryy	.	2ryy	.	4r	.	8fff#XL	.
+.	.	.	.	.	.	.	.	8gggJ	.
+.	.	.	.	.	.	(8ffXL	.	4aaa-X)	[
+.	.	.	.	.	.	8eeJ	.	.	.
+!!LO:REH:t=25
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2ryy	.	2ryy	.	1ryy	.	4dd#X)	.	2r	.
+.	.	.	.	.	.	(8dd#L	.	.	.
+.	.	.	.	.	.	8cc#J	.	.	.
+4ryy	.	4ryy	.	.	.	4b#X)	.	[2eee-X	.
+4ryy	.	4ryy	.	.	.	4r	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+4ryy	.	4ryy	.	1ryy	.	2r	.	10eee-L]	.
+.	.	.	.	.	.	.	.	(10ddd	<
+.	.	.	.	.	.	.	.	10eee-X	.
+4ryy	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	10eee	.
+.	.	.	.	.	.	.	.	10fffJ	.
+4ryy	.	4ryy	.	.	.	4r	.	8fff#XL	.
+.	.	.	.	.	.	.	.	8gggJ	.
+4ryy	.	4ryy	.	.	.	(8ff#L	.	4aaa-X)	.
+.	.	.	.	.	.	8gg#J	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+4ryy	.	4ryy	.	4ryy	.	4aa)	.	4r	.
+4r'yy	.	4r'yy	.	4r'yy	.	(8ff#L	.	(8eeeL	.
+.	.	.	.	.	.	8ffXJ	.	8fffJ	.
+2ryy	.	2ryy	.	2ryy	.	4ee)	.	8fff#XL	.
+.	.	.	.	.	.	.	.	8gggJ	.
+.	.	.	.	.	.	(8eeL	.	4ggg#X)	[
+.	.	.	.	.	.	8dd#XJ	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)]s2,s3[(s4,s5)]
+!!!EED: Daniel Wright
+!!!EEV: 2022/1/13

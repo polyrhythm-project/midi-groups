@@ -1,0 +1,82 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T166_Deb-w44p6h2m11-18]
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*staff3/4	*staff2	*staff1	*staff1/2
+*I"Piano 2	*I"Piano 2	*I"Piano 2	*I"Piano 1	*I"Piano 1	*I"Piano 1
+*I'Pno. 2	*	*	*I'Pno. 1	*	*
+*clefF4	*clefG2	*	*clefG2	*clefG2	*
+*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*	*D:	*D:	*
+*M3/4	*M3/4	*	*M3/4	*M3/4	*
+=83	=83	=83	=83	=83	=83
+!	!	!	!	!LO:TX:t=[[half-dot]=66]	!
+!	!LO:TX:t=[[half-dot]=66]	!LO:HP:t= 	!	!	!LO:HP:t=
+!	!LO:TX:a:B:t=Poco a poco al 1º Tempo	!LO:DY:t=%s  e cresc.	!	!LO:TX:a:B:t=Poco a poco al 1º Tempo	!LO:DY:t=%s  e cresc. molto
+4ryy	(8aL	p <	2.ryy	4.ryy	4ryy
+.	8A	.	.	.	.
+8ryy	8A	.	.	.	.
+8ryy	8a	.	.	8ryy	.
+4ryy	8a	.	.	4ryy	.
+.	8AJ	.	.	.	.
+=84	=84	=84	=84	=84	=84
+4ryy	8AL	.	4ryy	8ryy	.
+.	8a	.	.	8ryy	.
+8ryy	8a	.	4ryy	4.ryy	.
+8ryy	8A	.	.	.	.
+4ryy	8A	.	4ryy	.	.
+.	8aJ)	.	.	8ryy	.
+*	*	*	*clefF4	*	*
+=85	=85	=85	=85	=85	=85
+4ryy	(8aL	.	2.ryy	4.ryy	.
+.	8A	.	.	.	.
+8ryy	8A	.	.	.	.
+8ryy	8a	.	.	8ryy	.
+4ryy	8a	.	.	4ryy	.
+.	8AJ	.	.	.	.
+=86	=86	=86	=86	=86	=86
+4ryy	8AL	.	4ryy	8ryy	.
+.	8a	.	.	8ryy	.
+8ryy	8a	.	4ryy	4.ryy	.
+8ryy	8A	.	.	.	.
+4ryy	8A	.	4ryy	.	.
+.	8aJ)	.	.	8ryy	.
+=87	=87	=87	=87	=87	=87
+!	!	!LO:HP:t=sempre cresc.	!	!	!LO:HP:t=sempre più cresc.
+4ryy	(8aL	<	4ryy	4.ryy	4ryy
+.	8aa	.	.	.	.
+8ryy	8aa	.	4ryy	.	.
+8ryy	8a	.	.	8ryy	.
+4ryy	8a	.	4ryy	4ryy	.
+.	8aaJ	.	.	.	.
+=88	=88	=88	=88	=88	=88
+4ryy	8aaL	.	4ryy	8ryy	.
+.	8a	.	.	8ryy	.
+8ryy	8a	.	4ryy	4.ryy	.
+8ryy	8aa	.	.	.	.
+4ryy	8aa	.	4ryy	.	.
+.	8aJ)	.	.	8ryy	.
+=89	=89	=89	=89	=89	=89
+4ryy	(8aL	.	4ryy	4.ryy	.
+.	8aa	.	.	.	.
+8ryy	8aa	.	4ryy	.	.
+8ryy	8a	.	.	8ryy	.
+4ryy	8a	.	4ryy	4ryy	.
+.	8aaJ	.	.	.	.
+=90	=90	=90	=90	=90	=90
+4ryy	8aaL	.	4ryy	8ryy	.
+.	8a	.	.	8ryy	.
+8ryy	8a	.	4ryy	4.ryy	.
+8ryy	8aa	.	.	.	.
+4ryy	8aa	.	4ryy	.	.
+.	8aJ)	.	.	8ryy	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08

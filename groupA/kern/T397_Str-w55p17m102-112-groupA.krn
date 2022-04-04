@@ -1,0 +1,108 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T397_Str-w55p17m102-112]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part11	*	*part10	*part10	*part9	*part9	*part8	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*part3	*part2	*	*part1	*part1
+*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Viola Div. II	*	*I"Viola Div. I	*	*I"Organ	*	*	*	*I"Contrabass Trombone	*	*I"Bass Trombone	*	*I"Bass Trumpet in C	*	*I"Trumpet in C I	*	*I"Bassoon I.	*	*I"English Horn	*	*I"Oboe I. II.	*
+*I'Cb.	*	*I'Vla. 2.div.	*	*I'Vla. 1.div.	*	*I'Org.	*	*	*	*I'Cb. Tbn.	*	*I'Bass Tbn.	*	*I'C Bass Tpt.	*	*I'C 1.Tpt.	*	*I'1.Bsn.	*	*I'C.A.	*	*I'1.2.Ob.	*
+*clefG2	*	*clefC3	*	*clefC3	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*ITrd7c12	*	*	*	*	*	*ITrd4c7	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[marcato ma non troppo]	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=104]	!	!
+4%3r	.	4%3r	.	4%3r	.	4%3ryy	.	8ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	8ryy	4%3ryy	.
+!	!	!	!	!	!	!	!	!	!LO:DY:t=[tranquillo e non %s ]	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!	!
+.	.	.	.	.	.	.	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[staccato]	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4%3r	.	4%3r	.	4%3r	.	4ryy	.	8ryy	.	4%3ryy	.	2ryy	.	4%3ryy	.	8ryy	.	4ryy	.	4ryy	.	8ryy	4ryy	.
+.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	8ryy	.	.
+.	.	.	.	.	.	4ryy	.	8ryy	.	.	.	.	.	.	.	4ryy	.	4ryy	.	8ryy	.	8rddyy	4reyy	.
+.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	4ryy	.	.	.	4ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.
+.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryyyy	8ryy	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4%3r	.	4%3r	.	4%3r	.	8ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryyyy	8ryy	.
+.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	8ryy	.	4.ryyyy	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.	8ryy	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	4ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	4ryyyy	4ryy	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefC4	*	*	*	*	*	*
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4%3r	.	4%3r	.	4%3r	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryyyy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	8ryy	.	8ryy	.	4.ryyyy	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	4ryyyy	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+4%3r	.	4%3r	.	4%3r	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	2ryy	.	8ryy	.	8ryy	.	2ryyyy	2ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	8ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	4ryyyy	4ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+!!pagebreak:original
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4%3r	.	4r	.	4%3r	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	2ryy	.	2ryy	.	4ryy	.	4%3ryy	.	4ryy	.
+.	.	[2B^	f	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	4ryy	.	.	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	.	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+!	!	!	!	!LO:TX:t={([quarter] . = 72)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4%3r	.	4B]	.	2a^	f	4%3ryy	.	4%3ryy	.	4%3ryy	.	4.ryy	.	8ryy	.	4%3ryy	.	8ryy	.	4ryy	.	4%3ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	2f#X^	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=marc.	!	!	!
+.	.	.	.	[4b-X^	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+4%3r	.	2g^	.	4b-X]	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4.ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=marc.	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	[2A-X^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	4.ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	[4A-X^ [4e-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=marc. ma non troppo	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	2A-X] 2e-X]	.	4A-X]	.	4%3ryy	.	4%3ryy	.	2.ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+!	!LO:DY:t=non %s , ten.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2G#X	f	.	.	4f^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2ryy	.
+.	.	4en^ [4dd	.	[4e^ [4dd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+2G#X]	.	2dd]	.	4e] 4dd]	.	4%3ryy	.	4%3ryy	.	2.ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+.	.	.	.	2c^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.
+4r	.	(4c#X^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+4r	.	4cn)	.	2d^	.	4%3ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	4%3ryy	.
+4r	.	2E^	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+!LO:TX:b:i:t=sim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[4E	.	.	.	[4g^	.	.	.	.	.	4ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5)][(s6,s7)][([({(s8,s9)})])][(s10,s11,s12)]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/26

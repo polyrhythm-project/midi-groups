@@ -1,0 +1,76 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T742_Mes-w19p11m7-5h5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*	*grp:A	*	*grp:B	*
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*	*staff2	*	*staff1	*
+*I"Viola	*	*I"Violin II	*	*I"Violin I solo	*	*I"Piano	*	*	*	*I"Choir	*	*	*I"Maracas	*	*I"Vibraphone	*
+*I'Vla.	*	*I'Vln. II	*	*I'Vln.	*	*I'Pno.	*	*	*	*I'Choir	*	*	*I'Mrcs.	*	*I'Vib.	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*stria5	*	*	*
+*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefX	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:t=[Modéré, un peu vif ([eighth]=120)]
+!	!	!	!	!LO:TX:t=3	!LO:DY:t=[ %s (spiccato)]	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=  (Ped. par note)	!LO:DY:rj
+8ryy	.	8ryy	.	16ryy	4ryy	8ryy	.	4bb^ 4fffn 4aaa#X 4ccccn	4ryy	4e)j	4ryy	4ryy	8ryy	.	4cccn^	4ryy
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=pizz.* (à 3)	!LO:DY:rj	!LO:TX:a:t=pizz.* (à 3)	!LO:DY:rj	!	!	!	!	!	!	!	!	!	!	!LO:DY:rj	!	!
+8ryy	4ryy	8ryy	4ryy	4ryy	.	8ryy	4ryy	.	.	.	.	4ryy	8ryy	4ryy	.	.
+4ryy	.	4ryy	.	.	.	4ryy	.	4aa#X 4eee 4ggg#X 4bbb	.	8r	.	4ryy	4ryy	.	4bb	.
+!	!	!	!	!LO:TX:t=2	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ryy	.	.	.	.	.	8eeL	4ryy	.	.	.	.	.
+!	!	!	!	!LO:TX:t=4	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:t=3	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	16ryy	.	4ryy	.	4gg#X 4dddn 4fff#X 4aaa#X	.	8dd#X	4ryy	.	4ryy	.	4aa#X	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	8b-XJ	4ryy	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	! 	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	16ryy	.	8ryy	.	8ff#X 8cccn 8fffn 8ggg#X	.	8aL	4ryy	.	8ryy	.	8gg#X	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:rj:t=pizz.	!	!LO:TX:a:rj:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	4ffn 4bb 4eee 4fff#X	.	16cc#XL	4ryy	.	8ryy	.	4ff#X	.
+.	.	.	.	.	.	.	.	.	.	[16gnJJ	4ryy	.	.	.	.	.
+4ryy	.	4ryy	.	16ryy	.	4ryy	.	.	.	16gnKL],	.	.	4ryy	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	8ccn	4ryy	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	8ff#X 8ccc 8fffn 8ggg#X	.	.	.	.	.	.	8gg#	.
+.	.	.	.	16ryy	.	.	.	.	.	[16bnJk	4ryy	.	.	.	.	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+8.ryy	.	8.ryy	.	8ryy	.	8.ryy	.	8gg#XL 8dddn 8fff#X 8aaa#X	.	16bKL]	.	.	8.ryy	.	8aa#XL	.
+.	.	.	.	.	.	.	.	.	.	8f#X	4ryy	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	8aa#XJ 8eee 8ggg#X 8bbb	.	.	.	.	.	.	8bbJ	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	[16fnJk	4ryy	.	16ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4ryy	.	8ryy	.	4ryy	.	8bb 8fffn 8aaa#X 8ccccn	.	16fLL]	.	.	4ryy	.	8cccn	.
+.	.	.	.	.	.	.	.	.	.	16b-XJ	4ryy	.	.	.	.	.
+!	!	!	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ryy	.	.	.	4ccc^ 4fff#X 4bbb 4dddd	.	8eJ,	4ryy	.	.	.	4ddd^	.
+!	!	!	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:t=3	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8gnL	4ryy	.	16ryy	.	.	.
+!	!	!	!	!LO:TX:t=4	!	!	!	!	!	!	!	!	!	!	!	!
+8.ryy	.	8.ryy	.	16ryy	.	8.ryy	.	.	.	.	.	.	8.ryy	.	.	.
+.	.	.	.	8ryy	.	.	.	4ff#X 4cccn 4fffn 4ggg#X	.	8a	4ryy	.	.	.	4gg#X	.
+!	!	!	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!	!	!	!
+8.ryy	.	8.ryy	.	16ryy	.	8.ryy	.	.	.	8b-X	4ryy	.	8.ryy	.	.	.
+.	.	.	.	8.ryy	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[8ff#X [8dddn [8fff#X [8aaa#X	.	8cc#XJ	4ryy	.	.	.	[8aa#X	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	16ryy	.	.	.
+*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)],[(s3)],{(s4,s5)},[(s6,s7,s8)]
+!!!RDF**kern: > = above
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/12/23

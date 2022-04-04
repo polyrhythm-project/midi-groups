@@ -1,0 +1,86 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T642_Hin-w35p13hDm1-7]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part3	*	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Heckelphone	*	*I"Viola	*
+*I'Pno.	*	*	*	*I'Heckl.	*	*I'Vla.	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*ITrd7c12	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=D
+=65	=65	=65	=65	=65	=65	=65	=65
+*^	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:t=[[half]=126]	!
+!	!	!	!	!	!	!LO:DY:t=%s cresc.	!	!LO:DY:t=%s cresc.
+!	!LO:T:b	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4ryy	4ryy	.	4ryy	4ryy	8f]	p	4ryy	4ryy
+.	.	.	.	.	8r	.	.	.
+*v	*v	*	*	*	*	*	*	*
+*	*	*	*	*	*	*clefC3	*
+4ryy	.	4ryy	.	(4f#X	.	8ryy	.
+.	.	.	.	.	mp	8ryy	4ryy
+2ryy	.	2ryy	.	4e	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	4d	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+=66	=66	=66	=66	=66	=66	=66	=66
+1ryy	.	1ryy	4ryy	8c#XL	.	8ryy	4ryy
+.	.	.	.	8B#XJ	.	8ryy	.
+.	.	.	.	2c#)	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	(4f#X	<	4ryy	.
+=67	=67	=67	=67	=67	=67	=67	=67
+1ryy	.	1ryy	.	4e	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	4d	.	4ryy	.
+.	.	.	.	8c#XL	.	8ryy	.
+.	.	.	.	8B#XJ	.	8ryy	.
+.	.	.	.	[4c#	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+!!linebreak:original
+=68	=68	=68	=68	=68	=68	=68	=68
+1ryy	.	1ryy	.	4c#])	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	(4f#X	.	2ryy	.
+.	.	.	.	4e	.	.	.
+.	.	.	.	4d	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+=69	=69	=69	=69	=69	=69	=69	=69
+1ryy	.	1ryy	.	8c#XL	.	8ryy	.
+.	.	.	.	8B#XJ	.	8ryy	.
+.	.	.	.	4c#)	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	(4f#X	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	4e	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+=70	=70	=70	=70	=70	=70	=70	=70
+!	!	!	!	!	!	!LO:TX:a:B:t=poco riten.	!
+1ryy	.	1ryy	.	4d	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	8c#XL	.	4ryy	.
+.	.	.	.	8B#XJ	.	.	.
+.	.	.	.	4c#)	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	(4f#X	.	4ryy	.
+=71	=71	=71	=71	=71	=71	=71	=71
+1ryy	.	1ryy	.	4e	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	4d	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	8c#XL	.	8ryy	.
+.	.	.	.	8B#XJ	.	8ryy	.
+.	.	.	.	4c#)	f	4ryy	4ryy
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/09/07

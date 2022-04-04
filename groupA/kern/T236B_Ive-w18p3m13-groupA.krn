@@ -1,0 +1,30 @@
+!!!COM: Charles Ives
+!!!OTL: [T236B_Ive-w18p3m13]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*	*part3	*part3	*part2	*	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Bugle [C]	*	*I"Violin	*
+*I'Pno.	*	*	*	*I'C Tpt.	*	*I'Vln.	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+*^	*	*^	*	*	*	*	*
+*	*	*	*	*^	*	*	*	*	*
+!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=[quarter]=180	!LO:DY:ed=brack
+2G#X	3AA	f <	5ryy	1ryy	5ryy	4ryy	1cc	f	5ryy	4ryy
+.	.	.	5ryy	.	5ryy	.	.	.	5ryy	.
+.	3FF#X	.	.	.	.	.	.	.	.	.
+.	.	.	5ryy	.	5ryy	.	.	.	5ryy	.
+2Fn 2A#X	.	.	.	.	.	.	.	.	.	.
+.	.	.	5ryy	.	5ryy	.	.	.	5ryy	.
+.	3CC	.	.	.	.	.	.	.	.	.
+.	.	[	5ryy	.	5ryy	4ryy	.	.	5ryy	4ryy
+*v	*v	*	*	*	*	*	*	*	*	*
+*	*	*v	*v	*v	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][({(s3,s4)})]

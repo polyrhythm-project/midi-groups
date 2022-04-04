@@ -1,0 +1,112 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T732_Mes-w16b3p15m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part1	*	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Péd: bourdon 32 tir. R	*	*I"P: flûte 8	*	*I"R: bourdon 16 et octavin 	*
+*I'Péd.	*	*I'Org.	*	*I'Org.	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*ITrd-7c-12	*	*ITrd-14c-24	*
+*	*	*	*	*	*
+*C:	*	*C:	*	*C:	*
+*M5/8	*	*M5/8	*	*M5/8	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:a:i:t=legato	!	!	!	!LO:TX:a:B:t=Très lent, lointain [[eighth]=24]	!
+4G	ppp	8%5ryy	.	8%5ryy	.
+4F#X	.	.	.	.	.
+[8Fn	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+*M7/8	*	*M7/8	*	*M7/8	*
+!	!	!LO:TX:t=Pos.	!LO:DY:t=%s legato	!	!
+8FL]	.	8ryy	4ryy	2ryy	.
+8EJ	.	8ryy	.	.	.
+8.E-X	.	16ryy	.	.	.
+.	.	8ryy	.	.	.
+8DL	.	16ryy	.	.	.
+.	.	16ryy	.	4ryy	.
+[16C#XJk	.	16ryy	.	.	.
+/16C#KL]	.	4ryy	.	.	.
+8F#X	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=R	!LO:DY:t=%s legato
+.	.	.	.	16ryy	4ryy
+[16CnJk	.	.	.	16ryy	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3
+*M11/8	*	*M11/8	*	*M11/8	*
+16CKL]	.	16ryy	.	16ryy	.
+[8BB-XJ	.	16ryy	.	16ryy	.
+.	.	16ryy	.	4ryy	.
+16BB-KL]	.	8ryy	.	.	.
+[8AAJ	.	.	.	.	.
+.	.	16ryy	.	.	.
+16AAKL]	.	8ryy	.	16ryy	.
+8.GGnJ	.	.	.	16ryy	.
+.	.	8ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+16FF#XKL	.	4.ryy	.	16ryy	.
+8FFn	.	.	.	16ryy	.
+.	.	.	.	8ryy	.
+[16BB-XJk	.	.	.	.	.
+8BB-L]	.	.	.	4ryy	.
+[8EEJ	.	8ryy	.	.	.
+8EEL]	.	4ryy	.	4ryy	.
+[8EE-XJ	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+*M7/8	*	*M7/8	*	*M7/8	*
+4EE-X_	.	8ryy	.	4ryy	.
+.	.	8ryy	.	.	.
+8EE-L]	.	16ryy	.	8.ryy	.
+.	.	8ryy	.	.	.
+[16DDJk	.	.	.	.	.
+8.DD_	.	16ryy	.	16ryy	.
+.	.	16ryy	.	16ryy	.
+.	.	16ryy	.	16ryy	.
+4DD_	.	4ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5
+*M11/8	*	*M11/8	*	*M11/8	*
+4.DD_	.	16ryy	.	4.ryy	.
+.	.	16ryy	.	.	.
+.	.	16ryy	.	.	.
+.	.	8ryy	.	.	.
+.	.	16ryy	.	.	.
+4DD_	.	8ryy	.	4ryy	.
+.	.	8ryy	.	.	.
+8DD]	.	4.ryy	.	16ryy	.
+.	.	.	.	8.ryy	.
+8r	.	.	.	.	.
+4r	.	.	.	16ryy	.
+.	.	.	.	8.ryy	.
+.	.	8ryy	.	.	.
+4r	.	4ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+=6	=6	=6	=6	=6	=6
+*M7/8	*	*M7/8	*	*M7/8	*
+4r	.	8ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	8ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+*	*	*	*	*clefF4	*
+8r	.	16ryy	.	8ryy	.
+.	.	8ryy	.	.	.
+[16Gn	.	.	.	16ryy	.
+8.G]	.	16ryy	.	8.ryy	.
+.	.	16ryy	.	.	.
+.	.	16ryy	.	.	.
+4F#X	.	4ryy	.	16ryy	.
+.	.	.	.	8ryy	.
+.	.	.	.	16ryy	.
+*	*	*	*	*clefG2	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/09/22

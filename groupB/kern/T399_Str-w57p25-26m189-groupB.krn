@@ -1,0 +1,94 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T399_Str-w57p25-26m189]
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"BASS 2	*I"BASS 2	*I"BASS 1	*I"BASS 1	*I"TENOR 2	*I"TENOR 2	*I"TENOR 1	*I"TENOR 1
+*I'B.	*	*I'B.	*	*I'T.	*	*I'T.	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*ITrd7c12	*	*ITrd7c12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M2/2	*	*M2/2	*	*=	*	*	*
+!	!	!	!	!	!	!LO:TX:a:B:t=[quarter] = [quarter]  Canon a4, duplex	!
+1ryy	4ryy	1ryy	.	1r	.	1ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*M3/2	*	*M3/2	*	*	*	*	*
+1ryy	4ryy	2%3ryy	.	2%3r	.	2%3ryy	.
+2ryy	4ryy	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*M3/2	*	*M3/2	*
+2ryy	.	2ryy	4ryy	2r	.	2%3ryy	.
+2ryy	4ryy	2ryy	4ryy	1B-X	Re-	.	.
+2ryy	4ryy	4ryy	4ryy	.	.	.	.
+.	.	4ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2ryy	.	2ryy	4ryy	1Bn	-cor-	2ryy	4ryy
+1ryy	4ryy	2ryy	4ryy	.	.	2ryy	4ryy
+.	.	2ryy	.	(2E	-da-	4ryy	4ryy
+.	.	.	.	.	.	4ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2ryy	.	2ryy	4ryy	2C)	.	2ryy	4ryy
+2ryy	4ryy	2ryy	.	2F	-re	2ryy	4ryy
+2ryy	4ryy	2ryy	4ryy	[2D	pau-	2ryy	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4ryy	.	4ryy	4ryy	2D]	.	2ryy	4ryy
+4ryy	.	2ryy	.	.	.	.	.
+1ryy	.	.	.	(1G	-per-	2ryy	.
+.	.	2.ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	2ryy	4ryy
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7	=7
+1ryy	.	4ryy	4ryy	2e-X)	.	4ryy	4ryy
+.	.	4ryy	.	.	.	2ryy	.
+.	.	4ryy	4ryy	2G-X	-ta-	.	.
+.	.	2ryy	4ryy	.	.	2.ryy	4ryy
+2ryy	4ryy	.	.	[2An	-tis,	.	.
+.	.	4ryy	4ryy	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4ryy	4ryy	4ryy	4ryy	4A]	.	4ryy	4ryy
+4ryy	4ryy	4ryy	.	4r	.	4ryy	.
+2ryy	4ryy	2ryy	4ryy	1r	.	4ryy	4ryy
+.	.	.	.	.	.	2ryy	4ryy
+2ryy	4ryy	2ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	4ryy	4ryy
+=9	=9	=9	=9	=9	=9	=9	=9
+2ryy	.	2ryy	4ryy	1r	.	4ryy	4ryy
+.	.	.	.	.	.	4ryy	.
+2ryy	4ryy	4ryy	4ryy	.	.	2ryy	4ryy
+.	.	2ryy	4ryy	.	.	.	.
+2ryy	4ryy	.	.	2A-X	et	2ryy	4ryy
+.	.	4ryy	4ryy	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+2ryy	.	2ryy	4ryy	4d-X	trans-	2ryy	4ryy
+.	.	.	.	4B-X	-gres-	.	.
+2ryy	4ryy	2ryy	4ryy	2An	-sio-	4ryy	4ryy
+.	.	.	.	.	.	2ryy	4ryy
+2ryy	4ryy	2ryy	.	[2En	-nis	.	.
+.	.	.	.	.	.	4ryy	4ryy
+!!linebreak:original
+=11	=11	=11	=11	=11	=11	=11	=11
+1ryy	4ryy	2%3ryy	.	2En]	.	2ryy	4ryy
+.	.	.	.	2G#X	me-	2ryy	4ryy
+2ryy	4ryy	.	.	[2D#X	-ae,	2ryy	.
+=12	=12	=12	=12	=12	=12	=12	=12
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+1ryy	4ryy	2%3ryy	.	2D#]	.	2%3ryy	.
+.	.	.	.	2F#X	ab-	.	.
+2ryy	4ryy	.	.	2c#X	-sin-	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+2ryy	.	2%3ryy	.	1Fn	-thi-	2%3ryy	.
+1ryy	4ryy	.	.	.	.	.	.
+.	.	.	.	2Dn	-i	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+1ryy	.	1%3ryy	.	1Bn	et	1%3ryy	.
+1ryy	.	.	.	1cn	fel-	.	.
+.	.	.	.	.	.	.	.
+1ryy	.	.	.	1Gn,	-lis.	.	.
+.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

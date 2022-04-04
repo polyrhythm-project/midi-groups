@@ -1,0 +1,74 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T621_Hin-w20p26m88-95]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=E
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=Solo	!LO:DY:t=%s grazioso	!	!	!	!	!LO:TX:t=[half-dot]=66	!
+4ryy	4ryy	4ryy	.	4r	.	4r	.
+4ryy	.	8ryy	4ryy	4fft	pp	4ddd-Xt	pp
+.	.	8ryy	.	.	.	.	.
+4ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2ryy	.	8ryy	.	4ddnt	.	4bb-Xt	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	4eent	.	4cccnt	.
+8ryy	.	8ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	8ryy	.	4fft	.	4ddd-Xt	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2ryy	.	8ryy	.	4dd-Xt	.	4aa-Xt	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	4dd-t	.	4ggnt	.
+8ryy	.	8ryy	.	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5
+4ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	8ryy	.	4b-Xt	.	4ff#Xt	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2ryy	4ryy	8ryy	4ryy	4cc#Xt	<	4eent	<
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	4cc#t	.	4aat	.
+8ryy	.	8ryy	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4.ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	4dd#Xt	.	4bbnt	.
+8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8ryy	.	8ryy	.	4ee#Xt	.	4ccc#Xt	.
+8ryy	.	8ryy	.	.	.	.	.
+4.ryy	.	8ryy	.	4r	.	4r	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	4ryy	[4ee#t	mf [	[4ddd#Xt	mf [
+8ryy	4ryy	8ryy	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

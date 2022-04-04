@@ -1,0 +1,92 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T291_Rav-w17p17s1-2]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*I"Piano
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
+*G-:	*G-:	*
+*M4/4	*M4/4	*
+=1	=1	=1
+!	!LO:TX:a:B:t=Très lent\nSans presser ni ralentir jusqu'à la fin	!
+!LO:TX:b:Bi:t=Sourdine durant toute la pièce	!	!
+1ryy	4r	.
+.	8r	.
+!	!	!LO:DY
+.	(>[8B-'>^> 8b-	pp
+.	4B-'>] 4b-)	.
+.	(>[8B-'>^> 8b-	.
+!	!LO:TX:a:t=P:problem:cross-bar beaming (same throughout)	!
+.	8B-'>L_ [8b-)	.
+=2	=2	=2
+1ryy	8B-J] 8b-]	.
+.	4b-~>/	.
+.	(>[8B-'>^> 8b-	.
+.	4B-'>] 4b-)	.
+.	(>[8B-'>^> 8b-	.
+.	8B-'>L_ [8b-)	.
+=3	=3	=3
+*	*^	*
+!	!LO:TX:b:Bi:t=un peu marqué	!	!
+2ryy	8b-J]	(2B-_ [2f	.
+.	4b-~	.	.
+.	(8B-'^ 8b-	.	.
+8ryy	4b-')	8B-L] 8f]	.
+8ryy	.	8G- 8d-	.
+8.ryy	(8B-'^ 8b-	8.A- [8.e-	.
+.	[8b-'L)	.	.
+16ryy	.	16c-Jk 16e-]	.
+=4	=4	=4	=4
+2ryy	8b-J]	[2B- [2f	.
+.	4b-~	.	.
+.	(8B-'^ 8b-	.	.
+8ryy	4b-')	8B-L] 8f]	.
+8ryy	.	8G- 8d-	.
+8.ryy	(8B-'^ 8b-	8.A- 8.e-	.
+.	[8b-'L)	.	.
+16ryy	.	16c-Jk 16e-	.
+=5	=5	=5	=5
+*^	*	*	*
+2.ryyyy	1ryy	1B- 1f)	8b-J]/	.
+.	.	.	4b-~>/	.
+.	.	.	(>[8B-'>^>/ 8b-/	.
+.	.	.	4B-'>]/ 4b-)/	.
+*clefG2	*	*	*	*
+!	!	!	!LO:TX:t=P:b:problem:incorrectly displayed in bass clef	!
+4r>yy	.	.	(>[<8B-<'^ 8b-<	.
+.	.	.	8B-<'L_< [8b-<)	.
+*v	*v	*	*	*
+=6	=6	=6	=6
+!	!	!	!LO:DY:c:t=%s expressif
+8.ryy	(8.dd-L	8B-<J] 8b-<]	p
+.	.	4B-<~ 4b-<	.
+16ryy	16ee-Jk	.	.
+4ryy	4dd-	.	.
+.	.	(>[<8B-<'^ 8b-<	.
+8ryy	8ff-XL	4B-<'] 4b-<)	.
+8ryy	8ee-	.	.
+8.ryy	8.ccn	(>[<8B-<'^ 8b-<	.
+.	.	8B-<'L_< [8b-<)	.
+16ryy	16ee-Jk	.	.
+=7	=7	=7	=7
+*^	*	*^	*
+2.ryyyy	4ryy	4ee-\	8B-<J] 8b-<]	2f-	.
+.	.	.	4B-<~ 4b-<	.	.
+.	2.ryy	2.dd-\)	.	.	.
+.	.	.	(>[<8B-<'^ 8b-<	.	.
+.	.	.	4B-<'] 4b-<)	2ryy	.
+4ryy	.	.	(>[<8B-'>^>/ 8b-	.	.
+.	.	.	8B-'>]/ [>8b-)	.	.
+*v	*v	*	*	*	*
+*	*v	*v	*v	*
+*clefF4	*	*
+=	=	=
+*-	*-	*-
+!!!EED: Daniel Wright
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EEV: 2021/07/13
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08

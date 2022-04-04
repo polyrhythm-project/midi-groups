@@ -1,0 +1,168 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T727_Mes-w9p9m1-8]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*clefG2	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*
+*met(c)	*met(c)	*	*met(c)	*
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[half]=92	!
+!	!LO:TX:a:t=Vif et passionné [eighth]=[sixteenth] de la Variation preécédente	!	!LO:TX:a:t=Vif et passionné	!LO:DY:ed=brack
+12ryy	8eee-X'L 8fff#X	4ryy	8f#X	mf
+12ryy	.	.	.	.
+.	8bbn'J 8ggg	.	8r	.
+12ryy	.	.	.	.
+12ryy	8bb-X'L 8ddd	.	4r	.
+12ryy	.	.	.	.
+.	8ff#X'J 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8gg'L 8bb-X	.	2r	.
+12ryy	.	.	.	.
+.	8ee-X'J 8bbn	.	.	.
+12ryy	.	.	.	.
+12ryy	8dd'L 8ff#X	.	.	.
+12ryy	.	.	.	.
+.	8bn'J 8gg	.	.	.
+12ryy	.	.	.	.
+=2	=2	=2	=2	=2
+12ryy	8gg'L 8bb-X	.	1r	.
+12ryy	.	.	.	.
+.	8ee-X'J 8bbn	.	.	.
+12ryy	.	.	.	.
+12ryy	8bb-X'L 8ddd	.	.	.
+12ryy	.	.	.	.
+.	8ff#X'J 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8eee-'L 8fff#X	.	.	.
+12ryy	.	.	.	.
+.	8bbn'J 8ggg	.	.	.
+12ryy	.	.	.	.
+*	*8va	*	*	*
+12ryy	8aaa-X'L 8bbbn	.	.	.
+12ryy	.	.	.	.
+.	8eeen'J 8cccc	.	.	.
+12ryy	.	.	.	.
+!!linebreak:original
+=3	=3	=3	=3	=3
+*	*X8va	*	*	*
+!	!	!	!LO:TX:a:i:t=passionné	!
+12ryy	8eee-XL 8fff#X	.	8ccL	f <
+12ryy	.	.	.	.
+.	8bbnJ 8ggg	.	8ddJ	.
+12ryy	.	.	.	.
+12ryy	8bb-XL 8ddd	.	(2gg	[
+12ryy	.	.	.	.
+.	8ff#XJ 8eee-X	.	.	>
+12ryy	.	.	.	.
+*Xtuplet	*	*	*	*
+12ryy	8ggL 8bb-X	.	.	.
+12ryy	.	.	.	.
+.	8ee-XJ 8bbn	.	.	.
+12ryy	.	.	.	.
+12ryy	8ddL 8ff#X	.	4ff#X)	.
+12ryy	.	.	.	.
+.	8bnJ 8gg	.	.	.
+12ryy	.	.	.	]
+=4	=4	=4	=4	=4
+12ryy	8ggL 8bb-X	.	[2cc	.
+12ryy	.	.	.	.
+.	8ee-XJ 8bbn	.	.	.
+12ryy	.	.	.	.
+12ryy	8bb-XL 8ddd	.	.	.
+12ryy	.	.	.	.
+.	8ff#XJ 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8eee-L 8fff#X	.	4cc]	.
+12ryy	.	.	.	.
+.	8bbnJ 8ggg	.	.	.
+12ryy	.	.	.	.
+*	*8va	*	*	*
+12ryy	8aaa-X'L 8bbbn	.	4r	.
+12ryy	.	.	.	.
+.	8eeen'J 8cccc	.	.	.
+12ryy	.	.	.	.
+=5	=5	=5	=5	=5
+*	*X8va	*	*	*
+12ryy	8eee-X'L 8fff#X	.	8ccL	<
+12ryy	.	.	.	.
+.	8bbn'J 8ggg	.	8ddJ	.
+12ryy	.	.	.	.
+12ryy	8bb-X'L 8ddd	.	(2bb	[ 
+12ryy	.	.	.	>
+.	8ff#X'J 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8gg'L 8bb-X	.	.	.
+12ryy	.	.	.	.
+.	8ee-X'J 8bbn	.	.	.
+12ryy	.	.	.	.
+12ryy	8dd'L 8ff#X	.	4ff#X)	.
+12ryy	.	.	.	.
+.	8bn'J 8gg	.	.	.
+12ryy	.	.	.	]
+!!linebreak:original
+=6	=6	=6	=6	=6
+12ryy	8ggL 8bb-X	.	[2cc	.
+12ryy	.	.	.	.
+.	8ee-XJ 8bbn	.	.	.
+12ryy	.	.	.	.
+12ryy	8bb-XL 8ddd	.	.	.
+12ryy	.	.	.	.
+.	8ff#XJ 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8eee-L 8fff#X	.	4cc]	.
+12ryy	.	.	.	.
+.	8bbnJ 8ggg	.	.	.
+12ryy	.	.	.	.
+*	*8va	*	*	*
+12ryy	8aaa-XL 8bbbn	.	4r	.
+12ryy	.	.	.	.
+.	8eeenJ 8cccc	.	.	.
+12ryy	.	.	.	.
+=7	=7	=7	=7	=7
+*	*X8va	*	*	*
+12ryy	8eee-XL 8fff#X	.	8ccL	.
+12ryy	.	.	.	.
+.	8bbnJ 8ggg	.	8ddJ	.
+12ryy	.	.	.	.
+12ryy	8bb-XL 8ddd	.	4gg	.
+12ryy	.	.	.	.
+.	8ff#XJ 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8ggL 8bb-X	.	8ccL	.
+12ryy	.	.	.	.
+.	8ee-XJ 8bbn	.	8ddJ	.
+12ryy	.	.	.	.
+12ryy	8ddL 8ff#X	.	4bb	.
+12ryy	.	.	.	.
+.	8bnJ 8gg	.	.	.
+12ryy	.	.	.	.
+=8	=8	=8	=8	=8
+12ryy	8ggL 8bb-X	.	8ccL	.
+12ryy	.	.	.	.
+.	8ee-XJ 8bbn	.	8ddJ	.
+12ryy	.	.	.	.
+12ryy	8bb-XL 8ddd	.	4gg	.
+12ryy	.	.	.	.
+.	8ff#XJ 8eee-X	.	.	.
+12ryy	.	.	.	.
+12ryy	8eee-L 8fff#X	.	8ccL	.
+12ryy	.	.	.	.
+.	8bbnJ 8ggg	.	8ddJ	.
+12ryy	.	.	.	.
+*	*8va	*	*	*
+12ryy	8aaa-XL 8bbbn	.	4bb	.
+12ryy	.	.	.	.
+.	8eeenJ 8cccc	.	.	.
+12ryy	.	.	.	.
+*	*X8va	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED: Jason Lee
+!!!EEV: 2021/09/14

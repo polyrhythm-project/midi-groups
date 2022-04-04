@@ -1,0 +1,107 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T199_Sch-w16p8h7m1-h8m1]
+**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam
+*grp:A		*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B		*grp:B	*grp:B		*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B		*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A		*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part26		*part26	*part25	*part25	*part24	*part24	*part23	*part23	*part22	*part22	*part21	*part21	*part20	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13		*part13	*part12		*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6		*part6	*part5	*part5	*part4	*part4	*part3		*part3	*part2	*part2	*part1	*part1
+*staff26		*staff26	*staff25	*staff25	*staff24	*I"Violoncello III. IV.	*staff23	*staff23	*staff22	*staff22	*staff21	*staff21	*staff20	*staff20	*staff19	*staff19	*staff18	*staff18	*staff17	*staff17	*staff16	*staff16	*staff15	*staff15	*staff14	*staff14	*staff13		*staff13	*staff12		*staff12	*staff11	*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6		*staff6	*staff5	*staff5	*staff4	*staff4	*staff3		*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Double Bass		*I"Double Bass	*I"Violoncello III. IV.	*I"Violoncello III. IV.	*I"Violoncello I. II.	*I"Violoncello III. IV.	*I"Viola	*staff23	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Timpani	*I"Timpani	*I"Xylophone	*I"Xylophone	*I"Bass Tuba	*I"Bass Tuba	*I"Trombones III. IV.	*I"Trombones III. IV.	*I"Trumpet in Bb III.	*I"Trumpet in Bb III.	*I"Trumpets in Bb I. II.	*I"Trumpets in Bb I. II.	*I"Horns in F III. IV.		*I"Horns in F III. IV.	*I"Horns in F I. II.		*I"Horns in F I. II.	*I"Contrabassoon	*I"Contrabassoon	*I"Bassoons I. II. III.	*I"Bassoons I. II. III.	*I"Contrabass Clarinet [C]	*I"Contrabass Clarinet [C]	*I"Bass Clarinet [C]	*I"Bass Clarinet [C]	*I"Clarinet in D	*I"Clarinet in D	*I"Clarinets in A I. II.		*I"Clarinets in A I. II.	*I"English Horn	*I"English Horn	*I"Oboe III	*I"Oboe III	*I"Oboes I. II.		*I"Oboes I. II.	*I"Flutes I. II.	*I"Flutes I. II.	*I"Piccolos I. II.	*I"Piccolos I. II.
+*I'D b.		*	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Timp.	*	*I'Xyl.	*	*I'BTba.	*	*I'Tbn.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Hn.		*	*I'Hn.		*	*I'Cbsn.	*	*I'Bsn.	*	*I'Cb. Cl. A	*	*I'B. Cl.	*	*I'D Cl.	*	*I'Cl.		*	*I'Eng. Hn.	*	*I'Ob.	*	*I'Ob.		*	*I'Fl.	*	*I'Picc.	*
+*clefF4		*	*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2		*	*clefG2		*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2		*	*clefG2	*	*clefG2	*	*clefG2		*	*clefG2	*	*clefG2	*
+*ITrd7c12		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7		*	*ITrd4c7		*	*ITrd0c0	*	*	*	*	*	*	*	*ITrd-1c-2	*	*ITrd2c3		*	*ITrd4c7	*	*	*	*		*	*	*	*ITrd-7c-12	*
+*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]		*	*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]		*	*k[]	*	*k[]	*	*k[]		*	*k[]	*	*k[]	*
+*C:		*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*B-:	*	*C:	*	*C:		*	*C:		*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:		*	*C:	*	*C:	*	*C:		*	*C:	*	*C:	*
+*M3/8		*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M3/8	*	*M4/8	*	*M3/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M3/8		*	*M3/8		*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M4/8	*	*M3/8		*	*M3/8	*	*M3/8	*	*M3/8		*	*M4/8	*	*M4/8	*
+*rscale:1/2		*	*	*	*	*	*	*	*	*	*	*	*	*	*rscale:1/2	*	*	*	*rscale:1/2	*	*	*	*	*	*	*	*		*	*		*	*rscale:1/2	*	*rscale:1/2	*	*rscale:1/2	*	*rscale:1/2	*	*	*	*X-tuplet		*	*	*	*	*	*		*	*	*	*	*
+*Xtuplet		*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*		*	*		*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+!!LO:REH:t=7
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!LO:TX:t=[half] / [quarter-dot]=68	!
+!LO:TX:b:t=pizz. Das tiefe d muß dabei sein!	!LO:TX:t=pizz.	!	!LO:TX:a:t=der 2. Sp. pizz.	!	!LO:TX:a:t=der 1. Sp. arco	!	!LO:TX:a:t=der 1. Sp. arco	!	!	!	!	!LO:DY:ed=brack	!LO:TX:t=[half] / [quarter-dot]=68	!	!LO:TX:a:t=hart	!	!	!	!LO:TX:a:t=mit Dämpfer, so stark wie möglich	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!		!	!		!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!		!	!	!	!	!	!		!	!	!LO:DY:ed=brack	!LO:TX:a:t=II.	!LO:DY:ed=brack
+6DD	6DDD	ff	8ryy	4ryy	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	6D	f	8ryy	4ryy	[3.DDD^	fff	2ryy	4ryy	2ryy	4ryy	2ryy	4ryy	2ryy	.	2ryy	.	[3.DD^	f	[3.DD]^ [3.AA] [3.C#X])	f	[3.DDD^	f	[3.DD^	f	[2B-X	pp	2ryy	.	2r	.	2r	.	2r	.	2ryy	4ryy	2ryy	4ryy
+.	.	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+6r	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+6r	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!		!	!LO:TX:t=P:problem:beaming across the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+3.r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	3.r	.	2ryy	.	6DDD]	.	2ryy	.	2ryy	4ryy	2ryy	4ryy	2ryy	.	2ryy	.	6DD]	.	3.DD^_ 3.AA_ 3.C#_))	.	6DDD]	.	6DD]	.	2B-_	<	2ryy	.	2r	.	2r	.	2r	.	2ryy	4ryy	2ryy	4ryy
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	.	.	.	.	.	.	.	.	.	.	.	6r	.	.	.	6r	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!		!	!	!	!	!	!	!	!	!	!LO:TX:a:t=alle arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	.	.	.	.	.	.	.	.	.	.	.	6r	.	.	.	6r	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!		!	!LO:TX:t=P:problem:beaming over the barline	!	!LO:TX:t=P:problem:beaming over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*		*	*	*	*	*	*clefG2	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+!		!	!	!	!	!	!LO:TX:a:t=alle arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+3.r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	3.r	.	2ryy	.	2r	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2r	.	3.DD^_ 3.AA_ 3.C#_	.	3.r	.	3.r	.	2B-_	.	2ryy	.	2r	.	2r	.	2r	.	2ryy	4ryy	2ryy	4ryy
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!		!	!	!	!LO:TX:t=P:problem:beaming over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	[[	.	.	.	.	.	.	.	.	.	.	.	.
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet		*	*	*	*	*	*Xtuplet		*	*Xtuplet	*	*Xtuplet	*
+3.r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	3.r	.	6ryy	.	2r	.	2ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4ryy	.	4ryy	.	2r	.	3.DD^_ 3.AA_ 3.C#_	.	3.r	.	3.r	.	6B-]	f	6ryy	.	2r	.	2r	.	6r	.	6ryy	.	6ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*haupt		*	*	*	*	*	*		*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	.	6ryy	.	.	.	.	.	6r	.	6ryy	.	6ryy	.
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*^		*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=mit Dämpfer	!	!	!LO:TX:a:t=mit Dämpfer	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6r	.	24ryy	4ryy	.	.	.	.	(24cc#XLLL> 24aa	ff	24ryy	4ryy	24ryy	4ryy
+!		!	!LO:TX:t=P:problem:beaming over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	24ccn 24ee-X	.	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	24f#X 24dd	.	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	24c#XJJJ 24a	.	24ryy	.	24ryy	.
+*		*	*	*	*	*	*clefC3	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+3.r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	3.r	.	6ryy	.	2r	.	2ryy	.	2ryy	.	2ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	2r	.	3.DD^_ 3.AA_ 3.C#_	>	3.r	.	3.r	.	2r	.	3ryy	.	2r	.	2r	.	3cn 3gn)	.	3ryy	.	3ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	(24dd-XLLL 24ffn	.	24ryy	.	24ryy	.
+!		!	!LO:TX:t=P:problem:beaming over the barline	!	!LO:TX:t=P:problem:beaming over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	24gn 24een	.	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	24g-X 24b-X	.	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	24d-XJJJ 24f	.	24ryy	.	24ryy	.
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*k[]	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*C:	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*^		*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+3.r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	3.r	.	6ryy	.	2r	.	8ryy	.	2ryy	.	2ryy	.	2ryy	2ryy	.	2ryy	2ryy	.	2r	.	3.DD^_ 3.AA_ 3.C#_	.	3.r	.	3.r	.	2r	.	3ryy	.	2r	.	2r	.	3c-X 3e-X)	.	3ryy	.	3ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	4ryy	8ryy	4ryy	4ryy	.	4ryy	.	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	6r	.	24ryy	.	24ryy	.
+!		!	!	!	!LO:TX:t=P:problem:beaming over the barline	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+.	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	.
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*		*	*	*	*	*
+!!LO:REH:t=8
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet		*	*Xtuplet		*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet		*	*Xtuplet	*	*Xtuplet	*	*Xtuplet		*	*	*	*	*
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt		*	*haupt		*	*	*	*	*	*	*	*	*	*haupt	*	*haupt		*	*haupt	*	*haupt	*	*haupt		*	*	*	*	*
+!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=II. IV.		!	!LO:TX:a:t=zu 2 I. III.		!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!		!	!	!	!	!
+3.r	.	8ryy	.	8ryy	.	2ryy	.	2ryy	.	8ryy	.	8ryy	4ryy	3.r	.	6ryy	.	2r	.	2ryy	.	2ryy	.	2ryy	.	6..r^yy	.	6..r^yy	.	2r	.	3.DD^_ 3.AA_ 3.C#_	.	3.r	.	3.r	.	12.r	.	12.ryy	.	12.r	.	12.r	.	12.r	.	3ryy	.	3ryy	.
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*^		*	*	*	*	*
+.	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ff#	f	24ryy	24ryy	4ryy	24a	f	24a	f	24ff#X	24een	f	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	3gg	.	3ryy	6..ryy	.	6..a-XL	.	6..a-XL	.	3gg	6..ee-XL	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	4ryy	24ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	.	.	.	.	.	.	.	.	6ryy	.	6ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	.	6ryy	.
+.	.	8ryy	4ryy	8ryy	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	]]	.	.	.	.	.	.	.	24ryy	.	24g-XJkk	.	24g-XJkk	.	.	24dd-XJkk	.	.	.	.	.
+*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*
+=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=		=	=	=	=	=
+*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-
+!!!system-decoration: [s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11],[s12,s13],[s14,s15,s16,s17],[s18],[s19],[s20,s21,s22,s23,s24,s25,s26]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

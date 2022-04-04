@@ -1,0 +1,174 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T613_Hin-w9p44m1-23]
+**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B		*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2		*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2		*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II		*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II		*	*I'Vln. I	*
+*ICstr	*ICstr	*ICstr	*ICstr	*ICstr		*ICstr	*ICstr	*ICstr
+*Icello	*Icello	*Iviola	*Iviola	*Ivioln		*Ivioln	*Ivioln	*Ivioln
+*clefF4	*	*clefC3	*	*clefG2		*	*clefG2	*
+*k[]	*	*k[]	*	*k[]		*	*k[]	*
+*C:	*	*C:	*	*C:		*	*C:	*
+*M2/8	*	*M2/8	*	*M2/8		*	*M2/8	*
+=1	=1	=1	=1	=1		=1	=1	=1
+*Xtuplet	*	*	*	*		*	*	*
+*	*	*Xtuplet	*	*		*	*	*
+!	!	!	!	!		!	!LO:TX:t=[[quarter]=120]	!
+!	!	!	!	!		!	!LO:TX:a:B:t=FINALE Äußerst lebhaft (Ganze Takte M.M. 128-136) Das Zeitmaß der ganzen Takte ist ohne Rücksicht auf die Taktvorschrift stets das Gleiche. Also [quarter] immer gleich [quarter-dot] !	!
+!	!	!	!	!		!	!LO:TX:t=P:problem:time signature includes 3/8 beside 2/8	!
+12ryy	.	12ryy	.	4r)j	.	4r	.
+12ryy	4ryy	12ryy	4ryy	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.
+=2	=2	=2	=2	=2		=2	=2	=2
+12ryy	.	12ryy	.	16ccLL	mf	16cccLL	mf
+.	.	.	.	16cc	.	16ccc	.
+12ryy	.	12ryy	.	.	.	.	.
+.	.	.	.	16dd	.	16ddd	.
+12ryy	4ryy	12ryy	4ryy	.	.	.	.
+.	.	.	.	16aJJ	.	16aaJJ	.
+=3	=3	=3	=3	=3		=3	=3	=3
+12ryy	.	12ryy	.	[4cc	.	[4ccc	.
+12ryy	.	12ryy	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.
+=4	=4	=4	=4	=4		=4	=4	=4
+12ryy	4ryy	12ryy	4ryy	16ccLL]	.	16cccLL]	.
+.	.	.	.	16cc	.	16ccc	.
+12ryy	.	12ryy	.	.	.	.	.
+.	.	.	.	16dd	.	16ddd	.
+12ryy	.	12ryy	.	.	.	.	.
+.	.	.	.	16aJJ	.	16aaJJ	.
+=5	=5	=5	=5	=5		=5	=5	=5
+12ryy	.	12ryy	.	[4cc	.	[4ccc	.
+12ryy	4ryy	12ryy	4ryy	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.
+=6	=6	=6	=6	=6		=6	=6	=6
+12ryy	.	12ryy	.	16ccLL]	.	16cccLL]	.
+.	.	.	.	16cc	.	16ccc	.
+12ryy	.	12ryy	.	.	.	.	.
+.	.	.	.	16dd	.	16ddd	.
+12ryy	.	12ryy	.	.	.	.	.
+.	.	.	.	16aJJ	.	16aaJJ	.
+=7	=7	=7	=7	=7		=7	=7	=7
+12ryy	4ryy	12ryy	4ryy	[4cc	<	[4ccc	<
+12ryy	.	12ryy	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.
+=8	=8	=8	=8	=8		=8	=8	=8
+12ryy	.	12ryy	.	16ccLL]	.	16cccLL]	.
+.	.	.	.	16cc	.	16ccc	.
+12ryy	.	12ryy	.	.	.	.	.
+.	.	.	.	16dd	.	16ddd	.
+12ryy	4ryy	12ryy	4ryy	.	.	.	.
+.	.	.	.	16aJJ	[	16aaJJ	[
+=9	=9	=9	=9	=9		=9	=9	=9
+*grp:B	*grp:B	*grp:B	*grp:B	*grp:A		*grp:A	*grp:A	*grp:A
+*	*	*	*	*Xtuplet		*	*Xtuplet	*
+[4DD [4AA	mf	[4F [4c	mf	12ryy	4ryy	12ryy	4ryy
+.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	12ryy	4ryy	12ryy	4ryy
+!!LO:REH:t=10
+=10	=10	=10	=10	=10		=10	=10	=10
+*	*	*	*	*^		*	*	*
+8DDL] 8AA]	.	16FLL] 16c]	.	12ryy	12ryy	4ryy	12ryy	4ryy
+.	.	16c	.	.	.	.	.	.
+.	.	.	.	12ryy	6ryy	.	12ryy	.
+8GGJ 8D	.	16d	.	.	.	.	.	.
+.	.	.	.	12ryy	.	4ryy	12ryy	4ryy
+.	.	16AJJ	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*
+=11	=11	=11	=11	=11		=11	=11	=11
+[4DD [4AA	.	[4F [4c	.	12ryy	4ryy	12ryy	4ryy
+.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	12ryy	4ryy	12ryy	4ryy
+=12	=12	=12	=12	=12		=12	=12	=12
+*	*	*	*	*^		*	*	*
+8DDL] 8AA]	.	16FLL] 16c]	.	12ryy	12ryy	4ryy	12ryy	4ryy
+.	.	16c	.	.	.	.	.	.
+.	.	.	.	12ryy	6ryy	.	12ryy	.
+8GGJ 8D	.	16d	.	.	.	.	.	.
+.	.	.	.	12ryy	.	4ryy	12ryy	4ryy
+.	.	16AJJ	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*
+=13	=13	=13	=13	=13		=13	=13	=13
+[4DD [4AA	p	[4c	p	12ryy	.	12ryy	.
+.	.	.	.	12ryy	.	12ryy	4ryy
+.	.	.	.	12ryy	.	12ryy	.
+=14	=14	=14	=14	=14		=14	=14	=14
+4DD_ 4AA_	.	16cLL]	.	12ryy	.	12ryy	4ryy
+.	.	16B	.	.	.	.	.
+.	.	.	.	12ryy	4ryy	12ryy	.
+.	.	16c	.	.	.	.	.
+.	.	.	.	12ryy	.	12ryy	4ryy
+.	.	16c#XJJ	.	.	.	.	.
+=15	=15	=15	=15	=15		=15	=15	=15
+!	!	!	!	!		!	!LO:TX:b:i:t=cresc.	!
+*	*	*	*	*grp:B		*grp:B	*	*
+4DD] 4AA]	<	[4d	<	(16ffLL	<	12ryy	4ryy
+.	.	.	.	16ee	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16dd	.	.	.
+.	.	.	.	.	.	12ryy	4ryy
+.	.	.	.	16ccJJ	.	.	.
+=16	=16	=16	=16	=16		=16	=16	=16
+*	*	*	*	*grp:A		*grp:A	*	*
+[4GG [4D	.	16dLL]	.	12ryy	.	12ryy	.
+.	.	16c#X	.	.	.	.	.
+.	.	.	.	12ryy	.	12ryy	.
+.	.	16d	.	.	.	.	.
+.	.	.	.	12ryy	.	12ryy	.
+.	.	16eJJ	.	.	.	.	.
+=17	=17	=17	=17	=17		=17	=17	=17
+*	*	*	*	*		*	*	*
+4GG] 4D]	.	[4f	.	12ryy	.	12ryy	4ryy
+.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	12ryy	.	12ryy	4ryy
+=18	=18	=18	=18	=18		=18	=18	=18
+*	*	*	*	*grp:B		*grp:B	*	*
+4FF 4C	.	16fLL]	.	(16bb-XLL	.	12ryy	4ryy
+.	.	16e	.	16aa	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	16f	.	16gg	.	.	.
+.	.	.	.	.	.	12ryy	4ryy
+.	.	16gJJ	.	16ffJJ	.	.	.
+=19	=19	=19	=19	=19		=19	=19	=19
+*	*	*	*	*grp:A		*grp:A	*	*
+[4BB-X [4F	.	[4a-X	.	12ryy	.	12ryy	.
+.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	12ryy	.	12ryy	.
+!!LO:REH:t=20
+=20	=20	=20	=20	=20		=20	=20	=20
+4BB-] 4F]	.	16a-LL]	.	12ryy	.	12ryy	.
+.	.	16g	<	.	.	.	.
+.	.	.	.	12ryy	4ryy	12ryy	4ryy
+.	.	16a-X	.	.	.	.	.
+.	.	.	.	12ryy	.	12ryy	.
+.	.	16b-XJJ	.	.	.	.	.
+=21	=21	=21	=21	=21		=21	=21	=21
+*	*	*	*	*grp:B		*grp:B	*	*
+4AA-X 4E-X	<	[4bnt	.	16ffLL	.	12ryy	.
+.	.	.	.	16ee	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ff	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ggJJ	.	.	.
+=22	=22	=22	=22	=22		=22	=22	=22
+[4DD [4GG	.	4b_t	.	16ffLL	.	12ryy	.
+.	.	.	.	16ee	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ff	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ggJJ	.	.	.
+=23	=23	=23	=23	=23		=23	=23	=23
+4DD_ 4GG_	[	4b_t	[	16ffLL	.	12ryy	.
+.	.	.	.	16ee	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	16ff	.	.	.
+.	.	.	.	.	.	12ryy	4ryy
+.	.	.	.	16ggJJ	[	.	.
+=	=	=	=	=		=	=	=
+*-	*-	*-	*-	*-		*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -1,0 +1,96 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T506_Mau-w11p23-24m61-69]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+=61	=61	=61	=61	=61	=61	=61	=61
+!	!	!	!	!	!	!LO:TX:a:t=[[quarter]=92]	!LO:DY:t= %s dolce
+4ryy	.	4ryy	.	2cc^ 2ee)	4ryy	2.ggg	4ryy
+!	!LO:DY:t= %s espr. molto	!	!LO:DY:t= %s espr. molto	!	!	!	!
+4ryy	4ryy	4ryy	4ryy	.	.	.	.
+4ryy	.	4ryy	.	4g~^ 4dd	4ryy	.	.
+8ryy	.	8ryy	.	4cc~^ 4ee	4ryy	[2ggg	.
+8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4a~^ 4gg	4ryy	.	.
+=62	=62	=62	=62	=62	=62	=62	=62
+*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
+8ryy	4ryy	8ryy	4ryy	4g^ 4dd	4ryy	2.ggg]	.
+8ryy	.	8ryy	.	.	.	.	.
+4ryy	4ryy	4ryy	4ryy	4cc^ 4ee	4ryy	.	.
+8ryy	.	8ryy	.	4g^ 4dd	4ryy	.	.
+8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4cc^ 4ee	4ryy	[2.ggg	.
+2ryy	.	2ryy	.	4a^ 4gg	4ryy	.	.
+.	.	.	.	4g^ 4dd	4ryy	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+!	!	!	!	!LO:TX:b:i:t=sempre cresc. poco a poco	!	!LO:TX:b:i:t=poco a poco cresc.	!
+4ryy	.	4ryy	.	8cc 8ee	.	2ggg]	.
+.	.	.	.	4g 4dd	.	.	.
+4ryy	4ryy	4ryy	4ryy	.	.	.	.
+.	.	.	.	8a 8gg	.	.	.
+4ryy	.	4ryy	.	4cc 4ee	.	[2.ggg^TT	.
+8ryy	4ryy	8ryy	4ryy	8gL 8dd	.	.	.
+8ryy	.	8ryy	.	8aJ 8gg	.	.	.
+4ryy	.	4ryy	.	4cc 4ee	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+8ryy	.	8ryy	.	8g 8dd	4ryy	2.gggTTT]	4ryy
+8ryy	.	8ryy	.	4cc 4ee	.	.	.
+2ryy	.	2ryy	.	.	.	.	.
+.	.	.	.	8a 8gg	.	.	.
+.	.	.	.	8bL 8ff	.	.	.
+.	.	.	.	8aJ 8gg	4ryy	.	.
+!!LO:REH:t=65
+=65	=65	=65	=65	=65	=65	=65	=65
+!	!	!	!	!	!	!	!LO:DY:t= %s espr. molto
+4ryy	4ryy	4ryy	4ryy	8ccL 8ee	4ryy	4ggg~	4ryy
+.	.	.	.	8aJ 8ee	.	.	.
+2ryy	4ryy	2ryy	4ryy	8cc 8ee	.	4aaa~	.
+.	.	.	.	4g 4dd	.	.	.
+.	.	.	.	.	.	[4ggg~	.
+.	.	.	.	8a 8gg	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66
+2.ryy	.	2.ryy	.	4cc 4ee	.	4ggg]	.
+.	.	.	.	8gL 8dd	.	(8fff~L	.
+.	.	.	.	8aJ 8gg	.	8eee~J)	.
+.	.	.	.	4cc 4ee	4ryy	4ddd	.
+=67	=67	=67	=67	=67	=67	=67	=67
+2ryy	.	2ryy	.	8g^L 8dd	4ryy	(8eeeL	.
+.	.	.	.	8aJ 8gg	.	8cccJ)	.
+.	.	.	.	8ccL 8ee	.	4ddd	4ryy
+.	4ryy	.	4ryy	8g^J 8dd	.	.	.
+4ryy	4ryy	4ryy	4ryy	8aL 8gg	.	[4ggg^	4ryy
+.	.	.	.	([8ccJ [8ee	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68
+4ryy	.	4ryy	.	8ccL] 8ee]	.	4ggg]	.
+.	.	.	.	8gJ 8dd)	.	.	.
+2ryy	4ryy	2ryy	4ryy	8dL 8cc	.	(4ggg^	.
+.	.	.	.	8gJ 8dd	.	.	.
+.	.	.	.	8aL 8gg	.	8fff~L	.
+.	.	.	.	(8ccJ 8ee	.	8eee~J)	.
+=69	=69	=69	=69	=69	=69	=69	=69
+2.ryy	.	2.ryy	.	8gL 8dd)	.	4ddd	.
+.	.	.	.	8dJ 8cc	.	.	.
+.	.	.	.	8gL 8dd	.	(8eeeL	.
+.	4ryy	.	4ryy	8aJ 8gg	4ryy	8cccJ)	4ryy
+.	.	.	.	(8ccL 8ee	.	(8ccc~L	.
+.	4ryy	.	4ryy	8gJ 8dd)	4ryy	[8ddd~J)	4ryy
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/28
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/16

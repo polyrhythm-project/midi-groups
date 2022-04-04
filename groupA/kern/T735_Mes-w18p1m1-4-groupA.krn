@@ -1,0 +1,73 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T735_Mes-w18p1m1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*	*part2	*part2	*part1	*	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano 2	*	*	*	*I"Piano 1	*	*	*
+*I'Pno. 2	*	*	*	*I'Pno. 1	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+*8ba	*	*	*	*ped	*	*8va	*
+!	!	!	!	!	!	!LO:TX:t=Très lent, mystérieux et solennel ([eighth]=50)	!
+!LO:TX:t=P:problem: 8ba has been added but is not showing visually.	!	!	!	!LO:TX:b:t=(garder la pédale forte jusqu'à la fin)	!	!	!
+!	!	!	!	!LO:TX:b:t=╚c	!	!LO:TX:t=╔ a	!
+(4AAAA 4CCC# 4EEE 4AAA	.	1r	ppp	2ee-X 2aa 2dddn	.	4.ryy	4ryy
+4CCC# 4EEE 4AAA 4CC#	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.
+4BBBB-X 4DDD#X 4GGGn 4BBB-X	.	.	.	4dd-X 4ggn 4cccn	.	16ryy	.
+.	.	.	.	.	.	8.ryy	.
+!	!	!	!	!	!	!LO:TX:t=┐	!
+4AAAA 4CCC# 4EEE 4AAA	.	.	.	[4bn [4ffn [4bb-X	.	8.ryy	.
+!	!	!	!	!	!	!LO:TX:t=┌b	!
+.	.	.	.	.	.	16ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:b:t=┘	!	!	!
+1EEE 1AAA 1CC# 1EE)	.	1r	.	4bn] 4ffn] 4bb-X]	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+!	!	!	!	!	!	!LO:TX:t=┐	!
+.	.	.	.	.	.	8ryy	.
+!	!	!	!	!LO:TX:b:t=└d	!	!	!
+.	.	.	.	2ee-X 2aa 2dddn	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	8dd-XL 8ggn 8cccn	.	8ryy	.
+.	.	.	.	[8bnJ [8ffn [8bb-X	.	8ryy	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3
+(4EEE 4AAA 4CC# 4EE	.	1r	.	8bnL] 8ffn] 8bb-X]	.	8ryy	.
+.	.	.	.	16ee-XL 16aa 16dddn	.	8ryy	.
+.	.	.	.	[16dd-XJJ [16ggn [16cccn	.	.	.
+4FFF# 4BBB-X 4DD#X 4FF#	.	.	.	2dd-_ 2gg_ 2ccc_	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!LO:TX:t=┌a	!
+4EEE 4AAA 4CC# 4EE	.	.	.	.	.	4.ryy	.
+!	!	!	!	!LO:TX:b:t=┘	!	!	!
+4BBBBn 4EEE 4GGG# 4BBBn	.	.	.	16dd-KL] 16gg] 16ccc]	.	.	.
+!	!	!	!	!LO:TX:b:t=└e	!	!	!
+.	.	.	.	[8.bnJ [8.ffn [8.bb-X	.	.	.
+.	.	.	.	.	.	8ryy	.
+=4	=4	=4	=4	=4	=4	=4	=4
+1DDD 1FFFn 1AAA 1DD)	.	1r	.	4bn_ 4ffn_ 4bb-X_	.	16ryy	.
+.	.	.	.	.	.	8.ryy	.
+!	!	!	!	!	!	!LO:TX:t=┐	!
+.	.	.	.	16bKL] 16ff] 16bb-]	.	8.ryy	.
+.	.	.	.	[8.ee-XJ [8.aa [8.dddn	.	.	.
+!	!	!	!	!	!	!LO:TX:t=┌b	!
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	16ee-KL] 16aa] 16ddd]	.	16ryy	.
+.	.	.	.	[8.dd-XJ [8.ggn [8.cccn	.	16ryy	.
+!	!	!	!	!	!	!LO:TX:t=┐	!
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	4dd-_ 4gg_ 4ccc_	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+*X8ba	*	*	*	*	*	*X8va	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!EED: Daniel Wright
+!!!EEV:2021/10/1

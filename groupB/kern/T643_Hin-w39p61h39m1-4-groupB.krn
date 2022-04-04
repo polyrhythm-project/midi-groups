@@ -1,0 +1,93 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T643_Hin-w39p61h39m1-4]
+**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:C	*grp:C	*grp:C	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1
+*staff7	*staff6	*	*staff5	*staff4	*	*staff3	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Harp II	*	*	*I"Harp I	*	*	*I"Tuba	*
+*I'Pno.	*I'Pno.	*	*I'Hp.	*	*	*I'Hp.	*	*	*I'Tba.	*
+*ICklav	*ICklav	*	*ICstr	*ICstr	*	*ICstr	*ICstr	*	*ICbras	*
+*Ipiano	*Ipiano	*	*Iarpa	*Iarpa	*	*Iarpa	*Iarpa	*	*Ituba	*
+*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*
+*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*
+*M3/2.	*M3/2.	*	*M3/2.	*M3/2.	*	*M3/2.	*M3/2.	*	*M3/2.	*
+!!LO:REH:t=39
+=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
+*	*	*	*	*	*	*	*	*	*Xtuplet	*
+!	!	!	!	!	!	!	!	!	!LO:TX:t=Noch Ruhiger ([half-dot]=46-50)	!
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:time signature is 3/dotted-half-note, not 3/2	!
+4.ryy	4.ryy	4ryy	4r	4r	.	4r	4r	.	4%9ryy	.
+.	.	.	4E 4G	4e 4g	p	4C 4c	4cc 4ccc	p	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	.	.
+8ryy	8ryy	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4F#X 4A	4f#X 4a	.	4D 4d	4dd 4ddd	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	.	.
+8ryy	8ryy	.	4C#X 4E	4c#X 4e	.	4AA 4A	4a 4aa	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	.	.
+4ryy	4ryy	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	.	.
+=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
+8ryy	8ryy	.	4C#X 4E	4c#X 4e	.	4AA 4A	4a 4aa	.	2.ryy	4ryy
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4.ryy	4.ryy	.	2E 2G	2e 2g	.	2C 2c	2cc 2ccc	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4r	4r	.	4r	4r	.	2.ryy	.
+*	*	*	*	*	*	*	*	*	*	*
+4.ryy	4.ryy	4ryy	4E 4G	4e 4g	<	4C 4c	4cc 4ccc	<	.	.
+.	.	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	2.ryy	.
+4ryy	4ryy	.	.	.	.	.	.	.	.	.
+.	.	.	4F#X 4A	4f#X 4a	.	4D 4d	4dd 4ddd	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	.	.
+8ryy	8ryy	4ryy	.	.	[[	.	.	[[	.	.
+=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
+*	*8va	*	*	*	*	*	*	*	*	*
+4.ryy	4.ryy	.	4C#X 4E	4c#X 4e	>	4AA 4A	4a 4aa	>	2.ryy	.
+.	.	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	2.ryy	4ryy
+8ryy	8ryy	4ryy	.	.	.	.	.	.	.	.
+*clefG2	*	*	*	*	*	*	*	*	*	*
+4.ryy	4.ryy	.	2E 2G	2e 2g	]	2C 2c	2cc 2ccc	]	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4r	4r	.	4r	4r	.	2.ryy	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4.ryy	4.ryy	.	4E 4G	4e 4g	pp	4C 4c	4cc 4ccc	pp	.	.
+.	.	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	.	.
+8ryy	8ryy	4ryy	.	.	.	.	.	.	.	4ryy
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=zurückhalten	!
+4.ryy	4.ryy	.	4E 4G	4e 4g	.	4C 4c	4cc 4ccc	.	1.ryy	.
+.	.	.	4F#X 4A	4f#X 4a	.	4D 4d	4dd 4ddd	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4E 4G	4e 4g	>	4C 4c	4cc 4ccc	>	.	.
+8ryy	8ryy	.	4C#X 4E	4c#X 4e	.	4AA 4A	4a 4aa	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	.	.
+4ryy	4ryy	.	.	.	.	.	.	.	.	.
+.	.	.	4C# 4E	4c# 4e	.	4AA 4A	4a 4aa	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=60	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Sehr langsam	!
+2.ryy	4ryy	4ryy	2.r	2.r	]	2.r	2.r	]	2.ryy	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*
+.	4ryy	4ryy	.	.	.	.	.	.	.	.
+*	*X8va	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})][({(s4,s5)})][({(s6,s7)})][({(s8,s9)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/02
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/18

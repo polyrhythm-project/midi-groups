@@ -1,0 +1,215 @@
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [T404_Web-w22p5m17-24]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*M2/8	*	*M2/8	*	*M2/8	*
+!!LO:REH:t=17
+=17	=17	=17	=17	=17	=17
+!	!	!	!	!LO:TX:t=[[16th]=52]	!
+32.ryy	.	64r	.	48ryy	.
+.	.	64ccn'LLLL	p	.	.
+.	.	.	.	48ryy	.
+.	.	(64cc	>	.	.
+!	!	!	!	!LO:TX:a:t=(pizz.)	!
+.	.	.	.	48ryy	4ryy
+!LO:TX:a:t=pizz.	!	!	!	!	!
+64ryy	4ryy	64Bn'JJJJ)	]	.	.
+!LO:TUP:a	!	!	!	!LO:TUP:a	!
+48ryy	.	(64BLLLL	pp >	48ryy	.
+.	.	64b-X')	.	.	.
+!LO:TX:a:t=arco	!	!	!	!	!
+24ryy	4ryy	.	.	48ryy	4ryy
+.	.	64b-'	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	48ryy	4ryy
+.	.	64b-'JJJJ	]	.	.
+*	*	*clefG2	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!LO:TUP:a	!
+48ryy	4ryy	64r'	.	24ryy	4ryy
+.	.	(32dddnLLL	p >	.	.
+48ryy	4ryy	.	.	.	.
+48ryy	4ryy	.	.	48ryy	4ryy
+.	.	64ff#X'JJJk)	.	.	.
+*	*	*clefC3	*	*	*
+!	!	!LO:TUP:a	!	!	!
+16ryy	.	48r	]	64ryy	4ryy
+.	.	.	.	64ryy	4ryy
+!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	48gn~LLL"	pp	.	.
+.	.	.	.	64ryy	4ryy
+.	.	48G#X~JJJ"	.	.	.
+.	.	.	.	64ryy	4ryy
+!!LO:REH:t=18
+=18	=18	=18	=18	=18	=18
+!LO:TUP:a	!	!	!	!	!
+!LO:TX:a:t=(pizz.)	!	!	!	!	!
+48ryy	.	32.r	.	64ryy	.
+!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	64ryy	4ryy
+48ryy	4ryy	.	.	.	.
+.	.	.	.	64ryy	.
+48ryy	4ryy	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!
+.	.	(64fnLLLL	p >	64ryy	.
+!	!	!	!	!LO:TUP:a	!
+64ryy	.	64F#X	.	48ryy	4ryy
+64ryy	4ryy	64cnJJJJ)	]	.	.
+!	!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	48ryy	4ryy
+64ryy	.	32r	.	.	.
+.	.	.	.	48ryy	.
+64ryy	4ryy	.	.	.	.
+!	!	!LO:TX:a:t=pizz.	!	!LO:TUP:a	!
+32.ryy	.	64r	.	24ryy	4ryy
+.	.	64E-X'LLLL"	pp >	.	.
+.	.	64dn'JJJJ"	.	.	.
+.	.	.	.	48ryy	.
+64ryy	4ryy	64r	]	.	.
+!	!	!LO:TUP:a	!	!	!
+48ryy	4ryy	48r	.	64ryy	4ryy
+!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	64ryy	4ryy
+!LO:TX:a:t=arco	!	!	!	!	!
+24ryy	4ryy	48r	.	.	.
+.	4ryy	.	.	64ryy	.
+!	!	!LO:TX:a:t=arco	!	!	!
+.	4ryy	([48bn	pp < [	.	.
+.	4ryy	.	.	64ryy	.
+!!LO:REH:t=19
+=19	=19	=19	=19	=19	=19
+32ryy	.	48bLLL]	>	32.ryy	.
+.	.	48B-X	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!
+64ryy	4ryy	.	.	.	.
+.	.	48cnJJJ)	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!
+64ryy	.	.	.	64ryy	4ryy
+!	!	!LO:TX:a:t=pizz.	!	!	!
+16ryy	4ryy	32.r	]	48ryy	4ryy
+.	.	.	.	48ryy	.
+.	.	.	.	48ryy	.
+.	.	64Gn" 64cn"	ppp	.	.
+*clefC4	*	*	*	*	*
+!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
+48ryy	.	32r	.	32.ryy	4ryy
+48ryy	4ryy	.	.	.	.
+*	*	*clefG2	*	*	*
+.	.	(64g#XLLLL	p	.	.
+48ryy	4ryy	.	.	.	.
+!	!	!LO:TX:t=○	!	!	!
+.	.	64aanJJJJ)	<	64ryy	4ryy
+*clefF4	*	*	*	*	*
+48ryy	.	48r	[	32.ryy	.
+24ryy	4ryy	48r	.	.	.
+*	*	*clefC3	*	*	*
+!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	48Fn~"	pp	.	.
+.	.	.	.	64ryy	4ryy
+!!LO:REH:t=20
+=20	=20	=20	=20	=20	=20
+32ryy	.	16r	.	48ryy	4ryy
+.	.	.	.	48ryy	4ryy
+!LO:TX:a:t=pizz.	!	!	!	!	!
+64ryy	4ryy	.	.	.	.
+.	.	.	.	48ryy	4ryy
+64ryy	.	.	.	.	.
+48ryy	4ryy	32r	.	16ryy	.
+48ryy	.	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!
+.	.	(16b-XLL	p <	.	.
+48ryy	4ryy	.	.	.	.
+!	!	!	!	!LO:TUP:a	!
+16ryy	.	.	.	48ryy	.
+.	.	.	.	48ryy	.
+.	.	16cc#X	[ >	.	.
+*	*	*	*	*8va	*
+!	!	!	!	!LO:TX:t=P:problem:8va not rendering	!
+.	.	.	.	48ryy	4ryy
+*	*	*	*	*X8va	*
+64ryy	4ryy	.	.	48ryy	4ryy
+64ryy	.	.	.	.	.
+.	.	.	.	48ryy	.
+64ryy	.	32cnJJk)	]	.	.
+.	.	.	.	48ryy	4ryy
+64ryy	4ryy	.	.	.	.
+!!LO:REH:t=21
+=21	=21	=21	=21	=21	=21
+16ryy	.	16r	.	32ryy	4ryy
+.	.	.	.	32ryy	4ryy
+!LO:TX:a:t=(pizz.)	!	!LO:TX:a:t=pizz.	!	!	!
+!LO:TUP:a	!	!	!	!	!
+48ryy	.	32.r	.	16ryy	4ryy
+48ryy	4ryy	.	.	.	.
+48ryy	.	.	.	.	.
+*	*	*clefG2	*	*	*
+.	.	64ddn'"	pp	.	.
+!	!	!LO:TX:a:t=arco	!	!	!
+!LO:TUP:a	!	!LO:TUP:a	!	!	!
+24ryy	4ryy	40r	.	8ryy	4ryy
+!	!	!LO:TX:a:t=am Steg - - ┐	!	!	!
+.	.	(\40ffnLLL	pp >	.	.
+24ryy	4ryy	.	.	.	.
+.	.	40f#X	.	.	.
+.	.	40cn	.	.	.
+24ryy	4ryy	.	.	.	.
+.	.	40bnJJJ)	]	.	.
+!!LO:REH:t=22
+=22	=22	=22	=22	=22	=22
+48ryy	.	16r	.	32.ryy	4ryy
+!LO:TX:a:t=arco	!	!	!	!	!
+24ryy	4ryy	.	.	.	.
+.	.	.	.	64ryy	4ryy
+*	*	*clefC3	*	*	*
+!	!	!LO:TUP:a	!	!	!
+24ryy	4ryy	48r	pp <	48ryy	4ryy
+.	.	24c#X~	[ >	96ryy	4ryy
+!	!	!	!	!LO:TX:a:B:t=rit. -    -	!
+.	.	.	]	32ryy	4ryy
+48ryy	4ryy	.	.	.	4ryy
+!	!	!	!	!LO:TX:t=P:problem: Tempo alterations should all be level on the same Horizontal Plane.	!
+8ryy	.	8r	.	16ryy	.
+.	.	.	.	16ryy	4ryy
+!!LO:REH:t=23
+=23	=23	=23	=23	=23	=23
+!	!	!	!	!LO:TX:a:B:t=-   tempo	!
+32ryy	.	16r	.	16ryy	.
+32ryy	4ryy	.	.	.	.
+32ryy	4ryy	32.r	.	48ryy	.
+.	.	.	.	48ryy	4ryy
+32ryy	4ryy	.	.	.	.
+.	.	.	.	48ryy	.
+.	.	([64gg#X	pp	.	.
+32ryy	.	12gg#L]	<	16ryy	4ryy
+32ryy	4ryy	.	[	.	.
+!	!	!	!	!LO:TX:a:B:t=rit. -    -	!
+!	!	!	!	!LO:TX:t=P:problem: There should be a line between these two notes to indicates a gliss.	!
+32ryy	.	.	>	32ryy	4ryy
+.	.	24dd#XJk)	.	.	.
+32ryy	4ryy	.	]	32ryy	.
+!!LO:REH:t=24
+=24	=24	=24	=24	=24	=24
+!	!	!	!	!LO:TX:a:B:t=-     tempo	!
+16ryy	.	48r	.	16ryy	.
+.	.	(48fnLLL	ppp	.	.
+.	.	48EnJJJ)	.	.	.
+*clefC4	*	*	*	*	*
+!	!	!	!	!LO:TX:a:t=pizz.	!
+32.ryy	.	48r	.	32ryy	4ryy
+.	.	24Dn~	pp	.	.
+.	.	.	.	32ryy	.
+64ryy	4ryy	.	.	.	.
+8ryy	.	8r	.	8r'yy	4ryy
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/28
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/09

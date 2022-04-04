@@ -1,0 +1,94 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T446_Ber-w11p7m31-34]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Horn in F 2. [sounds as written]	*	*I"Horn in F 1. [sounds as written]	*	*I"Contrabassoon [sounds as written]	*
+*I'Pno.	*	*	*	*I'Hn.	*	*I'Hn.	*	*I'Cbsn.	*
+*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*
+*	*	*	*	*	*	*	*	*ITrd0c0	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
+!!LO:REH:t=31
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:t=[half]=[half]	!	!	!	!	!	!LO:TX:t=[half]=[half]	!
+!	!	!LO:TX:B:t=I. Var. (ToI)	!	!	!	!	!	!LO:TX:B:t=I. Var. (ToI)	!LO:DY:rj
+!	!	!LO:TX:b:rj:t=Solo:	!	!	!	!	!	!	!
+8r	.	2ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4ryy	4ryy
+*	*	*	*	*	*	*XNeben	*	*	*
+!	!	!	!	!	!	!LO:TX:t=⎤	!	!	!
+(8BBnL	.	.	.	8ryy	4ryy	8ryy	4ryy	.	.
+8Dn	.	.	.	4ryy	.	4ryy	.	4ryy	4ryy
+8Gn'J 8A#X)	.	.	.	.	.	.	.	.	.
+!	!	!	!LO:HP:t=poco %s	!	!	!	!	!	!
+4r	.	4ryy	4ryy	4ryy	.	4ryy	.	4ryy	.
+!	!	!LO:TX:B:i:t=poco accel.	!	!	!	!	!	!LO:TX:B:i:t=poco accel.	!
+8r	.	4ryy	.	2.ryy	.	2.ryy	.	2.ryy	.
+(8BBnL	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:i:t= nimmt Dpf.	!	!LO:TX:i:t= nimmt Dpf.	!	!	!
+8Dn	.	4ryy	.	.	.	.	.	.	.
+8Gn' 8A#X)	.	.	.	.	.	.	.	.	.
+(8Bn	.	4ryy	.	.	.	.	.	.	.
+8dnJ	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8gn' 8a#X)	.	4ryy	.	2%3ryy	.	2%3ryy	.	2%3ryy	.
+8r	.	.	.	.	.	.	.	.	.
+(8BBnL	.	4ryy	.	.	.	.	.	.	.
+8Dn	.	.	.	.	.	.	.	.	.
+8Gn' 8A#X)	.	4ryy	.	.	.	.	.	.	.
+(8BnJ	.	.	.	.	.	.	.	.	.
+*clefG2	*	*	*	*	*	*	*	*	*
+8dnL	.	4ryy	.	.	.	.	.	.	.
+8gn' 8a#X)	.	.	.	.	.	.	.	.	.
+(8bn	.	4ryy	.	.	.	.	.	.	.
+8ddn	.	.	.	.	.	.	.	.	.
+8ggn'J 8aa#X)	.	4ryy	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8r	.	4ryy	.	2%3ryy	.	2%3ryy	.	2%3ryy	.
+*clefF4	*	*	*	*	*	*	*	*	*
+(8BBBnL	.	.	.	.	.	.	.	.	.
+8DDn	.	4ryy	.	.	.	.	.	.	.
+8GGn' 8AA#X)	.	.	.	.	.	.	.	.	.
+(8BBn	.	4ryy	.	.	.	.	.	.	.
+8DnJ	.	.	.	.	.	.	.	.	.
+*	*	*^	*	*	*	*	*	*	*
+8Gn'L 8A#X)	.	4ryy	8reeeyy	.	.	.	.	.	.	.
+(8Bn	.	.	4ryy	.	.	.	.	.	.	.
+8dn	.	4ryy	.	.	.	.	.	.	.	.
+*clefG2	*	*	*	*	*	*	*	*	*	*
+8gn' 8a#X)	.	.	8ryy	.	.	.	.	.	.	.
+(8bn	.	4ryy	4ryy	.	.	.	.	.	.	.
+8ddn':J 8ffn: 8gg#X:)	.	.	.	.	.	.	.	.	.	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!LO:TX:a:B:t=Tempo I	!	!LO:DY:t=quasi %s	!	!	!	!	!LO:TX:a:B:t=Tempo I	!
+4.ggn~ 4.bb-X	.	8ryy	8ryy	4ryy	2%3ryy	.	2%3ryy	.	2%3ryy	.
+*	*	*v	*v	*	*	*	*	*	*	*
+*	*	*8va	*	*	*	*	*	*	*
+.	.	8ryy	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.
+!	!LO:DY:rj	!	!	!	!	!	!	!	!
+*Haupt	*	*	*	*	*	*	*	*	*
+(8dn'L 8f#X 8ddn	4ryy	8ryy	.	.	.	.	.	.	.
+8e-X' 8gn 8ee-X	.	8ryy	.	.	.	.	.	.	.
+*	*	*X8va	*	*	*	*	*	*	*
+8cn'J 8a-X 8ccn	.	8ryy	.	.	.	.	.	.	.
+8Bn', 8gn 8bn)	.	8ryy	.	.	.	.	.	.	.
+*clefF4	*	*	*	*	*	*	*	*	*
+!	!LO:DY:rj	!	!	!	!	!	!	!	!
+8Bn'L	4ryy	8ryy	.	.	.	.	.	.	.
+8B-X'	.	8ryy	.	.	.	.	.	.	.
+8En'^J	.	8ryy	.	.	.	.	.	.	.
+[4Gn^	.	8ryy	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][([(s2,s3)])][({(s4,s5)})]
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/11/09

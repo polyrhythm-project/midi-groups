@@ -1,0 +1,74 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T167_Deb-w44p8h3m15-20]
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff1	*
+*I"Piano 2	*I"Piano 2	*	*I"Piano 1	*I"Piano 1	*
+*I'Pno. 2	*I'Pno. 2	*	*I'Pno. 1	*I'Pno. 1	*
+*clefF4	*clefG2	*	*clefF4	*clefG2	*
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*	*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*	*F#:	*F#:	*
+*M3/4	*M3/4	*	*M3/4	*M3/4	*
+=117	=117	=117	=117	=117	=117
+!	!	!	!	!LO:TX:t=[[quarter]=94]	!
+!	!	!LO:DY:t=%s  dolce	!	!LO:TX:a:B:t=Tempo rubato	!LO:DY:t=%s  dolce e grazioso
+4ryy	2.ryy	4ryy	4%3ryy	\(4.a#	p
+8ryy	.	.	.	.	.
+4ryy	.	.	.	8b	.
+.	.	.	.	(8qee#/	.
+.	.	.	.	[4dd#)	.
+8ryy	.	.	.	.	.
+=118	=118	=118	=118	=118	=118
+4ryy	2.ryy	.	4%3ryy	4dd#]	.
+8r'yy	.	.	.	4cc#'	.
+4ryy	.	.	.	.	.
+.	.	.	.	\4a#')	.
+8ryy	.	.	.	.	.
+=119	=119	=119	=119	=119	=119
+*	*grp:B	*grp:B	*	*grp:A	*grp:A
+.	((16qqc#/LL	p	.	.	.
+!	!	!	!	!LO:TX:a:B:t=Meno mosso	!
+.	16qqd#/JJ	.	.	.	.
+4ryyyy	4c#)	.	4ryy	2.ryy	4ryy
+!	!LO:TX:b:i:t=grazioso	!	!	!	!
+2ryyyy	8B<L	.	8ryy	.	.
+.	8A<	.	4ryy	.	.
+.	8G<	.	.	.	.
+.	8B<J	.	8ryy	.	.
+=120	=120	=120	=120	=120	=120
+*	*grp:A	*grp:A	*	*	*
+4%3ryyyy	8ryy	.	4ryy	2.ryy	.
+.	8ryy	.	.	.	.
+.	8ryy	.	8r'yy	.	.
+.	8ryy	.	4ryy	.	.
+.	8ryy	.	.	.	.
+.	8ryy	.	8ryy	.	.
+=121	=121	=121	=121	=121	=121
+*	*	*	*	*^	*
+*	*grp:B	*grp:B	*	*	*	*
+!	!	!	!	!LO:TX:a:B:t=Tempo rubato	!	!
+!	!	!	!	!	!	!LO:DY:t=più %s 
+4%3ryy	4r	.	4ryy	4ryy	2.ryy	4ryy
+!	!	!LO:DY:t=più %s	!	!	!	!
+.	(<4f##X	p	8ryy	8ryy	.	.
+*	*	*	*	*8va	*	*
+.	.	.	4ryy	4ryy	.	.
+.	4g#	.	.	.	.	.
+*	*	*	*	*X8va	*	*
+.	.	.	8ryy	8ryy	.	.
+=122	=122	=122	=122	=122	=122	=122
+.	(8qddn/	>	.	.	.	.
+4%3ryy	/4cc#)	.	4ryy	4ryy	2.ryy	.
+.	/4b	.	8r'yy	8r'yy	.	.
+.	.	.	4ryy	4ryy	.	.
+.	4g#)	]	.	.	.	.
+.	.	.	8ryy	8ryy	.	.
+*	*	*	*	*v	*v	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/8

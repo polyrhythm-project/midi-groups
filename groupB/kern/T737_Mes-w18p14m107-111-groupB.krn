@@ -1,0 +1,116 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T737_Mes-w18p14m107-111]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*I"Piano 2	*	*I"Piano 2	*	*I"Piano 1	*	*	*above
+*I'Pno. 2	*	*	*	*I'Pno. 1	*	*	*
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:t=Moins vif ([quarter]=60)	!	!	!	!LO:TX:t=Moins vif ([quarter]=60)	!
+!	!	!	!	!	!	!	!
+*	*	*	*	*ped	*	*	*
+!	!	!	!LO:DY:a:t=%s quasi legato	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	4ryyyy	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+8ryy	.	8ryy	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+*	*	*	*	*Xped	*	*8va	*
+8ryy	.	8ryy	.	4ryy	4ryy	40ryy	4ryy
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+*grp:B	*	*	*	*	*	*	*
+16DDn^L 16Dn	.	8ryy	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+[16BBB^JJ [16BB	.	.	.	.	.	.	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2
+8.BBB] 8.BB]	.	8ryy	.	4ryy	.	40ryy	4ryy
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	8ryy	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+*clefG2	*	*	*	*	*	*	*
+!LO:TX:b:i:t=(dessus)	!	!	!	!	!	!	!
+64gLLLL	.	.	.	.	.	.	.
+.	.	.	.	.	.	40ryy	.
+64f#X	.	.	.	.	.	.	.
+64fn	.	.	.	.	.	.	.
+.	.	.	.	.	.	40ryy	.
+[64ddn^JJJJ	.	.	.	.	.	.	.
+8dd]	.	8ryy	.	4ryy	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+*clefF4	*	*	*	*	*	*	*
+8GGGn' 8GGn	.	8ryy	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3
+4F#X~ 4f#X	.	8ryy	.	8ryy	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+.	.	.	.	.	.	40ryy	.
+*	*	*	*	*	*	*	*
+.	.	.	.	.	.	40ryy	4ryy
+*grp:A	*grp:A	*	*	*	*	*X8va	*
+.	.	8ryy	.	8ryy	.	8ryy	.
+*8ba	*	*	*	*grp:B	*grp:B	*	*
+8ryy	.	8ryy	.	16d#KL] 16dd#]	.	32ryy	4ryy
+.	.	.	.	.	.	32ryy	.
+.	.	.	.	8b-X^ 8bb-X	.	32ryy	.
+.	.	.	.	.	.	32ryy	.
+16ryy	.	8ryy	.	.	.	8ryy	.
+16ryy	.	.	.	[16a^Jk [16aa	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!
+2ryy	.	8ryy	4ryy	16aKL] 16aa]	.	4ryy	.
+.	.	.	.	8a-X^ 8aa-X	.	.	.
+.	.	8ryy	.	.	.	.	.
+.	.	.	.	[16fn^Jk [16ffn	.	.	.
+*	*	*	*	*	*	*	*
+.	.	8ryy	.	16fKL] 16ff]	.	32ryy	4ryy
+.	.	.	.	.	.	32ryy	.
+.	.	.	.	8.dn^J 8.ddn	.	32ryy	.
+.	.	.	.	.	.	32ryy	.
+.	.	8ryy	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5
+16ryy	.	8ryy	.	8.an^L 8.aan	.	24ryy	.
+.	.	.	.	.	.	24ryy	.
+*X8ba	*	*	*	*	*	*	*
+16ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	24ryy	.
+8ryy	.	8ryy	.	.	.	24ryy	.
+.	.	.	.	.	.	24ryy	.
+.	.	.	.	[16g#X^Jk [16gg#X	.	.	.
+.	.	.	.	.	.	24ryy	.
+4ryy	.	8ryy	.	8g#L] 8gg#]	.	16ryy	.
+!	!	!	!	!	!	!	!
+.	.	.	.	.	.	8ryy	4ryy
+.	.	8ryy	.	16gn^L 16ggn	.	.	4ryy
+!	!	!	!	!	!	!	!LO:DY:b:t=piu %s
+.	.	.	.	.	.	8ryy	4ryy
+.	.	.	.	[16e^JJ [16ee	.	16ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: ({(s1,s2)})({(s3,s4)})
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/09/24

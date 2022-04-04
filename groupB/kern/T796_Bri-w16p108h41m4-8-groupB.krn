@@ -1,0 +1,87 @@
+!!!COM: (Edward) Benjamin Britten
+!!!OTL: [T796_Bri-w16p108h41m4-8]
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*
+*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*
+*staff6	*	*staff5	*staff4	*	*staff3	*	*staff2	*staff1	*
+*I"Violin I	*	*I"Piano	*	*	*I"Harp	*	*	*I"Bassoon I. II	*
+*I'Vln. I	*	*I'Pno.	*	*	*I'Hp.	*	*	*I'Bsn.	*
+!!pagebreak:original
+*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*clefF4	*
+*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*C:	*	*C:	*	*C:	*C:	*
+*M3/4	*	*M9/8	*M9/8	*	*M3/4	*	*M3/4	*M3/4	*
+*	*	*	*	*	*	*	*	*^	*
+*	*	*	*	*	*	*	*	*v	*v	*
+*	*	*	*Xtuplet	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!LO:TX:t=[quarter-dot]=172	!	!
+!	!LO:DY:t=[ %s espress. ]	!	!	!LO:DY:t=[ %s marcato ]	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack
+2ryy	4ryy	4%3r	12e`L	p	8ryy	4ryy	4%3ryy	8ryy	2.ryy	4ryy
+.	.	.	(12e\	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12fJ)	.	.	.	.	.	.	.
+.	.	.	12e\`L	.	8ryy	.	.	8ryy	.	.
+.	.	.	(12e	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12dJ)	.	.	.	.	.	.	.
+4ryy	4ryy	.	12c\`L	.	8ryy	.	.	8ryy	.	.
+.	.	.	(12c	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12dJ)	.	.	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4ryy	4ryy	4%3r	12e-X\`L	.	8ryy	.	4%3ryy	8ryy	8ryy	.
+.	.	.	(12e-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8ryy	8rayy	.
+.	.	.	12fJ)	.	.	.	.	.	.	.
+2ryy	4ryy	.	12g\`L	.	8ryy	.	.	4rbyy	8ryy	.
+.	.	.	(12g	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	.	12fJ)	.	.	.	.	.	.	.
+.	.	.	12e-\`L	.	8ryy	.	.	4rayy	8ryy	.
+.	.	.	(12e-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	.	12dJ)	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	4%3r	12c\`L	.	8ryy	.	4%3ryy	2.rayy	8ryy	.
+.	.	.	(12c	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	.	12dJ)	.	.	.	.	.	.	.
+4ryy	4ryy	.	12e-X\`L	.	8ryy	.	.	.	8ryy	.
+.	.	.	(12e-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	.	12fJ)	.	.	.	.	.	.	.
+4ryy	4ryy	.	12g\`L	.	8ryy	.	.	.	8ryy	.
+.	.	.	(12g	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	.	12a-XJ)	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4%3r	12b-X`L	<	8ryy	.	4%3ryy	8ryy	8ryy	.
+.	.	.	(12b-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	8ryy	.
+.	.	.	12ccJ)	.	.	.	.	.	.	.
+4ryy	.	.	12dd-X`L	.	8ryy	.	.	8ryy	4ryy	.
+.	.	.	(12dd-	[ >	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12ccJ)	.	.	.	.	.	.	.
+4ryy	4ryy	.	12b-\`L	.	8ryy	.	.	8ryy	4ryy	.
+.	.	.	(12b-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12a-XJ)	]	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2ryy	4ryy	4%3r	12g-X\`L	.	8ryy	.	4%3ryy	8ryy	2.ryy	.
+.	.	.	(12g-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12a-XJ)	.	.	.	.	.	.	.
+.	.	.	12b-X`L	.	8ryy	.	.	8ryy	.	.
+.	.	.	(12b-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8rayy	.	.
+.	.	.	12ccJ)	.	.	.	.	.	.	.
+4ryy	4ryy	.	12dd-X`L	.	8ryy	.	.	8ryy	.	.
+.	.	.	(12dd-	.	.	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.	8ryy	.	.
+.	.	.	12ee-XJ)	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*v	*v	*
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][({(s2,s3)})][({(s4,s5)})][(s6)]

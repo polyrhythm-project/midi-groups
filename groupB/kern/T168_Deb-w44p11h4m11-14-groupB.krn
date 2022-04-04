@@ -1,0 +1,57 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T168_Deb-w44p11h4m11-14]
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff1	*staff1/2
+*I"Piano 2	*I"Piano 2	*I"Piano 2	*I"Piano 2	*I"Piano 1	*I"Piano 1	*I"Piano 1
+*I'Pno. 2	*	*	*	*I'Pno. 1	*	*
+*clefF4	*	*clefG2	*	*clefF4	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*M3/4	*
+=166	=166	=166	=166	=166	=166	=166
+*	*	*^	*	*^	*	*
+!	!	!LO:TX:t=[[half-dot]=66]	!	!	!	!	!	!
+!	!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:t=[[half-dot]=66]	!
+4%3ryy	.	4ryy	4ryyyy	4ryy	4.ryy	4.AAA\ 4.AA\	4.E< 4.A< (>4.c#X'> 4.e	pp
+.	.	4..ryy	4.ryyyy	.	.	.	.	.
+.	.	.	.	.	4.ryy	4rFF	4.G< 4.B-X< 4.e-X'> 4.g	.
+.	.	.	16ryyyy	.	.	8rFF	.	.
+.	.	16ryy	16ryy	.	.	.	.	.
+*	*	*	*	*	*v	*v	*	*
+=167	=167	=167	=167	=167	=167	=167	=167
+4ryy	.	4ryy	4ryy	.	4%3r	4.c'> 4.en 4.g 4.cc	.
+*clefG2	*	*	*	*	*	*	*
+16ryy	.	4..ryy	4ryyyy	.	.	.	.
+16ryy	4ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	4.B-X'> 4.d-X 4.f 4.b-X)	.
+16ryy	.	.	.	.	.	.	.
+4ryy	4ryy	.	4ryyyy	.	.	.	.
+.	.	16ryy	.	.	.	.	.
+=168	=168	=168	=168	=168	=168	=168	=168
+*	*	*	*	*	*^	*	*
+4%3ryy	.	4ryy	4ryyyy	.	4.ryy	4.AAA\ 4.AA\	4.E< 4.A< (>4.c#X'> 4.e	.
+.	.	4..ryy	4.ryyyy	.	.	.	.	.
+.	.	.	.	.	4.ryy	4rFF	4.G< 4.B-X< 4.e-X'> 4.g	.
+.	.	.	16ryyyy	.	.	8rFF	.	.
+.	.	16ryy	16ryy	.	.	.	.	.
+*	*	*	*	*	*v	*v	*	*
+=169	=169	=169	=169	=169	=169	=169	=169
+4ryy	.	4ryy	4ryy	.	4%3r	4.c'> 4.en 4.g 4.cc	.
+16ryy	.	4..ryy	4ryyyy	.	.	.	.
+16ryy	4ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	4.B-X'> 4.d-X 4.f 4.b-X)	.
+16ryy	.	.	.	.	.	.	.
+4ryy	4ryy	.	4ryyyy	.	.	.	.
+.	.	16ryy	.	.	.	.	.
+*	*	*v	*v	*	*	*	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08

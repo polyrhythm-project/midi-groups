@@ -1,0 +1,67 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T462_Mau-w60p15m51-54]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano	*I"Piano	*I"Piano	*I"Violoncello	*I"Violoncello	*I"Violin 1	*I"Violin 1
+*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1
+*tremolo	*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!	!LO:DY:t=%s dolce
+16ryy	2ryy	4ryy	8.ryy	.	(8.b-XL	p
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	4ryy	16a-XJk	.
+16ryy	.	.	8.ryy	.	4cc)	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	.	.
+8ryy	4ryy	.	4ryy	.	(8.b-L	.
+8ryy	.	.	.	.	.	.
+.	.	.	.	.	16a-Jk	.
+=2	=2	=2	=2	=2	=2	=2
+16ryy	2.ryy	.	8.ryy	.	4cc-X)	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	.	.
+16ryy	.	.	8.ryy	.	(8.b-XL	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	16a-XJk	.
+8ryy	.	.	4ryy	.	4ff-X)	.
+8ryy	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+16ryy	2ryy	.	8.ryy	.	(8.ee-XL	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	16dd-XJk	.
+16ryy	.	.	8.ryy	.	4ff-X)	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	.	.
+8ryy	4ryy	.	4ryy	.	(8.ee-L	.
+8ryy	.	.	.	.	.	.
+.	.	.	.	.	16dd-Jk	.
+=4	=4	=4	=4	=4	=4	=4
+16ryy	2.ryy	.	8.ryy	4ryy	4ffn)	<
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	.	.
+16ryy	.	.	8.ryy	.	(8.ee-XL	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	16ryy	.	16dd-XJk	.
+*Xtremolo	*	*	*	*	*	*
+8ryy	.	.	4ryy	.	[4aan)	.
+8ryy	.	.	.	4ryy	.	[[
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][({(s3,s4)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above

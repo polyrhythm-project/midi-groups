@@ -1,0 +1,49 @@
+!!!COM: Béla Bartók
+!!!OTL: [T357_Bar-w46b4p25m20-22]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*I"Piano
+*I'Pno.	*	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*	*	*
+*M4/4	*M4/4	*
+=1	=1	=1
+!	!LO:TX:t=[quarter]=96	!LO:DY:ed=brack
+8g-XLj]	8ryy	4ryy
+8f	8ryy	.
+8c	4ryy	.
+8BJ)	.	.
+(8cL	8ryy	.
+8fJ	8ryy	.
+[4g-X	8ryy	.
+.	8ryy	.
+=2	=2	=2
+8g-L])	8ryy	.
+(8Bn	8ryy	.
+8c	8ryy	.
+8fJ	8ryy	.
+8g-XL)	8ryy	.
+(8B	8ryy	.
+8c	8ryy	.
+8fJ	8ryy	.
+=3	=3	=3
+8g-XL)	8ryy	.
+(8B	8ryy	.
+8c	8ryy	.
+8fJ	8ryy	.
+4.g-)	4ryy	.
+.	8ryy	.
+8r	8ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: j = editorial accidental, bracket
+!!!EED: Rafael Laurindo
+!!!EEV2: 2021/07/15
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/09

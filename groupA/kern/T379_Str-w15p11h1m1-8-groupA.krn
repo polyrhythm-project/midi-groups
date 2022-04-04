@@ -1,0 +1,80 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T379_Str-15/11/[1]1-8]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Violin	*	*I"Bassoon	*	*I"Clarinet in Bb	*
+*I'Vln.	*	*I'Bsn.	*	*I'Cl.	*
+*clefG2	*	*clefC4	*	*clefG2	*
+*	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[b-e-]	*
+*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=1
+=6	=6	=6	=6	=6	=6
+!	!	!	!	!LO:TX:t=[[quarter]=48]	!LO:DY:ed=brack
+8r)	.	8f#XL]	.	4ryy	4ryy
+!LO:TX:a:t=(non arpeg.)	!	!	!	!	!
+!LO:TX:a:t=pizz.	!LO:DY:t=poco %s	!	!	!	!
+[8G [8b	sf	(8cc#X^J	mf	.	.
+4r	.	4.g#X	pp ]	2ryy	4ryy
+4r	.	.	.	.	.
+.	.	[8f#X)	.	.	4ryy
+=7	=7	=7	=7	=7	=7
+*M5/8	*	*M5/8	*	*M5/8	*
+8%5r	.	4f#]	.	8ryy	.
+.	.	.	.	8ryy	.
+.	.	(4g#X	.	4.ryy	.
+.	.	8f#X)	.	.	.
+=8	=8	=8	=8	=8	=8
+8%5r	.	8g#XL	.	4ryy	.
+.	.	(8f#XJ	.	.	.
+.	.	8g#	.	4.ryy	.
+.	.	4f#	.	.	.
+=9	=9	=9	=9	=9	=9
+*M4/8	*	*M4/8	*	*M4/8	*
+2r	.	8g#XL)	.	4ryy	.
+.	.	(8f#XJ	.	.	.
+.	.	8g#L)	.	4ryy	.
+.	.	(8f#J	.	.	.
+!!linebreak:original
+=10	=10	=10	=10	=10	=10
+*M6/8	*	*M6/8	*	*M6/8	*
+4%3r	.	8g#X)	.	4ryy	.
+.	.	(4f#X	.	.	.
+.	.	.	.	8ryy	.
+.	.	8g#	.	4.ryy	4ryy
+.	.	[4f#	.	.	.
+=11	=11	=11	=11	=11	=11
+*M5/8	*	*M5/8	*	*M5/8	*
+8%5r	.	8f#L])	.	4ryy	.
+.	.	(8g#XJ	.	.	.
+.	.	.	.	16ryy	4ryy
+.	.	.	.	16ryy	.
+.	.	4.f#X)	.	8ryy	.
+.	.	.	.	4ryy	4ryy
+=12	=12	=12	=12	=12	=12
+*M6/8	*	*M6/8	*	*M6/8	*
+4%3r	.	4.g#X	.	4ryy	.
+.	.	.	.	4ryy	.
+.	.	4f#X	.	.	.
+.	.	.	.	4ryy	.
+.	.	[8g#	.	.	.
+=13	=13	=13	=13	=13	=13
+*M5/8	*	*M5/8	*	*M5/8	*
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+8%5r	.	4g#]	.	8ryy	.
+.	.	.	.	4ryy	.
+.	.	[8f#X	.	.	.
+.	.	8f#L]	.	4ryy	.
+.	.	([8g#XJ	.	.	.
+=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/23
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/04

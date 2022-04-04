@@ -1,0 +1,59 @@
+!!!COM: Béla Bartók
+!!!OTL: [T356_Bar-w42p28m27-32]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Violin	*I"Violin	*I"Violin	*I"Violin
+*I'Vln.	*	*I'Vln.	*
+*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*M5/8	*	*M5/8	*
+=1	=1	=1	=1
+!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=125]	!LO:DY:ed=brack
+8ryy	4ryy	8fL	f
+4ryy	4ryy	8fJ	.
+.	.	4a	.
+4ryy	4ryy	.	.
+.	.	(16ccLL	.
+.	.	16b-JJ)	.
+=2	=2	=2	=2
+*M3/8	*	*M3/8	*
+8ryy	.	8a	.
+4ryy	4ryy	8r	.
+.	.	8c	.
+=3	=3	=3	=3
+*M5/8	*	*M5/8	*
+4.ryy	4ryy	8fL	.
+.	.	8fJ	.
+.	.	4a	.
+4ryy	4ryy	.	.
+.	.	8f	.
+=4	=4	=4	=4
+8ryy	.	4g	.
+4.ryy	4ryy	.	.
+.	.	(16aLL	.
+.	.	16gJJ)	.
+.	.	(16fLL	.
+.	.	16eJ)	.
+8ryy	4ryy	8dJ	.
+=5	=5	=5	=5
+8ryy	.	8gL	.
+4ryy	4ryy	(16gL	.
+.	.	16fJJ)	.
+.	.	4e	.
+4ryy	4ryy	.	.
+.	.	8d	.
+=6	=6	=6	=6
+*M3/8	*	*M3/8	*
+8ryy	.	4d	.
+8ryy	.	.	.
+8ryyyy	.	8ryy	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/14
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/09

@@ -1,0 +1,95 @@
+!!!COM: Aaron Copland
+!!!OTL: [T710_Cop-13/24/3-1[25]1-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Trumpet in C I. II. III.	*	*I"Horn in F I. II.	*	*I"Bassoon I. II.	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb I. II.	*	*I"Flute I. II.	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[con sord.]	!LO:DY:t=%s espress.	!LO:TX:a:t=[con sord.]	!	!	!	!	!	!	!	!	!LO:TX:t=([quarter]=92)	!LO:DY:t=%s espress.
+!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack
+8ryy	4ryy	4%3ryy	.	4%3ryy	.	8ryy	4ryy	4ryy	4ryy	4ryy	4ryy	2.ryy	[2.D)	p	4%3ryy	.	4%3ryy	.	4%3r	.	4g 4dd)	p
+8ryy	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	8r)	.
+8ryy	.	.	.	.	.	8ryy	.	8ryy	.	4.ryy	.	.	.	.	.	.	.	.	.	.	4.r	.
+8ryy	.	.	.	.	.	8ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*
+4ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	4ryy	.	4%3ryy	.	2.ryy	4.D_	.	2.ryyyy	4.ryy	.	4ryy	.	4rcc	4.rd	.	4%3r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=II.	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=II.	!	!	!	!	!	!	!	!	!
+8ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8rcc	.	.	.	.
+4.ryy	.	.	.	.	.	4.ryy	.	4.ryy	.	.	.	.	8D]	.	.	8ryy	4ryy	8ryy	4ryy	8rcc	8rd	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8ryy	.	8ryy	.	(8ddL	(8bXL	p	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8ryy	.	8ryy	.	8gJ)	8gJ)	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4ryy	.	4%3ryy	.	4%3r	.	2.ryyyy	4ryy	.	4ryy	.	(4eeX	(4cc	.	4%3r	.
+8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	8ryy	.	8ryy	.	8g)	8g)	.	.	.
+4ryy	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	4ryy	.	4ryy	.	(4dd	(4bX	.	.	.
+8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	8ryy	.	8ryy	.	8g)	8g)	.	.	.
+!!LO:REH:t=25
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4%3ryy	.	4rcc	4.rd	.	4ryy@yy	4ryy	.	4ryy	.	(4dd	(4bX	.	4%3r	.
+!	!	!LO:TX:a:t=senza sord.	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=II.	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	8r	.	.	8ryyyy	8ryy	.	8ryy	.	8g)	8g)	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=I.	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	4r	[4.D	pp	8rFyy	4.rEEyy	.	4.ryy	.	4.r	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!LO:TX:a:t=I.	!	!	!	!	!	!	!	!
+8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	8ryy	.	4ryy	.	.	.	.	.	.
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	.	.	[8d	.	pp	8ryy	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+!!pagebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=([quarter] = 164)	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4%3ryy	.	2.d_	2.D_	.	8ryy	.	4%3ryy	.	4r	.	4r	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8ryy	.	.	.	[8dd/	p	8r	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8ryy	.	.	.	4.dd/_	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8ryy	.	.	.	.	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8qdd/	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8ryy	.	.	.	.	.	[8ddd)	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4%3ryy	.	2.d_	2.D_	.	8ryy	4.ryy	.	4%3ryy	.	2.dd/_	.	2.ddd_	.
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=II.	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8ryy	8rCCyy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8r'yy	8ryy	4ryy	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	8r'yy	8ryy	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4%3ryy	.	2.d_	2.D_	.	2.ryyyy	8ryy	.	4%3ryy	.	2.dd/_	.	2.ddd_	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	4%3ryy	.	8d]	8D]	.	2.ryyyy	8ryy	.	4%3ryy	.	4.dd/]	.	2.ddd]	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	[4d	[4D	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	4.d_	4.D_	.	.	8ryy	.	.	.	8r	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	[4dd/	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][([(s7,s8)]s9,s10,s11)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

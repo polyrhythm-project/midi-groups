@@ -1,0 +1,136 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T667_Hin-w100p92m31-34]
+**kern	**dynam	**kern		**dynam		**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A		*		*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part10	*part10	*part9		*part9		*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff10	*	*staff9		*		*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello		*		*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Timpani	*	*I"Tuba	*	*I"Bassoon 1. 2.	*	*I"Bass Clarinet in Bb	*
+*I'Cb.	*	*I'Vc.		*		*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'Timp.	*	*I'Tba.	*	*I'Bsn.	*	*I'B. Cl.	*
+*clefF4	*	*clefF4		*		*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*
+*ITrd7c12	*	*		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]		*		*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*
+*	*	*		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/2	*	*M2/2		*		*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1		=1		=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*^		*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:t=[Allegro moderato [half]=92]
+!	!	!	!	!	!	!LO:TX:t=2	!	!LO:TX:t=4	!	!LO:TX:t=3	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:t=3	!	!	!	!LO:TX:a:t=G-String	!LO:DY:t=[ %s ]	!LO:TX:a:t=G-String	!LO:DY:t=[ %s ]	!LO:TX:a:t=D-String	!LO:DY:t=[ %s ]	!LO:TX:a:t=A-String	!LO:DY:t=[ %s ]	!	!	!	!	!	!	!	!
+4ryy	.	8ryy	2ryyyy	.	.	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	4ryy	.	4ryy	.	2r	.	2r	.
+!!!ONB: x noteheads for the glissandi are invisible in original score
+*	*	*	*	*	*	*head:x	*	*head:x	*	*head:x	*	*head:x	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!LO:DY:t=[ %s ]	!	!	!	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!	!	!	!LO:DY:t=[ %s ]	!	!	!	!
+2.ryy	4ryy	4ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	2.ryy	4ryy	2.ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=both	!	!	!
+.	.	4ryy	4ryyyy	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8EE-X'L	4ryy	8E-'L	4ryy
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8FF'	.	8F'	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:rj:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*head:regular	*	*head:regular	*	*head:regular	*	*head:regular	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:t=2	!	!LO:HP:a	!	!LO:TX:t=2	!	!LO:TX:t=4	!	!LO:TX:t=3	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!
+.	.	16ryy	4ryy	4ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	.	.	.	.	8D-X'	.	8d-X'	.
+*	*	*head:x	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:b:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8BB-X'J	.	8B-'J	.
+.	.	16ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*head:regular	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:t=2	!LO:TX:b:t=3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2ryy	.	8ryy	16ryy	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	2ryy	.	2ryy	.	8AAn'L	.	8A'nL	.
+*	*	*	*head:x	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	16ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8rcyy	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r'	.	8r'	.
+.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*head:regular	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:t=1	!	!LO:TX:t=1	!	!LO:TX:t=1	!	!LO:TX:t=2	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:TX:b:t=3	!	!	!LO:TX:a:t=C-String	!	!LO:TX:a:t=G-String	!	!LO:TX:a:t=D-String	!	!LO:TX:a:t=D-String	!	!	!	!	!	!	!	!	!
+.	.	4ryy	8ryy	.	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	.	.	.	.	8EE-X'	.	8E-'	.
+*	*	*	*	*	*	*head:x	*	*head:x	*	*head:x	*	*head:x	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	8rDyy	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8FF'J	.	8F'J	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:the trill should not have an accidental	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!LO:TR:acc=#y	!	!	!	!	!	!	!
+2ryy	.	2ryyyy	2ryy	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	2ryy	.	2ryy	.	8D-X'L	.	8d-X'L	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8BB-X'J	.	8B-'J	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8G-X'	.	8g-X'	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8r	.	8r	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*v	*v	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!pagebreak:original
+=3	=3	=3		=3		=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*		*		*head:regular	*	*head:regular	*	*head:regular	*	*head:regular	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:t=3		!		!LO:TX:t=1	!	!LO:TX:t=1	!	!LO:TX:t=1	!	!LO:TX:t=2	!	!	!	!	!	!	!	!	!
+4ryy	.	16ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	2ryy	.	4ryy	.	8FL	.	8fL	.
+*	*	*head:x		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8E-X	.	8e-	.
+!	!	!LO:TX:t=[gliss.]		!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	16ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	.	.	4ryy	.	8Dn	.	8dnX	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	8AAJ	.	8AJ	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*head:regular		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!		!		!	!	!	!	!LO:TX:t=2	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:t=3		!		!	!	!	!	!LO:TX:a:t=G-String	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!
+2ryy	.	8ryy	4ryy	2ryy	.	2ryy	.	16ryy	4ryy	16ryy	4ryy	2ryy	.	2ryy	.	8BBnL	.	8BXL	.
+*	*	*		*		*	*	*	*	*head:x	*	*head:x	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	8CJ	.	8cJ	.
+.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:t=2		!		!	!	!	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!	!	!	!	!	!	!	!
+.	.	16ryy	4ryy	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	8FF#X	.	8F#X	.
+*	*	*head:x		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16ryy	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	8r	.	8r	.
+!	!	!LO:TX:t=[gliss.]		!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+=4	=4	=4		=4		=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*		*		*	*	*	*	*head:regular	*	*head:regular	*	*	*	*	*	*	*	*	*
+!	!	!		!		!	!	!LO:TX:t=2	!	!LO:TX:t=2	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!
+4ryy	.	16ryy	.	2ryy	.	16ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4ryy	.	4ryy	.	8r	.	8r	.
+*	*	*		*		*	*	*head:x	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	8Fn	.	8fnX	.
+.	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*head:regular		*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:t=2		!		!	!	!LO:TX:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+2ryy	.	8ryy	4ryy	.	.	16ryy	.	4ryy	.	4ryy	.	4ryy	.	2ryy	.	8E-XL	.	8e-L	.
+.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	8DJ	.	8dJ	.
+.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*		*		*	*	*head:regular	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!		!		!	!	!LO:TX:t=2	!	!LO:TX:t=2	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!
+.	.	2ryy	.	4ryy	.	8ryy	.	16ryy	4ryy	16ryy	4ryy	2ryy	.	.	.	8AAL	.	8AL	.
+*	*	*		*		*	*	*	*	*head:x	*	*head:x	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	4ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.	16ryy	.	16ryy	.	.	.	.	.	8C#X	.	8c#X	.
+.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!	!		!		!LO:S:a	!	!	!	!LO:TX:t=[gliss.]	!	!LO:TX:t=[gliss.]	!	!	!	!	!	!	!	!	!
+!	!	!		!		!LO:TX:t=3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	.	.	16ryy	4ryy	4ryy	.	16ryy	.	16ryy	.	.	.	4ryy	.	8Cn	.	8c	.
+*	*	*		*		*head:x	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.
+!	!	!		!		!LO:TX:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.	.	.	.	.	8FF#XJ	.	8F#XJ	.
+.	.	.	.	16ryy	4ryy	.	.	16ryy	4ryy	16ryy	4ryy	.	.	.	.	.	.	.	.
+=	=	=		=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-		*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)]<s4>[(s5,s6,s7,s8,s9,s10)]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/12/17

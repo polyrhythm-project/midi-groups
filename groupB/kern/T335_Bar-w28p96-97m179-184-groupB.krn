@@ -1,0 +1,148 @@
+!!!COM: Béla Bartók
+!!!OTL: [T335_Bar-w28p96-97m179-184]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A		*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7		*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7		*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Tuba	*	*I"Trombone	*	*I"Trumpet in Bb		*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*	*I"Piccolo	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Timp.	*	*I'Tba.	*	*I'Tbn.	*	*I'Tpt.		*	*I'Bsn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Picc.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2		*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2		*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd-7c12	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]		*	*k[]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4		*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179		=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179
+*tremolo	*	*tremolo	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:t=P:problem:cross-measure beaming still needs to be applied.	!LO:DY:ed=brack	!LO:TX:t=P:problem:cross-measure beaming	!LO:DY:ed=brack	!	!	!	!	!	!	!		!	!	!LO:DY:t=%s marc.	!LO:TX:a:i:t=marc.	!	!	!	!	!LO:DY:t=%s marc.	!	!	!LO:TX:t=[Allegro Molto ([quarter]=160)]	!
+32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	(8ddL	f	(8dddL	f	2ryy	4ryy	2ryy	.	2ryy	.	2ryy	.	4.ryy	4ryy	4.ryy	4ryy	4.ryy	.	4.ryy	4ryy	(8ddddL	p	2r	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	8cc)	.	8ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cccc)	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	8aJ 8aa	.	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aaaJ	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!LO:DY:t=%s marc.	!	!	!	!	!	!
+32ryy	.	32ryy	.	32ryy	.	(>8ccL	.	(8cccL	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	.	8r	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180		=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	180
+32ryy	.	32ryy	.	32ryy	.	\8aJ)	.	8aaJ)	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8r	.	2r	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	(8ddL	.	(8dddL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8ddddL	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	8cc)	.	8ccc)	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8cccc)	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	8aJ 8aa	.	8aJ 8aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aaaJ	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181		=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	.	32ryy	.	(8ccL	.	(8cccL	.	2ryy	4ryy	2ryy	.	2ryy	.	2ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	2r	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	\8aJ)	.	8aaJ)	.	.	.	.	.	.	.	.	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	(8ddL	.	(8dddL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8ddddL	mf	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	8cc)	.	8ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cccc)	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182		=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182
+32ryy	.	32ryy	.	32ryy	.	8aJ 8aa	.	8aJ 8aa	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	8aaaJ	.	2r	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	(8ccL	.	(8cccL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	8aJ 8aa)	.	8aJ 8aa)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	(8ddL	.	(8dddL	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	[8ddddL	<	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183		=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*
+32ryy	.	32ryy	.	32ryy	.	8ccJ)	.	8cccJ)	.	2ryy	.	4ryy	.	4ryy	.	4ryy	2rByy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8ddddJ]	.	4r	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	(8eeL	.	(8eeeL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.eeee	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!LO:TX:a:B:t=a2	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	.	32ryy	.	8b)	.	8bb)	.	.	.	4ryy	4ryy	4ryy	4ryy	4ryy	.	4ryy	4ryy	.	32ryy	4ryy	8ryy	.	8ryy	.	.	.	8r	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!
+32ryy	.	32ryy	.	32ryy	.	8aJ 8aa	.	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	8ryy	.	8ryy	.	.	.	(40aaLLL	<
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40bb	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40ccc	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40ddd	.
+32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ryy	4ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40eeeJJJ	[
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184		=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4		*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*tremolo	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+32ryy	.	32ryy	.	32ryy	.	32ffLLL	p <	32fffLLL	p <	2.ryy	.	4ryy	.	4ryy	.	4ryy	4rCyy	.	4ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	(8ffffL	ff	8fffL	ff
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8dddd)	.	8ddd)	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32ff	.	32fff	.	.	.	2ryy	4ryy	2ryy	4ryy	2ryy	2ryy	4ryy	2ryy	.	8ryy	.	8ryy	.	8ryy	.	8bbbJ	.	8bbJ	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	(8ddddL	.	(8dddL	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32ffJJJ	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32fffLLL	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8cccc)	.	8cccc)	.
+32ryy	.	32ryy	.	32ryy	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8aaaJ	.	8aaaJ	.
+32ryy	.	32ryy	.	32ryy	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	.	32ryy	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32fffJJJ	.	32fffJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*Xtremolo	*	*Xtremolo	*	*Xtremolo	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)](s10)[(s11,s12,s13,s14,s15)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/22
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/28

@@ -1,0 +1,94 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T622_Hin-w21p11m62-66]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Viola d'Amore	*
+*I'Pno.	*	*	*I'Vla.	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Iviola	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*
+*	*	*	*	*
+*Xtuplet	*Xtuplet	*	*	*
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[[quarter]=120]	!
+!	!	!	!LO:TX:a:t=([half] = [half-dot] vorher)	!
+12ryy	12ryy	4ryy	(4cc#X~ 4ee	mf
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	4cc#~ 4ee)	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	(4ff#X~ 4aa	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	4ff#~ 4aa)	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+=2	=2	=2	=2	=2
+12ryy	12ryy	.	(4bb	<
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	8aa#XL	.
+12ryy	12ryy	.	.	.
+.	.	.	8bbJ)	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	4ryy	(4.cccn	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+.	.	.	8ddd)	.
+12ryy	12ryy	.	.	.
+!!linebreak:original
+=3	=3	=3	=3	=3
+12ryy	12ryy	.	(4aa	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	8gg#XL	.
+12ryy	12ryy	.	.	.
+.	.	.	8aaJ)	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	(4.bb-X	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+.	.	.	8ccc)	[
+12ryy	12ryy	4ryy	.	.
+=4	=4	=4	=4	=4
+12ryy	12ryy	4ryy	(4gg	f <
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	4ee	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	4cc#X	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	4dd)	[
+12ryy	12ryy	.	.	.
+12ryy	12ryy	4ryy	.	.
+=5	=5	=5	=5	=5
+12ryy	12ryy	4ryy	(8ffL	>
+12ryy	12ryy	.	.	.
+.	.	.	8ee	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	8ff	.
+12ryy	12ryy	.	.	.
+.	.	.	8ggJ	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	4.aa	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+12ryy	12ryy	.	.	.
+.	.	.	8bb)	]
+12ryy	12ryy	4ryy	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]

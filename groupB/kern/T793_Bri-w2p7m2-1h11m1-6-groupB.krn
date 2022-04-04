@@ -1,0 +1,139 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T793_Bri-w2p7m2-1h11m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Oboe	*I"Oboe
+*	*I'Vc.	*I'Vla.	*I'Vla.	*I'Vln. II	*I'Vln. II	*I'Ob.	*I'Ob.
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[half]=138	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8b]	f
+8ryy	.	8ryy	.	8ryy	.	8r	.
+8ryy	.	8ryy	.	8ryy	.	4r	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!
+8ryy	.	4ryy	.	8ryy	.	(10cc#XL	.
+.	.	.	.	.	.	10dd	<
+8ryy	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	10ee	.
+!LO:TX:a:t=pizz.	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+4ryy	.	4ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	10ff#X	.
+.	.	.	.	.	.	10gg#XJ	[
+=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!LO:TX:a:t=arco	!	!	!	!	!
+!LO:TX:a:t=arco	!LO:DY:t=più %s	!	!LO:DY:t=più %s	!LO:TX:a:t=arco	!LO:DY:t=più %s	!	!
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8aa)	.
+8ryy	.	8ryy	.	8ryy	4ryy	8r	.
+8ryy	.	8ryy	.	8ryy	.	4r	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+!	!	!	!	!	!	!	!LO:DY:t=piú %s
+.	.	.	.	.	.	(>8qgg#X/	f
+8ryy	.	8ryy	.	8ryy	4ryy	4bb')	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	4aa'	.
+8ryy	.	8ryy	.	8ryy	4ryy	.	.
+!!LO:REH:t=11
+=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	4ryy	8ryy	.	6ff#X'	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	6ee'	.
+8ryy	.	8ryy	4ryy	4ryy	.	.	.
+.	.	.	.	.	.	6dd'	.
+8ryy	.	8ryy	.	.	.	.	.
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!
+8ryy	.	4ryy	4ryy	10ryy	4ryy	4cc#X^	.
+.	.	.	.	10ryy	.	.	.
+8ryy	.	.	.	.	.	.	.
+.	.	.	.	10ryy	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	.	.	[4b~	.
+.	.	.	.	10ryy	.	.	.
+.	.	.	.	10ryy	4ryy	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8b]	.
+8ryy	.	8ryy	.	8ryy	4ryy	8r	.
+8ryy	.	8ryy	.	4ryy	.	4r	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	8ryy	4ryy	.	.
+8ryy	.	8ryy	.	2ryy	.	(10cc#XL	<
+.	.	.	.	.	.	10dd	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	10ee	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	10ff#X	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	10gg#XJ	[
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8ryy	.	2ryy	4ryy	8aa)	.
+8ryy	.	8ryy	.	.	.	8r	.
+8ryy	.	4ryy	.	.	.	4r	.
+8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>8qgg#X/	ff
+8ryy	.	10ryy	4ryy	8ryy	4ryy	4bb'^)	.
+.	.	10ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.
+.	.	10ryy	4ryy	.	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+4ryy	4ryy	.	.	4ryy	.	4aa'	.
+.	.	10ryy	.	.	.	.	.
+.	.	10ryy	4ryy	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+!LO:TX:a:t=arco	!	!	!	!	!	!	!
+8ryy	4ryy	8ryy	.	10ryy	.	6ff#X'	.
+.	.	.	.	10ryy	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	6ee'	.
+.	.	.	.	10ryy	4ryy	.	.
+8ryy	.	4ryy	.	.	.	.	.
+.	.	.	.	10ryy	.	.	.
+.	.	.	.	.	.	6dd'	.
+8ryy	.	.	.	.	.	.	.
+.	.	.	.	10ryy	.	.	.
+.	.	8ryy	4ryy	.	.	.	.
+8ryy	.	2ryy	.	8ryy	4ryy	4cc#X'^	.
+8ryy	.	.	.	8ryy	.	.	.
+8ryy	.	.	.	4ryy	.	[4b~	>
+8r'yy	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+.	.	.	.	8ryy	4ryy	.	.
+8ryy	4ryy	8ryy	.	2ryy	.	8b]	]
+8ryy	.	8ryy	.	.	.	8r	.
+8ryy	.	4ryy	.	.	.	4r	.
+8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	(8qg#X/	f
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4b'^)	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+!	!	!LO:TX:a:t=(sul C)	!	!	!	!	!
+4ryy	.	8ryy	.	4ryy	.	4a'	.
+.	.	8ryy	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8ryy	4ryy	.	.	.	.	.	.
+4.ryy	.	8ryy	4ryy	8ryy	4ryy	6f#X'	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	6e'	.
+.	.	4ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	6d'	.
+8ryy	.	.	.	8ryy	.	.	.
+.	.	8ryy	4ryy	.	.	.	.
+!LO:TX:t=P:problem:hanging slur.	!	!	!	!	!	!	!
+8ryy	.	4.ryy	.	8ryy	4ryy	4c#X'^	.
+8ryy	.	.	.	8ryy	4ryy	.	.
+8ryy	4ryy	.	.	4ryy	.	[4B~	.
+8ryy	.	8ryy	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: + = l.h. pizz.
+!!!system-decoration: s1[(s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

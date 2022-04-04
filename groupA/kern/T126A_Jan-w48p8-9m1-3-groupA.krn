@@ -1,0 +1,37 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T126A_Jan-w48p8-9m1-3]
+**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M6/8	*M6/8	*
+=1	=1	=1
+!	!LO:TX:B:t=Più mosso ([quarter-dot]=126)	!
+8A'^L 8c 8e	8a'^L 8cc 8ee	f
+8A'J 8c 8e	8a'J 8cc 8ee	.
+8r	8r	.
+4r	4r	.
+8r	8r	.
+=2	=2	=2
+4r	4r	.
+8r	8r	.
+*grp:B	*grp:B	*grp:B
+8ryy	8ryy	.
+8ryy	8ryy	.
+8ryy	8ryy	.
+=3	=3	=3
+8ryy	8ryy	.
+8ryy	8ryy	.
+8ryy	8ryy	.
+4ryy	4ryy	.
+8ryy	8ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/8

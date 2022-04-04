@@ -1,0 +1,132 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T520_Mau-w47p42h4m2-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:B	*	*grp:A	*	*grp:B	*grp:B	*
+*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*staff4	*	*staff3	*	*staff2	*staff1	*
+*I"Violoncello & Contrabass	*	*I"Viola	*	*I"Violin III	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*I"Piano	*I"Flute	*I"Flute	*I"Harpsichord	*I"Harpsichord	*I"Harpsichord
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*Xtuplet	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[poco %s ]	!	!LO:TX:t=[Adagio [eighth]=76]	!LO:DY:rj:t=[ %s ]
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	16ryy	4ryy	16ryy	4ryy	32ryy	4ryy	16ryy	4ryy	32ryy	4ryy	16ryy	(64ffLLLL	4ryy	4.ryy	4ryy	(48d>LLL	(48aa-LLL/	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	64dd	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48f>	48ff	.
+.	.	.	.	.	32ryy	.	.	.	32ryy	.	.	64a-X	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48a-X>JJ	48ddJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ff	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	32ryy	.	16ryy	64dd	.	.	.	48A-XLL	48ffLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64a-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48d>	48dd	.
+.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	.	64ff	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48f>JJJ	48a-JJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ddJJJJ	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	.	16ryy	64a-LLLL	.	.	.	48A-LLL	48ffLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ff	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48d>	48dd	.
+.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	64dd	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48f>JJ	48a-JJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64a-	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	.	16ryy	64ff	.	.	.	48FLL	48ddLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64dd	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48A-	48a-	.
+.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	64a-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48dJJJ	48fJJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ffJJJJ	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	64ddLLLL	.	.	.	48FLLL	48ddLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64a-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48A-	48a-	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	64ff	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48dJJ	48fJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64dd	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	64a-	.	.	.	48DLL	48a-LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ff	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48F	48f	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	64dd	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48A-JJJ)	48dJJJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	64a-JJJJ)	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16ryy	16ryy	.	16ryy	.	32ryy	.	16ryy	.	32ryy	.	16ryy	(64eeLLLL	.	4.ryy	.	(<48BnLLL	(>48gg#XLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64b	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e>	48ee	.
+.	.	.	.	.	32ryy	.	.	.	32ryy	.	.	64g#X	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48g#X>JJ	48bJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ee	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	32ryy	.	16ryy	64b	.	.	.	48G#XLL	48eeLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48B	48b	.
+.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e>JJJ	48g#JJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64bJJJJ	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	.	16ryy	64g#LLLL	.	.	.	48G#LLL	48eeLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48B	48b	.
+.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	64b	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e>JJ	48g#JJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	.	16ryy	64ee	.	.	.	48ELL	48bLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64b	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48G#	48g#	.
+.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	64g#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48BJJJ	48eJJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64eeJJJJ	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	64bLLLL	.	.	.	48ELLL	48bLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48G#	48g#	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48BJJ	48eJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64b	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	64g#	.	.	.	48BBLL	48g#LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48E	48e	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	64b	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48G#XJJJ)	48B<JJJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#JJJJ)	.	.	.	.	.	.
+!!pagebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+16ryy	16ryy	4ryy	16ryy	4ryy	32ryy	4ryy	16ryy	4ryy	32ryy	4ryy	16ryy	(64eeLLLL	4ryy	4.ryy	4ryy	(<48c#X>LLL	(>48gg#LLL	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	64cc#X	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e>	48ee	.
+.	.	.	.	.	32ryy	.	.	.	32ryy	.	.	64g#X	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48g#X>JJ	48cc#JJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ee	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	32ryy	.	16ryy	64cc#	.	.	.	48G#XLL	48eeLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48c#X	48cc#	.
+.	.	.	.	.	32ryy	.	32ryy	.	32ryy	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e>JJJ	48g#JJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64cc#JJJJ	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	.	16ryy	64g#LLLL	.	.	.	48G#LLL	48eeLLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48c#	48cc#	.
+.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	64cc#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e>JJ	48g#JJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	.	16ryy	64ee	.	.	.	48ELL	48cc#LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64cc#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48G#	48g#	.
+.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	64g#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48c#JJJ	48eJJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64eeJJJJ	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	64cc#LLLL	.	.	.	48ELLL	48cc#LLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64g#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48G#	48g#	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48c#JJ	48eJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	64cc#	.	.	.	.	.	.
+16ryy	16ryy	.	16ryy	.	16ryy	.	32ryy	.	32ryy	.	16ryy	64g#	.	.	.	48C#XLL	48g#LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	64ee	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48E	48e	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	64cc#	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48G#XJJJ)	48c#XJJJ)	.
+.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	64g#JJJJ)	4ryy	.	4ryy	.	.	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][(s3)][({(s4,s5)})][(s6,s7,s8,s9,s10)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Jason Lee
+!!!EEV: 2022/02/09

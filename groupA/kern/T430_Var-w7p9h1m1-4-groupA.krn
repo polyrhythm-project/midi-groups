@@ -1,0 +1,94 @@
+!!!COM: Edgard [Edgar] (Victor Achille Charles) Varèse
+!!!OTL: [T430_Var-w7p9h1m1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Cymbals	*I"Cymbals	*I"Maracas	*I"Maracas	*I"Whip	*I"Whip	*I"Lion's Roar	*I"Lion's Roar	*I"Tenor Drum	*I"Tenor Drum	*I"Snare Drum	*I"Snare Drum	*I"Tenor Drum	*I"Tenor Drum	*I"Bongos	*I"Bongos	*I"Bass Drum	*I"Bass Drum
+*I'Cym.	*	*I'Mrcs.	*	*I'Whip	*	*I'Perc.	*	*I'T. D.	*	*I'S. D.	*	*I'T. D.	*	*I'Bongos	*	*I'B. D.	*
+*stria1	*	*stria2	*	*stria1	*	*stria1	*	*stria1	*	*stria1	*	*stria1	*	*stria2	*	*stria1	*
+*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=1
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:t=P:problem:notes should be on one line each	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!LO:TX:t=[[quarter]=69]	!
+2r	.	8Re/ 8Rg	p	1ryy	.	1r	.	1ryy	.	16ryy	4ryy	1r	.	8Re/L	pp	2ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.	.	.	.	.	.	8Rg\J	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+.	.	8Re/ 8Rg	.	.	.	.	.	.	.	8ryy	.	.	.	16Rg\LL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/J	.	.	.
+.	.	8r	.	.	.	.	.	.	.	8ryy	.	.	.	8Rg/J	.	.	.
+8Re/	pp	4r	.	.	.	.	.	.	.	8ryy	.	.	.	4r	.	4ryy	4ryy
+8r	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+4r	.	8Re/ 8Rg	.	.	.	.	.	.	.	16ryy	.	.	.	8Re/L	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.	.	8ryy	.	.	.	8Rg\J	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	8Re/ 8Rg	.	2ryy	.	1r	.	2ryyyy	.	8ryy	.	1r	.	16Rg/LL	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re\J	.	.	.
+.	.	8r	.	.	.	.	.	.	.	24ryy	.	.	.	8Rg/J	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+8Re/	.	4r	.	.	.	.	.	.	.	8ryy	.	.	.	4r	.	4ryy	.
+8r	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+4r	.	8Re/ 8Rg	.	8ryy	.	.	.	8ryyyy	.	8ryy	.	.	.	16Re/LL	.	2ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/J	.	.	.
+.	.	8r	.	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	.	.	8Rg/J^	.	.	.
+4r	.	8Re/ 8Rg	.	4ryy	.	.	.	4ryyyy	.	8ryy	.	.	.	16Rg\LL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re\J	.	.	.
+.	.	8r	.	.	.	.	.	.	.	32ryy	4ryy	.	.	8Rg\J	.	.	.
+.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8Re/	.	4r	.	1ryy	.	1r	.	1ryy	.	16ryy	.	1r	.	8Re/L	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8Rg\J	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+4r	.	8Re/ 8Rg	.	.	.	.	.	.	.	8ryy	.	.	.	16Rg/LL	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/	.	.	.
+.	.	8r	.	.	.	.	.	.	.	8ryy	.	.	.	16Rg\	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re\JJ	.	.	.
+4r	.	8Re/ 8Rg	.	.	.	.	.	.	.	8ryy	.	.	.	4r	.	4ryy	.
+.	.	8r	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+8Re/	.	8r	.	.	.	.	.	.	.	16ryy	.	.	.	8Re/L	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+8r	.	16Rg/LL	.	.	.	.	.	.	.	8ryy	.	.	.	8Rg\J	.	.	.
+.	.	16Rg/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1r	.	8Re/ 8Rg	.	4ryy	.	2r	.	1ryy	.	8ryy	.	2r	.	16Rg/LL	.	2ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/J	.	.	.
+.	.	8r	.	.	.	.	.	.	.	24ryy	.	.	.	8Rg\J	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	8Re/ 8RgL	.	8ryy	.	.	.	.	.	16ryy	.	.	.	4r	.	.	.
+.	.	.	.	.	.	.	.	.	.	16rJyy	.	.	.	.	.	.	.
+.	.	16Rg/L	.	8ryy	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	16Rg/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8Re/ 8Rg	.	4ryy	.	4r	.	.	.	24ryy	.	4r	.	16Re/LL	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Re/J	.	.	.
+.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.
+.	.	8r	.	.	.	.	.	.	.	32ryy	.	.	.	8Rg/J	.	.	.
+.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	4r	.	4ryy	.	4Re/	p < [	.	.	4ryy	.	8..r	.	4r	.	12ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	32Re/	f	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3)][(s4,s5)][(s6)][(s7)][(s8)][(s9)]
+!!!RDF**kern: > = above
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/30
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/10

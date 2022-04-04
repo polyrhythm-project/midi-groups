@@ -1,0 +1,140 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T449_Ber-w13p24m130-142]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=130
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:t=[ %s ]	!LO:T:n=1:b	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!LO:TX:t=[accel.]	!
+8ryy	4ryy	8ryy	4ryy	(16bb-XLL	4ryy	8%3r	.
+.	.	.	.	16gg-XJJ)	.	.	.
+!	!	!LO:S:a	!	!	!	!	!
+.	.	8ryy	.	.	.	.	.
+16ryy	.	8ryy	4ryy	16r	.	.	.
+!	!	!	!	!LO:TX:t=P:problem:optional pitches should be in parentheses	!LO:DY:t=meno %s	!LO:TX:a:t=mit Dpf.	!
+16ryy	.	.	.	(16dd-NXLL 16ddd-X	4ryy	.	.
+8ryy	.	8ryy	4ryy	16ffnN 16bb-X	.	.	.
+.	.	.	.	16aa-X	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*neben	*	*	*	*	*	*haupt	*
+!	!	!	!	!	!	!LO:TX:t=Dreitaktig	!
+!	!LO:DY:t=meno %s	!	!	!	!	!LO:TX:t=Tempo [quarter-dot]=ca 69]	!LO:DY:t= quasi %s , aber hörbar und immer mehr durchdringen
+8ryy	4ryy	8ryy	.	16bb-X	.	(4.fffn	4ryy
+.	.	.	.	16gg-XJJ)	.	.	.
+16ryy	.	8ryy	.	16r	.	.	.
+16ryy	.	.	.	(16ddd-XLL	.	.	.
+!	!	!LO:S:a	!	!	!	!	!
+.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	4ryy	16bb-X	.	.	.
+.	.	.	.	16aa-X	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	4ryy	4ryy	16bb-X	.	[4.eeen	.
+.	.	.	.	16gg-XJJ)	.	.	.
+16ryy	.	.	.	16r	.	.	4ryy
+16ryy	.	.	.	(16ddd-XLL	.	.	.
+8ryy	.	8ryy	.	16bb-X	.	.	.
+.	.	.	.	16aa-X	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!LO:S:a	!	!	!	!	!
+.	.	8ryy	.	.	.	.	.
+16ryy	.	8ryy	4ryy	16bb-X	.	8.eeeL])	4ryy
+16ryy	.	.	.	16gg-XJJ)	.	.	.
+8ryy	.	4ryy	4ryy	16r	.	.	.
+.	.	.	.	(16ddd-XLL	.	(8.gggnJ	4ryy
+!	!LO:DY:t=poco %s	!	!	!	!	!	!
+16ryy	4ryy	.	.	16bb-X	.	.	.
+16ryy	.	.	.	16aa-X	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8ryy	.	16bb-X	.	4.eeen	.
+.	.	.	.	16gg-XJJ)	.	.	.
+!	!	!LO:S:a	!	!	!	!	!
+.	.	8ryy	.	.	.	.	.
+!	!LO:DY:t=meno %s	!	!	!	!	!	!
+16ryy	4ryy	8ryy	4ryy	16r	.	.	.
+16ryy	.	.	.	(16ddd-XLL	.	.	.
+8ryy	.	8ryy	4ryy	16bb-X	.	.	.
+.	.	.	.	16aa-X	.	.	4ryy
+=6	=6	=6	=6	=6	=6	=6	=6
+8ryy	.	8ryy	.	16bb-X	.	[4.ccc#X	.
+.	.	.	.	16gg-XJJ)	.	.	4ryy
+16ryy	.	8ryy	.	16r	.	.	.
+!	!	!	!	!	!LO:DY:t=poco %s	!	!
+16ryy	.	.	.	(16ggnLL	4ryy	.	.
+!	!	!	!LO:DY:t=%s (aber 1.Gg. durchlassen)	!	!	!	!
+8ryy	.	8ryy	4ryy	16ee-X	.	.	.
+.	.	.	.	16ddn	.	.	.
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7	=7
+8ryy	.	16ryy	.	16ee-X	.	4.ccc#])	.
+.	.	16ryy	.	16cc-XJJ)	.	.	.
+!	!LO:DY:t=poco %s	!	!	!	!	!	!
+16ryy	4ryy	8ryy	.	16r	.	.	.
+!	!	!	!	!	!LO:DY:t=meno %s	!	!
+16ryy	.	.	.	(16ggnLL	4ryy	.	.
+8ryy	.	16ryy	.	16ee-X	.	.	4ryy
+!	!	!LO:N:vis=8	!	!	!	!	!
+.	.	16ryy	.	16ddn	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8ryy	.	16ryy	.	16ee-X	.	(4.eeen	4ryy
+.	.	16ryy	.	16cc-XJJ)	.	.	.
+16ryy	.	16ryy	.	16r	.	.	.
+!	!	!	!	!	!LO:DY:t=poco %s	!	!
+16ryy	.	8ryy	.	(16ff#XLL	4ryy	.	.
+8ryy	.	.	.	16ddn	.	.	.
+.	.	16ryy	.	16cc#X	.	.	.
+*	*	*clefG2	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9
+!LO:TX:a:i:t=sempre più legato	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	16ddn	.	8.fffnL	.
+.	.	.	.	16b-XJJ)	.	.	.
+!	!LO:DY:t=meno %s	!	!	!	!	!	!
+16ryy	4ryy	16ryy	.	16r	.	.	.
+!	!	!	!	!	!LO:DY:t=meno %s	!	!
+16ryy	.	16ryy	.	(16ff#XLL	4ryy	8.eeen	.
+8ryy	.	8ryy	.	16ddn	.	.	.
+.	.	.	.	16cc#X	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+16ryy	.	8ryy	.	16ddn	.	8.ccc#X	.
+16ryy	.	.	.	16b-XJJ)	.	.	.
+!	!LO:HP:t=dimin.	!	!	!	!	!	!
+16ryy	4ryy	4ryy	4ryy	8r	.	.	.
+16ryy	.	.	.	.	.	8.gggnJ)	4ryy
+!	!	!	!	!LO:TX:a:i:t=più a più legato	!	!	!
+!	!	!	!	!	!LO:HP:t=diminuendo	!	!
+8ryy	.	.	.	(16aanLL	4ryy	.	.
+.	.	.	.	16ffn	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+16ryy	.	8ryy	.	16een	.	([4.aa-Xi	4ryy
+16ryy	.	.	.	16ffnJ	.	.	.
+16ryy	.	8ryy	4ryy	8ddnJ)	.	.	.
+16ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	4ryy	8r	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8ryy	.	8ryy	.	(16ddnLL	.	4.aa-_	.
+.	.	.	.	16cc#X	.	.	.
+8ryy	.	8ryy	4ryy	16ddnJ	.	.	.
+.	.	.	.	8b-XJ)	.	.	.
+*	*	*clefC3	*	*	*	*	*
+16ryy	.	8ryy	4ryy	.	.	.	.
+16ryy	.	.	.	16r	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+4ryy	.	4ryy	4ryy	8r	.	4.aa-_	.
+.	.	.	.	(16g-XLL	.	.	.
+.	.	.	.	16anJ	.	.	.
+16ryy	.	8ryy	.	[8fnJ)	.	.	.
+16ryy	.	.	4ryy	.	.	.	4ryy
+=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: N = cue size, color="grey" optional pitch
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED:Jason Lee
+!!!EEV:2021/11/12

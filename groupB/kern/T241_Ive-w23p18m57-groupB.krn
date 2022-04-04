@@ -1,0 +1,62 @@
+!!!COM: Charles Ives
+!!!OTL: [T241_Ive-w23p18m57]
+**kern		**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A		*grp:A		*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5		*part5		*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6		*staff5		*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano		*I"Piano		*I"Piano	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Pno.		*		*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4		*clefG2		*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]		*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:		*C:		*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4		*M4/4		*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=L
+=1		=1		=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^		*^		*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+20ryy	4ryy	20ryy	8ryy	4ryy	7DDn	ff	7%2F#X 7%2d	ff	7.a 7.bb-X	ff	7.ff 7.ddd-X	ff
+20ryy	.	20ryy	.	.	.	.	.	.	.	.	.	.
+20ryy	.	20ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	8ryyyy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	7E-X	.	.	.	.	.	.	.
+20ryy	.	20ryy	.	.	.	.	.	.	.	.	.	.
+20ryy	.	20ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	14an 14bb-X	.	14gg-X 14ddd-X	.
+28ryy	4ryy	28ryy	8ryy	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	7AA-X 7D	.	21%2fn 21%2a#X	.	21%2dd#X 21%2ccc#X	.	21%2gggn	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	8ryyyy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	21%2an 21%2dd-X	.	21%4aan 21%4eee	.	21%4ccccn	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	7GG 7E-X	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	21%2f#X 21%2ddn	.	.	.	.	.
+44ryy	4ryy	44ryy	8ryy	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	7AA 7En	.	7.d 7.cc#X	.	7.gg#X 7.fffn	.	7.bbbn	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	8ryyyy	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	7%2C#X 7%2D	.	.	.	.	.	.	.
+44ryy	.	44ryy	.	.	.	.	.	.	.	.	.	.
+28ryy	4ryy	28ryy	8ryy	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	.	.	14A 14e	.	14ccn 14bb-X	.	14eee-X	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	.	.	7cn 7fn	.	14e-XL	.	7a 7ddn	.
+.	.	.	8ryyyy	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+28ryy	.	28ryy	.	.	.	.	.	.	14dnJ	.	.	.
+28ryy	.	28ryy	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*		*v	*v	*	*	*	*	*	*	*	*	*
+=		=		=	=	=	=	=	=	=	=	=
+*-		*-		*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]

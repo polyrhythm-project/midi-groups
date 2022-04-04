@@ -1,0 +1,100 @@
+!!!COM: Ives, Charles
+!!!OTL: String Quartet No. 2
+!!!OMV: II: Arguments
+!!!example: 255
+!!!work: Ive-35
+!!!OMD-full: Allegro con spirito
+!!!OMD: [Allegro con spirito]
+**kern	**kern	**dynam	**kern	**kern
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part3	*part3	*part2	*part1
+*staff4	*staff3	*	*staff2	*staff1
+*ICstr	*ICstr	*	*ICstr	*ICstr
+*Icello	*Iviola	*	*Ivioln	*Ivioln
+*I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I
+*I'Vc.	*I'Vla.	*	*I'Vln. II	*I'Vln. I
+*clefF4	*clefC3	*	*clefG2	*clefG2
+*k[]	*k[]	*	*k[]	*k[]
+*C:	*C:	*	*C:	*C:
+*M4/4	*M4/4	*	*M3/8	*M3/8
+=19	=19	=19	=19	=19
+*^	*	*	*	*
+8ryy	8ryy	16ryy	.	8G#X^^ 8d	16a^^LL 16ee
+.	.	16ryy	.	.	16aJ 16ee
+16ryy	8ryy	16ryy	.	8r	8an 8aa-X
+16ryy	.	16ryy	.	.	.
+8ryyyy	8ryy	16ryy	.	8B-X 8d	8aJ 8gg
+.	.	16ryy	.	.	.
+=20-	=20-	=20-	=20-	=20	=20
+16ryy	8ryy	16ryy	.	8G#X^^ 8d	16a^^LL 16ee
+16ryy	.	16ryy	.	.	16aJ 16ee
+16ryyyy	8ryy	16ryy	.	8r	8a 8bb-X
+16ryyyy	.	16ryy	.	.	.
+16ryy	8ryy	16ryy	.	8B-X 8d	8aJ 8aa
+16ryy	.	16ryy	.	.	.
+=21	=21	=21	=21	=21	=21
+*	*	*	*	*	*^
+8ryyyy	8ryy	16ryy	.	8G#X^^ 8d	(16bb-X^^LL	4.a
+.	.	16ryy	.	.	16aa	.
+16ryy	8ryy	16ryy	.	8r	16ccc	.
+16ryy	.	16ryy	.	.	16ccc#X	.
+8ryyyy	8ryy	16ryy	.	8B-X 8d	16eee	.
+.	.	16ryy	.	.	16dddJJ)	.
+*	*	*	*	*	*v	*v
+=22-	=22-	=22-	=22-	=22	=22
+16ryy	8ryy	16ryy	.	8G#X^^ 8d	8a^L 8ggg#X
+16ryy	.	16ryy	.	.	.
+8ryyyy	8ryy	16ryy	.	8r	8a^ 8ggg#
+.	.	16ryy	.	.	.
+16ryy	8ryy	16ryy	.	8B-X 8d	8a^J 8ggg#
+16ryy	.	16ryy	.	.	.
+=23-	=23-	=23-	=23-	=23	=23
+8ryyyy	8ryy	16ryy	.	8G#X^^ 8d	8r
+.	.	16ryy	.	.	.
+16ryy	8ryy	16ryy	.	8r	16ggnLL
+16ryy	.	16ryy	.	.	16ccc#XJ
+=	=	=	=	=-	=-
+*	*	*^	*	*	*
+16ryyyy	8ryy	8ryyyy	16ryy	.	8B-X 8d	8ggg#XJ
+16ryyyy	.	.	16ryy	.	.	.
+=24-	=24-	=24-	=24-	=24-	=24	=24
+16ryy	8ryy	4ryyyy	16ryy	.	8G#X^^ 8d	8a^^ 8bbb-X
+16ryy	.	.	16ryy	.	.	.
+16ryyyy	8ryy	.	16ryy	.	8r	8r
+16ryyyy	.	.	16ryy	.	.	.
+16ryy	8ryy	8ryyyy	16ryy	.	8B-X 8d	8ddd
+16ryy	.	.	16ryy	.	.	.
+*v	*v	*	*	*	*	*
+*	*v	*v	*	*	*
+=-	=-	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1946/05/11
+!!!MGN: Juilliard School Student Ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1946
+!!!MPN: Goldberg, Alla; Koff, Alla; Levin, Walter; Robbins, Rena
+!!!ODT: 1915
+!!!PDT: 1954
+!!!excerpt-start-measure: 19
+!!!excerpt-end-measure: 24
+!!!excerpt-start-time: 0:19
+!!!excerpt-end-time: 0:24
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/8;3/4
+!!!excerpt-tempo-beat: {eighth};{quarter}
+!!!excerpt-tempo-rate: {216};{108}
+!!!excerpt-meter-type: polymetric
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

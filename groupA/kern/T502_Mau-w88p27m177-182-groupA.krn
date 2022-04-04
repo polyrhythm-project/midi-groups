@@ -1,0 +1,108 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T502_Mau-w88p27m177-182]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*
+=177	=177	=177	=177	=177	=177	=177	=177
+!	!	!	!LO:DY:t=meno %s	!	!LO:DY:t=meno %s	!	!
+*	*	*	*	*	*	*8va	*
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=108]	!
+8r	.	8ryy	4ryy	8ryy	4ryy	8r	.
+*	*	*	*	*	*	*	*
+4CC~^	f	16ryy	.	16ryy	.	4cccc~	f
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+*	*	*	*	*	*	*X8va	*
+4C~	.	16ryy	.	16ryy	.	4ccc~	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+(8c	.	16ryy	.	16ryy	.	(8cc	.
+.	.	16ryy	.	16ryy	.	.	.
+=178	=178	=178	=178	=178	=178	=178	=178
+4d-X)	.	16ryy	.	16ryy	.	4dd-X)	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+(8B-X	.	16ryy	.	16ryy	.	(8b-X	.
+.	.	16ryy	.	16ryy	.	.	.
+4c)	.	16ryy	.	16ryy	.	4cc)	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+[8C	.	16ryy	.	16ryy	.	[8ccc	.
+.	.	16ryy	.	16ryy	.	.	.
+=179	=179	=179	=179	=179	=179	=179	=179
+8C]	.	16ryy	.	16ryy	.	8ccc]	.
+.	.	16ryy	.	16ryy	.	.	.
+4CC~	.	16ryy	.	16ryy	.	4cccc~	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+4C~	.	16ryy	.	16ryy	.	4ccc~	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+(8c	.	16ryy	.	16ryy	.	(8cc	.
+.	.	16ryy	.	16ryy	.	.	.
+!!linebreak:original
+!!LO:REH:t=180
+=180	=180	=180	=180	=180	=180	=180	=180
+4d-X)	.	16ryy	.	16ryy	.	4dd-X)	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+(8B-X	.	16ryy	.	16ryy	.	(8b-X	.
+.	.	16ryy	.	16ryy	.	.	.
+4E-X)	.	16ryy	.	16ryy	.	4ee-X)	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+(>8En	.	16ryy	.	16ryy	.	(8een	.
+.	.	16ryy	.	16ryy	.	.	.
+=181	=181	=181	=181	=181	=181	=181	=181
+4EEn)	.	16ryy	.	16ryy	.	4eeen)	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+*	*	*clefC3	*	*	*	*	*
+4E~	.	16ryy	.	16ryy	.	4ee~	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+(8cL	.	16ryy	.	16ryy	.	(8eL	.
+.	.	16ryy	.	16ryy	.	.	.
+[8dnJ	.	16ryy	.	16ryy	.	[8fJ	.
+.	.	16ryy	.	16ryy	.	.	.
+=182	=182	=182	=182	=182	=182	=182	=182
+8dL])	.	16ryy	.	16ryy	.	8fL])	.
+.	.	16ryy	.	16ryy	.	.	.
+(8B-XJ	.	16ryy	.	16ryy	.	(8dJ	.
+.	.	16ryy	.	16ryy	.	.	.
+4c)	.	16ryy	.	16ryy	.	4e)	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+.	.	16ryy	.	16ryy	.	.	.
+8f'L	>	8ryy	4ryy	8ryy	4ryy	8f'L	>
+[8FJ	.	16ryy	.	16ryy	.	[8ffJ	.
+.	]	16ryy	4ryy	16ryy	4ryy	.	]
+*	*	*clefG2	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/06
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/06

@@ -1,0 +1,141 @@
+!!!COM: Sergey (Sergeyevich) Prokofiev
+!!!OTL: [T567_Pro-w2p11h5m4-9]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part2	*part2	*part1
+*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*staff6	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1
+*I"Contrabass	*I"Contrabass	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Piano	*I"Piano	*I"Piano	*I"Horn in F III. IV.	*I"Horn in F III. IV.	*I"Horn in F	*I"Horn in F	*I"Trumpet in C
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Hn.	*	*I'Hn.	*	*I'C Tpt.
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*	*	*	*	*k[]
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*	*	*	*	*C:
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:a:t=Cor. III. IV.	!	!	!	!LO:TX:t=[[half]=90]
+1r	.	4C	p	4E	p	4c	p	4e)	p	8ryy	12ryy	4ryy	4FF 4AA	p	1r	.	1r
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	4E	.	4G	.	4e	.	4g	.	8ryy	12ryy	.	4AA 4C	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	4G	.	4B	.	4g	.	4b	.	8ryy	12ryy	.	4C 4E	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	4B	.	4d	.	4b	.	4dd	.	8ryy	12ryy	.	4E 4G	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+*	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!	!	!	!	!	!	!	!	!	!	!
+1r	.	8ryy	pp	8ryy	pp	8ryy	pp	1r	.	6ryy	12ryy	4ryy	1r	.	1r	.	1r
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	6ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	12ryy	12ryy	4ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Tuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	6ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	4ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*X8	*	*	*	*	*	*	*	*	*
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+1r	.	8ryy	.	8ryy	.	8ryy	.	1r	.	6ryy	12ryy	.	1r	.	1r	.	1r
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	4ryy	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Tuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	6ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	4ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+1r	.	8ryy	.	8ryy	.	8ryy	.	1r	.	4ryy	12ryy	.	1r	.	1r	.	1r
+.	.	.	.	.	.	.	.	.	.	.	12ryy	4ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Tuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	6ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	4ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	4ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	4ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+*	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4BBB"	p	4BB"	p	8r	.	8r	.	8r	.	12ryy	12ryy	.	4r	.	4r	.	1r
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8dL	p	8fL	p	8aL	p	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+4r	.	4r	.	8AJ	.	8dJ	.	8dJ	.	12ryy	12ryy	.	4D	p	4B 4d	p	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+!	!LO:HP:t=poco cresc.	!	!LO:HP:t=poco cresc.	!	!LO:HP:t=poco cresc.	!	!LO:HP:t=poco cresc.	!LO:HP:t=poco cresc.	!LO:HP:t=poco cresc.	!	!	!	!	!	!	!	!
+4EE"	<	4E"	<	8r	<	8r	<	8r	<	12ryy	12ryy	.	4r	.	4r	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8dL	.	8fL	.	8aL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!
+4r	.	4r	.	8AJ	.	8dJ	.	8dJ	.	12ryy	12ryy	.	4D	.	4B 4d	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*
+4BBB"	.	4BB"	.	8r	.	8r	.	8r	.	12ryy	12ryy	.	4r	.	4r	.	1r
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8dL	.	8fL	.	8ddL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+4r	.	4r	.	8AJ	.	8dJ	.	8fJ	.	12ryy	12ryy	4ryy	4D	.	4B 4g	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+4EE"	.	4E"	.	8r	.	8r	.	8r	.	12ryy	12ryy	.	4r	.	4r	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8dL	.	8fL	.	8ddL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+4r	.	4r	.	8AJ	.	8dJ	.	8fJ	.	12ryy	12ryy	4ryy	4D	.	4B 4g	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][({(s4,s5)})][(s6,s7,s8,s9,s10)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/18
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/17

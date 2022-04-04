@@ -1,0 +1,70 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T788_Mes-w28p16h10m1-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Tam-Tam	*I"Tam-Tam	*I"Snare Drum	*I"Snare Drum	*I"Wood Block	*I"Wood Block	*I"Xylophone	*I"Xylophone	*I"Trumpet in C	*I"Trumpet in C	*I"Horn in F	*I"Horn in F	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Bassoon	*I"Clarinet in Eb	*I"Clarinet in Eb	*I"Oboe	*I"Oboe
+*I'Perc.	*	*I'Perc.	*	*I'W.B.	*	*I'Xyl.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Eb Cl.	*	*I'Ob.	*
+!!pagebreak:original
+*clefX	*	*clefX	*	*clefX	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*ITrd-7c-12	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*	*	*	*k[]	*	*	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*
+* Sauf quelques indications contraires: dans tout le tutti central, de 10 à 22 exclu, le xylophone est forte, solo.	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=10
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:b:t=(strophe rhythmique I)	!	!LO:TX:b:t=Asclépiade	!	!	!	!LO:TX:a:t=Troupiale des vergers	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Presque vif ([eighth]=152)	!
+2ryy	.	8ryy	4ryy	2r)yy	.	8r	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8ryy	.	.	.	4.gggg#X~	f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!LO:TX:rj:t=Garrulax à huppe blanche	!LO:DY:t=%s vociféré	!	!	!LO:TX:rj:t=Garrulax à huppe blanche	!LO:DY:t=%s vociféré	!	!	!	!LO:DY:t=%s vociféré	!	!
+2ryy	.	8ryy	.	2ryy	.	24r	.	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+.	.	.	.	.	.	(24bbbbnLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	24ccccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	16ffffn)	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(24bbbbnLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	24ccccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	16ffffn)	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2ryy	.	16ryy	.	8ryy	.	16r	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	8ryy	.	.	.	([8.bbbbbn^	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+!	!	!	!	!LO:TX:a:t=Saphique	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	16ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4ryy	.	16ryy	.	8bbbbbL]	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	16bbb-XJk)	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2ryy	.	2ryy	.	8ryy	.	16r	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	16aaaanLL	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	8ryy	.	16eeeen	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	16eee-XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	16ryy	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!LO:TX:b:t=Nihcankalila	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	2ryy	.	16ryy	.	4r	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	.	4ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	(8gggg#X~	f	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][([(s4,s5)]s6)][(s7)][(s8,s9,s10)]

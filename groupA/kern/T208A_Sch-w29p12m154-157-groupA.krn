@@ -1,0 +1,78 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T208A_Sch-w29p12m154-157]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+!!LO:REH:t=154
+=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:B:t=vorwärts
+!	!LO:DY:rj:t=[ %s ]	!	!	!	!	!	!
+4.CC	4ryy	2ryy	4ryy	2ryy	4ryy	8a#XL	.
+.	.	.	.	.	.	8bn	.
+.	.	.	4ryy	.	4ryy	8b	.
+8CC	.	.	.	.	.	8ddnJ	.
+!	!	!	!	!	!	!LO:TX:a:t=H	!
+8CCL	4ryy	2ryy	4ryy	8ryy	4ryy	{[2ddn	4ryy
+!	!	!	!	!LO:TX:t=´	!	!	!
+8AA-X	.	.	.	8ryy	.	.	.
+!	!	!	!	!LO:TX:t=∪	!	!	!
+8AA-	.	.	.	8ryy	.	.	.
+8EnJ	.	.	.	8ryy	.	.	.
+!!LO:REH:t=155
+=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:t=´	!	!	!
+8EnL	.	8ryy	.	8ryy	.	4dd]	.
+8Bn	.	8ryy	.	8ryy	.	.	.
+!	!	!	!	!LO:TX:t=∪	!	!	!
+8B	.	2.ryy	.	8ryy	.	[2aan}	4ryy
+!	!	!	!	!LO:TX:t=´	!	!	!
+8fnJ	.	.	.	8ryy	.	.	.
+!	!	!	!	!LO:TX:t=∪	!	!	!
+2f	4ryy	.	.	8ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	4ryy	.	8aaL]	.
+.	.	.	.	.	.	8aa-XJ	.
+!!LO:REH:t=156
+=3	=3	=3	=3	=3	=3	=3	=3
+2.DD-X	4ryy	8ryy	.	4ryy	.	8aa-XL	4ryy
+!	!	!LO:TX:t=´	!	!	!	!	!
+.	.	8ryy	4ryy	.	.	8f	.
+!	!	!LO:TX:t=∪	!	!	!	!	!
+.	.	8ryy	.	2ryy	4ryy	8f	.
+.	.	8ryy	.	.	.	8gg-XJ	.
+!	!	!LO:TX:t=´	!	!	!	!	!
+.	.	8ryy	.	.	.	8gg-L	.
+.	.	8ryy	.	.	.	8bn	.
+!	!	!LO:TX:t=∪	!	!	!	!	!
+[4BB-X	.	8ryy	.	8ryy	.	8b	.
+!	!	!LO:TX:t=´	!	!	!	!	!
+.	.	8ryy	.	8ryy	.	8dddnJ	.
+!!LO:REH:t=157
+=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!LO:TX:t=∪	!	!	!	!	!
+2BB-]	.	8ryy	.	4.ryy	.	2ddd	.
+.	.	8ryy	.	.	.	.	.
+.	.	4ryy	.	.	.	.	.
+*	*	*	*	*grp:A	*	*	*
+.	.	.	.	8e-	.	.	.
+4r	.	2ryy	.	8e-L	.	8r	.
+!	!	!	!	!	!	!LO:TX:t=´	!
+.	.	.	.	8an	.	8fn^>L	.
+!	!	!	!	!	!	!LO:TX:t=∪	!
+[4Dn	.	.	.	8a	.	8f	.
+.	.	.	.	8eenJ	.	8fJ	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/10/15

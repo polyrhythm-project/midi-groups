@@ -1,0 +1,47 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T164_Deb-w44p2m19-20]
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff1	*
+*I"Piano	*	*	*I"Piano	*	*
+*I'Pno.	*	*	*I'Pno.	*	*
+*clefF4	*clefG2	*	*clefG2	*clefG2	*
+*k[]	*k[]	*	*k[]	*k[]	*
+*C:	*C:	*	*C:	*C:	*
+*M3/4	*M3/4	*	*M3/4	*M3/4	*
+=19	=19	=19	=19	=19	=19
+*^	*	*	*	*	*
+*	*	*	*	*	*Xtuplet	*
+!	!LO:T:b	!	!	!	!LO:TX:t=[[half-dot]=66]	!
+2D 2A 2c	4GG]	2f^ 2g 2cc 2gg	f	8ryy	12ryy	4ryy
+.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.
+.	.	.	.	.	12ryy	.
+.	2DD~	.	.	8ryy	12ryy	.
+.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.
+.	.	.	.	.	12ryy	.
+[4F [4G [4B [4e	.	[4ee~ [4gg [4bb [4eee	.	8ryy	12ryy	.
+.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.
+.	.	.	.	.	12ryy	.
+=20	=20	=20	=20	=20	=20	=20
+4F] 4G] 4B] 4e]	2GG	4ee] 4gg] 4bb] 4eee]	.	8ryy	12ryy	.
+.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.
+.	.	.	.	.	12ryy	.
+2D 2A 2c	.	2f 2g 2cc 2gg	.	8ryy	12ryy	.
+.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.
+.	.	.	.	.	12ryy	.
+.	4GGG'^^	.	.	8ryy	12ryy	.
+.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.
+.	.	.	.	.	12ryy	.
+*v	*v	*	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/8

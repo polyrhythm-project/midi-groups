@@ -1,0 +1,108 @@
+!!!COM: Copland, Aaron
+!!!OTL: Dance Symphony
+!!!OMV: Movement 3: Allegro vivo
+!!!example: 700
+!!!work: Cop-2
+!!!OMD-full: Allegro vivo
+!!!OMD: [Meno mosso]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part11	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Ixylo	*	*Itromt	*	*Itromp	*	*Icor	*	*Icor	*	*Iclars	*	*Iclarp	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Xylophone	*	*I"Trombone I. II.	*	*I"Trumpet in C I.II.	*	*I"Horn in F III.IV.	*	*I"Horn in F I.II.	*	*I"Clarinet in A I.II.	*	*I" Piccolo Clarinet in D	*	*I"Oboe I.II.	*	*I"Flute I.II.	*	*I"Piccolo	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Xyl.	*	*I'Tbn.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'A Cl.	*	*I'D Cl.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*clefC4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd2c3	*	*ITrd-1c-2	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[X]	*	*k[X]	*	*k[X]	*	*k[X]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
+!	!	!LO:TX:a:t=unis.	!	!	!	!LO:TX:t=[[quarter-dot]=100]	!	!	!	!	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:TX:a:t=[a2]	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!	!LO:TX:t=[[quarter-dot]=100]	!
+8r	.	8r	.	8r	.	8r	.	16ryy	16ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8dL	f	8dL	f	8eL	f	8g#XL	f	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d#XJ	.	8d#XJ	.	8cc#XJ	.	8eeJ	.	8ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
+8e^L	.	8e^L	.	8gL	.	8b-XL	.	16ryy	16ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8f	.	8f	.	8ff#XJ	.	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8c#XJ	.	8c#XJ	.	8e/L	.	8g#X/L	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
+8d^L	.	8d^L	.	8cc#XJ	.	8eeJ	.	16ryy	16ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d#X	.	8d#X	.	8gL	.	8b-XL	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8eJ	.	8eJ	.	8ff#XJ	.	8aaJ	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
+8c#X^L	.	8c#X^L	.	8eL	.	8g#XL	.	16ryy	16ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d	.	8d	.	8cc#XJ	.	8eeJ	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8d#XJ	.	8d#XJ	.	8gL	.	8b-XL	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:dashed barlines need to be added to match original
+8e^L	.	8e^L	.	8ff#XJ	.	8aaJ	.	16ryy	16ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8c#X	.	8c#X	.	8eL	.	8g#XL	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8dJ	.	8dJ	.	8cc#XJ	.	8eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
+8d#X^L	.	8d#X^L	.	8gL	.	8b-XL	.	8ryy	8ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8e	.	8e	.	8ff#XJ	.	8aaJ	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8fJ	.	8fJ	.	8eL	.	8g#X/L	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
+8c#X^L	.	8c#X^L	.	8cc#XJ	.	8eeJ	.	16ryy	16ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	8%3ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d	.	8d	.	8gL	.	8b-XL	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d#XJ	.	8d#XJ	.	8ff#XJ	.	8aaJ	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
+*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*
+8e	.	8e	.	8eL	.	8g#XL	.	16ryy	16ryy	.	8%5ryy	.	8%5ryy	.	8%5ryy	.	8%5ryy	.	8%5ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8c#X^L	.	8c#X^L	.	8cc#XJ	.	8eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8d	.	8d	.	8gL	.	8b-XL	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8d#X	.	8d#X	.	8ff#X	.	8aa	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8eJ	.	8eJ	.	8eJ	.	8g#XJ	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)][(s3,s4)]s5)][([(s6,s7)]s8,s9)][(s10)][({(s11,s12)})][([(s13,s14)]s15,s16)]
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Stokowski, Leopold
+!!!MDT: 1931/04/15
+!!!MGN: Philadelphia Orchestra
+!!!MLC: Philadelphia, Pennsylvania, United States of America
+!!!MPD: 1931
+!!!MPN:
+!!!ODT: 1929
+!!!PDT: 1931
+!!!excerpt-start-measure: 132
+!!!excerpt-end-measure: 139
+!!!excerpt-start-time: 1:42
+!!!excerpt-end-time: 1:48
+!!!excerpt-duration-sec: 6
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,97 @@
+!!!COM: Arthur Honegger
+!!!OTL: [T592_Hon-w23p50h26m1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trombone III	*	*I"Trombone II	*	*I"Trombone I	*	*I"Trumpet in Bb III	*	*I"Trumpet in Bb II	*	*I"Trumpet in Bb I	*	*I"Clarinets in Bb	*	*I"English Horn	*	*I"Oboes	*	*I"Flutes	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tbn. III	*	*I'Tbn. II	*	*I'Tbn. I	*	*I'Tpt. III	*	*I'Tpt. II	*	*I'Tpt. I	*	*I'Cl.	*	*I'E.H.	*	*I'Ob.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=26
+=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241	=241
+!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!	!LO:DY:t=%s sempre	!LO:TX:t=[[quarter]=137]	!LO:DY:t=%s sempre
+!LO:TX:a:t=pizz.	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4ryy	4ryy	8ryy	4ryy	12ryy	4ryy	12ryy	4ryy	12ryy	4ryy	4r	f	4r	f	4r	f	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4ryy	4ryy	8ryy	4ryy	2ryy	4ryy	4ryy	4ryy
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=sostenuto, marcato	!	!LO:TX:b:i:t=sostenuto, marcato	!	!LO:TX:b:i:t=sostenuto, marcato	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	2D^	.	2D^	.	2D^	.	4ryy	.	4ryy	.	4ryy	.	12ryy	.	8ryy	.	.	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	[4AA^	.	[4AA^	.	[4AA^	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242	=242
+*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	4AA]	.	4AA]	.	4AA]	.	1ryy	.	1ryy	.	1ryy	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	2.A^	.	2.A	.	2.A	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243	=243
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	/4.D^	.	/4.D^	.	/4.D^	.	1ryy	.	1ryy	.	1ryy	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	[8AA^	.	[8AA^	.	[8AA^	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	4AA]	.	4AA]	.	4AA]	.	.	.	.	.	.	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	4d^	.	4d^	.	4d^	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244	=244
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	4B^	.	4B^	.	4B^	.	1ryy	.	1ryy	.	1ryy	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	16e^KL	.	16e^KL	.	16e^KL	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	[8.A^J	.	[8.A^J	.	[8.A^J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+4ryy	.	8ryy	.	12ryy	.	12ryy	.	12ryy	.	2A]	.	2A]	.	2A]	.	.	.	.	.	.	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.
+4ryy	.	8ryy	.	12ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6,s7)})][(s8,s9,s10)][(s11,s12,s13,s14,s15)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/25
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/17

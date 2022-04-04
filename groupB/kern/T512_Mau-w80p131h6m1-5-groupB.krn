@@ -1,0 +1,67 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T512_Mau-w80p131h6m1-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Bassoon	*	*I"Oboe	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Bsn.	*	*I'Ob.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*F:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
+!!LO:REH:t=6
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[Poco allegro, [quarter]=126]
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:t=a 2	!	!LO:TX:a:rj:t=a 2	!
+8ryy	4ryy	8ryy	4ryy	4a]	.	8ryy	4ryy	2.aa]	p	8ryy	4ryy	[1A	p	[1a	p
+4ryy	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+.	.	.	.	[4A	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	8A]	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+.	.	.	.	4a	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	[4aa	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	(8A	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	8ryy	.	4a)	.	8ryy	.	4aa]	.	8ryy	.	4A]	.	4a]	.
+4ryy	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	[4b-X	.	.	.	[4bb-X	.	.	.	[2.B-X	.	[4b-X	.
+8ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	8b-]	.	4ryy	.	4.bb-]	.	4ryy	.	.	.	4.b-]	.
+.	.	.	.	4B-X	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	[8b-	.	8ryy	.	[8bb-	.	8ryy	.	.	.	[8b-	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	.	8b-]	.	8ryy	.	2bb-]	.	8ryy	.	2B-]	.	2b-]	.
+8ryy	.	8ryy	.	4B-X	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+.	.	.	4ryy	(8b-X	.	.	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	8ryy	.	8bn)	<	8ryy	4ryy	(8bbn	<	8ryy	4ryy	(8Bn	<	(8bn	<
+8ryy	.	8ryy	.	4cc	.	8ryy	.	[4.ccc)	.	8ryy	.	[4.c)	.	[4.cc)	.
+4ryy	.	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+.	4ryy	.	4ryy	[8c	[[	.	4ryy	.	[[	.	4ryy	.	[[	.	[[
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	4ryy	4ryy	4ryy	8c]	mf	4ryy	4ryy	4ccc]	mf	4ryy	4ryy	2c_	mf	2cc_	mf
+.	.	.	.	4cc	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	[4ccc	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	[8c	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8cL]	.	8ryy	.	8cccL]	.	8ryy	.	8cL]	.	8ccL]	.
+8ryy	.	8ryy	.	(8ccJ	.	8ryy	.	(8cccJ	.	8ryy	.	(8cJ	.	(8ccJ	.
+4ryy	.	4ryy	.	[4cc#X)	.	4ryy	.	[4ccc#X)	.	4ryy	.	[4c#X)	.	[4cc#X)	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4ryy	.	4ryy	.	8cc#]	.	4ryy	.	2ccc#]	.	4ryy	.	2c#]	.	2cc#]	.
+.	.	.	.	4c#X	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	4ryy	[8cc#X	<	8ryy	4ryy	.	<	8ryy	4ryy	.	.	.	.
+8ryy	.	8ryy	.	4cc#]	.	8ryy	.	((4ccc#Xv	.	8ryy	.	((4c#X	<	(4cc#X	<
+8ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	4ryy	4ryy	4ryy	[4dd	[[	4ryy	4ryy	[4ddd)	[[	4ryy	4ryy	[4d)	[[	4dd)	[[
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3[(s4,s5,s6,s7,s8)]
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/09

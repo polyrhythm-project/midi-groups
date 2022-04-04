@@ -1,0 +1,100 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T142_Jan-w35p46m154-159]
+**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part10	*part9	*part8	*part7	*part6	*part5	*part5	*part4	*part3	*part2	*part2	*part1	*part1
+*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*	*staff4	*staff3	*staff2	*	*staff1	*
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Timpani	*	*I"Horn in F III.IV.	*I"Horn in F I.II.	*I"Clarinet in Bb I.II.	*	*I"Oboe I.II.	*
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Timp.	*	*I'Hn.	*I'Hn.	*I'Cl.	*	*I'Ob.	*
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*	*clefG2	*clefG2	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*ITrd4c7	*ITrd4c7	*ITrd1c2	*	*	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[b-]	*k[b-]	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*	*M3/8	*M3/8	*M3/8	*	*M3/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[Piu mosso ([eighth]=174)]	!
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
+*	*	*	*	*	*	*	*^	*	*	*	*	*
+4.ryy	4.ryy	4.ryy	16gggLLL)jjj	16gggLLL)jjj	8%3ryy	.	16ryy	4.reyy	8ryy	4.ryy	4ryy	4.ryy	4ryy
+.	.	.	32r	32r	.	.	16ryy	.	.	.	.	.	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	.	.	4ryy	.	4ryy	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	.	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eee-XJJJ	(32eee-XJJJ	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.ryy	4.ryy	4.ryy	16ddd-XLLL)	16ddd-XLLL)	8%3ryy	.	4.ryy	4.reyy	4.ryy	4.ryy	.	4.ryy	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	.	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	.	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJJ	(32eeenJJJ	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*
+4ryy	4ryy	4ryy	16gggLLL)	16gggLLL)	32ryy	4ryy	4ryy	4.reyy	4ryy	16ryy	4ryy	16ryy	4ryy
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	32ryy	.	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	32ryy	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	32ryy	.	.	.	.	.	.	.	.
+8ryy	8ryy	8ryy	16gggLL)	16gggLL)	32ryy	.	8ryy	.	8ryy	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eee-XJJJ	(32eee-XJJJ	32ryy	.	.	.	.	.	.	.	.
+!!pagebreak:original
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8%3ryy	8%3ryy	8%3ryy	16ddd-LLL)	16ddd-LLL)	32ryy	.	8%3ryy	8%3ryy	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eeenXJJ	(32eeenXJJ	32ryy	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	32ryy	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	.	.	.	.
+.	.	.	(32eee-JJ	(32eee-JJ	32ryy	.	.	.	.	.	.	.
+.	.	.	16ddd-LL)	16ddd-LL)	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eeenXJJJ	(32eeenXJJJ	32ryy	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8%3ryy	8%3ryy	8%3ryy	16gggLLL)	16gggLLL)	32ryy	4ryy	8%3ryy	8%3ryy	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	32ryy	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	32ryy	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	32ryy	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eee-XJJJ	(32eee-XJJJ	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	4ryy	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8%3ryy	8%3ryy	8%3ryy	16ddd-LLL)	16ddd-LLL)	32ryy	.	8%3ryy	8%3ryy	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eeenXJJ	(32eeenXJJ	32ryy	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	32ryy	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	.	.	.	.
+.	.	.	(32eee-JJ	(32eee-JJ	32ryy	.	.	.	.	.	.	.
+.	.	.	16ddd-LL)	16ddd-LL)	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	.	32r	32r	32ryy	.	.	.	16ryy	.	16ryy	.
+.	.	.	(32eeenXJJJii	(32eeenXJJJii	32ryy	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][([(s3,s4)])]s5[([(s6,s7)]s8,s9,s10)]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED: Jason Lee
+!!!EEV: 2021/10/08

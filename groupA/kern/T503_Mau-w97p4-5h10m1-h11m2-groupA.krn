@@ -1,0 +1,113 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T503_Mau-w97p4-5h10m1-h11m2]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part1	*part1
+*staff2	*	*staff1	*
+*I"Viola	*	*I"Violin I	*
+*I'Vla.	*	*I'Vln. I	*
+!!pagebreak:original
+*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M6/8	*	*M6/8	*
+!!LO:REH:t=10
+=101	=101	=101	=101
+!	!	!LO:TX:t=[[quarter-dot]=53]	!
+!	!	!	!LO:DY:ed=brack
+4%3r	.	4ryy	4ryy
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	4ryy
+=102	=102	=102	=102
+4cc~	p	4ryy	4ryy
+(8c	.	8ryy	.
+4.cc)	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+=103	=103	=103	=103
+4c	.	8ryy	.
+.	.	4ryy	.
+(8ee-X	.	.	.
+8ee-L)	.	8ryy	.
+8a-X	.	4ryy	.
+[8ffJ	.	.	.
+=104	=104	=104	=104
+8ff]	.	4ryy	.
+4cc~	.	.	.
+.	.	8ryy	.
+(>8c	<	4ryy	.
+4cc)	.	.	.
+.	.	8ryy	4ryy
+=105	=105	=105	=105
+(>8f	.	8ryy	.
+4a-X	[	8ryy	.
+.	.	8ryy	4ryy
+4cc)	.	8ryy	.
+.	.	4ryy	.
+(8c	.	.	.
+!!linebreak:original
+=106	=106	=106	=106
+4e)	.	8ryy	.
+.	.	4ryy	.
+[8cc	.	.	.
+8cc]	.	4ryy	.
+4c	.	.	.
+.	.	8ryy	.
+=107	=107	=107	=107
+(4.dd-X	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+4b-X)	>	8ryy	.
+.	.	4ryy	4ryy
+(<8g	]	.	.
+=108	=108	=108	=108
+4b-X)	.	8ryy	.
+.	.	4ryy	4ryy
+[8g	.	.	.
+8gL]	.	4ryy	.
+(8e	.	.	.
+[8gJ	.	8ryy	.
+=109	=109	=109	=109
+4g])	p	4ryy	4ryy
+(4G	.	8ryy	.
+.	.	8ryy	.
+4g)	.	4ryy	.
+!!linebreak:original
+*clefC3	*	*	*
+=110	=110	=110	=110
+(>8G	.	8ryy	.
+4g)	.	4ryy	.
+4Gv	.	4ryy	.
+[8gu	.	8ryy	.
+!!LO:REH:t=11
+=111	=111	=111	=111
+8gL]	.	8ryy	.
+(8g#Xv	<	8ryy	4ryy
+[8aJ	.	8ryy	.
+8a])	.	8ryy	.
+(>4A	[	4ryy	4ryy
+=112	=112	=112	=112
+4a)	f	4ryy	4ryy
+(>8A	.	8ryy	.
+8a)	.	4ryy	.
+4b-X~	.	.	.
+.	.	8ryy	.
+=113	=113	=113	=113
+(8B-XL	<	8ryy	4ryy
+8Bn)	.	8ryy	.
+([8bnJ	.	8ryy	.
+8bL]	.	8ryy	.
+8ccJ)	[	8ryy	4ryy
+8r	.	8ryy	.
+*clefG2	*	*	*
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/06
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/06

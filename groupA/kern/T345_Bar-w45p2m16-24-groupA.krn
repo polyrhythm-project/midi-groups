@@ -1,0 +1,131 @@
+!!!COM: Béla Bartók
+!!!OTL: [T345_Bar-w45p2m16-24]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part5	*part5	*part4	*	*part3	*	*part2	*	*part1	*
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass 1. 2.	*	*I"Violoncello 1. 2.	*	*I"Viola 1. 2.	*	*I"Violin 3. 4.	*	*I"Violin 2.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+!	!	!	!	!	!	!	!	!LO:TX:t=[Andante tranquillo, [eighth]=116-112]	!
+!	!	!LO:TX:a:t=[con sord.]	!LO:DY:ed=brack	!LO:TX:a:t=[con sord.]	!LO:DY:ed=brack	!LO:TX:a:t=[con sord.]	!LO:DY:ed=brack	!LO:TX:a:t=[con sord.]	!LO:DY:ed=brack
+2r	.	8ryy	4ryy	2ryy	4ryy	(4.cn	pp	4ryy	4ryy
+.	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8ryy	.
+.	.	8ryy	.	.	.	8A#X	.	8ryy	.
+=-	=-	=-	=-	=-	=-	=-	=-	=:	=:
+8r	.	4.ryy	.	8ryy	.	4.B)	.	8ryy	.
+8r	.	.	.	4ryy	.	.	.	4ryy	.
+!LO:TX:a:rj:t=con sord.	!	!	!	!	!	!	!	!	!
+(8GG	pp	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
+8AA-X~	.	4ryy	.	4ryy	.	(4e-X	.	8ryy	.
+4BBn	.	.	.	.	.	.	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8f#X	.	.	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+4BB-X	.	4.ryy	.	2.ryy	.	2.e-)	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+8AAn)	.	.	.	.	.	.	.	8ryy	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+8r	.	8ryy	.	.	.	.	.	8ryy	.
+8r	.	8ryy	.	.	.	.	.	8ryy	.
+(8GG	.	8ryy	.	.	.	.	.	8ryy	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
+8AA-X~L	.	4.ryy	.	8ryy	.	(>4d	.	4.ryy	.
+8BBn	.	.	.	4ryy	.	.	.	.	.
+8CJ	.	.	.	.	.	8f#X	.	.	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+8D-X	.	8ryy	.	4.ryy	.	4.a	.	8ryy	.
+4BB-X	.	8ryy	.	.	.	.	.	8ryy	.
+.	.	8ryy	.	.	.	.	.	8ryy	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+4AAn	.	2.ryy	.	2.ryy	.	4a#X	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+8AA-X)	.	.	.	.	.	8b	.	8ryy	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+8r	.	.	.	.	.	4cc#X)	.	4.ryy	.
+(8BBnL	.	.	.	.	.	.	.	.	.
+8DnJ	.	.	.	.	.	(8a#X	.	.	.
+!!linebreak:original
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*M8/8	*	*M8/8	*	*M8/8	*	*M8/8	*	*M8/8	*
+8C#X~L	.	4.ryy	.	8ryy	.	8b	.	4.ryy	.
+8Cn	.	.	.	8ryy	.	4g)	.	.	.
+8BB-XJ	.	.	.	8ryy	.	.	.	.	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+8BBnL	.	8ryy	.	8ryy	.	(>8g#XL	.	8ryy	.
+8AAnJ)	.	8ryy	.	8ryy	.	8a#X	.	8ryy	.
+8r	.	8ryy	.	8ryy	.	8bJ	.	8ryy	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+(8BB-XL	.	4ryy	.	4ryy	.	8ccnL	.	4ryy	.
+8D-XJ	.	.	.	.	.	8ffnJ)	.	.	.
+!!LO:REH:t=20
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
+4C~	.	4.ryy	.	8ryy	.	([2dd	.	4.ryy	.
+.	.	.	.	8ryy	.	.	.	.	.
+8BBnL	.	.	.	4ryy	.	.	.	.	.
+8AAJ	.	8ryy	.	.	.	.	.	8ryy	.
+=:	=:	=-	=-	=-	=-	=-	=-	=-	=-
+8BB-X~	.	8ryy	.	4.ryy	.	4dd]	.	4.ryy	.
+4AA-X)	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b)	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+*M10/8	*	*M10/8	*	*M10/8	*	*M10/8	*	*M10/8	*
+[1GG	.	4.ryy	.	4.ryy	.	(>4cc	.	8ryy	.
+.	.	.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8a	.	8ryy	.
+.	.	4ryy	.	4ryy	.	8b-XL	.	8ryy	.
+.	.	.	.	.	.	8g#XJ)	.	8ryy	.
+.	.	8ryy	.	8ryy	.	[4.f#X	.	4.ryy	.
+.	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	.	.	.	.
+4GG_	.	8ryy	.	8ryy	.	4f#_	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.	.	.
+!!pagebreak:original
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+*M8/8	*	*M8/8	*	*M8/8	*	*M8/8	*	*M8/8	*
+8GGL]	.	4.ryy	.	2ryy	.	2..f#X]	.	1ryy	.
+(8C	.	.	.	.	.	.	.	.	.
+8BB-X	.	.	.	.	.	.	.	.	.
+[8FFJ	.	8ryy	.	.	.	.	.	.	.
+2FF_	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	4ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	(8a	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*	*M5/8	*
+4.FF])	.	4ryy	.	8ryy	.	4e	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	.	.
+.	.	4ryy	.	4.ryy	.	[4.c#X	.	8ryy	.
+(16DD#XLL	.	.	.	.	.	.	.	8ryy	.
+16EEJ	.	.	.	.	.	.	.	.	.
+[8FFJ	.	8ryy	.	.	.	.	.	8ryy	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+4.FF_	.	8ryy	.	4ryy	.	4c#]	.	4ryy	.
+.	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	8d)	.	8ryy	.
+4FF])	.	4ryy	.	16ryy	.	(8f#Xi	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	.	.
+.	.	.	.	4ryy	.	[4c#X	.	8ryy	.
+(16DD#XLLi	.	8ryy	.	.	.	.	.	8ryy	.
+16EEJJ	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/14
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/30
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

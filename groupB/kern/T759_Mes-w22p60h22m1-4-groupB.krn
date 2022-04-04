@@ -1,0 +1,64 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T759_Mes-w22p60h22m1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"	*	*I"Violoncello Divisi	*	*I"Viola Solo II	*	*I"Viola Solo I	*	*I"Piano	*	*	*I"Glockenspiel	*	*I"Celesta	*	*I"Wood Block	*	*I"Bassoon 2.	*	*I"Bassoon 1.	*	*I"Cor Anglais	*	*I"Oboe 1.	*
+*I'	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Pno.	*	*	*I'Glock.	*	*I'Cel.	*	*I'W.B.	*	*I'Bsn.	*	*I'Bsn.	*	*I'C. A.	*	*I'Ob.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICklav	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Ipiano	*Ipiano	*	*Iglock	*	*Iclest	*	*Iwbloc	*	*Ifagot	*	*Ifagot	*	*Icangl	*	*Ioboe	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*clefG2	*	*clefG2	*	*clefG2	*	*clefX	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*ITrd-14c-24	*	*ITrd-7c-12	*	*	*	*	*	*	*	*ITrd4c7	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*	*	*	*	*	*	*	*
+*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=22
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=120]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=d.	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=g.	!	!	!	!	!	!	!	!	!LO:DY:t=%s expressif	!	!LO:DY:t=%s expressif
+16ryy	4ryy	16ryy	.	(8gL	4ryy	(8cc#XL	4ryy	8ryy	8ryy	.	16ryy	4ryy	16ryy	4ryy	[4Ree\	4ryy	16ryy	4ryy	4ryy	.	(8f#XL	4ryy	(8ff#XL	4ryy
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	.	16ryy	4ryy	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	8f#XJ)	.	8ccnJ)	.	16ryy	16ryy	4ryy	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	8fJ)	.	8ffnJ)	.
+16r'yy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	.	16r'yy	.	(16a-X^KL	.	(16dd^KL	.	16ryy	16ryy	.	16ryy	.	16ryy	.	8.Ree\_	.	16ryy	.	16ryy	.	(16g^KL	.	(16gg^KL	.
+16ryy	.	16ryy	.	8g	.	8cc#X	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	4ryy	8f#X	.	8ff#X	.
+16ryy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	.	.	.	.	.
+=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.
+!	!	!	!	!	!	!LO:TX:t=P:problem:dotted barline to be implemented/cross-bar beaming to be implemented	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:dotted barline to be implemented/cross-bar beaming to be implemented	!
+8ryy	.	16ryy	.	8f#X	.	8ccn	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16Ree\KL]	.	4ryy	.	16ryy	.	8f	.	8ffn	.
+.	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	8Ree\	.	.	.	16ryy	.	.	.	.	.
+16ryy	.	16r'yy	.	8fnJ)	.	8bJ)	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	16ryy	.	8eJ)	.	8eeJ)	.
+16ryy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	[16Ree\Jk	.	.	.	16ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*
+16ryy	.	16r'yy	.	(8gL	.	(8cc#XL	.	8ryy	8ryy	.	16ryy	.	16ryy	.	16Ree\KL]	.	16ryy	.	2ryy	.	(8f#XL	.	(8ff#XL	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	8.Ree\J	.	16ryy	.	.	.	.	.	.	.
+16ryy	.	16r'yy	.	8a-XJ	.	8ddJ	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	8gJ	.	8ggJ	.
+16r'yy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.
+16ryy	.	16r'yy	.	8gL	.	8cc#XL	.	16ryy	16ryy	.	16ryy	.	16ryy	.	8Ree\L	.	16ryy	.	.	.	8f#XL	.	8ff#XL	.
+16ryy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.
+16ryy	.	16r'yy	.	8f#XJ)	.	8ccnJ)	.	16ryy	16ryy	.	16ryy	.	16ryy	.	8Ree\J	.	16ryy	.	.	.	8fJ)	.	8ffnJ)	.
+16r'yy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*	*M7/16	*
+16ryy	.	16r'yy	.	(16a-X^KL	.	(16dd^KL	.	16ryy	16ryy	.	16ryy	.	16ryy	.	8Ree\L	.	16ryy	.	16ryy	.	(16g^KL	.	(16gg^KL	.
+16r'yy	.	16ryy	.	8g	.	8cc#X	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	16ryy	.	16ryy	4ryy	8f#X	.	8ff#X	.
+16ryy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16Ree\Jk	.	16ryy	.	16ryy	.	.	.	.	.
+=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.
+!	!	!	!	!	!	!LO:TX:t=P:problem:dotted barline to be implemented/cross-bar beaming to be implemented	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: dotted barline to be implemented/cross-bar beaming to be implemented	!
+8ryy	.	16ryy	.	8f#X	.	8ccn	.	16ryy	16ryy	.	16ryy	.	16ryy	.	8.Ree\L	.	4ryy	.	16ryy	.	8f	.	8ffn	.
+.	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	16ryy	.	.	.	.	.
+16ryy	.	16r'yy	.	8fnJ)	.	8bJ)	.	16ryy	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	16ryy	.	8eJ)	.	8eeJ)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16ryy	.	.	.	.	.	16ryy	16ryy	.	16ryy	.	16ryy	.	[16Ree\Jk	.	.	.	16ryy	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5)][(s6,s7)][({(s8,s9)})][([(s10,s11)][(s12,s13)])]

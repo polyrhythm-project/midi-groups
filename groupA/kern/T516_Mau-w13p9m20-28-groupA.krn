@@ -1,0 +1,122 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T516_Mau-w13p9m20-28]
+**kern	**dynam	**kern		**dynam
+*grp:A	*grp:A	*grp:B		*grp:B
+*part1	*part1	*part1		*part1
+*staff2	*	*staff1		*
+*clefG2	*	*clefG2		*
+*k[]	*	*k[]		*
+*C:	*	*C:		*
+*M4/4	*	*M4/4		*
+*met(c)	*	*met(c)		*
+=20	=20	=20		=20
+*	*	*8va		*
+!	!	!LO:TX:t=[[quarter]=227]		!
+!	!	!		!LO:DY:ed=brack
+4ryy	.	8ryy	4ryy
+.	.	8ryy	.
+4ryy	.	8ryy	.
+.	.	8ryy	.
+4ryy	.	8ryy	.
+.	.	8ryy	.
+4ryy	.	8ryy	.
+.	.	8ryy	.
+=21	=21	=21		=21
+*	*	*		*
+4ryy	.	8ryy	.
+.	.	8ryy	.
+4ryy	.	8ryy	.
+.	.	8ryy	.
+2ryy	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+*	*	*X8va		*
+=22	=22	=22		=22
+*	*	*^		*
+!	!	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be applied.	!
+8f' 8a-X 8cc	.	4.ryy	8ryy	.
+8r	.	.	8ryy	.
+8f' 8b-X 8dd	.	.	8ryy	.
+8r	.	4.ryy	8ryy	.
+8f' 8a- 8cc	.	.	8ryy	.
+8r	.	.	8ryy	.
+8f' 8b- 8dd	.	4ryy	8ryy	4ryy
+8r	.	.	8ryy	.
+!!linebreak:original
+=23	=23	=23	=23	=23
+8f' 8a-X 8cc	.	8ryy	8ryy	.
+8r	.	4.ryy	8ryy	.
+8f' 8b-X 8dd	.	.	8ryy	.
+8r	.	.	8ryy	.
+8f' 8a- 8cc	.	8ryyyy	8ryy	4ryy
+!	!LO:DY:a	!	!	!
+8r	.	8ryy	8ryyyy	4ryy
+8B-X^> 8b-	sfz	8ryy	4ryyyy	4ryy
+8r	.	8ryy	.	.
+=24	=24	=24	=24	=24
+!	!	!	!	!LO:DY:t=poco %s
+8f#X' 8an 8cc#X	.	4.ryy	8ryy	4ryy
+8r	.	.	8ryy	.
+8f#' 8b 8dd#X	.	.	8ryy	.
+8r	.	4.ryy	8ryy	.
+8f#' 8a 8cc#	.	.	8ryy	4ryy
+8r	.	.	8ryy	.
+8f#' 8b 8dd#	.	4ryy	8ryy	.
+8r	.	.	8ryy	.
+=25	=25	=25	=25	=25
+8f#X' 8a 8cc#X	.	8ryy	8ryy	.
+8r	.	4.ryy	8ryy	.
+8f#' 8b 8dd#X	.	.	8ryy	.
+8r	.	.	8ryy	.
+8f#' 8a 8cc#	.	8ryy	2ryyyy	4ryy
+8r	.	8ryy	.	.
+8f#' 8b 8dd#	.	8ryy	.	4ryy
+8r	.	8ryy	.	.
+*	*	*v	*v	*
+!!linebreak:original
+=26	=26	=26		=26
+*M2/4	*	*M2/4		*
+8f#X 8a 8cc#X	.	8ryy	.
+8r	.	8ryy	4ryy
+4r	.	8ryy	.
+.	.	8ryy	4ryy
+=27	=27	=27		=27
+*M4/4	*	*M4/4		*
+*met(c)	*	*met(c)		*
+*	*	*8va		*
+*	*	*^		*
+!	!	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!
+8f#X 8a 8dd	.	4.ryy	8ryy	4ryy
+8r	.	.	8ryy	4ryy
+8e 8g 8cc 8dd	.	.	8ryy	.
+8r	.	4.ryy	8ryy	.
+8f# 8a 8dd	.	.	8ryy	.
+8r	.	.	8ryy	.
+8e 8g 8cc 8dd	.	4ryy	8ryy	.
+8r	.	.	8ryy	4ryy
+=28	=28	=28	=28	=28
+8f#X 8a 8dd	.	8ryy	8ryy	.
+8r	.	4.ryy	8ryy	.
+8e 8g 8cc 8dd	.	.	8ryy	.
+8r	.	.	8ryy	.
+8f# 8a 8dd	.	8ryy	2ryyyy	.
+!	!LO:DY:a	!	!	!
+8r	ff	8raayy	.	.
+.	.	8ryy	.	4ryy
+4r	.	8ryy	.	.
+*	*	*X8va	*	*
+.	.	8ryy	.	.
+*	*	*v	*v	*
+=	=	=		=
+*-	*-	*-		*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/13
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/09

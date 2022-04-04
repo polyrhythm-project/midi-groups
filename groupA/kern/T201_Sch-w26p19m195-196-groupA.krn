@@ -1,0 +1,57 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T201_Sch-w26p19m195-196]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Horn	*	*I"Clarinet	*	*I"Oboe	*	*I"Flute	*
+*I'Hn.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=195
+=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[[quarter]=126]
+!	!LO:HP:t=[ %s ]	!LO:TX:t=P:problem:cresc. not displayed	!LO:HP:t=[ %s ]	!	!LO:HP:t=[ %s ]	!	!LO:HP:t=[ %s ]
+2g-X]	4ryy	[4ccc-X)j	4ryy	8.ryy	4ryy	16ryy	4ryy
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+.	.	16ccc-LL]	.	16ryy	.	4ryy	.
+.	.	16ddd-XJ	.	16ryy	.	.	.
+.	.	[8bbXJ	.	16ryy	.	.	.
+.	.	.	.	16ryy	.	.	.
+[2en	.	4bb_	.	4ryy	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+.	.	16bbLL]	.	16ryy	.	4ryy	.
+.	.	16aanJ	.	16ryy	.	.	.
+.	.	[8aaJ	.	16ryy	.	.	.
+.	.	.	.	16ryy	.	.	.
+!!LO:REH:t=196
+=2	=2	=2	=2	=2	=2	=2	=2
+8eL]	.	4.aa]	.	16ryy	.	8ryy	4ryy
+.	.	.	.	16ryy	.	.	.
+!LO:TX:t=´	!	!	!	!	!	!	!
+[8dnJ	.	.	.	8ryy	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+4d_	.	.	.	16ryy	4ryy	16ryy	.
+!	!	!	!	!	!LO:HP:t=[ %s ]	!	!
+.	.	.	.	16ryy	4ryy	16ryy	.
+.	.	[8ggn	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+16dLL]	.	16ggLL]	.	16ryy	.	16ryy	.
+16cnJ	.	16ffnJ	.	16ryy	.	16ryy	.
+[8cJ	.	8ffJ	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+8cL]	.	[4ff	.	16ryy	.	16ryy	.
+.	.	.	.	16ryy	.	16ryy	.
+16B-L	.	.	.	16ryy	.	16ryy	.
+16B-JJ	.	.	.	16ryy	.	16ryy	4ryy
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/10/15

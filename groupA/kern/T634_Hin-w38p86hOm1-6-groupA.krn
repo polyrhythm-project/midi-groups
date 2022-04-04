@@ -1,0 +1,58 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T634_Hin-w38p86hOm1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello (4)	*	*I"Solo Viola	*	*I"Bassoon II	*	*I"Bassoon I	*	*I"Bass Clarinet in Bb	*	*I"Flute	*	*I"Piccolo	*
+*I'Vc.	*	*I'Vla.	*	*I'Bsn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Fl.	*	*I'Picc.	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*ITrd0c0	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!!LO:REH:t=O
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=156]	!
+!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+2r	.	8ryy	4ryy	8r	.	8r	.	2ryy	.	8ryy	4ryy	8ryy	4ryy
+.	.	16ryy	4ryy	8d'L	p	8f#X'L	p	.	.	8ryy	.	8ryy	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8d'	.	8f#'	.	.	.	4ryy	.	4ryy	.
+.	.	8ryy	.	8d'J	.	8f#'J	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2r	.	4.ryy	.	8r'	.	8r'	.	2ryy	.	2ryy	.	16ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	8cn'L	.	8e'L	.	.	.	.	.	8ryy	.
+.	.	.	.	8c'	.	8e'	.	.	.	.	.	8ryy	.
+.	.	16ryy	.	8c'J	.	8e'J	.	.	.	.	.	8ryy	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2r	.	8ryy	.	8r'	.	8r'	.	2ryy	.	2ryy	.	4ryy	.
+.	.	8ryy	.	8B'L	.	8d#X'L	.	.	.	.	.	.	.
+.	.	4ryy	.	8B'	.	8d#'	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	8B'J	.	8d#'J	.	.	.	.	.	8ryy	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8r	.	8ryy	.	2r	.	2r	.	4.ryy	4ryy	2ryy	.	8ryy	.
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EEL	p	16ryy	.	.	.	.	.	.	.	.	.	8ryy	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+8EEJ	.	8ryy	.	.	.	.	.	.	.	.	.	4ryy	.
+8r	.	8ryy	.	.	.	.	.	8ryy	4ryy	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8EE-X	>	8ryy	4ryy	2r	.	2r	.	4ryy	.	2ryy	.	8ryy	.
+8r	.	16ryy	.	.	.	.	.	.	.	.	.	8ryy	4ryy
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8ryy	.	.	.	.	.	4ryy	.	.	.	8ryy	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8DD	.	8ryy	.	2r	.	2r	.	8ryy	.	2ryy	.	8r'yy	.
+8r	]	16ryy	.	.	.	.	.	4.ryy	.	.	.	8ryy	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.
+.	.	8ryy	4ryy	.	.	.	.	.	4ryy	.	.	8ryy	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]s6[(s7)]

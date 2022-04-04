@@ -1,0 +1,49 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T461A_Mau-w34p18-19m3-1h6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Violin 4	*	*I"Violin 3	*	*I"Violin 2	*	*I"Violin 1	*	*I"Clarinet in Bb	*	*I"Oboe	*
+*I'Vc.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. 2	*	*I'Vln. 1	*	*I'Cl.	*	*I'Ob.	*
+!!pagebreak:original
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter-dot]=90	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8r	f	8r	f
+8ryy	.	8ryy	.	8r)yy	.	8ryy	.	8ryy	.	(16f#XLL	<	(16dd#XLL	<
+.	.	.	.	.	.	.	.	.	.	16bJ	.	16ff#XJ	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8dd#X'J)	[	8bb'J)	[
+8r'yy	.	8ryy	.	8ryy	.	8ryy	.	.	.	(16ddLL	>	(16aaLL	>
+.	.	.	.	.	.	.	.	.	.	16aJ	.	16ffnJ	.
+!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8f'J)	]	8dd#'J)	]
+8ryy	4ryy	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	(16fLL	<	(16ddLL	<
+.	.	.	.	.	.	.	.	.	.	16aJ	.	16ffJ	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8dd'J)	[	8aa'J)	[
+8r'yy	.	8ryy	.	8r'yy	.	8ryy	.	8ryy	.	(16dd-XLL	.	(16aa-XLL	.
+.	.	.	.	.	.	.	.	.	.	16a-XJ	.	16ffJ	.
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8f'J)	.	8dd-X'J)	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8r	.	8r	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	(16fLL	.	(16bLL	<
+.	.	.	.	.	.	.	.	.	.	16b-J	.	16ddJ	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8dd'J)	.	8ffn'J)	.
+8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	(16b-LL	.	(16eeLL	[
+.	.	.	.	.	.	.	.	.	.	16a-XJ	.	16ddJ	.
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8eX'J)	.	8b'J)	.
+!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8r	.	8r	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]

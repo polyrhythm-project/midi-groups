@@ -1,0 +1,166 @@
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Lulu, Unfinished Opera
+!!!OMV: Act II, Scene 1
+!!!example: 456B
+!!!work: Ber-15
+!!!OMD-full: none
+!!!OMD: Tumultuoso
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part21	*part21	*part20	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part15	*part15	*part13	*part13	*part13	*part12	*part12	*part12	*part11	*	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*	*part2	*	*part1	*
+*staff23	*	*staff22	*	*staff21	*	*staff20	*	*staff19	*	*staff17	*staff17	*staff15	*staff14	*	*staff13	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Gymnasiast	*	*I"Piano	*	*	*I"Harp	*	*	*I"Tam-tam	*	*I"Triangle	*	*I"Timpani	*	*I"Contrabassoon	*	*I"Bassoon	*	*I"Alto Saxophone	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe 1.2.	*	*I"Flute 2.3.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Gymn.	*	*I'Pno.	*	*	*I'Hp.	*	*	*I'T.-t.	*	*I'Tri.	*	*I'Timp.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'Alto Sax.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Eng. Hn.	*	*I'Ob.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*ICklav	*	*	*ICstr	*	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*	*	*Ipiano	*	*	*Iarpa	*	*	*Itamta	*	*Itrngl	*	*Itimpa	*	*Ifag_c	*	*Ifagot	*	*IsaxA	*	*Iclarb	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefX	*	*clefX	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*ITrd5c9	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553	=553
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 2	!
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Tumultuoso	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=(m. Ges.)	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Tumultuoso	!
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:t=a 2	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*Xhaupt	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 3	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4%3ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4r	.	4%3ryy	4ryy	.	4%3r	8r	.	8ryy	4ryy	8r	.	4%3r	.	4%3r	.	4%3r	.	8eX'^L,	.	4%3r	.	8r	.	8ryy	4ryy	8ryy	4ryy	2.ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqRe/LLL	f	.	.	.	.	.	.	.	.	.	.	(32qqan/LLL	ff	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqRe/	.	.	.	.	.	.	.	.	.	.	.	32qqbX/	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqRe/JJJ	.	.	.	.	.	.	.	.	.	.	.	32qqccn/JJJ	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:t=gew.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	4.b-X	ff	8ryy	.	8Re/	.	.	.	.	.	.	.	8b-X'^J	sfz	.	.	4.b-'^)	sffz	8ryy	.	8ryy	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*haupt	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	4ryy	.	4ryy	.	16ryy	.	16ryy	.	[2ffn	Hil-	.	4ryy	.	.	.	.	4ryy	.	4r	.	.	.	.	.	.	.	4r	.	.	.	.	.	4ryy	.	4ryy	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:DY:t=%s cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16ryy	4ryy	16ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	.	4ryy	.	16ryy	.	16ryy	.	.	.	.	8ryy	4ryy	.	4b-	.	4ryy	.	8Re/	.	.	.	.	.	.	.	8b-^	.	.	.	[4b-'^	.	4ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554	=554
+4%3ryy	.	4%3ryy	.	4%3ryy	.	16ryy	.	16ryy	.	2ff_	.	4%3ryy	16ryy	.	4r	8r	.	4%3ryy	.	8r	.	4%3r	.	4%3r	.	4%3r	.	8r	.	4r	.	8b-'L]	.	4%3ryy	.	4%3ryy	.	2.ryy	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	8b-X	.	.	.	8Re/L	.	.	.	.	.	.	.	8b-X^	.	.	.	8b-X'X^J	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	8ryy	.	4r	4.b-	.	.	.	8Re/J	.	.	.	.	.	.	.	8b-^	.	4r	.	4.b-'^	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrhaupt	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*rhaupt	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	8ffL]H	.	.	8ryy	.	8r	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=[gliss.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(32qqAn/LLL	.	(32qqAn/LLL	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBX/	.	32qqBX/	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqcn/JJJ	.	32qqcn/JJJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	8B-XJh	-fe!	.	16ryy	.	[8B-X	8r	.	.	.	8Re/	.	.	.	.	.	.	.	8B-X^	.	[8B-^)	sffz	[8B-'^)	sffz	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=555
+=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555	=555
+4%3ryy	.	4%3ryy	.	4%3ryy	.	16ryy	.	16ryy	.	4%3r	.	4%3ryy	16ryy	.	4r	4%3r	.	4%3ryy	.	4r	.	4%3r	.	4%3r	.	4%3r	.	4r'	.	4B-']	.	4B-']	.	4%3ryy	.	4%3ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=nehmen Picc.	!
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ryy	4ryy	8ryy	4ryy	.	.	.	8ryy	4ryy	4.B-X	.	.	.	.	8Re/	.	.	.	.	.	.	.	8B-X^	.	4.B-X^	.	4.B-X^	.	.	.	.	.	4ryy	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	4ryy	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	8B-	.	.	.	.	8Re/	.	.	.	.	.	.	.	8B-^	.	8B-'^	.	8B-'^	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556	=556
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a 2	!	!	!	!	!	!	!	!	!	!	!	!	!
+4%3ryy	.	2ryy	.	4ryy	.	16ryy	.	16ryy	.	4%3r	.	4%3ryy	16ryy	.	4.B-X	4%3r	.	4%3ryy	.	8Re/	.	4r	.	4r	.	4r	.	8B-X^	.	4.B-'^	.	4.B-X'^	.	4%3ryy	.	4%3ryy	.	4%3ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrhaupt	*	*	*	*Xrhaupt	*	*	*	*	*	*	*
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*rhaupt	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	16r~yy	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	4r	.	8r	.	8r	.	8r	.	4r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ryy	4ryy	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB-/LLL	f	.	.	(32qqAAn^/LLL	ff	.	.	(32qqAAn/LLL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB-/	.	.	.	32qqBBn^/	.	.	.	32qqBBX/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB-/JJJ	.	.	.	32qqCn^/JJJ	.	.	.	32qqCn/JJJ	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=sempre %s	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	4.BB-X	.	ff	.	.	.	.	8BB-	.	8BB-X^	ffsfz	4.BB-X^)	sffz	.	.	4.BB-'^)	sffz	8r	.	.	.	.	.	.	.
+.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=zus.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	4r	.	4r	.	4r	.	.	.	4r	.	.	.	4r	.	.	.	.	.	.	.
+.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	16ryy	4ryy	16ryy	.	8ryy	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557	=557
+8ryy	.	16ryy	.	16ryy	.	4%3ryy	.	16ryy	.	4%3r	.	16ryyyy	16ryy	.	4.BB-X	4%3r	.	4%3ryy	.	4%3r	.	8BB-X	.	8BB-X^	.	4.BB-X'^	.	4%3r	.	4.BB-X'^	.	2r	.	4%3ryy	.	4%3ryy	.	4%3ryy	.
+.	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.	16ryy	16ryyyy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*haupt	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	.	.	16ryy	8ryyyy	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	4ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	16ryy	.	.	.	4ryy	.	.	.	16ryy	4ryyyy	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	8ryy	.	.	.	.	.	.	.	16ryy	.	.	8BB-	.	.	.	.	.	.	8BB-	.	8BB-^	.	8BB-'^	.	.	.	8BB-'^	.	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	4ryy	.	.	.	4ryy	.	.	.	16ryy	4ryyyy	.	[4BB-	.	.	.	.	.	.	8BB-	.	8BB-^	.	[4BB-^	.	.	.	[4BB-'^	.	4r	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	8r'yy	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9)][(s10,s11)][({(s12,s13)})][({(s14,s15)})][(s16,s17,s18)][(s19,s20,s21,s22,s23)]
+!!!RDF**kern: < = below
+!!!CDT: 1885/02/09-1935/12/24
+!!!CBL: Vienna, Austria
+!!!CDL: Vienna, Austria
+!!!CNT: Austrian
+!!!AGN: Stage; Opera
+!!!MCN: Denzler, Robert
+!!!MDT: 1937/06/02
+!!!MGN: unknown
+!!!MLC: Zürich, Switzerland
+!!!MPD: 1937
+!!!MPN: Hadžić, Bahrija
+!!!ODT: 1935
+!!!PDT: 1936
+!!!excerpt-start-measure: 553
+!!!excerpt-end-measure: 557
+!!!excerpt-start-time: 24:00
+!!!excerpt-end-time: 24:09
+!!!excerpt-duration-sec: 9
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {100}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

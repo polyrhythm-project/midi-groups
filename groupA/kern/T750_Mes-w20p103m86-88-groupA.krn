@@ -1,0 +1,56 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T750_Mes-20/103/86-88]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:A/B
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+*^	*	*
+!	!	!LO:TX:t=[[eighth]=138]	!
+!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!
+8e#XL 8f-X 8g#X	4Gn 4B-X 4c	8ryy	4ryy
+.	.	8ryy	.
+[8e#J [8f- [8g#	.	16ryy	4ryy
+.	.	8ryy	.
+.	.	16ryy	.
+16e#KL] 16f-] 16g#]	8GL 8B- 8c	8ryy	.
+8e# 8f- 8g#	.	.	.
+.	[8GJ [8B- [8c	32ryy	.
+.	.	32ryy	.
+[16e#Jk [16f- [16g#	.	32ryy	.
+.	.	32ryy	.
+=2	=2	=2	=2
+16e#KL] 16f-] 16g#]	16GKL] 16B-X] 16c]	8ryy	.
+8e#X 8f-X 8g#X	8Gn 8B 8c	.	.
+.	.	8ryy	.
+[16e#Jk [16f- [16g#	[16GJk [16B [16c	.	.
+16e#KL] 16f-] 16g#]	16GKL] 16B] 16c]	16ryy	.
+8.e#J 8.f- 8.g#	8G 8B 8c	16ryy	.
+.	.	8ryy	.
+.	[16G^Jk [16B [16c	.	.
+=3	=3	=3	=3
+8.e#XL 8.f-X 8.g#X	16GKL] 16B] 16c]	28ryy	.
+.	.	28ryy	.
+.	8.GJ 8.B-X 8.c	.	.
+.	.	28ryy	.
+.	.	28ryy	.
+.	.	28ryy	.
+.	.	28ryy	.
+[16e#Jk [16f- [16g#	.	.	.
+.	.	28ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+8e#L] 8f-] 8g#]	8.GL 8.B- 8.c	8ryy	.
+16e#L 16f- 16g#	.	8ryy	.
+16e#JJ 16f- 16g#	16GJk 16B- 16c	.	.
+*v	*v	*	*
+=||	=||	=||
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

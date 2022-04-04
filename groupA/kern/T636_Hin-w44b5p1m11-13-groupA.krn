@@ -1,0 +1,45 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T636_Hin-w44b5p1m11-13]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Alto Recorder [C]	*	*I"Alto Recorder [C]	*	*I"Soprano Recorder	*
+*I'A. Rec.	*	*I'A. Rec.	*	*I'S. Rec.	*
+!!pagebreak:original
+*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*Trd0c0	*
+*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1
+!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+[1g	p	4ryy	4ryy	8ryy	4ryy
+.	.	.	.	4ryy	.
+.	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.
+.	.	4ryy	.	4ryy	.
+.	.	8ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	8ryy	.	8ryy	.
+=2	=2	=2	=2	=2	=2
+2g]	.	4ryy	.	8ryy	.
+.	.	.	.	8ryy	.
+.	.	8ryy	.	4ryy	.
+.	.	8ryy	.	.	.
+[2g	.	4ryy	.	8ryy	.
+.	.	.	.	4ryy	.
+.	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.
+=3	=3	=3	=3	=3	=3
+1g_	.	4ryy	4ryy	4ryy	4ryy
+.	.	8ryy	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	8ryy	.	8ryy	.
+.	.	4ryy	.	8ryy	.
+.	.	.	.	8ryy	.
+.	.	8ryy	.	4ryy	.
+.	.	8ryy	4ryy	.	4ryy
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]

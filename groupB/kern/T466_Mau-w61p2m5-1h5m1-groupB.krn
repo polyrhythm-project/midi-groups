@@ -1,0 +1,65 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T466_Mau-w61p2m5-1h5m1]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*staff2/3	*staff1	*
+*I"Piano	*I"Piano	*	*I"Violoncello	*
+*I'Pno.	*I'Pno.	*	*I'Vc.	*
+*clefF4	*clefG2	*	*clefF4	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M3/8	*M3/8	*	*M3/8	*
+=46	=46	=46	=46	=46
+!!LO:TX:t=[[quarter-dot]=51]
+!	!	!LO:DY:ed=brack	!	!
+!	!	!LO:DY:t= poco %s	!	!LO:DY:ed=brack
+16ryy	16ryy	4ryy	4d#X)	mp
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	((8c 8e	.
+16ryy	16ryy	.	.	.
+=47	=47	=47	=47	=47
+16ryy	16ryy	.	4B 4d#X))	<
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	8B-Xv 8g	mf [
+16ryy	16ryy	.	.	.
+=48	=48	=48	=48	=48
+16ryy	16ryy	.	4Gu 4e	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+*	*	*	*clefG2	*
+16ryy	16ryy	.	8bn	< [
+16ryy	16ryy	.	.	.
+=49	=49	=49	=49	=49
+16ryy	16ryy	.	(8b-XuL	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	8e-X)	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	8B-XvJ 8g	.
+16ryy	16ryy	.	.	.
+=50	=50	=50	=50	=50
+16ryy	16ryy	.	4Gu 4en	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	8bn	.
+16ryy	16ryy	.	.	.
+!!LO:REH:t=5
+=51	=51	=51	=51	=51
+16ryy	16ryy	.	(8b-XL	<
+16ryy	16ryy	4ryy	.	.
+*	*	*	*clefF4	*
+16ryy	16ryy	.	8dnX)	.
+16ryy	16ryy	.	.	.
+16ryy	16ryy	.	8A#XJ 8f#X	[
+16ryy	16ryy	4ryy	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/11/04

@@ -1,0 +1,119 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T202_Sch-w29p23m333-341]
+**kern		**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam
+*grp:A		*	*grp:A	*	*grp:B		*	*grp:A	*
+*part4		*	*part3	*	*part2		*	*part1	*
+*staff4		*	*staff3	*	*staff2		*	*staff1	*
+*I"Violoncello		*	*I"Viola	*	*I"Violin II		*	*I"Violin I	*
+*I'Vc.		*	*I'Vla.	*	*I'Vln. II		*	*I'Vln. I	*
+*clefF4		*	*clefC3	*	*clefG2		*	*clefG2	*
+*k[]		*	*k[]	*	*k[]		*	*k[]	*
+*C:		*	*C:	*	*C:		*	*C:	*
+*M4/4		*	*M4/4	*	*M4/4		*	*M4/4	*
+*met(c|)		*	*met(c|)	*	*met(c|)		*	*met(c|)	*
+!!LO:REH:t=333
+=1		=1	=1	=1	=1		=1	=1	=1
+*		*	*	*	*^		*	*	*
+!!LO:TX:t=[Moderato [half]=100]
+!		!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]
+8ryy	4ryy	8ryy	4ryy	4r	4ryy	4ryy	8ryy	4ryy
+8ryy	.	8ryy	.	.	.	.	8ryy	.
+8ryy	.	4.ryy	.	(4dn	4.an	.	8ryy	.
+8ryy	.	.	.	.	.	.	8ryy	.
+8ryy	.	.	.	8bb-X)	.	.	4.ryy	.
+8ryy	.	8ryy	.	8ryy	8r	.	.	.
+8ryy	.	8ryy	.	4r	4ryy	.	.	.
+8ryy	.	8ryy	.	.	.	.	8ryy	.
+!!LO:REH:t=334
+=2		=2	=2	=2	=2	=2	=2	=2	=2
+*		*	*grp:B	*	*	*	*	*	*
+8ryy	.	[2An [2g#X	.	4ryy	4r	.	8ryy	.
+8ryy	.	.	.	.	.	.	8ryy	.
+4.ryy	.	.	.	4.een	(4bbn	.	4.ryy	.
+.	.	8A] 8g#]	.	.	8d#X)	.	.	.
+8ryy	.	8r	.	8r	8ryy	.	8ryy	.
+*clefC4		*	*	*	*	*	*	*	*
+4ryy	.	([4ccn	.	4ryy	([4ggn	.	8ryy	.
+.	.	.	.	.	.	.	8ryy	.
+*		*	*	*	*v	*v	*	*	*
+!!LO:REH:t=335
+=3		=3	=3	=3	=3		=3	=3	=3
+4ryy	.	4cc]	.	4gg]	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+2ryy	.	2cc#X)	.	2aa-X)	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+*clefF4		*	*clefG2	*	*		*	*	*
+8ryy	.	8r	.	8r	.	8ryy	.
+*		*	*	*	*		*	*grp:B	*
+8ryy	.	[8gg	.	[8bb-X	.	[8cccc	.
+!!LO:REH:t=336
+=4		=4	=4	=4	=4		=4	=4	=4
+8ryy	.	4.gg]	.	4.bb-]	.	4.cccc]	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	[8ff#X	.	[8bbn	.	[8fffn	.
+8ryy	.	4.ff#]	.	4.bb]	.	4.fff]	.
+*clefC4		*	*	*	*		*	*	*
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+*		*	*	*	*		*	*grp:A	*
+8ryy	.	8r	.	8r	.	8ryy	.
+!!linebreak:original
+!!LO:REH:t=337
+=5		=5	=5	=5	=5		=5	=5	=5
+*grp:B		*	*	*	*		*	*	*
+2fn	.	2aa-X	.	2eee-X	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+2b-X	.	2aan	.	[2eeen	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+*clefF4		*	*	*	*		*	*	*
+!!LO:REH:t=338
+=6		=6	=6	=6	=6		=6	=6	=6
+*		*	*grp:A	*	*		*	*	*
+2.C	.	8ryy	.	4.eee]	.	1ryy	.
+.	.	8ryy	.	.	.	.	.
+.	.	2.ryy	.	.	.	.	.
+*grp:A		*	*	*	*grp:A		*	*	*
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+8ryy	.	.	.	4ryy	.	.	.
+8ryy	.	.	.	.	.	.	.
+!!LO:REH:t=339
+=7		=7	=7	=7	=7		=7	=7	=7
+4ryy	.	4ryy	.	4ryy	.	4ryy	.
+!!LO:TX:a:B:t=Pesante
+4ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	2ryy	.	2ryy	.	4ryy	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	8ryy	.
+8ryy	.	.	.	.	.	8ryy	.
+!!LO:REH:t=340
+=8		=8	=8	=8	=8		=8	=8	=8
+*^		*	*	*	*		*	*	*
+2rGyy	1ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	8ryy	.	8ryy	.	4ryy	.
+*	*	*	*clefC3	*	*		*	*	*
+.	.	.	8ryy	.	8ryy	.	.	.
+8rEyy	.	.	8ryy	.	4ryy	.	2ryy	.
+8ryy	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	4ryy	.	8ryy	.	.	.
+8ryy	.	.	.	.	8ryy	.	.	.
+*v	*v	*	*	*	*		*	*	*
+!!LO:REH:t=341
+=9		=9	=9	=9	=9		=9	=9	=9
+4ryy	.	4ryy	.	4ryy	.	4ryy	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.
+==		==	==	==	==		==	==	==
+*-		*-	*-	*-	*-		*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED:Jason Lee
+!!!EEV:2021/10/15

@@ -1,0 +1,154 @@
+!!!COM: Manuel de Falla (y Mathey)
+!!!OTL: [T306_Fal-w2p1m1-6]
+**kern	**kern	**dynam	**kern	**text	**dynam
+!!pagebreak:original
+*clefG2	*clefG2	*	*clefG2	*	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*	*
+*B:	*B:	*	*B:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*	*Xtuplet	*	*	*	*
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+!	!	!LO:TX:b:t=2 Ped. sempre	!	!	!	!
+!	!	!LO:TX:b:i:t=(très enveloppé)	!	!LO:TX:t=[quarter]=80	!	!
+24ryy	8ryy	.	4ryy	4%3ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	4ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	8ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	8ryy	4ryy	4ryy
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	8ryy	4ryy	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	8ryy	4ryy	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+*	*Xtuplet	*	*	*	*
+*^	*	*	*	*	*
+24ryy	6ryy	.	.	2ryy	4ryy	4ryy
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy	12ryy	.	.	.	.	.
+24ryy	.	.	.	.	.	.
+24ryy	6ryy	.	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy	12ryy	.	.	.	.	.
+24ryy	.	.	.	.	.	.
+24ryy	6ryy	.	.	8ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	8ryy	4ryy	4ryy
+24ryy	12ryy	.	.	.	.	.
+24ryy	.	.	.	.	.	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4
+24ryy	6ryy	.	.	4.ryy	4ryy	4ryy
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy	12ryy	.	.	.	.	.
+24ryy	.	.	.	.	.	.
+24ryy	6ryy	.	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	8ryy	4ryy	4ryy
+24ryy	12ryy	.	.	.	.	.
+24ryy	.	.	.	.	.	.
+24ryy	6ryy	.	.	8ryy	4ryy	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	8ryy	4ryy	.
+24ryy	12ryy	.	.	.	.	.
+24ryy	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+24ryy	8ryy	.	.	4ryy	4ryy	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	4ryy	4ryy	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	4ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+=6	=6	=6	=6	=6	=6
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	4ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	.	.	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	8ryy	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	8ryy	4ryy	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+*^	*	*	*	*	*
+24ryy	8ryy	.	.	8ryy	4ryy	.
+24ryy@yy	.	24ryy	.	.	.	.
+24ryy@yy	.	24ryy	.	.	.	.
+*v	*v	*	*	*	*	*
+.	24ryy	.	8ryy	4ryy	.
+24ryy	.	.	.	.	.
+24ryy	.	.	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]

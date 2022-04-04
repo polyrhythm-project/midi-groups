@@ -1,0 +1,47 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T164_Deb-w44p2m19-20]
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff1	*
+*I"Piano	*	*	*I"Piano	*	*
+*I'Pno.	*	*	*I'Pno.	*	*
+*clefF4	*clefG2	*	*clefG2	*clefG2	*
+*k[]	*k[]	*	*k[]	*k[]	*
+*C:	*C:	*	*C:	*C:	*
+*M3/4	*M3/4	*	*M3/4	*M3/4	*
+=19	=19	=19	=19	=19	=19
+*^	*	*	*	*	*
+*	*	*	*	*	*Xtuplet	*
+!	!LO:T:b	!	!	!	!LO:TX:t=[[half-dot]=66]	!
+2ryy	4ryy	2ryy	4ryy	(8GL	\(12gL	f
+.	.	.	.	.	12a	.
+.	.	.	.	8AJ	.	.
+.	.	.	.	.	12bJ	.
+.	2ryy	.	.	8BL	12ddL	.
+.	.	.	.	.	12ee	.
+.	.	.	.	8dJ	.	.
+.	.	.	.	.	12ggJ	.
+4ryy	.	4ryy	.	8eL	12aaL	.
+.	.	.	.	.	12bb	.
+.	.	.	.	8gJ	.	.
+.	.	.	.	.	12dddJ	.
+=20	=20	=20	=20	=20	=20	=20
+4ryy	2ryy	4ryy	.	8aL	12eeeL	.
+.	.	.	.	.	12ddd	.
+.	.	.	.	8gJ	.	.
+.	.	.	.	.	12bbJ	.
+2ryy	.	2ryy	.	8eL	12aaL	.
+.	.	.	.	.	12gg	.
+.	.	.	.	8dJ	.	.
+.	.	.	.	.	12eeJ	.
+.	4ryy	.	.	8BL	12ddL	.
+.	.	.	.	.	12b	.
+.	.	.	.	8AJ)	.	.
+.	.	.	.	.	12aJ)	.
+*v	*v	*	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/8

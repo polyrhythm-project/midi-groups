@@ -1,0 +1,151 @@
+!!!COM: Martin, Frank
+!!!OTL: Eight Preludes for Piano
+!!!OMV: No. 8
+!!!example: 560
+!!!work: Mai-29
+!!!OMD-full: Vivace
+!!!OMD: [Vivace]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M18/16	*	*M18/16	*
+=10	=10	=10	=10
+!	!	!LO:TX:t=[ [eighth-dot]=132 ]	!
+16FF#X'LL	mf	8ryy	.
+16A'	.	.	.
+!	!	!	!LO:DY:a
+!	!	!	!LO:DY:t=%s molto marc.
+16D#X'J	.	16ryy	4ryy
+16Cn'L	.	8.ryy	.
+16dn'	.	.	.
+16G#X'JJ	.	.	.
+16FF#'LL	.	8.ryy	.
+16A'	.	.	.
+16D#X'J	.	.	.
+16C'L	.	8ryy	.
+16dn'	.	.	.
+16G#'JJ	.	16ryy	.
+16FF#'LL	.	8.ryy	.
+16A'	.	.	.
+16D#X'J	.	.	.
+16C'L	.	8ryy	.
+16dn'	.	.	.
+16G#X'JJ	.	16ryy	.
+=11	=11	=11	=11
+!LO:TX:b:i:t=sempre stacc.	!	!	!
+16FFLL	.	8ryy	.
+16A	.	.	.
+16D#XJ	.	16ryy	.
+16CnL	.	8.ryy	.
+16dn	.	.	.
+16G#XJJ	.	.	.
+16FFLL	.	8.ryy	.
+16A	.	.	.
+16D#J	.	.	.
+16CL	.	16ryy	.
+16d	.	8ryy	.
+16G#JJ	.	.	.
+16FFLL	.	8ryy	.
+16A	.	.	.
+16D#J	.	16ryy	.
+16CL	.	8.ryy	.
+16d	.	.	.
+16G#JJ	.	.	.
+=12	=12	=12	=12
+16FF#XLL	.	16ryy	.
+16A	.	16ryy	.
+16D#XJ	.	16ryy	.
+16CnL	.	8ryy	.
+16dn	.	.	.
+16G#XJJ	.	16ryy	.
+16FF#LL	.	16ryy	.
+16A	.	16ryy	.
+16D#J	.	16ryy	.
+16CL	.	16ryy	.
+16d	.	8ryy	.
+16G#JJ	.	.	.
+16FF#LL	.	16ryy	.
+16A	.	16ryy	.
+16D#XJ	.	16ryy	.
+16CL	.	16ryy	.
+16d	.	16ryy	.
+16G#XJJ	.	16ryy	.
+=13	=13	=13	=13
+16CC#XLL	.	8ryy	.
+16E	.	.	.
+16AA#XJ	.	16ryy	.
+16GGnL	.	8.ryy	.
+16An	.	.	.
+16D#XJJ	.	.	.
+16CC#LL	.	8ryy	.
+16E	.	.	.
+16AA#J	.	16ryy	.
+16GGL	.	8.ryy	.
+16A	.	.	.
+16D#JJ	.	.	.
+16CC#LL	.	8.ryy	.
+16E	.	.	.
+16AA#J	.	.	.
+16GGL	.	8ryy	.
+16A	.	.	.
+16D#JJ	.	16ryy	.
+=14	=14	=14	=14
+16CC#XLL	.	8ryy	.
+16E	.	.	.
+16AA#XJ	.	8ryy	.
+16GGnL	.	.	.
+16An	.	8ryy	.
+16D#XJJ	.	.	.
+16CC#LL	.	8ryy	.
+16E	.	.	.
+16AA#J	.	8ryy	.
+16GGL	.	.	.
+16A	.	8ryy	.
+16D#JJ	.	.	.
+16CC#LL	.	16ryy	.
+16E	.	8ryy	.
+16AA#J	.	.	.
+16GGL	.	8.ryy	.
+16A	.	.	.
+16D#JJ	.	.	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1950/03/22
+!!!MGN:
+!!!MLC: Lausanne, Switzerland
+!!!MPD: 1950
+!!!MPN: Bidal, Denise
+!!!ODT: 1948
+!!!PDT: 1949
+!!!excerpt-start-measure: 10
+!!!excerpt-end-measure: 14
+!!!excerpt-start-time: 0:27
+!!!excerpt-end-time: 0:41
+!!!excerpt-duration-sec: 14
+!!!excerpt-time-signature: 18/16
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/09/18

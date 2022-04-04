@@ -1,0 +1,116 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T521_Mau-w59p10m13-24]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:A/B	*grp:A	*grp:A	*grp:A	*grp:A
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Harpischord	*	*	*I"Violin	*	*I"Flute	*
+*I'Har.	*	*	*I'Vln.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M3/8	*M3/8	*	*M3/8	*	*M3/8	*
+=1	=1	=1	=1	=1	=1	=1
+!	!	!	!LO:TX:a:t=[pizz.]	!	!	!
+!	!LO:TX:t=[quarter-dot]=92	!	!	!LO:DY:ed=brack	!LO:TX:t=[quarter-dot]=92	!
+8%3r	8ryy	.	8cc'^L	f	8r	.
+.	8ryy	.	8a-X'J	.	8r	.
+.	16ryy	4ryy	8r	.	8f'	p
+.	16ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+.	.	.	.	.	(8qf/	.
+8r	16ryy	.	8r	.	8g-X'L)	.
+.	16ryy	.	.	.	.	.
+8r	16ryy	.	8r	.	8e'	.
+.	16ryy	.	.	.	.	.
+8Bn'	16ryy	.	8an'	p	8f'J	.
+.	16ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+.	.	.	.	.	(8qf'/	.
+8c'L	16ryy	.	8aa'L	.	8g-X'L)	.
+.	16ryy	.	.	.	.	.
+8d-X'	16ryy	.	8a'	.	8e'	.
+.	16ryy	.	.	.	.	.
+8Bn'J	16ryy	.	8aa'J	.	8f'J	.
+.	16ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+!	!LO:TX:b:i:t=sim.	!	!LO:TX:b:i:t=sim.	!	!	!
+.	.	.	.	.	(8qf'/	.
+8cL	16ryy	.	8aL	.	8g-X'L)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	.	8aa	.	8e'	.
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8aJ	.	8f'J	.
+.	16ryy	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+.	.	.	.	.	(8qf/	.
+8cL	16ryy	.	8aaL	<	8g-X)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	.	8a	.	8r'	.
+.	16ryy	.	.	.	.	.
+!	!	!	!	!	!	!LO:DY:t=poco %s
+8BnJ	16ryy	4ryy	8b-XJ	[	8f'	mf
+.	16ryy	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+.	.	.	.	.	(8qf'/	.
+8cL	16ryy	4ryy	8bb-X	.	8g-X'L)	.
+!	!	!LO:DY:t=poco %s	!	!	!	!
+.	16ryy	4ryy	.	.	.	.
+8d-X	16ryy	.	8r	.	8e'	.
+.	16ryy	.	.	.	.	.
+!	!	!	!	!LO:DY:t=poco %s	!	!
+8BnJ	16ryy	.	8b-X	mf	8f'J	.
+.	16ryy	.	.	.	.	.
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7
+.	.	.	.	.	(8qf'/	.
+8cL	16ryy	.	8bb-XL	.	8g-X'L)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	.	8b-X	.	8e'	.
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8bb-J	.	8f'J	.
+.	16ryy	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+.	.	.	.	.	(8qf/	.
+8cL	16ryy	.	8b-XL	.	8g-XL)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	4ryy	8bb-X	<	8e	<
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8b-J	.	8fJ	.
+.	16ryy	4ryy	.	[	.	[
+=9	=9	=9	=9	=9	=9	=9
+.	.	.	.	.	(8qf'/	.
+8cL	16ryy	4ryy	8ee'	mf	8g-X')	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	.	8r	.	8r'	.
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8b-X' 8dd 8ee	.	8f'	.
+.	16ryy	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+.	.	.	.	.	(8qf'/	.
+8cL	16ryy	.	8b-X' 8dd 8ee	.	8g-X'L)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	.	8r'	.	8e'	.
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8b-' 8dd 8ee	.	8f'J	.
+.	16ryy	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+.	.	.	.	.	(8qf'/	.
+8cL	16ryy	.	8b-X' 8dd 8ee	.	8g-X'L)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	4ryy	8r'	<	8e'	<
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8b-' 8dd 8ee	.	8f'J	.
+.	16ryy	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+.	.	.	.	.	(8qf/	.
+8cL	16ryy	.	8b-X' 8dd 8ee	.	8g-XL)	.
+.	16ryy	.	.	.	.	.
+8d-X	16ryy	.	8r'	[	8eJ	[
+.	16ryy	.	.	.	.	.
+8BnJ	16ryy	.	8b-' 8dd 8ee	.	8r	.
+.	16ryy	4ryy	.	.	.	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]

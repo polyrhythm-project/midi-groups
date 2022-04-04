@@ -1,0 +1,112 @@
+!!!COM: Charles Ives
+!!!OTL: [T268_Ive-w44p27s1-2]
+**kern		**kern		**dynam	**kern	**text	**dynam
+*color:crimson		*color:crimson		*	*color:crimson	*	*
+*part2		*part2		*part2	*part1	*part1	*part1
+*staff3		*staff2		*	*staff1	*staff1	*
+*I"Piano		*		*	*I"Voice	*	*
+*I'Pno.		*		*	*I'Voice	*	*
+*clefF4		*clefG2		*	*clefG2	*	*
+*k[]		*k[]		*	*k[]	*	*
+*C:		*C:		*	*C:	*	*
+=1		=1		=1	=1	=1	=1
+*		*^		*	*	*	*
+!!LO:TX:B:t=[Adagio non tanto]
+!LO:T:n=4:a		!	!LO:T:n=2:b	!	!	!	!
+!LO:T:n=2:b		!	!LO:T:n=3:a	!	!	!	!
+!LO:T:n=3:a		!	!LO:T:n=1:b	!	!	!	!
+1ryy	4ryy	1ryy	4ryy	4ryy	.	.
+.	4ryy	.	.	4ryy	.	.
+.	4ryy	.	.	4ryy	4ryy	4ryy
+!		!LO:TX:b:i:t=rit.	!	!	!	!	!
+.	4ryy	.	.	4ryy	4ryy	.
+4ryyyy	4ryy	4ryyyy	.	4ryy	4ryy	.
+2ryyyy	4ryy	2ryyyy	4ryy	4ryy	4ryy	.
+.	8ryy	.	.	8ryy	4ryy	.
+.	8ryy	.	.	8ryy	.	4ryy
+*		*v	*v	*	*	*	*
+=2		=2		=2	=2	=2	=2
+*^		*		*	*	*	*
+*color:dodgerblue	*	*		*	*	*	*
+!LO:TX:rj:t=r.h.	!	!		!	!	!	!LO:DY:a:i:t=%s  lento con grazia
+8ryy	2ryy	4ryyyy	4ryy	4.ryy	4ryy	4ryy
+8ryy	.	.	.	.	.	.
+!	!	!LO:TX:t=l.h.		!	!	!	!
+!	!	!LO:TX:rj:t=slowly and calmly		!	!	!	!
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	2ryy	.	.	2ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	2ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	2ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	4ryy	.	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	4ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	2ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	4ryy	.	.
+8ryy	.	.	.	.	.	.
+8ryy	.	4ryy	.	4ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+*v	*v	*		*	*	*	*
+!!linebreak:original
+=3		=3		=3	=3	=3	=3
+*^		*		*	*	*	*
+8ryy	2ryy	4ryy	.	4.ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	2ryy	.	.	3ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+.	.	.	.	6ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	4ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	4.ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	.	2ryy	.	8ryy	4ryy	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	2ryy	.	.	2ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	.	.	8ryy	4ryy	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	.	2ryy	.	8ryy	4ryy	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	2ryy	.	.	8ryy	.	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	.	4ryy	.	4ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	2ryy	4ryy	.	4.ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	2ryy	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	.
+8ryy	2ryy	.	.	4.ryy	4ryy	.
+8ryy	.	.	.	.	.	.
+8ryy	.	4ryy	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	.
+*v	*v	*		*	*	*	*
+=		=		=	=	=	=
+*-		*-		*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/11/16
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

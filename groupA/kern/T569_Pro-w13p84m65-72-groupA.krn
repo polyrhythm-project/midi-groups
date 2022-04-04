@@ -1,0 +1,170 @@
+!!!COM: Sergey (Sergeyevich) Prokofiev
+!!!OTL: [T569_Pro-w13p84m65-72]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff7	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff1	*staff1/2
+*I"Contrabass	*I"Contrabass	*I"Violincello	*I"Violincello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Piano	*I"Piano	*I"Piano
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*I'Pno.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M12/8	*M12/8	*
+!!LO:REH:t=63
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*^	*^	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=120]	!	!
+!LO:TX:a:rj:t=Tutti	!	!LO:TX:rj:t=Tutti	!	!	!	!	!	!LO:TX:t=[[quarter]=120]	!	!	!	!LO:TX:B:t=Var. III	!	!
+!LO:TX:t=arco	!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!LO:TX:B:t=Allegro moderato (poco meno mosso)	!LO:TX:t=P:problem:Cross-Measure Beaming still needs to be applied.	!LO:DY:ed=brack
+16%3CC^L	f	16%3C^L	f	2%3r	.	2%3r	.	2%3r)	.	8ryyyy	8ryy	8ryyyy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBB^	.	16%3BB^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBB-X^	.	16%3BB-X^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3EEE^J	.	16%3EE^J	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	8ryy	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+16%3CC^L	.	16%3C^L	.	2%3r	.	2%3r	.	2%3r	.	8ryy	8ryy	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy@yy	8ryy	16ryy@yy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	16ryy@yy	.	16ryy@yy	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBB^	.	16%3BB^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBB-X^	.	16%3BB-X^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3EEE^J	.	16%3EE^J	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*^	*
+16%3CC^	.	16%3C^L	.	8%3r^	.	8%3r^	.	2%3r	.	4ryy	4ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+16%3r	.	16%3rGG	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+8%3r^	.	16%3f#X^	.	16%3f#X^	f	16%3ff#X^	f	.	.	8ryy	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+.	.	16%3rGG	.	16%3r	.	16%3r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+16%3CC^	.	16%3C^	.	8%3r^	.	8%3r^	.	.	.	4ryy	4ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+16%3r	.	16%3rGG	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+8%3r^	.	16%3f#^J	.	16%3f#^	.	16%3ff#^	.	.	.	8ryy	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+.	.	16%3r	.	16%3r	.	16%3r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+16%3AAA^	.	16%3AA^L	.	8%3r^	.	8%3r^	.	2%3r	.	4ryy	4ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+8%3r^	.	16%3g^>	.	16%3g^	.	16%3gg^	.	.	.	8ryy	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+.	.	16%3r	.	16%3r	.	16%3r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	.
+16%3BBB-X^	.	16%3BB-X^J	.	16%3r^	.	16%3r^	.	.	.	4ryy	4ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.
+16%3r	.	16%3r	.	16%3dL	f	16%3ddL	f	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.
+8%3r^	.	8%3r^	.	16%3dd^J	.	16%3ddd^J	.	.	.	4ryy	4ryy	4ryy	.
+.	.	.	.	16%3r	.	16%3r	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	8ryy	.
+!!LO:REH:t=64
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+16%3CC^L	f	16%3C^L	f	2%3r	.	2%3r	.	2%3r	.	8ryy	8ryy	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy@yy	8ryy	16ryy@yy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	16ryy@yy	.	16ryy@yy	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBBn^	.	16%3BB^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBB-X^	.	16%3BB-X^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3GGG-X^J	.	16%3GG-X^J	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryy	8ryy	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+16%3CC^L	.	16%3C^L	.	2%3r	.	2%3r	.	2%3r	.	8ryy	8ryy	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy@yy	8ryy	16ryy@yy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	16ryy@yy	.	16ryy@yy	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBBn^	.	16%3BB^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3BBB-X^	.	16%3BB-X^	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	4ryy	8ryy	.
+16%3GGG-X^J	.	16%3GG-X^J	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryyyy	8ryy	8ryyyy	8ryy	.
+16%3r	.	16%3r	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	8ryyyy	.
+*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M6/8	*M6/8	*
+*	*	*	*	*	*	*	*	*	*	*	*8va	*
+*^	*	*	*	*	*	*^	*	*	*	*^	*	*
+*v	*v	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*
+*^	*	*	*	*	*	*^	*	*	*	*^	*	*
+!LO:TX:a:t=div.	!	!	!	!	!	!	!LO:TX:a:rj:t=div.	!	!	!	!	!	!	!	!
+4%3EE-X^v	4%3EEE-X^	f > ]	4%3B-X^v	f > ]	4%3dd^v	f > ]	4%3gg-X^v	4%3g-X^	f > ]	4%3bb-X^v	f > ]	8ryy	2.ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+*v	*v	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*	*
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M12/8	*M12/8	*
+*^	*	*	*	*	*	*^	*	*	*	*	*	*
+8%3AA-X~	8%3AAA-X~	mp	8%3A-X~	mp	8%3dd-X~	mp	8%3ff~	8%3f~	mp	8%3aa-X~	mf	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+8%3D-X~	8%3DD-X~	.	8%3A-~	.	8%3cc~	.	8%3ff-X~	8%3f-X~	.	8%3aa-~	.	8ryy	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+8%3G-X~	8%3GG-X~	.	8%3G-X~	.	8%3cc-X~	.	8%3ee-X~	8%3e-X~	.	8%3gg-X~	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+8%3EE-X~	8%3EEE-X~	.	8%3B-X~	.	8%3ddn~	.	8%3gg-X~	8%3g-X~	.	8%3bb-X~	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][([(s3,s4)]s5[(s6,s7)])]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/19
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/16

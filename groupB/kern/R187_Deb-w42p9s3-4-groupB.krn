@@ -1,0 +1,169 @@
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: La boîte à joujoux (The Toy Box), Ballet for Children (with piano accompaniment)
+!!!OMV: Tableau 1: Le magasin de jouets (Le soldat anglais)
+!!!example: 187
+!!!work: Deb-42
+!!!OMD-full: Modéré
+!!!OMD: Mouvement de Marche modéré
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M2/4	*M2/4	*
+*8ba	*	*
+=122	=122	=122
+*^	*	*
+!	!	!LO:TX:t=[[quarter]=107]	!
+!LO:TX:t=P:problem:missing 8vb line	!	!	!LO:DY:t=%s  lointain et raide
+8ryy	8ryy	2r	pp
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+=123	=123	=123	=123
+8ryy	8ryy	2r	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+=124	=124	=124	=124
+8ryy	8ryy	2r	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+=125	=125	=125	=125
+8ryy	8ryy	2r	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+*v	*v	*	*
+=126	=126	=126
+*	*8va	*
+*^	*	*
+!	!	!LO:TX:b:i:t=	!LO:DY:t=sempre  %s  très exactement rythmé
+8ryy	8ryy	(16aaaKL	pp
+.	.	8cccc)	.
+8ryy	8ryy	.	.
+!	!	!	!LO:DY:t
+.	.	(16aaaJk	.
+8ryy	8ryy	8cccc'L)	.
+8ryy	8ryy	8aaa'J	.
+=127	=127	=127	=127
+!	!	!LO:TX:b:i:t=	!
+8ryy	8ryy	(16fffKL	.
+.	.	8aaa)	.
+8ryy	8ryy	.	.
+.	.	(16fffJk	.
+8ryy	8ryy	8aaa'L)	.
+8ryy	8ryy	8fff'J	.
+=128	=128	=128	=128
+8ryy	8ryy	(16dddKL	.
+.	.	8fff)	.
+8ryy	8ryy	.	.
+.	.	(16dddJk	.
+8ryy	8ryy	8fff'L)	.
+8ryy	8ryy	(16dddL	.
+.	.	16fffJJ	.
+=129	=129	=129	=129
+8ryy	8ryy	2ddd)	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+=130	=130	=130	=130
+8ryy	8ryy	(16cccKL	.
+.	.	8ddd)	.
+8ryy	8ryy	.	.
+.	.	(16cccJk	.
+8ryy	8ryy	8aa'L)	.
+*v	*v	*	*
+*^	*	*
+8ryy	8ryy	8ccc'J	.
+*	*	*X8va	*
+=131	=131	=131	=131
+8ryy	8ryy	(16aaKL	.
+.	.	8bb-)	.
+8ryy	8ryy	.	.
+.	.	(16aaJk	.
+8ryy	8ryy	4ff~)	.
+8ryy	8ryy	.	.
+=132	=132	=132	=132
+8ryy	8ryy	(16ffKL	.
+.	.	8gg)	.
+8ryy	8ryy	.	.
+.	.	16ffJk	.
+8ryy	8ryy	8ccL	.
+8ryy	8ryy	(16ccL	.
+.	.	16eeJJ	.
+=133	=133	=133	=133
+8ryy	8ryy	2cc)	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+*v	*v	*	*
+*^	*	*
+8ryy	8ryy	.	.
+*v	*v	*	*
+*X8ba	*clefF4	*
+=134	=134	=134
+!	!	!LO:DY:t=%s en augmentant peu à peu
+8ryy	(16AKL	p
+!	!LO:TX:b:i:t=	!
+.	8c)	.
+8ryy	.	.
+.	(16AJk	.
+8ryy	8c'L)	.
+8ryy	8A'J	.
+=135	=135	=135
+8ryy	(16FKL	.
+.	8A)	.
+8ryy	.	.
+.	(16FJk	.
+8ryy	8A'L)	.
+8ryy	8F'J	.
+=136	=136	=136
+8ryy	(16DKL	.
+.	8F)	.
+8ryy	.	.
+.	(16DJk	.
+8ryy	8F'L)	.
+8ryy	(16DL	.
+.	16FJJ	.
+=137	=137	=137
+8ryy	2D)	.
+8ryy	.	.
+8ryy	.	.
+8ryy	.	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Stage; Ballet
+!!!MCN: Talmud, Blanche; Lewisohn, Irene
+!!!MDT: 1916
+!!!MGN: unknown
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1916
+!!!MPN:
+!!!ODT: 1913
+!!!PDT: 1913
+!!!excerpt-start-measure: 122(176)
+!!!excerpt-end-measure: 137(191)
+!!!excerpt-start-time: 3:41
+!!!excerpt-end-time: 4:04
+!!!excerpt-duration-sec: 24
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {80}
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

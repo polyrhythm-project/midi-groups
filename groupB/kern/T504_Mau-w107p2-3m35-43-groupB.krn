@@ -1,0 +1,82 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T504_Mau-w107p2-3m35-43]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Viola	*
+*I'Pno.	*	*	*	*I'Vla.	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*
+=35	=35	=35	=35	=35	=35
+!	!	!	!	!LO:TX:t=[[quarter]=88]	!
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8ryy	.	4ryy	4ryy	(8b-X	mp
+8ryy	.	.	.	4a	.
+8ryy	.	4ryy	.	.	>
+8ryy	.	.	.	4g	.
+8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8f~)	]
+=36	=36	=36	=36	=36	=36
+8ryy	.	8ryy	.	(4g~v	.
+8ryy	.	4ryy	4ryy	.	.
+8ryy	.	.	.	2f)	.
+4.ryy	.	4ryy	.	.	.
+.	.	8ryy	4ryy	.	.
+=37	=37	=37	=37	=37	=37
+8ryy	.	8ryy	4ryy	(8au	.
+8ryy	.	4ryy	.	4cc)	<
+8ryy	.	.	.	.	.
+8ryy	.	4ryy	.	(4ccv	.
+8ryy	.	.	.	.	.
+8ryy	.	8ryy	4ryy	8dd	[
+=38	=38	=38	=38	=38	=38
+*M4/4	*	*M4/4	*	*M4/4	*
+8ryy	.	4ryy	.	8cc)	mp
+8ryy	.	.	.	(4ffu	.
+8ryy	.	4ryy	.	.	.
+8ryy	.	.	.	[8dd	.
+8ryy	.	8ryy	4ryy	8dd]	.
+8r'yy	.	4ryy	4ryy	4cc)	.
+8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	([8a	.
+!!linebreak:original
+=39	=39	=39	=39	=39	=39
+*M3/4	*	*M3/4	*	*M3/4	*
+8ryy	.	8ryy	.	8aL]	.
+8ryy	.	8ryy	.	8g~J)	.
+2ryy	.	4ryy	.	(4b-Xu	.
+.	.	4ryy	.	[4a	.
+=40	=40	=40	=40	=40	=40
+*M2/4	*	*M2/4	*	*M2/4	*
+2ryy	.	8ryy	.	2a])	.
+.	.	4ryy	4ryy	.	.
+.	.	8ryy	.	.	.
+=41	=41	=41	=41	=41	=41
+8ryy	.	8ryy	.	4ccv	mf
+8ryy	.	8ryy	4ryy	.	.
+8ryy	.	4ryy	.	4g~u	.
+8ryy	.	.	.	.	.
+=42	=42	=42	=42	=42	=42
+*M3/8	*	*M3/8	*	*M3/8	*
+8ryy	.	4ryy	.	(4b-X	.
+8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8dd)	<
+=43	=43	=43	=43	=43	=43
+*M6/8	*	*M6/8	*	*M6/8	*
+8r'yy	.	4ryy	.	4.ccu	.
+8ryy	.	.	.	.	.
+8r'yy	.	8ryy	4ryy	.	.
+8ryy	.	8ryy	.	(4b-Xv	[
+!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!	!
+8ryy	.	8ryy	4ryy	.	.
+8ryy	.	8ryy	.	8g~)	f
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/13
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/06

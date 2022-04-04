@@ -1,0 +1,78 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T433_Ber-w3p8m96-100]
+**kern		**dynam		**kern		**dynam
+*grp:A		*		*grp:B		*
+*part1		*		*part1		*part1
+*staff2		*		*staff1		*
+*I"Piano		*		*		*
+*I'Pno.		*		*		*
+*ICklav		*		*ICklav		*
+*Ipiano		*		*		*
+*clefF4		*		*clefG2		*
+*k[f#c#]		*		*k[f#c#]		*
+*D:		*		*D:		*
+*M6/8		*		*M6/8		*
+=1		=1		=1		=1
+*^		*^		*^		*
+!	!	!	!	!LO:TX:t=[[quarter-dot]=40]	!	!LO:HP:a
+8ryy@yy	8ryy	.	.	4.ee-X 4.ffn	4.a-X	4ryy
+!	!	!LO:HP:a	!	!	!	!
+8ryy	4ryy	4ryy	4ryy	.	.	4ryy
+4ryy	.	4ryy	.	.	.	.
+!	!	!	!	!	!	!LO:HP:a
+.	8ryy	.	.	(8e-XL	8e-	4ryy
+!	!	!LO:HP:a	!	!	!	!LO:HP:a
+8ryy	4ryy	4ryy	4ryy	8an	4en	4ryy
+8ryy	.	4ryy	.	8BnJ	.	.
+=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!LO:S:b	!
+8ryy@yy	8ryy	.	.	4A-X 4fn)	(8.e-XL	4ryy
+!	!	!LO:HP:a	!	!	!	!
+8ryy	4ryy	4ryy	4ryy	.	.	.
+.	.	4ryy	.	.	16dnJk	4ryy
+4ryy	.	.	.	8ryy@	8d\)	4ryy
+*	*	*	*	*clefF4	*	*
+.	8ryy	.	.	(8E-XL	8E-	4ryy
+!	!	!LO:HP:a	!	!	!	!
+8ryy	4ryy	4ryy	4ryy	8An	4En	4ryy
+8ryy	.	4ryy	.	8BBnJ	.	.
+*v	*v	*	*	*	*	*
+=3		=3	=3	=3	=3	=3
+!		!LO:HP:a	!	!	!	!LO:HP:a
+8ryy	4ryy	.	8.E#XL	2.AAn 2.C#X	4ryy
+4ryy	4ryy	.	.	.	.
+!		!	!	!	!	!LO:HP:a
+.	.	.	16F#XJk	.	4ryy
+.	.	.	2F#)	.	.
+!		!LO:HP:a	!	!	!	!
+8ryy	4ryy	.	.	.	.
+!		!LO:HP:a	!	!	!	!
+8ryy	4ryy	.	.	.	.
+8ryy	4ryy	.	.	.	4ryy
+=4		=4	=4	=4	=4	=4
+!		!	!	!	!	!LO:HP:a
+8ryy	.	.	(8.E#XL	2.AA 2.C#X	4ryy
+!		!LO:HP:a	!	!	!	!
+8ryy	4ryy	.	.	.	4ryy
+!		!	!	!	!	!LO:HP:a
+.	4ryy	.	16F#XJk	.	4ryy
+!		!LO:HP:a	!	!	!	!
+8ryy	4ryy	.	2F#X)	.	.
+8ryy	4ryy	.	.	.	.
+8ryy	.	.	.	.	4ryy
+!		!LO:HP:a	!	!	!	!
+8ryy	4ryy	.	.	.	.
+*		*	*	*clefG2	*	*
+=5		=5	=5	=5	=5	=5
+!		!LO:HP:a	!	!	!	!LO:HP:a
+4ryy	4ryy	.	(8.e#XL	2.An 2.c#X	4ryy
+.	4ryy	.	16f#XJk	.	4ryy
+!		!	!	!	!	!LO:HP:a
+8.ryy	.	.	4f#)	.	4ryy
+16ryy	.	.	.	.	4ryy
+4ryy	.	.	(8e#XL	.	.
+.	.	.	8f#XJ)	.	.
+*		*	*	*v	*v	*
+=		=	=	=		=
+*-		*-	*-	*-		*-
+!!!system-decoration: [({(s1,s2)})]

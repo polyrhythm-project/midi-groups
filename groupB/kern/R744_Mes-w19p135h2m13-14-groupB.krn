@@ -1,0 +1,114 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!OMV: III: Psalmodie de l'Ubiquité par amour, Dieu présent en toutes choses… (Psalmody of Ubiquity by Love, God Present in All Things)
+!!!example: 744
+!!!work: Mes-19
+!!!OMD-full: Modéré, presque vif, énergique
+!!!OMD: [Énergique]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part3	*	*part2	*	*part2	*part1	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff3	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Piano	*	*	*	*I"Choir	*	*	*I"Celesta	*	*	*
+*I'Cb.	*	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'Pno.	*	*	*	*I'Choir	*	*	*I'Cel.	*	*	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICvox	*	*	*ICklav	*	*ICklav	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Ichoir	*	*	*Iclest	*	*Iclest	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*8va	*	*	*	*	*	*	*	*
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	(12D-XL	mf	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	(12GL	mf	(12B-XL 12e-X	mf	8ryy	.	24ryy	4ryy	8ryy	4ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12Dn	.	.	.	.	.	.	.	12A-X	.	12d-X 12en	.	.	.	24ryy	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	24ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	12E-XJ	.	.	.	.	.	.	.	12AnJ	.	12dnJ 12g	.	.	.	24ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	12EnL	.	16ryy	.	16ryy	.	16ryy	.	12B-XL	.	12e-XL 12a-X	.	8ryy	.	4ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12G	.	.	.	.	.	.	.	12d-X	.	12en 12an	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	.	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	12A-XJ)	.	.	.	.	.	.	.	12dnJ)	.	12gJ 12b-X)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	(12AnL	.	16ryy	.	16ryy	.	16ryy	.	(12e-XL	.	(12a-XL 12dd-X	.	8ryy	.	16ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12B-X	.	.	.	.	.	.	.	12en	.	12an 12ddn	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	16ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	12d-XJ	.	.	.	.	.	.	.	12gJ	.	12b-XJ 12ee-X	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	12dnL	.	16ryy	.	16ryy	.	16ryy	.	12a-XL	.	12dd-XL 12een	.	8ryy	.	8.ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	12e-X	.	.	.	.	.	.	.	12an	.	12ddn 12gg	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	.	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	12enJ)	.	.	.	.	.	.	.	12b-XJ)	.	12ee-XJ 12aa-X)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+*	*	*	*	*	*	*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8g	.	16ryy	.	16ryy	.	16ryy	.	(12gL 12dd-X	.	(12eenL 12aan	.	8ryy	.	24ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12a-X 12ddn	.	12gg 12bb-X	.	.	.	24ryy	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	24ryy	.	8ryy	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12anJ 12ee-X	.	12aa-XJ 12ddd-X	.	.	.	24ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	4r	.	16ryy	.	16ryy	.	16ryy	.	12b-XL 12een	.	12aanL 12dddn	.	8ryy	.	16ryy	.	4ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd-X 12gg	.	12bb-X 12eee-X	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	16ryy	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ddnJ 12aa-X)	.	12ddd-XJ 12eeen)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	2r	.	16ryy	.	16ryy	.	16ryy	.	(12ee-XL 12aan	.	(12dddnL 12ggg	.	8ryy	.	16ryy	.	4ryy	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12een 12bb-X	.	12eee-X 12aaa-X	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	16ryy	.	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ggJ 12ddd-X	.	12eeenJ 12aaan	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	12aa-XL 12dddn	.	12gggL 12bbb-X	.	8ryy	.	16ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12aan 12eee-X	.	12aaa-X 12dddd-X	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	4ryy	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8ba	*	*X8va	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bb-XJ 12eeen)	.	12aaanJ 12ddddn)	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3[({(s4,s5)})][(s6,s7,s8,s9,s10,s11,s12,s13,s14,s15)]
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Choral
+!!!MCN: Désormière, Roger
+!!!MDT: 1945/04/21
+!!!MGN: Orchestre de la Société des Concerts du Conservatoire; Chorale Yvonne Gouverné
+!!!MLC: Paris, France
+!!!MPD: 1945
+!!!MPN: Grimaud, Yvette; Loriod, Yvonne; Martenot, Ginettea
+!!!ODT: 1944
+!!!PDT: 1952
+!!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 48
+!!!excerpt-start-time: 1:49
+!!!excerpt-end-time: 1:54
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

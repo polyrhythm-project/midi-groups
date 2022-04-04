@@ -1,0 +1,80 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T387_Str-w35p74h143m1-h144m3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part10	*	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin 2	*	*I"Violin 1	*	*I"Timpani	*	*I"Trombone 2	*	*I"Trombone 1	*	*I"Trumpet in C 2	*	*I"Trumpet in C 1	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. 2	*	*I'Vln. 1	*	*I'Timp.	*	*I'Tbn. 2	*	*I'Tbn. 1	*	*I'C Tpt. 2	*	*I'C Tpt. 1	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefC4	*	*clefC4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*C:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=143
+=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
+!LO:TX:a:t=pizz.	!LO:DY:t=sempre %s	!	!	!LO:TX:a:t=div.	!	!LO:TX:a:t=div.	!	!	!	!	!LO:DY:t=poco %s - secco	!	!	!	!	!	!	!LO:TX:t=[[quarter]=184]	!
+4ryy	4ryy	8r	.	8r	.	8r	.	8r	.	4ryy	4ryy	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.
+*	*	*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	8Bn'^uL	sf	8f'^uL 8a-	sf	8f'^uL 8a-	sf	8dd-X'^uL	sf	.	.	.	.	.	.	.	.	.	.
+8ryy	.	(8c'	.	(8f' 8a-	.	(8f' 8a-	.	(8dd-'	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8d-X'J)	.	8f'J 8a-)	.	8f'J 8a-)	.	8dd-'J)	.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	.	8dn'L	.	8f'L 8a-	.	8f'L 8a-	.	8dd-'L	.	4r'yy	.	.	.	.	.	.	.	.	.
+.	.	8en'J	.	8f'J 8a-	.	8f'J 8a-	.	8cc'J	.	.	.	.	.	.	.	.	.	.	.
+=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
+4ryy	.	8e-X'L	.	8f'L 8a-	.	8f'L 8a-	.	8cc-X'L	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8c-X'J	.	8f'J 8a-	.	8f'J 8a-	.	8b-'J	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	4r	.	4r	.	4r	.	4r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s ma leggiero	!	!LO:DY:t=%s ma leggiero	!	!LO:DY:t=%s ma leggiero	!	!LO:DY:t=%s ma leggiero
+8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+4ryy	.	4r	.	4r	.	4r	.	4r	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
+4ryy	.	8r	.	8r	.	8r	.	8r	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8d-X'^uL	.	8f'^uL 8a-	.	8f'^uL 8a-	.	8b-'^uL	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	(8c'	.	(8f' 8a-	.	(8f' 8a-	.	(8bn'	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+8ryy	.	8c-X'J)	.	8f'J 8a-)	.	8f'J 8a-)	.	8cc'J)	.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	.	4r	.	4r	.	4r	.	4r	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!!pagebreak:original
+=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
+4ryy	.	8r	.	8r	.	8r	.	8r	.	4ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.
+.	.	8c-X'^uL	.	8f'^uL 8a-	.	8f'^uL 8a-	.	8dd-X'^uL	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	(8cn'	.	(8f' 8a-	.	(8f' 8a-	.	(8dd-'	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8d-X'J)	.	8f'J 8a-)	.	8f'J 8a-)	.	8dd-'J)	.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	.	8dn'L	.	8f'L 8a-	.	8f'L 8a-	.	8dd-'L	.	4ryy	.	.	.	.	.	.	.	.	.
+.	.	8e-'J	.	8f'J 8a-	.	8f'J 8a-	.	8cc'J	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=144
+=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125
+4ryy	.	8e-'L	.	8f'L 8a-	.	8f'L 8a-	.	8cc-X'L	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	8c-X'J	.	8f'J 8a-	.	8f'J 8a-	.	8b-'J	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	4r	.	4r	.	4r	.	4r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!	!LO:TX:b:i:t=simile	!
+8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4ryy	.	4r	.	4r	.	4r	.	4r	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
+4ryy	.	4%3r	.	4r	.	4r	.	4r	.	4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	.	.	4r	.	4r	.	4r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	.	.	8r	.	8r	.	8r	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+!	!	!	!	!	!LO:DY:t=%s assai	!	!LO:DY:t=%s assai	!	!LO:DY:t=%s assai	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8d-X`^ 8f 8dd-X	sf	\8f`^ 8a- 8dd-X	sf	8f`^u 8a- 8dd-X	sf	.	.	.	.	.	.	.	.	.	.
+=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
+4ryy	.	4r	.	8r	.	8r	.	8r	.	4ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.	4%3ryy	.
+.	.	.	.	8dn`^ 8f#X 8ddn	.	\8f#X`^ 8an 8ddn	.	8dn'`^ 8f#X 8an	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=div.	!	!LO:TX:a:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8Bn'^uL	.	8g^uL 8bn	.	8g^uL 8bn	.	8dd^uL	.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	.	(8c#X'	.	(8g' 8b	.	(8g' 8b	.	(8dd'	.	4ryy	.	.	.	.	.	.	.	.	.
+.	.	8d'J)	.	8g'J 8b)	.	8g'J 8b)	.	8cc#X'J)	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})][s5][s6,s7,s8,s9,s10]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/28

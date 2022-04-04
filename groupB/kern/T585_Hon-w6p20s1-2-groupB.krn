@@ -1,0 +1,135 @@
+!!!COM: Arthur Honegger
+!!!OTL: [T585_Hon-w6p20s1-2]
+**kern		**kern		**dynam	**kern	**dynam
+*grp:A		*grp:A		*	*	*
+*part2		*part2		*part2	*part1	*part1
+*staff3		*staff2		*	*staff1	*
+*I"Piano		*		*	*I"Violin	*
+*I'Pno.		*		*	*I'Vln.	*
+*ICklav		*ICklav		*	*ICstr	*
+*Ipiano		*Ipiano		*	*Ivioln	*
+*clefF4		*clefF4		*	*clefG2	*
+*k[f#c#g#d#]		*k[f#c#g#d#]		*	*k[f#c#g#d#]	*
+*E:		*E:		*	*E:	*
+*M10/4		*M10/4		*	*M3/4	*
+*^		*^		*	*	*
+*	*grp:B	*	*grp:B	*	*grp:C	*
+!	!	!	!	!LO:DY:t= [sempre %s e sostenuto]	!LO:TX:t=[quarter]=56	!LO:DY:ed=brack
+4ryy	2GG#/	4ryy	2G#	4ryy	8ryy	4ryy
+.	.	.	.	.	8ryy	.
+4ryy	.	4ryy	.	.	4ryy	.
+4ryy	2GG#/	4ryy	2G#	.	4ryy	.
+=-	=-	=-	=-	=	=	=
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+4ryy	2GG#/	4ryy	2G#	.	4ryy	.
+4ryy	.	4ryy	.	.	4ryy	.
+=-	=-	=-	=-	=	=	=
+*	*	*	*	*	*M4/4	*
+!	!	!	!	!	!LO:TX:t=P:problem:missing 4/4 time signature	!
+4ryy	1GG#/	4ryy	1G#	.	2ryy	4ryy
+2ryy	.	2ryy	.	.	.	.
+.	.	.	.	.	4.ryy	.
+4ryy	.	4ryy	.	.	.	.
+.	.	.	.	.	8ryy	4ryy
+=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*M3/4	*
+4ryy	2GG#/	4ryy	2G#	.	2ryy	.
+4ryy	.	4ryy	.	.	.	.
+4ryy	2GG#/	4ryy	2G#	.	8ryy	.
+.	.	.	.	.	8ryy	.
+=-	=-	=-	=-	=	=	=
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+4ryy	2GG#/	4ryy	2G#	.	4.ryy	.
+4ryy	.	4ryy	.	.	.	.
+.	.	.	.	.	8ryy	.
+=-	=-	=-	=-	=	=	=
+*	*	*	*	*	*M4/4	*
+!	!	!	!	!	!LO:TX:t=P:problem:missing 4/4 time signature	!
+4ryy	1GG#/	4ryy	1G#	.	4.ryy	4ryy
+2ryy	.	2ryy	.	.	.	.
+.	.	.	.	.	8ryy	.
+.	.	.	.	.	4ryy	4ryy
+4ryy	.	4ryy	.	.	4ryy	.
+=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*M3/4	*
+4ryy	2GG#/	4ryy	2G#	.	4.ryy	4ryy
+4ryy	.	4ryy	.	.	.	.
+.	.	.	.	.	8ryy	.
+4ryy	2GG#/	4ryy	2G#	.	4ryy	.
+=-	=-	=-	=-	=	=	=
+4ryy	.	4ryy	.	.	2ryy	4ryy
+4ryy	2GG#/	4ryy	2G#	.	.	.
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+=-	=-	=-	=-	=	=	=
+*	*	*	*	*	*M4/4	*
+!	!	!	!	!	!LO:TX:t=P:problem:missing 4/4 time signature	!
+4ryy	1GG#/	4ryy	1G#	.	4ryy	.
+2ryy	.	2ryy	.	.	4ryy	.
+.	.	.	.	.	4.ryy	.
+4ryy	.	4ryy	.	.	.	.
+.	.	.	.	.	8ryy	.
+=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*M3/4	*
+4ryy	2GG#/	4ryy	2G#	.	2.ryy	.
+4ryy	.	4ryy	.	.	.	.
+4ryy	2GG#/	4ryy	2G#	.	.	.
+=-	=-	=-	=-	=	=	=
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+4ryy	2GG#/	4ryy	2G#	.	2ryy	.
+4ryy	.	4ryy	.	.	.	.
+=-	=-	=-	=-	=	=	=
+*	*	*	*	*	*M4/4	*
+!	!	!	!	!	!LO:TX:t=P:problem:missing 4/4 time signature	!
+4ryy	1GG#/	4ryy	1G#	.	4ryy	.
+2ryy	.	2ryy	.	.	4ryy	.
+.	.	.	.	.	4.ryy	.
+4ryy	.	4ryy	.	.	.	.
+.	.	.	.	.	8ryy	.
+=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*M3/4	*
+4ryy	2GG#/	4ryy	2G#	.	2ryy	.
+4ryy	.	4ryy	.	.	.	.
+4ryy	2GG#/	4ryy	2G#	.	8ryy	.
+.	.	.	.	.	8ryy	.
+=-	=-	=-	=-	=	=	=
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+4ryy	2GG#/	4ryy	2G#	.	4ryy	.
+4ryy	.	4ryy	.	.	4ryy	.
+=-	=-	=-	=-	=	=	=
+*	*	*	*	*	*M4/4	*
+!	!	!	!	!	!LO:TX:t=P:problem:missing 4/4 time signature	!
+4ryy	1GG#/	4ryy	1G#	.	2ryy	.
+2ryy	.	2ryy	.	.	.	.
+.	.	.	.	.	4ryy	.
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5
+*	*	*	*	*	*M3/4	*
+4ryy	2GG#/	4ryy	2ryy	.	4ryy	.
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	.
+4ryy	2GG#/	4ryy	2ryy	.	4ryy	.
+=-	=-	=-	=-	=	=	=
+4ryy	.	4ryy	.	.	4ryy	.
+4ryy	2GG#/	4ryy	2ryy	.	4ryy	.
+4ryy	.	4ryy	.	.	8ryy	.
+.	.	.	.	.	8ryy	4ryy
+=-	=-	=-	=-	=	=	=
+*	*	*	*	*	*M4/4	*
+!	!	!	!	!	!LO:TX:t=P:problem:missing 4/4 time signature	!
+4ryy	1GG#/	4ryy	1ryy	.	2ryy	.
+2ryy	.	2ryy	.	.	.	4ryy
+.	.	.	.	.	4ryy	.
+4ryy	.	4ryy	.	.	4ryy	.
+*v	*v	*	*	*	*	*
+*		*v	*v	*	*	*
+=		=		=	=	=
+*-		*-		*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/10

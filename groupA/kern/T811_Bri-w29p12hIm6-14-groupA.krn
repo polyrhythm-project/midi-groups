@@ -1,0 +1,93 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T811_Bri-w29p12hIm6-14]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=I
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[half]=80	!
+!	!LO:DY:t=sempre %s	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:t=[ %s sempre e legato ]
+2CC#X	ppp	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+!	!	!	!	!	!	!LO:TX:t=P:problem:glissando	!
+.	.	4ryy	.	4ryy	.	4ryy	.
+(6BBB#X	.	8ryy	.	8ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.
+6CC#X	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	4ryy	.
+6DD#X	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+[1CC#X	.	2ryy	.	2ryy	.	4ryy	.
+.	.	.	.	.	.	4ryy	.
+!	!	!	!	!	!	!LO:TX:t=P:problem:glissando	!
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4CC#])	.	4ryy	4ryy	4ryy	4ryy	4ryy	.
+(4DD#X	<	8ryy	.	8ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.
+6EE	.	8ryy	.	8ryy	.	4ryy	4ryy
+.	.	8ryy	.	8ryy	.	.	.
+6FF#X	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:t=P:problem:glissando	!
+.	.	8ryy	.	8ryy	.	4ryy	4ryy
+6GG	[	.	.	.	.	.	.
+.	.	8ryy	4ryy	8ryy	4ryy	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:b:i:t=poco a poco più sonoro	!	!	!LO:DY:t=poco a poco più %s	!	!LO:DY:t=poco a poco più %s	!	!LO:DY:t=poco a poco più %s
+2.FF#X)	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+(4EE#X	.	8ryy	.	8ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!LO:TX:t=P:problem:glissando	!
+6FF#X	.	8ryy	.	8ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.
+6GG#X	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+6FF#)	.	.	.	.	.	.	.
+(6EE#X	.	8ryy	.	8ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.
+6FF#	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+6GG#	.	.	.	.	.	.	.
+!!linebreak:original
+=6	=6	=6	=6	=6	=6	=6	=6
+2.FF#X)	.	8ryy	.	8ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	.	.
+!	!	!	!	!	!	!LO:TX:t=P:problem:glissando	!
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+([4FF#	.	4ryy	.	4ryy	.	4ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4FF#]	.	4ryy	.	4ryy	.	4ryy	.
+8EE#XL	.	8ryy	.	8ryy	.	4ryy	.
+8FF#XJ	.	8ryy	.	8ryy	.	.	.
+8GG#XL	.	8ryy	.	8ryy	.	4ryy	.
+[8FF#J	.	8ryy	.	8ryy	.	.	.
+4FF#])	.	4ryy	.	4ryy	.	4ryy	.
+=8	=8	=8	=8	=8	=8	=8	=8
+(4EE#X	.	4ryy	.	4ryy	.	4ryy	.
+8FF#XL	<	8ryy	4ryy	8ryy	4ryy	4ryy	.
+8GG#XJ	.	8ryy	.	8ryy	.	.	.
+8AAL	.	8ryy	.	8ryy	.	4ryy	4ryy
+8BB	.	8ryy	.	8ryy	.	.	.
+8C	.	8ryy	.	8ryy	.	4ryy	4ryy
+8BBJ)	[	8ryy	4ryy	8ryy	4ryy	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+2.BB	mf	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	4ryy	.	4ryy	.	4ryy	.
+.	.	4ryy	.	4ryy	.	4ryy	.
+[4BB	.	4ryy	.	4ryy	.	4ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

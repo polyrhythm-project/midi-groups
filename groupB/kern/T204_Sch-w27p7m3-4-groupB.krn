@@ -1,0 +1,52 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T204_Sch-w27p7m3-4]
+**kern	**dynam	**text	**kern	**dynam	**text	**kern	**dynam	**text	**kern	**dynam	**text
+*grp:A	*	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*	*
+*part4	*	*part4	*part3	*	*part3	*part2	*	*part2	*part1	*	*part1
+*staff4	*	*staff4	*staff3	*	*staff3	*staff2	*	*staff2	*staff1	*	*staff1
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*
+*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
+*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
+*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*
+!!LO:REH:t=3
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[[quarter]=48]
+!	!LO:DY:t=[ %s ]	!	!	!LO:DY:t=[molto %s ]	!	!LO:TX:i:t=(3/8)	!LO:DY:rj:t=[ %s ]	!	!	!LO:DY:t=[ %s ]	!
+4ryy	4ryy	4ryy	8ryy	4ryy	4ryy	8.BnL	4ryy	4ryy	16ryy	4ryy	.
+.	.	.	.	.	.	.	.	.	16ryy	.	4ryy
+.	.	.	4ryy	.	.	.	.	.	8ryy	.	4ryy
+.	.	.	.	.	.	16cL	.	4ryy	.	.	.
+4ryy	.	4ryy	.	.	.	16A-X	.	4ryy	16ryy	.	.
+.	.	.	.	.	.	16B-XJJ	.	4ryy	16ryy	.	4ryy
+!	!	!	!	!	!	!LO:TX:i:t=(3/8)	!	!	!	!	!
+.	.	.	8ryy	.	4ryy	(4An	.	4ryy	16ryy	.	4ryy
+.	.	.	.	.	.	.	.	.	16ryy	.	4ryy
+8ryy	.	4ryy	8ryy	.	4ryy	.	.	.	4ryy	.	4ryy
+8ryy	.	4ryy	8ryy	.	4ryy	8c#X)	.	.	.	.	4ryy
+!!LO:REH:t=4
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4.ryy	.	4ryy	4.ryy	.	4ryy	4r	.	.	8ryy	.	4ryy
+!	!	!	!	!	!	!	!	!	!LO:T:a	!	!
+.	.	.	.	.	.	.	.	.	8ryy	.	4ryy
+!	!	!	!	!	!	!LO:TX:i:t=(3/8)	!	!	!	!	!
+.	.	.	.	.	.	8.r	.	.	16ryy	.	4ryy
+.	.	.	.	.	.	.	.	.	16ryy	.	4ryy
+8ryy	.	.	8ryy	.	4ryy	.	.	.	8ryy	.	4ryy
+.	.	.	.	.	.	16dnLL	.	4ryy	.	.	.
+8ryy	.	4ryy	8ryy	.	4ryy	16f#X	.	4ryy	16ryy	.	.
+.	.	.	.	.	.	16fnJJ	.	4ryy	16ryy	.	4ryy
+!	!	!	!	!	!	!LO:TX:i:t=(3/8)	!	!	!LO:S:b	!	!
+4ryy	.	4ryy	8ryy	.	4ryy	[4.g	.	4ryy	8ryy	.	4ryy
+.	.	.	4ryy	.	4ryy	.	.	.	8ryy	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:a	!	!
+8ryy	.	4ryy	.	.	.	.	.	.	8ryy	.	.
+*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED:Jason Lee
+!!!EEV:2021/11/22

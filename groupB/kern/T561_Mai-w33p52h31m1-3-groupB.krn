@@ -1,0 +1,95 @@
+!!!COM: Frank Martin
+!!!OTL: [T561_Mai-w33p52h31m1-3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"V. S.	*	*I"Trumpet [C]	*	*I"Bassoon	*	*I"Clarinet [C]	*	*I"Clarinet [C]	*	*I"Oboe	*	*I"Oboe	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*	*I'C Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Ob.	*
+!!pagebreak:original
+*clefC4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:DY:t=%s cresc.	!	!LO:DY:t=%s cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=176	!
+!LO:TX:b:t=[pizz.]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4%3ryy	.	4.bb 4.ddd#X	f	4%3ryy	.	4ryy	4ryy	4ryy	4ryy	4%3ryy	.	4%3ryy	.	4ryy	4ryy
+4ryy	.	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	.	4ryy	.
+.	.	.	.	.	.	.	.	.	8bb 8dddn	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	4ryy	.	.	.	8bbL 8ddd	.	.	.	4ryy	.	4ryy	.	.	.	.	.	4ryy	.
+.	.	.	.	.	.	.	.	.	8ddnJ 8bb	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:a:t=unis.	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
+4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	8r	.	4%3ryy	.	4ryy	.	4%3ryy	.	4ryy	4ryy	4ryy	4ryy	4%3ryy	.
+.	.	.	.	.	.	.	.	8bb 8ddd#X	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	(8ddd#L	4bb	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	8dddnJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	8bbL 8ddd	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	8bbJ 8eee#X	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=31
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	8r	.	4%3ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	.	.	.	.	.	.	8a 8aa	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	4.aa 4.ggg#X	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	8b-X 8aa	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!pagebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Sourdine	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	4aa 4ggg#X	.	4%3ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	8bn 8aa	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	4aa 4ggg#	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	8aa 8ggg#	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	8r	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	8cc#X 8aa#X	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Tp. I	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	4ryy	.	4ryy	.	8aa#L 8ggg#X	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	8cc#J 8aa#	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	[4aa# [4ggg#	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:b:i:t=cresc.	!	!LO:TX:a:B:t=Accel.	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Accel.	!
+4ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	8aa#L] 8ggg#]	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	32ryy	.	32ryy	.	32ryy	.	8ggg#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	32ryy	.	32ryy	.	32ryy	.	8bbbL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	32ryy	.	32ryy	.	32ryy	.	8aaanJ	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	32ryy	.	32ryy	.	32ryy	.	8ggg#L	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	32ryy	.	32ryy	.	32ryy	.	8fff#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*Xtremolo	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)]s5,s6[(s7)][(s8,s9)]s10,s11

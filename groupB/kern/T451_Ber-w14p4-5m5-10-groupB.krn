@@ -1,0 +1,192 @@
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: [T451_Ber-w14p4-5m5-10]
+**kern	**dynam	**kern		**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern		**dynam
+*grp:A	*grp:A	*grp:A		*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A		*grp:A	*grp:B		*grp:B
+*part16	*part16	*part15		*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part9	*part9	*part8	*part8	*part8	*part8	*part7	*part7	*part6	*part56	*part5	*part5	*part4	*part4	*part3	*part3	*part2		*part2	*part1		*part1
+*staff18	*	*staff17		*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2		*	*staff1		*
+*I"Contrabass	*	*I"Violoncello		*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Bass Drum	*	*I"Tam-tam	*	*I"Harp	*	*I"Harp	*	*I"Piano	*	*I"Piano	*	*I"Contrabassoon	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in A	*	*I"Clarinet in Bb	*	*I"Alto Saxophone	*	*I"Oboe		*	*I"Flute		*
+*I'Cb.	*	*I'Vc.		*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'B. D.	*	*I'T.-t.	*	*I'Hp.	*	*I'Hp.	*	*I'Pno.	*	*I'Pno.	*	*I'Cbsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Cl.	*	*I'Alto Sax.	*	*I'Ob.		*	*I'Fl.		*
+*	*	*		*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+*clefF4	*	*clefF4		*	*clefC3	*	*clefG2	*	*clefG2	*	*clefX	*	*clefX	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2		*	*clefG2		*
+*ITrd7c12	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*ITrd1c2	*	*ITrd2c3	*	*ITrd1c2	*	*ITrd5c9	*	*		*	*		*
+*k[]	*	*k[]		*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[f#c#g#]	*	*k[b-e-]	*	*k[b-e-a-]	*	*k[]		*	*k[]		*
+*	*	*		*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+*M4/4	*	*M4/4		*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4		*	*M4/4		*
+=5	=5	=5		=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5		=5	=5		=5
+!!LO:TX:t=[Sehr langsam [quarter]=36-44 (Anfangstempo)]
+!	!	!		!LO:DY:ed=brack	!LO:S:a	!LO:DY:ed=brack	!LO:S:a	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:t=P:problem: Cross-Measure beaming	!LO:DY:ed=brack	!	!	!	!	!	!	!		!	!		!
+1ryy	.	4.ryy	4ryy	4ryy	4ryy	4ryy	4ryy	1r	.	1ryy	.	1ryy	.	8r	.	1r	pp	2r	.	2r	.	8EEn	p >	>8EE	p <	1r	.	1r	.	1ryy	.	1ryy	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8FFnL	.	.	.	.	.	.	.	8FFn)j	.	8FFn	.	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	.	4ryy	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	8EE-X	.	.	.	.	.	.	.	8r	]	8EE-X	[ >	.	.	.	.	.	.	.	.	.	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xped	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!		!	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	8DDnJ)	.	.	.	.	.	.	.	(8DDn	<	8DDnJ)j	.	.	.	.	.	.	.	.	.	.	.
+.	.	2ryy	4ryy	2ryy	4ryy	2ryy	4ryy	.	.	.	.	.	.	2r	.	.	.	16r	.	16r	.	8EEnL	.	4r	]	.	.	.	.	.	.	.	.	.	.
+!	!	!		!LO:HP:t=di––mi–––nu–––en–––do–––	!	!LO:HP:t=di––mi–––nu–––en–––do–––	!	!LO:HP:t=di––mi–––nu–––en–––do–––	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	16c#XLL	.	(<16b-X'LL	mp	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16An	.	16a-X'	.	8FFn	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16enJJ	.	16gn'JJ)	.	.	[	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r'	.	8DDn	>	(>8DDnL	<	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=di––mi–––nu–––en–––do–––	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8c#X	.	(16fn'LL	>	8EEn	.	8EEX	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16e-X'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6		=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6		=6	=6		=6
+!	!	!		!	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+1ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	1r	.	1ryy	.	1ryy	.	(>8FFnL	.	1r	.	4r	.	16dn'	.	8FFnJ)	.	8FFn	.	1r	.	1r	.	1ryy	.	1ryy	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Bn'JJ)	.	.	]	.	[	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8EE-XJ	.	.	.	.	.	8r	.	8r	.	8EE-X	.	.	.	.	.	.	.	.	.	.	.
+.	.	4.ryy	4ryy	4.ryy	4ryy	4.ryy	4ryy	.	.	.	.	.	.	8DDn)	.	.	.	8.r	.	4r	.	(8DDnL	<	8DDnJ)	>	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	8EEnJ	.	8r	]	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16F#X'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	.	.	4r	.	.	.	16En'LL\	.	2r	.	8FFnL	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Cn'JJ)\	.	.	.	.	[	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4.ryy	.	4.ryy	.	4.ryy	.	.	.	.	.	.	.	.	.	.	.	16r'	.	.	.	8DDn	.	(>8DDnL	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:b:t=get.		!LO:HP:a	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	(>16GG#X`	.	.	.	.	>	.	<	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	8EEn`L	.	.	.	8EEn	.	8EE	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	(>8FFnL	.	.	.	8FFn`	.	.	.	8FFnJ)	]	8FFn	.	.	.	.	.	.	.	.	.	.	.
+=7	=7	=7		=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7		=7	=7		=7
+*	*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!	!	!LO:HP:a	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!LO:TX:a:B:t=calando - - - - - - - - - - - - - - - - - - - - - - 		!
+1ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	1r	.	4ryy	.	1ryy	.	8EE-X	.	1r	.	8EE-X`	.	1r	.	8r	.	8EE-X	[ >	1r	.	1r	.	1ryy	.	1ryy	.	1r	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	8DDnJ)	.	.	.	8DDn`J)	.	.	.	(8DDnL	<	8DDnJ)	.	.	.	.	.	.	.	.	.	.	.
+*	*	*tremolo	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!	!	!	!	!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	32ryy	32ryy	.	4ryy	4ryy	2.ryy	4ryy	.	.	2.ryy	4ryy	.	.	4r	.	.	.	8.r	.	.	.	8EEn	.	4r	]	.	.	.	.	.	.	.	.	.	.
+*	*	*	*tremolo	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!	!	!LO:HP:a	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	32ryy	32ryy	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8FFnJ	[	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:i:b:t=morendo . . . . . .	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16CCn'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	2r)yy	4ryy	.	4ryy	.	.	.	.	.	.	4r	.	.	.	16BBBn'LL	.	.	.	8DDnL	.	(>8DDnL	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	4ryy	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:HP:a	!	!	!LO:TX:i:b:t=poco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	32ryy	32ryy	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	16AAAn'	.	.	.	.	>	.	<	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+.	.	32ryy	32ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FFF#X'JJ)	.	.	.	8EEnJ	.	8EE	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	(>8FFnL	.	.	.	8r	.	.	.	8FFn)	]	8FFn	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	8EE-X	.	.	.	(8CCC#X'	.	.	.	8r	.	8EE-	[	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	>	.	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	4ryy	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*Xtremolo	*Xtremolo	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8		=8	=8		=8
+*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!LO:TX:b:rj:t=o.D.	!LO:DY:t=%s , ma espr.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s molto tranquillo	!	!	!	!	!		!	!LO:TX:a:B:t=a tempo		!
+8ryy	4ryy	8ryy	8ryy	4ryy	1ryy	.	8ryy	.	1r	.	1ryy	.	2ryy	4ryy	8DDnJ)	.	1r	.	8DDDn')	.	1r	.	1r	.	8DDnJ),	.	8EnL	p	16r	.	1ryy	.	1ryy	.	1r	.
+*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*Xneben	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s molto tranquillo	!	!	!		!	!		!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8GnX~>L	p	.	.	.	.	.	.
+*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!LO:TX:i:t=molto espr.	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s molto tranquillo	!	!	!	!	!	!	!		!	!		!
+4ryy	.	4ryy	4ryy	4ryy	.	.	8ryy	.	.	.	.	.	.	.	8r	.	.	.	8r	.	.	.	.	.	(8BB-X	p ]	16C#X'>L	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16C#~>JJ	.	[16An-~>XJk	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	4r	.	.	.	4r	.	.	.	.	.	16BB'>KL)	.	16C#KL]	.	16A-LL]	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8BB~>	.	8Dn~>	.	16Fn'>J	.	.	.	.	.	.	.
+8ryy	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8GnJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[/16Cn~>Jk	.	(>16EnJk	.	.	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*		*
+!	!	!LO:TX:t=zus.		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!		!
+4ryy	.	4ryy	.	.	.	2ryy	.	.	.	.	.	2ryy	.	2r	.	.	.	2r	.	.	.	.	.	/16CKL]	.	8C#XL	.	8A-XL)	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8BB-X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8DnJ),	.	16Fn'>L	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16BBJk	.	.	.	[16F~>JJ	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8CnL)	.	16En'>KL	.	16FKL]	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8E~>	.	8Gn~>	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	\16BB-X'L	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16Fn~JJ	.	[16C#X~>Jk	.	(>16A-XJk	.	.	.	.	.	.	.
+!!pagebreak:original
+=9	=9	=9		=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9		=9	=9		=9
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*^		*
+8ryy	4ryy	8ryy	.	8ryy	.	1ryy	.	4r	.	1ryy	.	1ryy	.	1r	.	1r	.	1r	.	1r	.	1r	.	16FKZL]	.	16C#ZLL]	.	8cnL	.	1ryy	.	1ryy	.	4r	1rB	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8Dn~	.	16E#X'>J	.	.	.	.	.	.	.	.	.	.
+*Xhaupt	*	*		*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*
+!	!	!		!	!	!LO:DY:t=%s , ma espr.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=	!	!	!	!		!	!	!	!
+8ryy	4ryy	8ryy	.	8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8AnJ	.	8e-XJ),	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16F#XJk	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=poco a poco cresc.	!	!LO:HP:t=poco a poco cresc.	!	!	!		!	!	!	!
+4ryy	.	4.ryy	.	4.ryy	.	.	.	8.r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8G#XL	.	8cL)	<	16e-X'>KL	<	.	.	.	.	8.r	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8f-X~>	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8AnJ),	.	16c'>L	.	.	.	.	.	.	.	.	.	.
+*	*	*		*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*neben	*	*
+!	!	!		!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!LO:TX:a:B:t=1.	!	!
+.	.	.	.	.	.	.	.	16dn	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16c~>JJ	.	[16e-X~>Jk	.	.	.	.	.	(16dn'	.	p
+!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=poco a poco cresc.	!	!	!	!	!	!	!		!	!	!	!
+2ryy	.	.	.	.	.	.	.	16enLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16G'KL	<	16cKL]	.	16e-LL]	.	.	.	.	.	16en'LL	.	.
+.	.	.	.	.	.	.	.	16fn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8An~	.	8B-~>X	.	16d-X'>J	.	.	.	.	.	16fn'	.	.
+!	!	!		!	!	!	!	!	!LO:TX:a:B:t=(poco appassionato)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!LO:TX:a:B:t=(poco appassionato)	!	!
+!	!	!		!LO:HP:t=poco a poco cresc.	!	!LO:HP:t=poco a poco cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!
+.	.	4ryy	4ryy	4ryy	4ryy	.	.	16gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8e-XJ	.	.	.	.	.	16gn'	.	.
+.	.	.	.	.	.	.	.	16anJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16A-X~Jk	.	([16cnJk	.	.	.	.	.	.	.	16an'JJ)	.	.
+.	.	.	.	.	.	.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A-KL]	.	8cL]	.	8eL)	.	.	.	.	.	4r	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X~	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8c#XJ),	.	16gn'>L	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16B-Jk	.	.	.	[>16g~>JJ	.	.	.	.	.	.	.	.
+=10	=10	=10		=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10		=10	=10	=10	=10
+1ryy	.	8ryy	.	8ryy	.	2ryy	.	16r	.	1ryy	.	1ryy	.	1r	.	1r	.	1r	.	1r	.	1r	.	8dnL)	.	16f'KL	.	\16gKL]	.	2ryy	.	4ryy	.	16raa	2rf	.
+!	!	!		!	!	!	!	!	!LO:TX:rj:t=(pizz.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!
+.	.	.	.	.	.	.	.	16b-XLL	mp	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8f~	.	8bX~	.	.	.	.	.	(16b-X'LL	.	mp
+!	!	!		!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!
+.	.	8ryy	4ryy	8ryy	4ryy	.	.	16dd-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B-X'L	.	.	.	.	.	.	.	.	.	16dd-X'	.	.
+.	.	.	.	.	.	.	.	16gg-XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16B-~JJ	.	[16c#X~Jk	.	(16gnJk	.	.	.	.	.	16gg-X'JJ	.	.
+.	.	8ryy	4ryy	8ryy	4ryy	.	.	8aa-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B-KL]	.	16c#LL]	.	8bnXL	.	.	.	8ryy	.	16aa-X')	.	.
+!	!	!		!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!	!
+.	.	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dn~	.	16fn'J	.	.	.	.	.	.	.	16rddd	.	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*	*
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*haupt	*	*	*	*haupt	*	*	*	*	*
+!	!	!		!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Ob.!	!	!LO:TX:t=Ob.!	!	!LO:TX:t=Ob.!	!	!	!	!	!	!	!	!	!
+.	.	8ryy	4ryy	8ryy	4ryy	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8g#X~J	.	(<8ccn~J)	.	.	.	8ryy	8ryy	4ryy	8rddd	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16eX~Jk	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!	!	!	!LO:TUP:xbr	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:xbr	!	!LO:DY:a
+.	.	4.ryy	4ryy	4.ryy	4ryy	8ryy	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8B-X~L	.	8f#X~L	.	8an~>L	.	4ryy	.	8ryy	8ryy	.	24rddd	8rb	mf
+!	!	!		!	!	!	!	!	!LO:TX:rj:t=(pizz.)	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	(24cccn`LL	mf <	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(24cccn'LL	.	.
+.	.	.	.	.	.	.	.	24ccc-X`J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ccc-X'	.	.
+!	!	!		!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	4ryy	.	4ryy	24ryy	.	24eee-X`L	[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8Gn~J	.	8dn~J)	.	8fn~>J)	.	.	.	8ryy	8ryy	4ryy	24eee-X'J	24r	.
+!	!	!		!	!	!	!LO:TX:rj:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:rj:b:B:t=2.	!LO:DY:b:rj
+.	.	.	.	.	.	24ryy	.	24dddn`	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dddn'L	24ff#X'LL	mf
+.	.	.	.	.	.	24ryy	.	24gg#X`JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	24gg#X'JJ	24cc#X'JJ	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*haupt	*	*	*	*	*
+!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Sax.!	!	!	!LO:DY:t=poco %s	!LO:TX:t=Sax! 1. Ob. allein	!	!	!	!	!
+.	.	.	4ryy	.	4ryy	24ryy	.	8an` 8een)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24GLL])	.	(8fX~L	.	(8dd-X~L	.	8ryy	4ryy	8ryy	4rGyy	.	16een')	16an'	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Sax.!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24B-X'	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.
+.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cn'J	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!
+.	.	8ryy	4ryy	8ryy	4ryy	24ryy	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8gn~J	.	24Bn~L)	.	24b-~L)	.	8ryy	.	8ryy	.	.	8r	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*		*
+.	.	.	.	.	.	24ryy	.	(>24an`LLi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24G#X'	.	24an'	.	.	.	.	.	.	.	.
+.	.	.	4ryy	.	4ryy	24ryy	.	24bn`JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24c#X'JJ	.	24bX'JJ	.	.	.	.	.	.	.	.
+*	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*		*
+=	=	=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=		=
+*-	*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-		*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][({(s8,s9)})][({(s10,s11)})][(s12,s13)][(s14,s15,s16,s17,s18)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: N = hairpin accent
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/30
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/05
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

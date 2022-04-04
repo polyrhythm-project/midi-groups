@@ -1,0 +1,179 @@
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violoncello
+!!!OMV: I: Nahandove
+!!!example: 299
+!!!work: Rav-32
+!!!OMD-full: Andante quasi allegretto
+!!!OMD: Andante quasi allegretto
+**kern	**text	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*
+*ICvox	*	*ICstr	*
+*Isoprn	*	*Icello	*
+*I"Soprano Solo	*	*I"Violoncello	*
+*I'S. Solo	*	*I'Vc.	*
+*clefG2	*	*clefF4	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M6/8	*	*M6/8	*
+=1	=1	=1	=1
+!	!	!LO:TX:t=[[eighth]=100]	!
+!	!	!LO:TX:a:t=Sordina	!LO:DY:t=%s espressivo
+4ryy	.	(16gLL	p
+!	!	!	!
+.	.	16fJ	.
+.	.	8d	.
+8ryy	.	8AJ)	.
+8ryy	.	(8.gL	.
+32ryy	4ryy	.	.
+16.ryy	4ryy	.	.
+.	.	16fL	.
+8ryy	4ryy	16d	.
+.	.	16AJJ)	.
+=2	=2	=2	=2
+8ryy	.	(8d	.
+8ryy	4ryy	4A)	.
+8ryy	4ryy	.	.
+8ryy	4ryy	(8dL	.
+8ryy	4ryy	8A)	.
+32ryy	4ryy	([8g^J	.
+16.ryy	4ryy	.	.
+=3	=3	=3	=3
+4.ryy	4ryy	16gLL]	.
+.	.	16fJ	.
+.	.	8d	.
+.	.	8AJ)	.
+8ryy	.	(8gL	.
+16ryy	4ryy	8.f)	.
+16ryy	4ryy	.	.
+16ryy	4ryy	.	.
+16ryy	4ryy	([16dJk	.
+=4	=4	=4	=4
+8ryy	4ryy	8d]	.
+8ryy	4ryy	4A)	.
+16ryy	4ryy	.	.
+16ryy	4ryy	.	.
+16ryy	4ryy	(8dL	.
+16ryy	4ryy	.	.
+16ryy	4ryy	8e)	.
+16ryy	4ryy	.	.
+32ryy	4ryy	([8dJ	.
+16.ryy	4ryy	.	.
+=5	=5	=5	=5
+*M2/4	*	*M2/4	*
+8ryy	4ryy	8d]	.
+8ryy	4ryy	4A)	.
+16ryy	4ryy	.	.
+16ryy	4ryy	.	.
+16ryy	4ryy	(8d	.
+16ryy	4ryy	.	.
+=6	=6	=6	=6
+*M6/8	*	*M6/8	*
+16ryy	4ryy	4e)	.
+16ryy	4ryy	.	.
+16ryy	4ryy	.	.
+16ryy	4ryy	.	.
+16ryy	4ryy	(8E	.
+16ryy	4ryy	.	.
+16ryy	4ryy	8AL	.
+16ryy	4ryy	.	.
+16ryy	4ryy	8d)	.
+16ryy	4ryy	.	.
+16ryy	4ryy	(8EJ	.
+16ryy	4ryy	.	.
+=7	=7	=7	=7
+4.ryy	4ryy	8AL	.
+.	.	8d)	.
+.	.	(8EJ	.
+8ryy	.	8AL)	.
+8ryy	.	(16dL	.
+.	.	16cJ)	.
+8ryy	.	8BJ	.
+=8	=8	=8	=8
+4ryy	.	8AL	.
+.	.	(16GL	.
+.	.	16EJ)	.
+8ryy	.	[8DJ	.
+8ryy	.	4.D_	.
+8ryy	4ryy	.	.
+8ryy	4ryy	.	.
+=9	=9	=9	=9
+*M9/8	*	*M9/8	*
+4ryy	4ryy	8DL]	.
+.	.	(8a^	.
+8ryy	4ryy	8gJ)	.
+8ryy	.	8dL	.
+8ryy	.	(16a^L	.
+.	.	16g)	.
+8ryy	4ryy	(16a	.
+.	.	16gJJ)	.
+8ryy	4ryy	(8.dL	.
+8ryy	4ryy	.	.
+.	.	16gk	.
+8ryy	4ryy	8eJ)	.
+=10	=10	=10	=10
+*M6/8	*	*M6/8	*
+4ryy	4ryy	(16BLL	.
+.	.	16cJ	.
+.	.	8d)	.
+32ryy	4ryy	([8f#X^J	.
+16.ryy	4ryy	.	.
+8ryy	4ryy	16f#LL]	.
+.	.	16eJ	.
+8ryy	4ryy	8c	.
+8ryy	4ryy	8GJ)	.
+=11	=11	=11	=11
+8ryy	4ryy	(8.f#XL	.
+8ryy	4ryy	.	.
+.	.	16eL	.
+32ryy	4ryy	16c	.
+16.ryy	4ryy	.	.
+.	.	16GJJ)	.
+4ryy	4ryy	(8cL	.
+.	.	8G	.
+8ryy	4ryy	8DJ)	.
+=12	=12	=12	=12
+8ryy	.	(16GLL	.
+.	.	16cJ	.
+16ryy	.	8d	.
+16ryy	4ryy	.	.
+16ryy	4ryy	8eJ)	.
+16ryy	4ryy	.	.
+8ryy	4ryy	(4g	.
+16ryy	4ryy	.	.
+16ryy	4ryy	.	.
+16ryy	4ryy	8e)	.
+16ryy	4ryy	.	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: s1,s2
+!!!Xfilter: slurcheck
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Solo
+!!!MCN:
+!!!MDT: 1926/06/13
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1926
+!!!MPN: Bathori, Jane
+!!!ODT: 1926
+!!!PDT: 1932
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:56
+!!!excerpt-duration-sec: 56
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 100
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

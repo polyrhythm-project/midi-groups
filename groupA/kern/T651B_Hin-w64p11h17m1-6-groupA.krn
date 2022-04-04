@@ -1,0 +1,55 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T651B_Hin-w64p11h17m1-6]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*part2	*	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Ivioln	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M5/8	*M5/8	*	*M5/8	*
+!!LO:REH:t=17
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[[eighth]=200]	!
+8FFFnL	8r	4ryy	8ryy	4ryy
+8r	8fL 8cc 8ff	.	8ryy	.
+8AAA-X	8r	.	8ryy	.
+8r	8e-XJ 8b-X 8ee-X	.	8ryy	.
+8BBB-XJ	8r	.	8ryy	.
+=2	=2	=2	=2	=2
+8r	8d-XL 8a-X 8dd-X	.	4.ryy	.
+8CCL	8r	.	.	.
+8r	8c 8g 8cc	.	.	.
+8CC#XJ	8r	.	8ryy	.
+8r	8BnJ 8f#X 8bn	.	8ryy	.
+=3	=3	=3	=3	=3
+8DDL	8r	4ryy	8ryy	4ryy
+8r	8B-XL 8fn 8b-X	.	8ryy	.
+8EE-X	8r	.	8ryy	.
+8r	8A-XJ 8e-X 8a-X	.	8ryy	.
+8FFJ	8r	.	8ryy	.
+=4	=4	=4	=4	=4
+8r	8GL 8d 8g	.	4.ryy	.
+8FF#X	8r	.	.	.
+4.r	8F#XJ 8c#X 8f#X	.	.	.
+.	4r	4ryy	8ryy	.
+.	.	.	8ryy	4ryy
+=5	=5	=5	=5	=5
+8AAA-XL	8FnL 8fn	.	8ryy	.
+8r	8r	.	8ryy	.
+8BBB-X	8F 8e-X 8f	.	8ryy	.
+8r	8r	.	8ryy	4ryy
+8CCJ	8FJ 8d 8f	4ryy	8ryy	.
+=6	=6	=6	=6	=6
+8r	8r	.	8ryy	.
+8DD-XL	8A-XL 8d-X 8a-X	.	8ryy	.
+8r	8r	.	8ryy	.
+8EE-XJ	8FJ 8c 8f	.	8ryy	.
+8r	8r	4ryy	8ryy	4ryy
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]

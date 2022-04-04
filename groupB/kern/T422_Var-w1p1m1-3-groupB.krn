@@ -1,0 +1,88 @@
+!!!COM: Edgard [Edgar] (Victor Achille Charles) Varèse
+!!!OTL: [T422_Var-w1p1m1-3]
+**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff5	*staff5/6	*staff4	*staff3	*staff3/4	*staff2	*staff2	*staff1	*staff1
+*I"Harp 2	*I"Harp 2	*I"Harp 2	*I"Harp 1	*I"Harp 1	*I"Harp 1	*I"3 Bassoons	*I"3 Bassoons	*I"Alto Flute (in G)	*I"Alto Flute (in G)
+*I'Hp.	*	*	*I'Hp.	*	*	*I'Bsn.	*	*I'G Fl.	*
+*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefC4	*	*clefG2	*
+*	*	*	*	*	*	*	*	*ITrd3c5	*
+*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[f#]	*
+*	*	*	*	*	*	*	*	*	*
+*M6/4	*M6/4	*	*M6/4	*M6/4	*	*M6/4	*	*M6/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:b:t=* Timpanic sounds - the right hand strikes the most sonorous partof the sounding board with the tip of the 3rd finger. The left hand plays normally.	!	!	!	!	!	!	!	!LO:TX:t=Moderato poco lento ([quarter]=60)	!
+2%3ryy	2%3ryy	.	2%3ryy	2%3ryy	.	2%3r	.	([2b	mf
+.	.	.	.	.	.	.	.	16bLL>]	.
+.	.	.	.	.	.	.	.	32cL	.
+.	.	.	.	.	.	.	.	32gJJ	.
+.	.	.	.	.	.	.	.	8cJ	.
+.	.	.	.	.	.	.	.	12dL	.
+.	.	.	.	.	.	.	.	12A	.
+.	.	.	.	.	.	.	.	[12eJ	.
+!	!	!	!	!	!	!	!	!LO:TX:a:i:t=rall.	!
+.	.	.	.	.	.	.	.	2e_	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M5/4	*M5/4	*	*M5/4	*M5/4	*	*M5/4	*	*M5/4	*
+!	!LO:TX:a:t=*	!	!	!LO:TX:a:t=*	!	!	!	!LO:TX:a:i:t=a tempo	!
+4ryy	4ryy	4ryy	4ryy	4ryy	.	4%5r	.	16.eLL])	.
+.	.	.	.	.	.	.	.	32rJ	.
+.	.	.	.	.	.	.	.	([8bJ	.
+*	*head:dia	*	*	*head:dia	*	*	*	*	*
+!	!LO:TX:a:t=T	!	!	!LO:TX:a:t=T	!	!	!	!	!
+16ryy	16ryy	.	16ryy	16ryy	4ryy	.	.	4b_	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	16bLL>]	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	32cL	.
+.	.	.	.	.	.	.	.	32gJJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	8cJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	12dL	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	12A	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	[12eJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	4e_	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+!	!LO:TX:a:t=T	!	!	!LO:TX:a:t=T	!	!	!	!	!
+16ryy	16ryy	.	16ryy	16ryy	.	4r	.	16.eLL])	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	32rJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	([8bJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=1.	!	!	!
+!	!	!	!	!	!	!	!LO:DY:rj:t=incisif %s	!	!
+16ryy	16ryy	.	16ryy	16ryy	.	24fLL	p	4b_	.
+.	.	.	.	.	.	24f#X	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+.	.	.	.	.	.	24gJ	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	[8a-XJ	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	2a-]	.	16bLL>]	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	32cL	.
+.	.	.	.	.	.	.	.	32gJJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	8cJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	12dL	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	12A	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	[12eJ	.
+16ryy	16ryy	.	16ryy	16ryy	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2)][({(s3,s4)})][({(s5,s6)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/29
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/09

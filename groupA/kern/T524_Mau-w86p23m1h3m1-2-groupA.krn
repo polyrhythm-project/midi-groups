@@ -1,0 +1,73 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T524_Mau-w86p23m1h3m1-2]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[Andante [eighth]=144]	!
+!	!	!	!LO:DY:ed=brack	!	!	!	!
+(8e-XL	f	8ryy	4ryy	8ryy	4ryy	(8ccL	f
+8d')	.	8ryy	.	8ryy	.	8bn')	.
+*clefG2	*	*	*	*	*	*	*
+[8g^J	.	8ryy	.	8ryy	.	[8gg^J	.
+*	*	*clefC3	*	*	*	*	*
+4g]	.	16.ryy	.	16.ryy	.	4gg]	.
+.	.	32ryy	.	32ryy	.	.	.
+.	.	16.ryy	.	16.ryy	.	.	.
+.	.	32ryy	.	32ryy	.	.	.
+[8g	.	16.ryy	.	16.ryy	.	16.ggLL	.
+.	.	32ryy	.	32ryy	.	(32bJJk	.
+8gL]	.	16.ryy	.	16.ryy	.	8ddL)	.
+.	.	32ryy	.	32ryy	.	.	.
+(8.a	.	16.ryy	.	16.ryy	.	(8.aa	<
+.	.	32ryy	.	32ryy	.	.	.
+.	.	16.ryy	.	16.ryy	.	.	.
+16a-XJk)	.	.	.	.	.	16aa-XJk)	[
+.	.	32ryy	.	32ryy	.	.	.
+!!LO:REH:t=3
+=2	=2	=2	=2	=2	=2	=2	=2
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+4g	.	16.ryy	.	16.ryy	.	4gg	.
+.	.	32ryy	.	32ryy	.	.	.
+.	.	16.ryy	.	16.ryy	.	.	.
+.	.	32ryy	.	32ryy	.	.	.
+[8g#X	.	16.ryy	.	16.ryy	.	[8gg#X	.
+.	.	32ryy	.	32ryy	.	.	.
+16g#LL]	.	16.ryy	.	16.ryy	.	16gg#LL]	.
+(16aJ	.	.	.	.	.	(16aanyJ	.
+.	.	32ryy	.	32ryy	.	.	.
+8.b-X	.	16.ryy	.	16.ryy	.	8.bb-X	<
+.	.	32ryy	.	32ryy	.	.	.
+.	.	16.ryy	.	16.ryy	.	.	.
+16g#Jk)	.	.	.	.	.	16gg#Jk)	[
+.	.	32ryy	.	32ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4fn	.	16.ryy	.	16.ryy	.	4ffn	<
+.	.	32ryy	.	32ryy	.	.	.
+.	.	16.ryy	.	16.ryy	.	.	.
+.	.	32ryy	.	32ryy	.	.	.
+(8d	.	16.ryy	.	16.ryy	.	[8bb-X^	[
+.	.	32ryy	.	32ryy	.	.	.
+4b-X)	.	16.ryy	.	16.ryy	.	8bb-L]	.
+.	.	32ryy	.	32ryy	.	.	.
+.	.	16.ryy	.	16.ryy	.	(8.ccc	.
+.	.	32ryy	.	32ryy	.	.	.
+(8fi	.	16.ryy	.	16.ryy	.	.	.
+.	.	.	.	.	.	16bb-Jk)	.
+.	.	32ryy	.	32ryy	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: Z = editorial accidental, bracket
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/16

@@ -1,0 +1,60 @@
+!!!COM: Ives, Charles
+!!!OTL: [T054_Ive-w21m4-8]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Pno.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=43]	!
+!	!	!	!	!	!	!	!	!	!	!
+4E 4G	4A-X 4B	f	4e	f	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy
+.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.
+4F 4G	4B-X 4d-X	.	4f	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+4C 4E	4G	.	4d-X	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	8.ryy	.	8.ryy	.	8.ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+3E 3G	3A-X 3B	.	3e	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+3F 3G	3B-X 3d-X	.	3f	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+3C 3E	3G	.	3d-X	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+4G	4A-X 4c	.	4dn	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.
+4G	4B 4c	.	4en	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+4E-X 4G	4An	.	4cn	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	.	8.ryy	.	8.ryy	.	8.ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+3En 3F	3A-X 3c	.	3d	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+3F#X 3G	3B 3c	.	3e	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+3D-X 3E-X	3G 3An	.	3c	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+3C 3E	3A-X 3B-X 3c	<	3d	<	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+3D 3F#X	3G 3Bn 3c	.	3e	.	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+3BB-X 3D-X	3G 3B 3c	[	3c	[	.	.	.	.	.	.
+.	.	.	.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/1

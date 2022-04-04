@@ -1,0 +1,82 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T787_Mes-w27p16h19m2-3]
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*staff8	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*part1
+*I"1st Violin Solo	*I"1st Violin Solo	*I"Piano Solo	*I"Piano Solo	*I"Piano Solo	*I"Xylophone	*I"Xylophone	*I"Celesta	*I"Celesta	*I"Glockenspiel	*I"Glockenspiel	*I"2nd Flute	*I"2nd Flute	*I"1st Flute	*I"1st Flute
+*I'Vln.	*	*I'Pno.	*	*	*I'Xyl.	*	*I'Cel.	*	*I'Glock.	*	*I'Fl.	*	*I'Fl.	*
+!!pagebreak:original
+*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*ITrd-7c-12	*	*ITrd-7c-12	*	*ITrd-7c-12	*	*	*	*	*
+*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=[eighth]=116	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=[eighth]=116	!LO:DY:ed=brack
+8ryy	.	32ryy	32ryy	4ryy	2r	.	16ryy	.	16ryy	4ryy	(16aanLL	f	16cccn'	ff
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=(effet&colon; 1 8ve plus haut)	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	(8qfff#X/	.	((8qaa/	.
+!	!	!	!	!	!	!	!LO:TX:a:t=Rouge - gorge	!LO:DY:rj:a	!	!	!	!	!	!
+.	.	16ryy	16ryy	.	.	.	32ryy	4ryy	32ryy	.	16cccn^)	.	16eee^LL)	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+!	!	!	!	!	!LO:TX:a:t=Rouge-queue de muraille	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	32ryy	32ryy	.	.	.	16ryy	.	32ryy	.	16ee-X	.	16ddd#X'JJ)	.
+.	.	16ryy	16ryy	.	.	.	.	.	32ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	(32qqaa/LLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	32qqeee/JJJ	.
+16ryy	.	.	.	.	.	.	32ryy	.	32ryy	.	16aaJJ)	.	16bbb-X')	.
+.	.	32ryy	32ryy	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+16ryy	4ryy	16ryy	16ryy	.	.	.	32ryy	.	32ryy	.	(16ggg#XLL	.	(16ccc#X^LL	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16ryy	16ryy	.	.	.	32ryy	.	16ryy	.	16dddnJJ)	.	16aaJJ)	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*
+.	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:TX:t=(sons réels)	!	!	!	!	!	!	!	!	!
+16ryy	.	16ryy	16ryy	.	.	.	32ryy	.	32ryy	.	8r	.	8r	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	32ryy	32ryy	.	8r	.	32ryy	.	32ryy	.	16r	.	16aa'LL	f
+.	.	32ryy	32ryy	.	.	.	32ryy	.	32ryy	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*
+.	.	32ryy	32ryy	.	.	.	16ryy	.	16ryy	.	16aa'LL	.	16ccc#X'	.
+.	.	32ryy	32ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8qaa/	.	.	.
+!	!	!	!	!	!	!LO:DY:t=%s (avec baguettes dures)	!	!	!	!	!	!	!	!
+32ryy	4ryy	16ryy	16ryy	.	16ffff#XLL	p	32ryy	.	8ryy	.	16aa'	.	16aa'	.
+32ryy	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	16fffnJJ	.	32ryy	.	.	.	16aa'JJ	.	16eee'JJ	.
+32ryy	.	32ryy	32ryy	.	.	.	32ryy	.	.	.	.	.	.	.
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	(8qggn/	.	.	.
+32ryy	.	32ryy	32ryy	.	[[64fffnLLLL	.	32ryy	.	16ryy	.	16aa')	.	16eee'LL	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	64fffn	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ryy	.	.	.	(8qddd#X/	.
+32ryy	.	32ryy	32ryy	.	64fffn	.	32ryy	.	16ryy	.	[16ggg#X~	.	16cc#X'JJ)	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	64fffn	.	32ryy	.	.	.	.	.	.	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.
+16ryy	.	32ryy	32ryy	.	64fffn	.	32ryy	.	16ryy	.	32ggg#KLL]	.	16cccn'LL	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+.	.	32ryy	32ryy	.	64fffn	.	32ryy	.	.	.	16.dddn~JJ	.	.	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	64fffn	.	32ryy	.	32ryy	.	.	.	16dddn'JJ	.
+.	.	.	.	.	64fffn	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	64fffn	.	32ryy	.	32ryy	.	.	.	.	.
+.	.	.	.	.	64fffnJJJJ	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtremolo	*	*	*	*	*	*X8va	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)]s4[(s5)][({(s6,s7)})][(s8)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

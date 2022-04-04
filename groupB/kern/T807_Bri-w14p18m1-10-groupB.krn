@@ -1,0 +1,119 @@
+!!!COM: (Edward) Benjamin Britten
+!!!OTL: [T1207_Bri-w14p112m1-10]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*staff1	*staff1
+*I"Contrabass (2 Desks)	*	*I"Violoncello (3 Desks)	*	*I"Viola (3 Desks)	*	*I"Violin I	*	*I"Voice	*	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Voice	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M2/4	*	*
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*
+!	!	!LO:TX:b:t=pizz. quasi chitarra	!	!LO:TX:a:t=pizz. quasi chitarra	!	!LO:TX:t=Allegretto, un pococ mosso, ([quarter]=58-62)	!	!LO:TX:t=Allegretto, un pococ mosso, ([quarter]=58-62)	!	!
+2rryy	.	12ryy	.	12ryy	.	2rr	.	2rr	.	.
+.	.	12ryy	4ryy	12ryy	4ryy	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2rryy	.	12ryy	.	12ryy	.	2rr	.	2rr	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	12r	.	12r	.	.
+!	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:t=Solo	!LO:DY:b:t=%s legato	!	!	!
+.	.	12ryy	.	12ryy	.	12f~vL	4ryy	12a	4ryy	.
+.	.	12ryy	.	12ryy	.	12d~J	.	12f	4ryy	.
+!LO:TX:a:t=pizz.	!LO:DY:b:t=%s (poco marcato)	!	!	!	!	!	!	!	!	!
+12ryy	4ryy	12ryy	.	12ryy	.	12.b-~L	.	24%3b-	4ryy	4ryy
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	12.f~J	.	24%3f	4ryy	4ryy
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:TX:b:i:t=sempre	!	!	!	!LO:TX:b:i:t=espress.	!	!	!	!
+12ryy	.	12ryy	.	12ryy	.	(12dd	4ryy	[2ff	4ryy	.
+!	!	!	!LO:DY:b:i:t=sempre %s	!	!LO:DY:b:i:t=sempre %s	!	!	!	!	!
+12ryy	.	24ryy	4ryy	24ryy	4ryy	6ff)	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	4ryy	.	.	.
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	(6ee-	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	24ryy	.	24ryy	.	12dd)	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	(12cc	4ryy	2ff_	.	.
+.	.	12ryy	.	12ryy	.	6ee-)	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	4ryy	.	.	.
+12ryy	.	12ryy	.	12ryy	.	(6dd	.	.	.	.
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryy	.	12ryy	.	12cc)	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!LO:TX:a:t=Solo	!	!	!	!
+12ryy	.	12ryy	.	12ryy	.	(12.b-~L	.	24%3ff]	.	.
+12ryy	.	24ryy	.	24ryy	.	.	.	.	.	.
+.	.	24ryy	.	24ryy	.	12.a~J)	.	24%3r	.	.
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	[4g~	.	24%3r	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:DY:a:t=%s leggiero
+.	.	.	.	.	.	.	.	24%3dd	4ryy	4ryy
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2rryy	.	12ryy	.	12ryy	.	12g]	.	12ff	4ryy	.
+.	.	12ryy	.	12ryy	.	12r	.	12dd	4ryy	.
+.	.	12ryy	.	12ryy	.	12r	.	12b-	4ryy	.
+.	.	12ryy	.	12ryy	.	12r	.	12dd	4ryy	.
+.	.	12ryy	.	12ryy	.	12r	.	12dd	4ryy	.
+!	!	!	!	!	!	!	!LO:DY:t=più %s	!	!	!
+.	.	12ryy	.	12ryy	.	12f~v	4ryy	12b-	4ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	12d~L	.	12dd	4ryy	.
+.	.	12ryy	.	12ryy	.	12b-~	.	12b-	4ryy	.
+.	.	12ryy	.	12ryy	.	12f~J	.	12f	4ryy	.
+12ryy	.	12ryy	.	12ryy	.	12.dd~L	.	12b-	4ryy	.
+12ryy	.	12ryy	.	12ryy	.	.	.	12f	4ryy	.
+.	.	.	.	.	.	12.b-~J	.	.	.	.
+12ryy	.	12ryy	.	12ryy	.	.	.	24d	4ryy	4ryy
+.	.	.	.	.	.	.	.	24d	4ryy	4ryy
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+12ryy	.	12ryy	.	12ryy	.	(12ff	4ryy	4.f	4ryy	4ryy
+12ryy	.	24ryy	.	24ryy	.	6aa-X)	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	4ryy	.	.	.
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	(6gg	.	.	.	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8f	4ryy	.
+.	.	24ryy	.	24ryy	.	12ff)	.	.	.	.
+.	.	24ryy	.	24ryy	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4ryy	.	12ryy	.	12ryy	.	(12ee-	4ryy	8r	.	.
+.	.	12ryy	.	12ryy	.	6gg)	.	.	.	.
+.	.	.	.	.	.	.	4ryy	8f	4ryy	.
+.	.	12ryy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryy	.	12ryy	.	(6ff	.	[4dd	4ryy	.
+12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryy	.	12ryy	.	12ee-)	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3,s4,s5)]
+!!!EED:Jason Lee
+!!!EEV:2022/01/27

@@ -1,0 +1,98 @@
+!!!COM: Gershwin, George
+!!!OTL: Rhapsody in Blue for Orchestra
+!!!OMV:
+!!!example: 688
+!!!work: Ger-3
+!!!OMD-full: Molto moderato
+!!!OMD: Con moto
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part10	*part10	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Banjo	*	*I"Alto Saxophone	*	*I"Tenor Saxophone [C]	*	*I"Alto Saxophone	*	*I"Piano	*	*	*	*I"Drums	*	*I"Horn in F III	*	*I"Horns in F I,II	*	*I"Bassoons I,II	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb II	*	*I"Clarinet in Bb I	*	*I"Oboes I,II	*	*I"Flutes I,II	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Ban.	*	*I'Alto Sax.	*	*I'Ten. Sax.	*	*I'Alto Sax.	*	*I'Pno.	*	*	*	*I'Dr.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ibanjo	*	*IsaxA	*	*IsaxT	*	*IsaxA	*	*Ipiano	*	*Ipiano	*	*Isdrum	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefX	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd5c9	*	*	*	*ITrd5c9	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*C:	*	*F:	*	*F:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=14
+=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=72]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Con moto	!
+!	!	!	!	!	!	!LO:TX:a:B:t=Con moto	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=On shell of S.D.	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!LO:TX:a:t=a 2	!
+!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!	!	!	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s marcato
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	4G^ 4d	f	4B^ 4g	f	4g^ 4dd 4bb	f	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8GGL	.	2r	pp	4Ree\	f	4d^	f	4BX^ 4g	f	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8D	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	4G^ 4d	.	4B^ 4g	.	4g^ 4dd 4bb	.	8ryy	.	8ryy	.	8ryy	.	8G	.	.	.	4Ree\	.	4d^	.	4B^ 4g	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8BJ	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	4G^ 4d	.	4B^ 4g	.	4g^ 4dd 4bb	.	8ryy	.	8ryy	.	8ryy	.	4d	.	4r	.	4Ree\	.	4d^	.	4B^ 4g	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	4G^ 4d	.	4B^ 4g	.	4g^ 4dd 4bb	.	8ryy	.	8ryy	.	8ryy	.	4d 4g 4b	.	4dd 4gg 4bb 4ddd	.	4Ree\	.	4d^	.	4B^ 4g	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
+*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*grp:B	*grp:B	*	*	*	*	*	*	*	*
+(16qqDD/LL	.	(16qqD/LL	.	.	.	.	.	.	.	(16qqD/LL	.	(16qqD/LL	.	(16qqD/LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16qqEE/JJ	.	16qqE/JJ	.	.	.	.	.	.	.	16qqE/JJ	.	16qqE/JJ	.	16qqE/JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16qqD/LL	.	(16qqD/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqE/JJ	.	16qqE/JJ	.	.	.	.	.	.	.	.	.
+2FF^)	.	2Fn^)	.	4d^ 4fn	.	4B^ 4g#X	.	4g#X^ 4dd 4bb	.	2F^)	.	2F^)	.	2F^)	.	8GG#XL	.	2r	.	4Ree\	.	4d^	.	4BX^ 4g#X	.	2Fn^)	.	2F^)	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8D	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	4d^ 4f	.	4B^ 4g#	.	4g#^ 4dd 4bb	.	.	.	.	.	.	.	8Fn	.	.	.	4Ree\	.	4d^	.	4B^ 4g#	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8BnJ	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+(8EE^	.	(8E^	.	4d^ 4f	.	4B^ 4g#	.	4g#^ 4dd 4bb	.	(8E^	.	(8E^	.	(8E^	.	4d	.	4r	.	4Ree\	.	4d^	.	4B^ 4g#	.	(8E^	.	(8E^	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4.DD)	.	4.D)	.	.	.	.	.	.	.	4.D)	.	4.D)	.	4.D)	.	.	.	.	.	.	.	.	.	.	.	4.D)	.	4.D)	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4d^ 4f	.	4B^ 4g#	.	4g#^ 4dd 4bb	.	.	.	.	.	.	.	4d 4fn 4g#X 4b	.	4dd 4ffn 4gg#X 4ddd	.	4Ree\	.	4fn^	.	4B^ 4g#	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+6AAA^	.	6AA^	.	4d^ 4f#X	.	4c^ 4a	.	4d^ 4a 4ff#X 4ccc	.	6A^	.	6AA^	.	6A^	.	8AAL	.	2r	.	4Ree\	.	4d^	.	4A^ 4f#X	.	6AA^	.	6AA^	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8D	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+6BBB^	.	6BB^	.	.	.	.	.	.	.	6B^	.	6BB^	.	6B^	.	.	.	.	.	.	.	.	.	.	.	6BB^	.	6BB^	.	.	.	.	.	.	.	.	.
+.	.	.	.	4d^ 4f#	.	4c^ 4a	.	4d^ 4a 4ff# 4ccc	.	.	.	.	.	.	.	8F#X	.	.	.	4Ree\	.	4c^	.	4A^ 4f#	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+6AAA^	.	6AA^	.	.	.	.	.	.	.	6A^	.	6AA^	.	6A^	.	.	.	.	.	.	.	.	.	.	.	6AA^	.	6AA^	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cJ	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[2CC^	.	[2C^	.	4d^ 4f#	.	4c^ 4a	.	4d^ 4a 4ff# 4ccc	.	[2c^	.	[2C^	.	[2c^	.	4d	.	4r	.	4Ree\	.	4d^	.	4A^ 4f#	.	[2C^	.	[2C^	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4d^ 4f#	.	4c^ 4a	.	4d^ 4a 4ff# 4ccc	.	.	.	.	.	.	.	4c 4f#X 4a	.	4dd 4ff#X 4aa 4ddd	.	4Ree\	.	4d^	.	4A^ 4f#	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8)][(s9)][({(s10,s11)})][(s12,s13,s14,s15)][(s16,s17,s18,s19)]
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Orchestral; Concerto
+!!!MCN: Whiteman, Paul
+!!!MDT: 1924/02/12
+!!!MGN: Paul Whiteman Band
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN: Gerschwin, George
+!!!ODT: 1924
+!!!PDT: 1924
+!!!excerpt-start-measure: 138
+!!!excerpt-end-measure: 140
+!!!excerpt-start-time: 5:41
+!!!excerpt-end-time: 5:46
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 2/2
+!!!excerpt-tempo-beat: {half}
+!!!excerpt-tempo-rate: {72}
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

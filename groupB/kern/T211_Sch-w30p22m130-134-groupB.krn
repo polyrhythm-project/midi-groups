@@ -1,0 +1,87 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T211_Sch-w30p22m130-134]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"1 Solo Contrabass	*	*I"2 Solo Violoncello	*	*I"1 Solo Viola	*	*I"Tambourine	*	*I"Mandolin	*	*I"Celesta	*	*I"Horn in F	*	*I"Bassoon 1	*	*I"Flute 1	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Tamb.	*	*I'Mand.	*	*I'Cel.	*	*I'Hn.	*	*I'Bsn.	*	*I'Fl.	*
+!!pagebreak:original
+*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefX	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*C:	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=144	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=gracioso	!
+!	!	!	!	!LO:TX:b:i:t=poco espressivo ma dolce	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=IV. Variation	!
+!LO:TX:a:t=pizz	!	!	!	!LO:TX:a:t=m Dpf	!	!LO:TX:t=[quarter]=144	!	!LO:TX:b:i:t=begleitend	!	!LO:TX:b:i:t=begleitend	!	!LO:TX:b:i:t=begleitend	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	2ryy	4ryy	4r	.	4r	.	4r	.	4r	.	8ryy	.	4.ryy	4ryy
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	4ryy	.	.
+8ryy	.	8ryy	.	.	.	4r	.	4r	.	4r	.	4r	.	8ryy	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!LO:DY:t=molto %s	!	!	!	!LO:DY:rj	!LO:TX:a:t=Flng	!	!	!	!	!
+8ryy	4ryy	8ryy	.	4ryy	.	8Re/L	p	16b-XLL	p	4b-XN	p	16b-LLo	p	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	16b-	.	.	.	16b-	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8Re/J	.	16b-	.	.	.	16b-	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	16b-JJ	.	.	.	16b-JJ	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!
+8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	4ryy	.
+!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!	!	!
+8ryy	.	8ryy	.	16ryy	.	8Re/L	.	16enLL	.	[8en	<	16eLLo	.	8ryy	.	.	.
+.	.	.	.	16ryy	.	.	.	16e	.	.	[>	16e	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8Re/J	.	16e	.	8e]	]	16e	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	16eJJ	.	.	.	16eJJ	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	4ryy	.
+8ryy	.	8ryy	.	16ryy	.	8Re/	.	16f#XLL	.	[8f#XL	<	16f#XLLo	.	8ryy	.	.	.
+.	.	.	.	16ryy	.	.	.	16f#	.	.	[>	16f#	.	.	.	.	.
+!!pagebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	.	16ryy	.	8Re/	.	16f#X	.	8f#J]	]	16f#X	.	8ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	16f#JJ	.	.	.	16f#JJ	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.	8r	]	8r	.	8ryy	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.
+4r'yy	.	8ryy	.	8ryy	.	4r	.	4r	.	4r	.	4r	.	8ryy	.	4.ryy	.
+.	.	8ryy	.	16ryy	.	.	.	.	.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	4ryy	.	8Re/L	.	16e-XLL	.	4e-XN	.	16e-XLLo	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	16e-	.	.	.	16e-	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	8Re/J	.	16e-	.	.	.	16e-	.	.	.	8ryy	4ryy
+.	.	.	.	.	.	.	.	16e-JJ	.	.	.	16e-JJ	.	.	.	.	.
+*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8ryy	.	8ryy	.	8ryy	.	8Re/L	.	16fnLL	.	4fnN	.	16fLLo	.	8ryy	.	4ryy	4ryy
+.	.	.	.	.	.	.	.	16f	.	.	.	16f	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8Re/J	.	16f	.	.	.	16f	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	16fJJ	.	.	.	16fJJ	.	.	.	.	.
+4ryy	.	8ryy	.	8ryy	.	4r	.	4r	.	4r	] ]	4r	.	8ryy	.	2ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=/	!	!	!
+.	.	8ryy	.	16ryy	.	.	.	.	.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	4ryy	8r	.	8r	.	8r	.	8r	.	8ryy	.	.	.
+8ryy	.	8ryy	.	16ryy	.	8Re/L	.	16anLL	.	[8anL	<	16aLLo	.	8ryy	.	.	.
+.	.	.	.	16ryy	.	.	.	16a	.	.	[>	16a	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=/	!	!LO:TX:t=/	!
+8ryy	.	8ryy	.	8ryy	4ryy	8Re/J	.	16an	.	8aJ]	]	16a	.	8ryy	.	8ryy	4ryy
+.	.	.	.	.	.	.	.	16aJJ	.	.	.	16aJJ	.	.	.	.	.
+8ryy	.	8ryy	.	16ryy	4ryy	8r	.	8r	.	4r	]	8r	.	8ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=⏑	!	!LO:TX:t=⏑	!
+8ryy	.	8ryy	.	8ryy	.	8r	.	8r	.	.	.	8r	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=/	!	!LO:TX:t=/	!
+8ryy	.	8ryy	.	16ryy	.	8Re/L	.	16dnLL	.	[8dnL	<	16dLLo	.	8ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	16d	.	.	[>	16d	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=⏑	!	!LO:TX:t=⏑	!
+8ryy	.	8ryy	.	8ryy	4ryy	8Re/J	.	16d	.	8dJ]	]	16d	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	16dJJ	.	.	.	16dJJ	.	.	.	.	.
+8ryy	.	8ryy	.	16ryy	.	8r	.	8r	.	8r	]	8r	.	8ryy	.	8ryy	.
+.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5)][(s6)][(s7,s8,s9)]
+!!!RDF**kern: N = hairpin accent

@@ -1,0 +1,66 @@
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: [T272_Rav-w8p4m33-35]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefG2	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*D-:	*D-:	*
+*M6/8	*M6/8	*
+!!LO:REH:t=33
+=1	=1	=1
+*^	*	*
+!!LO:TX:t=[Très léger ([quarter]=128 environ)]
+!	!	!LO:TX:a:i:t=poco rubato	!
+16ryy	4ryy	(8ee-^L	4ryy
+16ryy	.	.	.
+16ryy	.	8an	.
+16ryy	.	.	.
+16ryy	4ryy	8b-)J	.
+16ryy	.	.	.
+16ryy	.	(8gg-^L	.
+16ryy	.	.	.
+16ryy	4ryy	8ddn	.
+16ryy	.	.	.
+16ryy	.	8ee-)J	.
+16ryy	.	.	.
+=2	=2	=2	=2
+4ryy	16ryy	(8bb-^L	.
+.	16ryy	.	.
+.	16ryy	8ff	.
+.	16ryy	.	.
+16ryy@yy	16ryy	8gg-)J	.
+16ryy@yy	16ryy	.	.
+4ryy	16ryy	(8eee-^L	.
+.	16ryy	.	.
+.	16ryy	8aan	.
+.	16ryy	.	.
+!	!LO:TX:t=P:problem:cross-bar beaming	!	!
+8ryy	16ryy	8bb-)J	.
+.	16ryy	.	.
+*v	*v	*	*
+=3	=3	=3
+*	*8va	*
+*^	*	*
+16ryy@yy	16ryy	(8ggg-^L	.
+16ryy@yy	16ryy	.	.
+4ryy	16ryy	8dddn	.
+.	16ryy	.	.
+.	16ryy	8eee-)J	.
+.	16ryy	.	.
+4ryy	16ryy	(8bbb-^L	.
+.	16ryy	.	.
+.	16ryy	8fff	.
+.	16ryy	.	.
+16ryy@yy	16ryy	8ggg-)J	4ryy
+16ryy@yy	16ryy	.	.
+*	*	*X8va	*
+*v	*v	*	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/10/26

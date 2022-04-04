@@ -1,0 +1,70 @@
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Petya i volk (Peter and the Wolf), Symphonic Tale for Speaker and Orchestra, op. 67
+!!!OMV:
+!!!example: 572
+!!!work: Pro-32
+!!!OMD-full: Andantino
+!!!OMD: [Sostenuto]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part7	*	*part6	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Bassoon	*	*I"Clarinet [C]	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Bsn.	*	*I'Cl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ifagot	*	*Iclars	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*I	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559	=559
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+!LO:TX:a:t=[arco]	!LO:DY:ed=brack	!	!	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!LO:TX:a:t=[col legno]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8.ryy	4ryy	2ryy	.	4d#X 4b	p	4dd#X	p	4dd#X	p	8.ryy	4ryy	8d#X'L	mp
+.	.	.	.	.	.	.	.	.	.	.	.	8f#'J	.
+16ryy	.	.	.	.	.	.	.	.	.	16ryy	.	.	.
+8ryy	.	.	.	4G#X 4e	.	4B	.	4B	.	8ryy	.	[4e^	.
+8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	.	.
+!	!	!LO:TX:a:t=(pizz.)	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	12ryy	4ryy	4g#X 4ee	.	4b 4ee	.	4b 4ee	.	12ryy	.	8eL]	.
+.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	(8d#i	.
+.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.
+4ryy	.	12ryy	.	4B	.	4B	.	4G#X 4f#	.	12ryy	.	8f#	.
+.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8eJ	.
+.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
+!!!Xfilter: slurcheck
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Stage; Theatrical
+!!!MCN: Prokofiev, Sergei
+!!!MDT: 1936/05/02
+!!!MGN: Moscow Philharmonic
+!!!MLC: Moscow, Russia
+!!!MPD: 1936
+!!!MPN: Satz, Natalia
+!!!ODT: 1936
+!!!PDT: 1937
+!!!excerpt-start-measure: 559
+!!!excerpt-end-measure: 559
+!!!excerpt-start-time: 24:36
+!!!excerpt-end-time: 24:39
+!!!excerpt-duration-sec: 3
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [100]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

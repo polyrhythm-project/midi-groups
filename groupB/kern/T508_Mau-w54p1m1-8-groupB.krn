@@ -1,0 +1,86 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T508_Mau-w54p1m1-8]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Bassoon	*	*I"Clarinet in C	*	*I"Oboe	*
+*I'Bsn.	*	*I'Cl.	*	*I'Ob.	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*M3/8	*	*M3/8	*	*M3/8	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:a:B:t=Allegro moderato
+!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming	!
+8ryy	.	8%3ryy	.	(16b-XLL/	p
+.	.	.	.	16fJ	.
+8ryy	4ryy	.	.	8b-'J)/	.
+8ryy	.	.	.	(16b-LL/	<
+.	.	.	.	16fJ	[[
+=2	=2	=2	=2	=2	=2
+!LO:TX:t=P:problem:cross-bar beaming	!	!	!	!	!
+16ryy	4ryy	8%3ryy	.	16b-XL/	>
+16ryy	.	.	.	16eJ	.
+8ryy	4ryy	.	.	8b-'J)/	]
+16ryy	.	.	.	(24b-LL/	.
+.	.	.	.	24a	.
+16ryy	.	.	.	.	.
+.	.	.	.	24gJ	.
+=3	=3	=3	=3	=3	=3
+!	!	!LO:TX:t=P:problem:cross-bar beaming	!	!	!
+16ryy	4ryy	16ryy	4ryy	8b-X'J)/	.
+16ryy	.	16ryy	.	.	.
+16ryy	.	16ryy	.	(>16b-LL/	.
+16ryy	.	16ryy	.	16g-	<
+8ryy	4ryy	16ryy	4ryy	16b-/	.
+.	.	16ryy	.	16fJ	[ >
+=4	=4	=4	=4	=4	=4
+!	!LO:DY:t=poco %s	!	!	!	!
+16ryy	4ryy	8ryy	4ryy	8b-'XJ)/	]
+16ryy	.	.	.	.	.
+!	!	!	!LO:DY:t=poco %s	!	!
+16ryy	.	16ryy	4ryy	(<16b-LL/	.
+!	!	!	!	!	!LO:HP:a
+16ryy	4ryy	16ryy	.	16e-XJ	<
+16ryy	.	8ryy	.	16b-L	.
+16ryy	4ryy	.	.	16ccJJ	[[
+!!linebreak:original
+=5	=5	=5	=5	=5	=5
+8ryy	.	16ryy	.	16gLL	.
+.	.	16ryy	.	16b-XJ	.
+16ryy	.	16ryy	.	8f'J)	<
+16ryy	.	16ryy	4ryy	.	.
+16ryy	.	8ryy	.	(<16b-LL/	.
+16ryy	4ryy	.	4ryy	16ccJ	[[
+=6	=6	=6	=6	=6	=6
+16ryy	.	16ryy	.	8g'>J)	mf
+16ryy	4ryy	16ryy	.	.	.
+8ryy	.	8ryy	.	(16b-XLL	.
+.	.	.	.	16bnJ	<
+.	.	.	.	(<8qcc/	[
+16ryy	4ryy	16ryy	4ryy	[8bb-X^J))	.
+16ryy	.	16ryy	.	.	.
+=7	=7	=7	=7	=7	=7
+16ryy	.	16ryy	.	8bb-]	.
+16ryy	.	16ryy	.	.	.
+4ryy	.	16ryy	.	(8b-XL	<
+.	.	16ryy	.	.	.
+.	.	.	.	(<8qcc/	[
+.	.	16ryy	.	[8bb-XJ))	.
+.	.	16ryy	.	.	.
+=8	=8	=8	=8	=8	=8
+16ryy	.	16ryy	.	8bb-L]	.
+16ryy	4ryy	16ryy	.	.	.
+16ryy	4ryy	16ryy	4ryy	8b-X'J	<
+16ryy	4ryy	16ryy	.	.	.
+.	.	.	.	(<8qcc/	[
+8ryy	4ryy	8ryy	4ryy	[8bb-X)	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/08

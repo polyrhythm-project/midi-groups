@@ -1,0 +1,68 @@
+!!!COM: Aaron Copland
+!!!OTL: [T723_Cop-w41p51m1h71m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part8	*part 8	*part7	*part 8	*part6	*part 8	*part5	*part 8	*part4	*part 8	*part3	*part 8	*part2	*part 8	*part1	*part 8
+*staff8	*staff 8	*staff7	*staff 8	*staff6	*staff 8	*staff5	*staff 8	*staff4	*staff 8	*staff3	*staff 8	*staff2	*staff 8	*staff1	*staff 8
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Percussion	*	*I"Trombone	*	*I"Horn 1 in F	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Perc.	*	*I'Tbn.	*	*I'Hn.	*
+*	*	*	*	*	*	*	*	*	*	*stria4	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefX	*	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[]	*	*k[f#c#g#d#]	*	*k[b-]	*
+*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*C:	*	*E:	*	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=144]	!
+!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack	!LO:TX:b:t=[secco]	!LO:DY:ed=brack
+!LO:TX:a:t=[at the frog]	!	!LO:TX:a:t=[at the frog]	!	!LO:TX:a:t=[at the frog]	!	!LO:TX:a:t=[at the frog]	!	!LO:TX:a:t=[at the frog]	!	!LO:TX:a:t=4 Temple Blocks	!	!LO:TX:a:t=[con sord.]	!	!LO:TX:a:t=[con sord.]	!
+4r	p	4r	p	4r	p	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	2r	p
+.	.	.	.	.	.	8ryy	.	8ryy	.	8rddyy	.	8ryy	.	.	.
+8r	.	8r	.	8r	.	4ryy	.	4ryy	.	8ryy	.	4ryy	.	.	.
+(16CC#uLL	.	(16CC#uLL 16C#	.	(16C#uLL	.	.	.	.	.	8rddyy	.	.	.	.	.
+16DD#JJ	.	16DD#JJ 16D#	.	16D#JJ	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=71
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8EE')	.	8EE' 8E)	.	8E')	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8E'	.
+8r	.	8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.
+8r	.	8r	.	8r	.	4ryy	.	4ryy	.	8rddyy	.	4ryy	.	8r	.
+8FF#'v	.	8FF#'v 8F#	.	8F#'v	.	.	.	.	.	8ryy	.	.	.	8F#X'	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4r	.	4r	.	4r	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	4r	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	8rddyy	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.
+8r	.	8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CC#'u	.	8CC#'u 8C#	.	8C#'u	.	8ryy	.	8ryy	.	8rddyy	.	8ryy	.	8C#X'	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	4r	.	4r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	2r	.
+.	.	.	.	.	.	8ryy	.	8ryy	.	8rddyy	.	8ryy	.	.	.
+8r	.	8r	.	8r	.	4ryy	.	4ryy	.	8ryy	.	4ryy	.	.	.
+(16CC#LL	.	(16CC#LL 16C#	.	(16C#LL	.	.	.	.	.	8ryy	.	.	.	.	.
+16DD#JJ	.	16DD#JJ 16D#	.	16D#JJ	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+16EELL	.	16EELL 16E	.	16ELL	.	8ryy	.	8ryy	.	8rddyy	.	8ryy	.	(16ELL	.
+16FF#'JJ)	.	16FF#'JJ 16F#)	.	16F#'JJ)	.	.	.	.	.	.	.	.	.	16F#X'JJ)	.
+8r	.	8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.
+4r	.	4r	.	4r	.	4ryy	.	4ryy	.	8ryy	.	4ryy	.	4r	.
+.	.	.	.	.	.	.	.	.	.	8rddyy	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8r	.	8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	8r	.
+8CC#'	.	8CC#' 8C#	.	8C#'	.	16ryy	.	16ryy	.	8r^ddyy	.	.	.	8C#X'	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.
+8r	.	8r	.	8r	.	16ryy	.	16ryy	.	8ryy	.	16ryy	.	4r	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	16ryy	.	.	.
+(16CC#LL	.	(16CC#LL 16C#	.	(16C#LL	.	8ryy	.	8ryy	.	8rddyy	.	8ryy	.	.	.
+16DD#JJ	.	16DD#JJ 16D#	.	16D#JJ	.	.	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8EE')	.	8EE' 8E)	.	8E')	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8E'	.
+8r'	.	8r'	.	8r'	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.
+8FF#'	.	8FF#' 8F#	.	8F#'	.	8ryy	.	8ryy	.	8rddyy	.	4ryy	.	8F#X'	.
+8r	.	8r	.	8r	.	16ryy	.	16ryy	.	8ryy	.	.	.	8r	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:t=P:problem:Hanging slur not shown yet	!	!LO:TX:t=P:problem:Hanging slur not shown yet	!	!	!	!	!	!	!
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)][(s4,s5,s6,s7,s8)]
+!!!EED: Jason Lee
+!!!EEV: Date 2021/09/10

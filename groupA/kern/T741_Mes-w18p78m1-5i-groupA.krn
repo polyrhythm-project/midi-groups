@@ -1,0 +1,116 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T741_Mes-w18p78m1-5i]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*I"Piano 2	*	*	*I"Piano 1	*	*	*
+*I'Pno. 2	*	*	*I'Pno. 1	*	*	*
+*staff4	*staff3	*	*staff2	*staff2	*staff1	*staff1
+*clefG2	*clefG2	*	*clefF4	*	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*A:	*	*A:	*	*A:	*
+*M4/4	*M4/4	*	*M4/4	*above	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*	*
+!	!LO:TX:t=Modéré, joyeux ([eighth]=120)	!	!	!	!	!LO:TX:t=Modéré, joyeux ([eighth]=120)	!
+!	!	!LO:TX:b:t=cuivré, sonore	!	!	!	!	!
+(4A^ 4c# 4e	(4a^ 4aa	8aL	ff	2r	.	4r	.
+.	.	8cc#~>J 8ee	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*8va	*
+*	*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:b::t=carillonnant	!
+*	*	*	*	*ped	*	*	*
+4c#^ 4e 4a	4cc#^ 4ccc#	8cc#L	.	.	.	4ggg#X 4cccc#X 4ggggn	f
+.	.	8ee~>J 8aa	.	.	.	.	.
+4B-X^ 4d#X 4gn	4b-X^ 4bb-X	8b-L	.	4r	.	4fff#X 4bbbn 4ffffn	.
+.	.	8dd#X~>J 8ggn	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*	*	*	*8ba	*	*	*
+*	*^	*	*	*	*	*
+!	!	!	!	!	!LO:DY:t= più %s	!	!
+4A^ 4c# 4e	4a^ 4aa	8aL	.	4AAAAn 4EEE-X	f	4eeen 4aaan 4eeee-X	.
+.	.	8cc#~>J 8ee	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*^	*	*	*	*	*	*	*
+*	*ped	*	*	*	*ped	*	*grp:B	*
+8r	1e^)	1ee^ 1eee)	8r~	.	4CCC#X 4GGGn	.	8ryy	.
+8a'< 8cc#	.	.	8ee'>L 8aa 8ccc#	p	.	.	8ryy	.
+*	*	*	*	*	*ped	*	*	*
+8b-X'<L 8dd#X	.	.	8ggn'> 8bb-X 8ddd#X	.	4FFFn 4BBBn	.	16ryy	.
+.	.	.	.	.	.	.	8ryy	.
+8a'<J 8cc#	.	.	8ee'>J 8aa 8ccc#	<	.	.	.	.
+.	.	.	.	.	.	.	16ryy	.
+*	*	*	*	*	*ped	*	*	*
+*	*	*	*	*	*grp:B	*	*	*
+8b-'<L 8dd#	.	.	8gg'>L 8bb- 8ddd#	.	8ryy	.	16ryy	.
+.	.	.	.	.	.	.	8ryy	.
+*	*	*	*	*	*ped	*	*	*
+8a~< 8cc#	.	.	8ee~> 8aa 8ccc#	.	8ryy	.	.	.
+.	.	.	.	.	.	.	16ryy	.
+8b-~< 8dd#	.	.	8gg~> 8bb- 8ddd#	.	16ryy	.	16ryy	.
+*	*	*	*	*	*ped	*	*	*
+.	.	.	.	.	8ryy	.	8.ryy	.
+8a'<^<J 8cc#	.	.	8ee'>^>J 8aa 8ccc#	.	.	.	.	.
+*Xped	*	*	*	*	*	*	*	*
+.	.	.	.	[	16ryy	.	.	.
+*v	*v	*	*	*	*	*	*	*
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3
+(4e^ 4a 4cc#	(4ee^ 4eee	8eeL	ff	16ryy	.	8.ryy	.
+*	*	*	*	*ped	*	*	*
+.	.	.	.	8ryy	.	.	.
+.	.	8aa~>J 8ccc#	.	.	.	.	.
+.	.	.	.	16ryy	.	16ryy	.
+4f#X^ 4b-X 4dd#X	4ff#^ 4fff#	8ff#L	.	16ryy	.	8ryy	.
+*	*	*	*	*ped	*	*	*
+.	.	.	.	8.ryy	.	.	.
+.	.	8bb-X~>J 8ddd#X	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+*	*	*	*	*ped	*	*	*
+4e^ 4a 4cc#	4ee^ 4eee	8eeL	.	8.ryy	.	16ryy	.
+.	.	.	.	.	.	8.ryy	.
+.	.	8aa~>J 8ccc#	.	.	.	.	.
+*	*	*	*	*ped	*	*grp:A	*
+.	.	.	.	16ryy	.	.	.
+4Bn^ 4e 4g#X	4ddn^ 4dddn	8ddL	.	8ryy	.	4ggg# 4cccc# 4gggg	.
+*	*	*	*	*ped	*	*	*
+.	.	8ee~>J 8gg#X	.	16ryy	.	.	.
+.	.	.	.	16ryy	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+*^	*	*	*	*	*	*	*
+*	*ped	*	*	*	*	*	*	*
+8r	1dn^)	1ddn^ 1dddn)	8r~	p	16ryy	.	2fff#X 2bbb 2ffffn	.
+*	*	*	*	*	*ped	*	*	*
+.	.	.	.	.	8.ryy	.	.	.
+8fn'<L 8a	.	.	8ffn'>L 8aa	.	.	.	.	.
+*	*	*	*	*	*ped	*	*	*
+*	*	*	*	*	*grp:A	*	*	*
+8e'< 8g#X 8b	.	.	8ee'> 8gg#X 8bb	.	4AAAA 4EEE-X	.	.	.
+8f'<J 8a	.	.	8ff'>J 8aa	<	.	.	.	.
+*	*	*	*	*	*ped	*	*	*
+8e'<L 8g# 8b	.	.	8ee'>L 8gg# 8bb	.	2CCC# 2GGG	.	4eeen 4aaa 4eeee-X	.
+8f~< 8a	.	.	8ff~> 8aa	.	.	.	.	.
+8e~< 8g# 8b	.	.	8ee~> 8gg# 8bb	.	.	.	4ggg#X 4cccc#X 4ggggn	.
+8f'<^<J 8a	.	.	8ff'>^>J 8aa	.	.	.	.	.
+.	.	.	.	[	.	.	.	.
+*	*Xped	*	*	*	*Xped	*	*	*
+*v	*v	*	*	*	*	*	*	*
+*	*v	*v	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5
+*	*^	*	*	*	*	*
+!	!LO:TX:b:i:t=  (simile)	!	!	!	!	!	!
+(4d 4fn 4ai	(4dd 4dddi	8ddL	ff	4FFFn 4BBB	.	4fff#X 4bbb 4ffffn	.
+.	.	8ffnJ 8aa	.	.	.	.	.
+*	*	*	*X8ba	*	*	*	*
+4e 4g#X 4b	4ee 4eee	8eeL	.	4AAAA 4EEE-X	.	8eeenL 8aaa 8eeee-X	.
+*	*	*	*	*X8va	*	*	*
+.	.	8gg#XJ bb	.	.	.	[8ggg#XJ [8cccc#X [8ggggn	.
+*	*	*	*	*	*	*X8va	*
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)},{(s3,s4)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED: Jason Lee
+!!!EEV: 2021/09/28

@@ -1,0 +1,158 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T290_Rav-w17p3s2-3]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Piano	*I"Piano	*I"Piano	*I"Piano
+*I'Pno.	*	*	*
+*clefG2	*	*clefG2	*
+*k[f#c#g#d#a#e#b#]	*	*k[f#c#g#d#a#e#b#]	*
+*C#:	*	*C#:	*
+*M4/4	*	*M4/4	*
+=3	=3	=3	=3
+!LO:TX:b:Bi:t=très doux et très expressif	!	!	!
+!	!	!LO:TX:t=[[quarter]=59]	!LO:DY:ed=brack
+4ryy	.	(32cc#LLL 32ee# 32gg#	ppp
+.	.	32aan	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+.	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+4.ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+.	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+.	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+8ryy	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+8ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32ee# 32gg#	.
+.	.	32ee#JJ 32gg#	.
+8ryy	.	32aaLL	.
+.	.	32ee# 32gg#	.
+.	.	32ee# 32gg#	.
+.	.	32aaJJJ	.
+=4	=4	=4	=4
+4ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aan	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+.	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+4.ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+.	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+.	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+8ryy	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+8ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32ee# 32gg#	.
+.	.	32ee#JJ 32gg#	.
+8ryy	.	32aaLL	.
+.	.	32ee# 32gg#	.
+.	.	32ee# 32gg#	.
+.	.	32aaJJJ	.
+=5	=5	=5	=5
+8ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aan	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+8ryy	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+8ryy	.	32cc#LLL 32ee#	.
+.	.	32aa	.
+.	.	32aa	.
+.	.	32cc#JJ	.
+8ryy	.	32aaLL	.
+.	.	32cc# 32gg#	.
+.	.	32cc# 32gg#	.
+.	.	32aaJJJ	.
+4ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa	.
+.	.	32aa	.
+.	.	32cc#JJ 32ee# 32gg#	.
+.	.	32aaLL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aaJJJ	.
+8ryy	.	32cc#LLL 32ee# 32gg#	.
+.	.	32aa#X	.
+.	.	32aa#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+8ryy	.	32aa#LL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aa#JJJ)	.
+=6	=6	=6	=6
+2ryy	.	(32cc##XLLL 32ee# 32gg#	.
+.	.	32aa#	.
+.	.	32aa#	.
+.	.	32cc##JJ 32ee# 32gg#	.
+.	.	32aa#LL	.
+.	.	32cc## 32ee# 32gg#	.
+.	.	32cc## 32ee# 32gg#	.
+.	.	32aa#JJJ	.
+.	.	32cc##LLL 32ee# 32gg#	.
+.	.	32aa#	.
+.	.	32aa#	.
+.	.	32cc##JJ 32ee# 32gg#	.
+.	.	32aa#LL	.
+.	.	32cc## 32ee# 32gg#	.
+.	.	32cc## 32ee# 32gg#	.
+.	.	32aa#JJJ	.
+8ryy	.	32cc##LLL 32ee# 32gg#	.
+.	.	32aa#	.
+.	.	32aa#	.
+.	.	32cc##JJ 32ee# 32gg#	.
+8ryy	.	32aa#LL	.
+.	.	32cc## 32ee# 32gg#	.
+.	.	32cc## 32ee# 32gg#	.
+.	.	32aa#JJJ	.
+8ryy	.	32cc#XLLL 32ee# 32gg#	.
+.	.	32aa#	.
+.	.	32aa#	.
+.	.	32cc#JJ 32ee# 32gg#	.
+8ryy	.	32aa#LL	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32cc# 32ee# 32gg#	.
+.	.	32aa#JJJ)	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/08
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/01/27

@@ -1,0 +1,49 @@
+!!!COM: Charles Ives
+!!!OTL: [T236D_Ive-w18p3m17]
+**kern		**kern			**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A		*grp:A			*grp:A	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5		*part5			*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6		*staff5			*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano		*I"Piano			*I"Piano	*I"Bells	*I"Bells	*I"Bugle [C]	*I"Bugle [C]	*I"Violin	*I"Violin	*I"Clarinet in Bb	*I"Clarinet in Bb
+*I'Pno.		*			*	*I'Vln. 1	*	*I'C Tpt.	*	*I'Vln. 1	*	*I'Cl.	*
+!!pagebreak:original
+*clefF4		*clefG2			*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*		*			*	*	*	*	*	*	*	*ITrd1c2	*
+*k[]		*k[]			*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*
+*		*			*	*	*	*	*	*	*	*	*
+*M4/4		*M4/4			*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)		*met(c)			*	*met(c)	*	*met(c)	*	*met(c)	*	*met(c)	*
+=1		=1			=1	=1	=1	=1	=1	=1	=1	=1	=1
+*^		*^			*	*	*	*	*	*	*	*	*
+*	*	*	*^		*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!
+2G#X	3AA	11dddnL	1cc#X 1dd#X	11cc#\LN	ff <	5ryy	4ryy	2cc	4ryy	11ryy	4ryy	7ryy	4ryy
+.	.	11bb	.	11ccn\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	7ryy	.
+.	.	11aa	.	11ddn\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	5ryy	.	.	.	.	.	.	.
+.	.	11ff#X	.	11ee\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	7ryy	.
+.	3FF#X	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	11gg#X	.	11a\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	5ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	7ryy	.
+.	.	11aa#X	.	11b\N	.	.	.	.	.	11ryy	.	.	.
+2Fn 2A#X	.	.	.	.	.	.	.	[2gg	.	.	.	.	.
+.	.	11ggn	.	11cc\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	7ryy	.
+.	.	.	.	.	.	5ryy	.	.	.	.	.	.	.
+.	.	11ee	.	11dd#X\N	.	.	.	.	.	11ryy	.	.	.
+.	3CC	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	7ryy	.
+.	.	11cccn	.	11ffn\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	5ryy	.	.	.	.	.	.	.
+.	.	11ddd#X	.	11ee\N	.	.	.	.	.	11ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	7ryy	4ryy
+.	.	11ccc#XJ	.	11ddn\JN	[	.	.	.	.	11ryy	4ryy	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+*		*v	*v	*v	*	*	*	*	*	*	*	*	*
+=		=			=	=	=	=	=	=	=	=	=
+*-		*-			*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]
+!!!RDF**kern: N = cue size

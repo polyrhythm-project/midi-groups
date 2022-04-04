@@ -1,0 +1,71 @@
+!!!COM: Copland, Aaron
+!!!OTL: T717_Cop-w27p9h9m3-7
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*staff7/8	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Xylophone	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Horn in F	*	*I"Bassoon	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Xyl.	*	*I'Tbn.	*	*I'Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*ITrd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-e-]	*	*k[b-]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*A:	*	*A:	*	*A:	*	*B-:	*	*F:	*	*A:	*	*A:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=160]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=160]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+2.ryy	4ryy	2.ryy	4ryy	8bbL	f	8bbL	f	8bbL	f	8bbL	8bbbL 8bbbb	f	4ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy
+.	.	.	.	8ee	.	8ee	.	8ee	.	8ee	8eee	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	8b	.	8b	.	8b	.	8b	8bbb	.	4ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8f#J	.	8f#J	.	8f#J	.	8f#J	8ff#J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8cc#L	.	8cc#L	.	8cc#L	.	8cc#L	8ccc#L	.	4ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8eJ	.	8eJ	.	8eJ	.	8eJ	8eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	4A	.	4A	.	4A	.	4A	4a	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1ryy	.	1ryy	.	8BL	.	8BL	.	8BL	.	8BL	8bL	.	1ryy	.	1ryy	.	4ryy	.	1ryy	.	1ryy	.	2ryy	.
+.	.	.	.	8e	.	8e	.	8e	.	8e	8ee	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8a	.	8a	.	8a	.	8a	8aa	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	8ddJ	.	8ddJ	.	8ddJ	.	8ddJ	8dddJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	8eeL	.	8eeL	.	8eeL	.	8eeL	8eeeL	.	.	.	.	.	4ryy	.	.	.	.	.	4ryy	.
+.	.	.	.	8aa	.	8aa	.	8aa	.	8aa	8aaa	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ddd	.	8ddd	.	8ddd	.	8ddd	8dddd	.	.	.	.	.	4ryy	.	.	.	.	.	4ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	8fff#J	.	8fff#J	.	8fff#J	.	8fff#J	8ffff#J	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+2ryy	.	2ryy	.	8aaL	.	8aaL	.	8aaaL	.	8aaL	8aaaL 8aaaa	.	1ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	.	.	8a	.	8a	.	8aa	.	8a	8aa	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8aa	.	8aa	.	8aaa	.	8aa	8aaa	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8aJ	.	8aJ	.	8aaJ	.	8aJ	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	8aaL	.	8aaL	.	8aaaL	.	8aaL	8aaaL	.	.	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	.	.	8ccc#J	.	8ccc#J	.	8cccc#J	.	8ccc#J	8cccc#J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4aa	.	4aa	.	4aaa	.	4aa	4aaa	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	.	4ryy	.	8bbL	.	8bbL	.	8bbbL	.	8bbL	8bbbL	.	1ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+.	.	.	.	8aa	.	8aa	.	8aaa	.	8aa	8aaa	.	.	.	.	.	.	.	.	.	.	.	.	.
+2.ryy	.	2.ryy	.	8gg#	.	8gg#	.	8ggg#	.	8gg#	8ggg#	.	.	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.
+.	.	.	.	8ff#J	.	8ff#J	.	8fff#J	.	8ff#J	8fff#J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8eeL	.	8eeL	.	8eeeL	.	8eeL	8eeeL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ddJ	.	8ddJ	.	8dddJ	.	8ddJ	8dddJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4cc#	.	4cc#	.	4ccc#	.	4cc#	4ccc#	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+2.ryy	.	2.ryy	.	4r	.	4r	.	4r	.	4r	4r	.	4%5ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.
+.	.	.	.	8gg#^L	.	8gg#^L	.	8ggg#^L	.	8gg#^L	8ggg#^L	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ff#	.	8ff#	.	8fff#	.	8ff#	8fff#	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ee	.	8ee	.	8eee	.	8ee	8eee	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ddJ	.	8ddJ	.	8dddJ	.	8ddJ	8dddJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	8cc#L	.	8cc#L	.	8ccc#L	.	8cc#L	8ccc#L	.	.	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	.	.	8aJ	.	8aJ	.	8aaJ	.	8aJ	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4f#^	.	4f#^	.	4ff#^	.	4f#^	4ff#^	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [s1,s2],[s3,s4,s5],s6,{s7,s8},[s9,s10,s11,s12,s13]

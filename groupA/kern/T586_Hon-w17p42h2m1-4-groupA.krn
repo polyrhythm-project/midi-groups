@@ -1,0 +1,48 @@
+!!!COM: Honegger, Arthur
+!!!OTL: [T586_Hon-w17p42h2m1-4]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A
+*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part4	*part3	*part2	*part1	*part1
+*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff7	*staff6	*staff6	*staff6	*staff5	*staff5	*staff5	*staff4	*staff4	*staff4	*staff3	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Bass	*I"Bass	*I"Bass	*I"Tenor	*I"Tenor	*I"Tenor	*I"Alto	*I"Alto	*I"Alto	*I"Soprano	*I"Soprano	*I"Soprano	*I"2 Trumpets [C]	*I"2 Horns in F [C]	*I"2 Bassoons	*I"2 Bassoons
+*I'Vc.	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*	*I'Tpt.	*I'Hn.	*I'Bsn.	*
+!!pagebreak:original
+*clefF4	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*clefG2	*clefF4	*
+*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*k[]	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*C:	*C:	*
+*M2/2	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*	*M2/2	*	*	*M2/2	*	*	*M2/2	*	*	*M2/2	*M2/2	*M2/2	*
+*met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*	*	*met(c|)	*	*	*met(c|)	*	*	*met(c|)	*	*	*met(c|)	*met(c|)	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!LO:TX:a:B:t=a tempo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=à2	!
+!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:B:t=a tempo	!
+1r	4ryy	4ryy	4ryy	4ryy	4ryy	p	4r	.	.	2C#X	peur?	p	2c#X	peur?	p	2c#X	peur?	p	1r	4ryy	2FF#X^	f
+.	8ryy	.	8ryy	.	4ryy	.	4FF#X	Que	mf	.	.	.	.	.	.	.	.	.	.	8ryy	.	.
+.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.
+.	4ryy	.	4ryy	.	2ryy	.	4GGn	les	.	2r	.	.	2r	.	.	2r	.	.	.	4ryy	4GG^	.
+.	4ryy	.	4ryy	.	.	.	4AAn	mé-	.	.	.	.	.	.	.	.	.	.	.	4ryy	4AA^	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	4ryy	.	4ryy	.	1ryy	.	4BB	-chants	.	1r	.	.	1r	.	.	1r	.	.	1r	4ryy	4BB	.
+.	8ryy	.	8ryy	.	.	.	8AAL	en	.	.	.	.	.	.	.	.	.	.	.	8ryy	8AAL	.
+.	8ryy	.	8ryy	.	.	.	8BBJ	grand	.	.	.	.	.	.	.	.	.	.	.	8ryy	8BBJ	.
+.	4ryy	.	4ryy	.	.	.	(4C#X	nom-	.	.	.	.	.	.	.	.	.	.	.	4ryy	4C#X	.
+.	4ryy	.	4ryy	.	.	.	8BBL)	-bre	.	.	.	.	.	.	.	.	.	.	.	4ryy	8BBL	.
+.	.	.	.	.	.	.	8C#J	s'a-	<	.	.	.	.	.	.	.	.	.	.	.	8C#J	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	4ryy	.	4ryy	.	1ryy	.	(4D	-van-	.	1r	.	.	1r	.	.	1r	.	.	1r	4ryy	4D	.
+.	8ryy	.	8ryy	.	.	.	8C#XL)	-cent	.	.	.	.	.	.	.	.	.	.	.	8ryy	8C#XL	.
+.	8ryy	.	8ryy	.	.	.	8DJ	pour	.	.	.	.	.	.	.	.	.	.	.	8ryy	8DJ	.
+.	4ryy	.	4ryy	.	.	.	8EL	dé-	.	.	.	.	.	.	.	.	.	.	.	4ryy	8E^L	.
+.	.	.	.	.	.	.	8D	-vor-	.	.	.	.	.	.	.	.	.	.	.	.	8D^	.
+.	4ryy	.	4ryy	.	.	.	8E	-er	.	.	.	.	.	.	.	.	.	.	.	4ryy	8E^	.
+.	.	.	.	.	.	.	8F#XJ	ma	[	.	.	.	.	.	.	.	.	.	.	.	8F#X^J	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=I.	!	!	!
+4BB-X^	4ryy	.	4ryy	.	1ryy	.	[1G	chair,	> ]	4r	.	.	1r	.	.	1r	.	.	2B-^	4ryy	[1G	.
+4BB-^	8ryy	.	8ryy	.	.	.	.	.	.	4BBB-X	Dans	mf	.	.	.	.	.	.	.	8ryy	.	.
+.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.
+4C^	4ryy	.	4ryy	.	.	.	.	.	.	4CC	la	.	.	.	.	.	.	.	4c^	4ryy	.	.
+4D^	4ryy	.	4ryy	.	.	.	.	.	.	4DD	fo	.	.	.	.	.	.	.	4d^	4ryy	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6,s7)][([(s8,s9)]s10,s11)]

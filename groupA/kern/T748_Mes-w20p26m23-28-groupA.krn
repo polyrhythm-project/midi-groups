@@ -1,0 +1,83 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T748_Mes-20/26/23-28]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"P1	*
+*I'Pno.	*	*	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*
+*8ba	*	*	*	*
+=1	=1	=1	=1	=1
+*	*	*	*^	*
+!	!	!	!LO:TX:t=[[eighth]=160]	!	!
+!	!LO:TX:t=[[eighth]=160]	!	!LO:TX:b:i:t=marcato	!	!
+!	!LO:TX:a:i:t=stacc.	!	!LO:TX:a:t=(Sujet, canon à 3 voix)	!	!
+!	!	!	!	!	!LO:DY:a
+16FFFn'LL 16BBB 16EE	2ryy	4ryy	4ryy	4ryy	4ryy
+16GGG' 16CC 16EE-X	.	.	.	.	.
+16CCC#X' 16EEEn 16GGG#X	.	.	.	.	.
+16DDD'JJ 16EEE-X 16GGGn	.	.	.	.	.
+16BBBB'LL 16EEEn 16AAA	.	.	4ryy	4ryy	.
+16AAA-X' 16CCn 16DD	.	.	.	.	.
+16FFFn' 16BBB 16EEn	.	.	.	.	.
+16GGG'JJ 16CC 16EE-X	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+!	!LO:TX:b:i:t=m.dr.	!	!	!	!
+!	!LO:TX:a:t=marcato	!	!	!	!
+!	!	!LO:DY:a	!	!	!
+16CCC#X'LL 16EEEn 16GGG#X	4ryy	4ryy	4ryy	4ryy	.
+16DDD' 16EEE-X 16GGGn	.	.	.	.	.
+16BBBB' 16EEEn 16AAAn	.	.	.	.	.
+16AAA-X'JJ 16CCn 16DD	.	.	.	.	.
+16FFFn'LL 16BBB 16EEn	4ryy	.	8ryy	4ryy	.
+16GGG' 16CC 16EE-X	.	.	.	.	.
+16CCC#' 16EEEn 16GGG#X	.	.	8ryy	.	.
+16DDD'JJ 16EEE-X 16GGGn	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+!	!LO:TX:a:i:t=stacc. sempre	!	!	!	!
+16BBBB'LL 16EEEn 16AAAn	4ryy	4ryy	16ryy	8ryy	.
+16CCC' 16DDD-X	.	.	8ryy	.	.
+16BBBB' 16DDDn	.	.	.	8ryy	.
+16BBBB-X'JJ 16EEE-X	.	.	16ryy	.	.
+16AAAA'LL 16EEEn	8ryy	.	16ryy	16ryy	.
+16EEE' 16FFF	.	.	8ryy	8ryy	.
+16EEE-X' 16FFF#X	8ryy	.	.	.	.
+16DDD'JJ 16GGG	.	.	16ryy	16ryy	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4
+16CCC#X'LL 16GGG#X	16ryy	.	16ryy	16ryy	.
+16GGG#' 16AAA	8ryy	.	8.ryy	8ryy	.
+16GGGn' 16BBB-X	.	.	.	.	.
+16FFF#X'JJ 16BBBn	16ryy	.	.	16ryy	.
+16FFFn'LL 16CC	16ryy	.	8.ryy	16ryy	.
+16CC' 16DD-X	8ryy	.	.	8.ryy	.
+16BBB' 16DDn	.	.	.	.	.
+16BBB-X'JJ 16EE-X	16ryy	.	16ryy	.	.
+=5	=5	=5	=5	=5	=5
+16AAA'LL 16EEn	16ryy	.	8ryy	8.ryy	.
+16EE' 16FF	8.ryy	.	.	.	.
+16EE-X' 16FF#X	.	.	16ryy	.	.
+16DD'JJ 16GG	.	.	16ryy	16ryy	.
+16AAAn'LL 16DD#X 16GG#X	8.ryy	4ryy	16ryy	8ryy	.
+16BBB' 16EEn 16GGn	.	.	8.ryy	.	.
+16FFF' 16AAA-X 16CC	.	.	.	16ryy	.
+16FFF#X'JJ 16GGGn 16BBB	16ryy	.	.	16ryy	.
+=6	=6	=6	=6	=6	=6
+16DDD#X'LL 16GGG#X 16CC#X	8ryy	.	4ryy	16ryy	.
+16CCn' 16EE 16FF#X	.	.	.	8.ryy	.
+16AAA' 16DD#X 16GG#X	16ryy	.	.	.	.
+16BBB'JJ 16EE 16GGn	16ryy	.	.	.	.
+16FFFn'LL 16AAA-X 16CCn	16ryy	.	4ryy	4ryy	.
+16FFF#X' 16GGGn 16BBB	8.ryy	.	.	.	.
+16DDD#X' 16GGG#X 16CC#X	.	.	.	.	.
+16CCn'JJ 16EE 16FF#X	.	.	.	.	.
+*X8ba	*	*	*	*	*
+*	*	*	*v	*v	*
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1{(s2,s3)})]

@@ -1,0 +1,77 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T189_Sch-w3p32m14-15]
+**kern	**kern		**dynam	**kern	**text	**dynam
+*grp:A	*grp:B		*	*grp:A	*	*
+*part2	*part2		*part2	*part1	*part1	*part1
+*staff3	*staff2		*	*staff1	*staff1	*
+*I"Piano	*		*	*I"Soprano Solo	*	*
+*I'Pno.	*		*	*I'S. Solo	*	*
+*clefF4	*clefG2		*	*clefG2	*	*
+*k[f#c#]	*k[f#c#]		*	*k[f#c#]	*	*
+*D:	*D:		*	*D:	*	*
+*M4/4	*M4/4		*	*M4/4	*	*
+*met(c)	*met(c)		*	*met(c)	*	*
+!!LO:REH:t=14
+=1	=1		=1	=1	=1	=1
+*	*^		*	*	*	*
+!	!LO:S:a	!	!LO:DY:t=[ %s ]	!	!	!
+8ryy	(12f#L	4c#X	4ryy	8ryy	4ryy	.
+.	12g	.	.	.	.	.
+!LO:T:a	!	!	!	!	!	!
+8ryy	.	.	.	8ryy	4ryy	.
+.	12eJ	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*	*Xtuplet		*	*	*	*
+*	*^		*	*	*	*
+!	!	!	!LO:HP:a	!	!	!
+8ryy	12B#XL	4G	4ryy	4ryy	4ryy	4ryy
+.	12c#	.	.	.	.	.
+8ryy	.	.	.	.	.	.
+.	12AJ	.	4ryy	.	.	.
+!	!	!	!LO:HP:a	!	!	!
+*grp:B	*grp:A	*grp:A	*	*	*	*
+12F#L]	4.ryy	4.ryy	4ryy	8ryy	4ryy	4ryy
+12G	.	.	.	.	.	.
+.	.	.	.	8ryy	.	4ryy
+12F#J	.	.	.	.	.	.
+*Xtuplet	*	*	*	*	*	*
+12AL	.	.	.	8ryy	4ryy	.
+12G	.	.	.	.	.	.
+.	8ryy	8ryy	4ryy	8ryy	4ryy	.
+12F#J)	.	.	.	.	.	4ryy
+*	*v	*v	*	*	*	*
+!!LO:REH:t=15
+=2	=2		=2	=2	=2	=2
+*	*tuplet		*	*	*	*
+*	*^		*	*	*	*
+*grp:A	*grp:B	*grp:B	*	*	*	*
+8ryy	(12f#L	4c#X	.	8ryy	4ryy	.
+.	12g	.	.	.	.	.
+!LO:T:a	!	!	!	!	!	!
+8ryy	.	.	.	4ryy	4ryy	.
+.	12eJ	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*	*Xtuplet		*	*	*	*
+*	*^		*	*	*	*
+8ryy	12B#XL	4G	4ryy	.	.	.
+.	12e	.	.	.	.	.
+8ryy	.	.	.	8ryy	4ryy	4ryy
+.	12AJ	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*tuplet	*		*	*	*	*
+*	*^		*	*	*	*
+*grp:B	*grp:A	*grp:A	*	*	*	*
+12F#L]	4.ryy	2ryy	4ryy	4.ryy	4ryy	4ryy
+12G	.	.	4ryy	.	.	.
+12F#J	.	.	.	.	.	.
+*Xtuplet	*	*	*	*	*	*
+12AL	.	.	.	.	.	.
+12G	.	.	.	.	.	.
+.	8ryy	.	.	8ryy	4ryy	.
+12F#J)	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=	=		=	=	=	=
+*-	*-		*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED:Jason Lee
+!!!EEV:2021/11/12

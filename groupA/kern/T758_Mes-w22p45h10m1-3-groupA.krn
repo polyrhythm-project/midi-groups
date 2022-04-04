@@ -1,0 +1,73 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T758_Mes-w22p45h10m1-3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*	*grp:A	*	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part21	*part21	*part20	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff22	*	*staff21	*	*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"	*	*I"Violoncello Divisi	*	*I"	*	*I"Viola Divisi	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I Solo	*	*I"Ondes Martenot	*	*I"Piano	*	*	*I"Vibraphone	*	*I"Glockenspiel	*	*I"Tubular Bells	*	*I"	*	*I"Percussion	*	*I"Bassoons 2.3.	*	*I"Bass Clarinet in A	*	*I"2 Clarinets in A	*	*I"Cor Anglais	*	*I"Oboe 1.	*	*I"Flute 2.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*	*I'Th.	*	*I'Pno.	*	*	*I'Vib.	*	*I'Glock.	*	*I'Tub. B.	*	*I'Perc.	*	*I'Perc.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Iondes	*	*Ipiano	*	*	*Ivibra	*	*Iglock	*	*Itbell	*	*Isdrum	*	*Iwbloc	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Icang	*	*Ioboe	*	*Iflt	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefX	*	*clefX	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-14c-24	*	*	*	*	*	*	*	*	*	*ITrd2c3	*	*ITrd2c3	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[b-]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=10
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=138]	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=sempre col legno	!	!LO:TX:a:t=sempre col legno	!	!	!	!LO:TX:t=P:problem:cross-bar beaming to be implemented/missing glissandi lines	!LO:TX:t=P:problem	!LO:TX:t=P:problem:8va down line to be implemented	!LO:TX:a:i:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=3.	!	!	!	!	!	!	!	!	!	!	!
+16r	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	4ryy	16ryy	4ryy	2ryy	.	8ryy	4ryy	8ryy	2ryyyy	4ryy	2ryy	.	16r	.	2ryy	.	2ryy	.	2ryy	.	16BB-X 16F#X	4ryy	2ryy	.	8.r	.	16BX	4ryy	8.r	.	16c#X	4ryy
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[8.FFn'	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	[8.ffff'	4ryy	.	.	.	.	.	.	16r	.	.	.	.	.	16r	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	8r	.	.	.	8r	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16AA-X 16Dn	.	.	.	(16D 16A	4ryy	.	.	(16gn	4ryy	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.FFL]	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	8.ffffL]	.	.	.	.	.	.	.	16FFn 16Cn)	.	.	.	16F# 16F#)	.	8.r	.	16c#X)	.	8.r	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	16r	.	.	.	16r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	8r	.	.	.	8r	.	.	.
+[16EE'Jk	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	[16eeee'Jk	.	.	.	.	.	.	.	(16AA-X 16D	.	.	.	.	.	(16A	.	.	.	[16c#X	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Snare Drum	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4EE]	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	8ryy	.	8ryy	.	8ryy	2ryy	.	2ryy	.	4eeee]	.	2ryy	.	4ryy	.	2ryy	.	16BB-X 16F#X)	.	8ryy	.	8.r	.	16BX)	.	8.r	.	16c#X]	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	16r	.	.	.	16r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TR:acc=n	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:the composer indicates the upper note in parentheses 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	4.ryy	4ryy	8ryy	.	8ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	16r	.	8ryy	4ryy	.	.	8r	.	.	.	8r	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16AA-X 16D	.	.	.	(16D 16A	4ryy	.	.	(16gn	.	.	.
+4DD#X'	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	4ryy	.	.	.	.	4dddd#X'	.	.	.	8ryy	.	.	.	16FFn 16Cn)	.	8ryy	.	16F# 16F#)	.	8.r	.	16c#X)	.	8.r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	16r	.	.	.	16r	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16r	.	8ryy	.	8r	.	.	.	8r	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	4ryy	.	.	(16AA-X 16D	.	.	.	.	.	(16A	.	.	.	[16c#X	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Wood Block	!	!	!	!	!	!	!	!	!	!	!	!	!
+8.DDn'L	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	4ryy	.	8ryy	.	8ryy	8ryy	.	8.ryy	.	8.ddddn'L	.	8ryy	.	16ryy	.	8ryy	.	16BB-X 16F#X)	.	8ryy	.	8.r	.	16BX)	.	8.r	.	16c#X]	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16r	.	.	.	.	.	16r	.	.	.	16r	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	16ryy	16ryy	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16r	.	8ryy	.	.	.	8r	.	.	.	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!	!	!	!	!LO:TX:a:i:t=(sec)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[16CC#X'Jk	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	16ryy	16ryy	4ryy	16ryy	4ryy	[16cccc#X'Jk	.	16ryy	4ryy	16ryy	.	16ryy	4ryy	(16AA-X 16D	.	.	.	(16D 16A	4ryy	.	.	(16gn	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TR:acc=n	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16CC#KL]	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	4ryy	.	8ryy	.	4ryy	4ryy	.	4ryy	.	16cccc#KL]	.	4ryy	.	16ryy	.	4ryy	.	16FFn 16Cn)	.	8ryy	.	16F# 16F#)	.	8.r	.	16c#X)	.	8.r	.
+8CCn'	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	8ccccn'	.	.	.	16ryy	.	.	.	16r	.	.	.	16r	.	.	.	16r	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16r	.	8ryy	.	8r	.	.	.	8r	.	.	.
+16BBB'Jk	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	16bbb'Jk	.	.	.	16ryy	.	.	.	16AA-X 16D	.	.	.	.	.	16A	.	.	.	16c#X	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][([(s7,s8)]s9)][(s10,s11)][({(s12,s13)})][(s14)][(s15,s16,s17[(s18,s19)][(s20,s21)]s22)]
+!!!RDF**kern: > = above

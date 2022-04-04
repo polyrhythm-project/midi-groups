@@ -1,0 +1,133 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T647_Hin-w63p1m1-h1m1-5]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Oboe	*
+*I'Pno.	*I'Pno.	*	*I'Ob.	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:a:B:t=Munter ([quarter]  etwa 120)	!
+!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be implemented.	!	!	!
+2ryy	/8G<L	mf	4ryy	4ryy
+.	\8d 8g	.	.	.
+.	\8d 8gJ	.	8ryy	.
+.	/8F<L	.	8ryy	.
+=2	=2	=2	=2	=2
+2ryy	\8c 8g	.	4ryy	.
+.	\8c 8gJ	.	.	.
+.	/8E-<L	.	8ryy	.
+.	\8B-X 8g	.	16ryy	.
+.	.	.	16ryy	.
+=3	=3	=3	=3	=3
+2ryy	\8B-X 8gJ	.	8ryy	.
+.	/8D<L	.	8ryy	.
+.	\8A 8g	.	8ryy	.
+.	\8A 8gJ	.	8ryy	.
+=4	=4	=4	=4	=4
+2ryy	/8C#<L	.	4ryy	.
+.	\8fn 8a	<	.	4ryy
+.	\8f#X 8a#XJ	[[	4ryy	.
+.	/8F#<L	.	.	.
+=5	=5	=5	=5	=5
+2ryy	\8f#X 8a#X	.	8ryy	4ryy
+.	\8g 8bJ	.	8ryy	.
+.	/8Fn<L	.	4ryy	.
+.	\8a-X 8ccn	.	.	.
+=6	=6	=6	=6	=6
+2ryy	\8an 8cc#XJ	.	16ryy	.
+.	.	.	16ryy	.
+.	/8E<L	.	16ryy	.
+.	.	.	16ryy	.
+.	\8B#X 8d#X	.	4ryy	.
+.	\8c#X 8eJ	.	.	.
+=7	=7	=7	=7	=7
+2ryy	/8A<L	.	8ryy	.
+.	\8c#X 8e	.	8ryy	.
+.	\8d 8fnJ	.	4ryy	.
+.	/8A-<L	.	.	.
+=8	=8	=8	=8	=8
+2ryy	\8d 8f	.	16ryy	.
+.	.	.	16ryy	.
+.	\8e-X 8g-XJ	.	16ryy	.
+.	.	.	16ryy	.
+.	/8Gn<L	.	4ryy	.
+.	\8d 8gn	.	.	.
+!!linebreak:original
+=9	=9	=9	=9	=9
+4r	\8d 8gJ	.	8ryy	.
+.	8r	.	8ryy	.
+8r	8r	.	8ryy	.
+8D	8A 8a	>	8ryy	.
+=10	=10	=10	=10	=10
+4r	4r	.	8ryy	.
+.	.	.	8ryy	4ryy
+8D-X	8B-X 8a-X	.	8ryy	.
+8r	8r	.	8ryy	.
+=11	=11	=11	=11	=11
+8r	8r	.	8ryy	.
+8En	8Bn 8g	.	8ryy	.
+4r	4r	]	8ryy	.
+.	.	.	8ryy	4ryy
+*clefG2	*	*	*	*
+=12	=12	=12	=12	=12
+*^	*	*	*	*
+2ryy	/8fL	8ryy	p	4ryy	4ryy
+.	\8a>	/(16ccLL	.	.	.
+.	.	16ddJ)	.	.	.
+.	\8a>J	8ccJ	.	8ryy	.
+.	/8eL	8ryy	.	8ryy	.
+*v	*v	*	*	*	*
+!!LO:REH:t=1
+=13	=13	=13	=13	=13
+*	*^	*	*	*
+2ryy	\8a	/(>16bLL	.	4ryy	.
+.	.	/16ccJ)	.	.	.
+.	\8aJ	/8bJ	<	.	.
+.	/8d<L	8ryy	.	8ryy	.
+.	\8g	/(>16eeLL	.	16ryy	4ryy
+.	.	/(16ffJ)	[[	16ryy	4ryy
+*	*v	*v	*	*	*
+=14	=14	=14	=14	=14
+*M3/8	*M3/8	*	*M3/8	*
+*	*^	*	*	*
+8ryy	\8gJ	/8eeJ	>	8ryy	4ryy
+*	*v	*v	*	*	*
+8c	8r	]]	8ryy	4ryy
+8r	8r	.	8ryy	.
+=15	=15	=15	=15	=15
+*M2/4	*M2/4	*	*M2/4	*
+*^	*	*	*	*
+2ryy	/8fL	8ryy	.	4ryy	.
+.	\8a>	/(16ccLL	.	.	.
+.	.	/16ddJ)	.	.	.
+.	\8a>J	/8ccJ	.	8ryy	.
+.	/8eL	8ryy	.	8ryy	.
+*v	*v	*	*	*	*
+=16	=16	=16	=16	=16
+*	*^	*	*	*
+2ryy	\8a	/(>16bLL	<	4ryy	4ryy
+.	.	/16ccJ)	.	.	.
+.	\8aJ	/8bJJ	.	.	.
+.	/8d<L	8ryy	[	8ryy	.
+.	\8g	/(>16eeLL	.	16ryy	.
+.	.	/16ffJ)	.	16ryy	4ryy
+*	*v	*v	*	*	*
+=17	=17	=17	=17	=17
+*M3/8	*M3/8	*	*M3/8	*
+*	*^	*	*	*
+8ryy	\8gJ	/8eeJ	>	8ryy	4ryy
+*	*v	*v	*	*	*
+8c	8r	]]	8ryy	4ryy
+8r	8r	.	8ryy	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/02/18

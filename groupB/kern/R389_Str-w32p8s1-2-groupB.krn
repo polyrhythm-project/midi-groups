@@ -1,0 +1,139 @@
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Duo Concertant for Violin and Piano
+!!!OMV: Eglogue I (Part II)
+!!!example: 389
+!!!work: Str-32
+!!!OMD-full: none
+!!!OMD: none
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*	*part2	*	*part1	*
+*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICstr	*
+*Ipiano	*	*Ipiano	*	*Ivioln	*
+*I"Piano	*	*	*	*I"Violin	*
+*I'Pno.	*	*	*	*I'Vln.	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*
+*XM4/4	*	*XM4/4	*	*XM4/4	*
+=5	=5	=5	=5	=5	=5
+*	*	*^	*	*^	*
+!	!	!	!	!	!LO:TX:t=[[quarter]=78]	!	!
+!	!	!LO:TX:b:t=	!	!LO:DY:ed=brack	!LO:TX:b:t=	!LO:DY:ed=brack	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!
+16ryy	.	8ryy	16ryy	4ryy	4ddd^	4a	.f
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	8ryy	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	4ryy	16ryy	.	4ddd^	4a	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	8ryy	16ryy	.	2aa^	2a	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	8ryy	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	4ryy	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+=6-	=6-	=6-	=6-	=6-	=6-	=6-	=6-
+16ryy	.	4ryy	16ryy	.	2aa^	2a	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	4ryy	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	4ryy	16ryy	.	16aaTLL	2ryy	.
+16ryy	.	.	16ryy	.	16cc	.	.
+16ryy	.	.	16ryy	.	16dd	.	.
+16ryy	.	.	16ryy	.	16dJJ	.	.
+16ryy	.	4ryy	16ryy	.	16gLL	.	.
+16ryy	.	.	16ryy	.	(16cc	.	.
+16ryy	.	.	16ryy	.	16d)	.	.
+16ryy	.	.	16ryy	.	16aTJJ 16aa	.	.
+*	*	*	*	*	*v	*v	*
+=7-	=7-	=7-	=7-	=7-	=7-	=7-
+16ryy	.	4ryy	16ryy	.	(16cc'LL	.
+16ryy	.	.	16ryy	.	16dd')	.
+16ryy	.	.	16ryy	.	16d	.
+16ryy	.	.	16ryy	.	16gJJ	.
+16ryy	.	8ryy	16ryy	.	16ccLL	.
+16ryy	.	.	16ryy	.	16d	.
+16ryy	.	8ryy	16ryy	.	16aT 16aa	.
+16ryy	.	.	16ryy	.	16ccJJ	.
+16ryy	.	8ryy	16ryy	.	16ddLL	.
+16ryy	.	.	16ryy	.	16d	.
+16ryy	.	8ryy	16ryy	.	16g	.
+16ryy	.	.	16ryy	.	(16ccJJ	.
+16ryy	.	4ryy	16ryy	.	16dLL)	.
+16ryy	.	.	16ryy	.	16aT 16aa	.
+16ryy	.	.	16ryy	.	(16cc'	.
+16ryy	.	.	16ryy	.	16dd'JJ)	.
+*	*	*v	*v	*	*	*
+=8-	=8-	=8-	=8-	=8-	=8-
+*XM3/4	*	*XM3/4	*	*XM3/4	*
+*	*	*^	*	*^	*
+16ryy	.	8ryy	16ryy	.	16dLL	4ryy	.
+16ryy	.	.	16ryy	.	16g	.	.
+16ryy	.	8ryy	16ryy	.	16cc	.	.
+16ryy	.	.	16ryy	.	16dJJ	.	.
+16ryy	.	4ryy	16ryy	.	4aa^	4a	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	8ryy	16ryy	.	4aa^	4a	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	8ryy	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+=9-	=9-	=9-	=9-	=9-	=9-	=9	=9-
+16ryy	.	4ryy	16ryy	.	(8aaL	2.a	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	8gg	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	4ryy	16ryy	.	8ff#	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	8ggJ	.	.
+16ryy	.	.	16ryy	.	.	.	.
+!	!	!	!	!	!	!	!
+16ryy	.	8ryy	16ryy	.	4aa)	.	.
+16ryy	.	.	16ryy	.	.	.	.
+16ryy	.	8ryy	16ryy	.	.	.	.
+16ryy	.	.	16ryy	.	.	.	.
+*	*	*v	*v	*	*	*	*
+*	*	*	*	*v	*v	*
+=-	=-	=-	=-	=-	=-
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: j = editorial accidental, paren
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1932/10/28
+!!!MGN:
+!!!MLC: Berlin, Germany
+!!!MPD: 1932
+!!!MPN: Dushkin, Samuel; Stravinsky, Igor
+!!!ODT: 1932
+!!!PDT: 1933
+!!!excerpt-start-measure: 5
+!!!excerpt-end-measure: 5
+!!!excerpt-start-time: 0:25
+!!!excerpt-end-time: 0:37
+!!!excerpt-duration-sec: 12
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [76-80]
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

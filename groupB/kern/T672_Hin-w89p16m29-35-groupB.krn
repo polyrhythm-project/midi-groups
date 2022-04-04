@@ -1,0 +1,147 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T672_Hin-w89p16m29-35]
+**kern			**kern		**dynam	**kern	**dynam
+*grp:A			*grp:A		*	*grp:B	*
+*part2			*part2		*part2	*part1	*part1
+*staff3			*staff2		*	*staff1	*
+*I"Piano			*		*	*I"Violoncello	*
+*I'Pno.			*		*	*I'Vc.	*
+*clefG2			*clefG2		*	*clefC4	*
+*ICklav			*ICklav		*	*ICstr	*
+*Ipiano			*Ipiano		*	*Icello	*
+*k[]			*k[]		*	*k[]	*
+*C:			*C:		*	*C:	*
+*M4/2			*M4/2		*	*M4/2	*
+=1			=1		=1	=1	=1
+!			!		!	!LO:TX:t=[[half]=92]	!
+!			!		!	!	!LO:DY:ed=brack
+2ryy	4ryy	.	4c#X)	4ryy
+.	4ryy	4ryy	4r	.
+4ryy	4ryy	.	4r	.
+*			*		*	*clefF4	*
+!			!		!	!LO:TX:a:t=pizz.	!
+4ryy	4ryy	.	4C#X	4ryy
+2ryy	2ryy	.	4E	.
+!			!		!	!LO:TX:a:t=arco	!
+.	.	.	(12DL	.
+.	.	.	12Cn	.
+.	.	.	12BB-XJ	.
+2ryy	2ryy	.	4AA)	.
+!			!		!	!LO:TX:a:t=pizz.	!
+.	.	.	4GG	.
+=2			=2		=2	=2	=2
+*^			*^		*	*	*
+*	*^		*	*	*	*	*
+2ryy	1ryy	0ryy	2.ryy	1ryy	.	4EE	.
+.	.	.	.	.	.	4r	.
+4ryy	.	.	.	.	.	4BB	4ryy
+4ryy	.	.	4ryy	.	4ryy	4EE	.
+1ryy	2ryy	.	4ryy	1ryy	4ryy	4r	4ryy
+.	.	.	8ryy	.	.	4BB	4ryy
+.	.	.	8ryy	.	.	.	.
+.	2ryy	.	4ryy	.	4ryy	4EE	4ryy
+.	.	.	4ryy	.	4ryy	4r	.
+*v	*v	*v	*	*	*	*	*
+*			*v	*v	*	*	*
+=3			=3		=3	=3	=3
+!			!		!	!LO:TX:a:t=arco	!
+2ryy	2ryy	.	(12DL	.
+.	.	.	12C#X	.
+.	.	.	12CnJ	.
+.	.	.	4BB)	.
+2ryy	2ryy	.	4r	.
+!			!		!	!LO:TX:a:t=pizz.	!
+.	.	.	4GG	.
+*^			*		*	*	*
+2ryy	1ryy	2.ryy	.	4CC	.
+.	.	.	.	4r	.
+4ryy	.	.	.	4GG#X	.
+4ryy	.	4ryy	.	4CC#X	.
+=4	=4		=4		=4	=4	=4
+*	*		*^		*	*	*
+2ryy	2ryy	8ryy	2.ryy	4ryy	4r	.
+.	.	8ryy	.	.	.	.
+!	!		!	!	!	!LO:TX:a:t=arco	!
+.	.	8ryy	.	.	(12DDL	4ryy
+.	.	.	.	.	12EE	.
+.	.	8ryy	.	.	.	.
+.	.	.	.	.	12FFJ	.
+*v	*v		*	*	*	*	*
+4ryy	4ryy	.	4ryy	4D)	.
+*^			*v	*v	*	*	*
+!	!		!		!	!LO:TX:a:t=pizz.	!
+4ryy	4ryy	4ryy	.	4F	.
+1ryy	2ryy	4ryy	.	4d	.
+*	*		*8va		*	*	*
+.	.	4ryy	.	4f	.
+.	2ryy	4ryy	.	4r	.
+!	!		!		!	!LO:TX:a:t=arco	!
+.	.	4ryy	.	(12e-XL	.
+.	.	.	.	12d	.
+.	.	.	.	12AJ	.
+=5	=5		=5		=5	=5	=5
+*	*		*^		*	*	*
+0ryyyy	1ryy	2.ryy	1ryy	4ryy	4F#X)	4ryy
+!	!		!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	.	4Fn	4ryy
+!	!		!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	.	(12EL	.
+.	.	.	.	.	12E-X	.
+.	.	.	.	.	12DJ	.
+*	*		*	*	*	*	*
+.	.	4ryy	.	.	4AA)	.
+*	*		*v	*v	*	*	*
+!	!		!		!	!LO:TX:a:t=pizz.	!
+*	*		*X8va		*	*	*
+.	4ryy	4ryy	.	4AA-X	.
+!	!		!		!	!LO:TX:a:t=arco	!
+.	4ryy	8ryy	.	(12GGL	.
+.	.	.	.	12GG-X	.
+.	.	8ryy	.	.	.
+.	.	.	.	12FFJ	.
+.	4ryy	4ryy	.	4CC)	.
+.	4ryy	8ryy	.	4r	.
+.	.	8ryy	.	.	.
+=6	=6		=6		=6	=6	=6
+!	!		!		!	!LO:TX:a:t=pizz.	!
+0ryyyy	4ryy	4ryy	.	4C	.
+.	4ryy	8ryy	.	4C#X	4ryy
+.	.	8ryy	4ryy	.	.
+.	2ryy	8ryy	.	4D	.
+.	.	8ryy	.	.	.
+.	.	8ryy	.	4E-X	.
+.	.	8ryy	.	.	.
+.	4ryy	4ryy	.	4A-X	.
+.	4ryy	8ryy	.	4r	.
+.	.	8ryy	.	.	.
+.	4ryy	4ryy	.	4G	.
+.	4ryy	8ryy	.	4r	.
+.	.	8ryy	.	.	.
+*v	*v		*		*	*	*
+=7			=7		=7	=7	=7
+*M5/2			*M5/2		*	*M5/2	*
+2ryy	8ryy	.	4D	.
+.	8ryy	.	.	.
+.	8ryy	.	4r	.
+.	8ryy	.	.	.
+!			!		!	!LO:TX:a:t=arco	!
+2ryy	4ryy	.	(12D#XL	.
+.	.	.	12E#X	.
+.	.	.	12F#XJ	.
+.	4ryy	.	4B)	.
+2ryy	2ryy	.	4r	.
+!			!		!	!LO:TX:a:t=pizz.	!
+.	.	.	4A	.
+2ryy	2ryy	.	4Gn	.
+.	.	.	4BB	.
+*			*8va		*	*	*
+2ryy	4.ryy	.	4AA	.
+.	.	.	4FF#X	.
+.	16ryy	.	.	.
+*			*		*	*	*
+.	16ryy	.	.	.
+*			*X8va		*	*	*
+=			=		=	=	=
+*-			*-		*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**dynam: > = dim.

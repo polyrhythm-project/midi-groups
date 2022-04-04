@@ -1,0 +1,47 @@
+!!!COM: Charles Ives
+!!!OTL: [T244_Ive-w22p3m8-11]
+**kern		**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A		*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5		*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6		*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano		*I"Piano	*I"Piano	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Pno.		*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4		*clefG2	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[f#c#g#]		*k[f#c#g#]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*A:		*A:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*
+*M3/4		*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1		=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!		!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8FF# 8C#	8dL 8a	f	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+4AA 4E	8c#J 8g#	.	.	.	.	.	.	.	.	.
+.	2B 2f#	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+8BB 8F#	.	.	.	.	.	.	.	.	.	.
+.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+4C# 4G#	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+=2		=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*^		*	*	*	*	*	*	*	*	*	*
+4D 4A	4GGG# 4DD 4AA	4d	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+[4E [4B	[4AAA [4EE [4BB	[4e	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.
+8.EL] 8.B]	8.AAAL] 8.EE] 8.BB]	8.eL]	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[16DJk [16A	[16GGG#Jk [16DD [16AA	[16dJk	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8D] 8A]	8GGG#] 8DD] 8AA]	8dL]	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+2E 2B	2AAA 2EE 2BB	[8eJ	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:t=%s -	!	!LO:DY:t=%s -	!	!LO:DY:t=%s -	!	!LO:DY:t=%s -
+.	.	4.e]	ff	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy	8.ryy	4ryy
+.	.	.	.	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+*v	*v	*	*	*	*	*	*	*	*	*	*
+8r	[8eL [8ee	mp	.	.	.	.	.	.	.	.
+=4		=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8AAA 8AA	8eJ] 8ee]	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+4.AAn 4.Gn	4.d 4.dd	.	.	.	.	.	.	.	.	.
+.	.	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+[4FF# [4F#	[4c# [4cc#	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=		=	=	=	=	=	=	=	=	=	=
+*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]

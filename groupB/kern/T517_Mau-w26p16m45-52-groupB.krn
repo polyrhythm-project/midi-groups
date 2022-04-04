@@ -1,0 +1,92 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T517_Mau-w26p16m45-52]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*	*grp:A	*
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Violin 2	*	*I"Violin 1	*
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*met(c)	*	*met(c)	*	*met(c)	*
+=1	=1	=1	=1	=1	=1	=1
+1ryyyy	8ryy	4ryy	8cc#XL	4ryy	4ryy	4ryy
+.	8ryy	.	8b-XJ	.	.	.
+.	8ryy	.	8aL	.	8ryy	.
+.	8ryy	.	8cc#J	.	8ryy	.
+.	8ryy	.	8b-L\	.	8ryy	.
+.	8ryy	.	8aJ	.	8ryy	.
+.	8ryy	.	8cc#L	.	8ryy	.
+.	8ryy	.	8b-J	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2
+1ryyyy	8ryy	.	8aL	.	8ryy	.
+.	8ryy	.	8cc#XJ	.	8ryy	.
+.	8ryy	.	8b-XL\	.	8ryy	.
+.	8ryy	.	8aJ	.	8ryy	.
+.	8ryy	.	8cc#L	.	8ryy	.
+.	8ryy	.	8b-J	.	8ryy	.
+.	8ryy	.	8aL	.	8ryy	.
+.	8ryy	.	8cc#J	.	8ryy	.
+=3	=3	=3	=3	=3	=3	=3
+1ryyyy	8ryy	.	8b-XL\	.	8ryy	.
+.	8ryy	4ryy	8aJ	.	8ryy	.
+.	8ryy	.	8cc#XL	4ryy	8ryy	4ryy
+.	8ryy	.	8b-J	.	8ryy	.
+.	8ryy	.	8aL	.	8ryy	.
+.	8ryy	.	8cc#J	.	8ryy	.
+.	8ryy	.	8b-L\	.	8ryy	.
+.	8ryy	4ryy	8aJ	4ryy	8ryy	4ryy
+=4	=4	=4	=4	=4	=4	=4
+!	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s
+1ryyyy	8ryy	4ryy	8ff#XL	4ryy	4ryy	4ryy
+.	8ryy	.	8ee-XJ	.	.	.
+.	8ryy	.	8ddL	.	8ryy	.
+.	8ryy	.	8ff#J	.	8ryy	.
+.	8ryy	.	8ee-L	.	8ryy	.
+.	8ryy	.	8ddJ	.	8ryy	.
+.	8ryy	.	8ff#L	.	8ryy	.
+.	8ryy	.	8ee-J	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5
+1ryyyy	8ryy	.	8ddL	.	8ryy	.
+.	8ryy	.	8ff#XJ	.	8ryy	.
+.	8ryy	.	8ee-XL	.	8ryy	.
+.	8ryy	.	8ddJ	.	8ryy	.
+.	8ryy	.	8ff#L	.	8ryy	.
+.	8ryy	.	8ee-J	.	8ryy	.
+.	8ryy	.	8dd	.	8ryy	.
+.	8ryy	.	8r	.	8ryy	.
+!!LO:REH:t=50
+=6	=6	=6	=6	=6	=6	=6
+1ryyyy	8ryy	.	8ccnL	.	8ryy	.
+.	8ryy	.	8b-XJ	.	8ryy	.
+.	8ryy	.	8aL	.	8ryy	.
+.	8ryy	.	8ccJ	.	8ryy	.
+.	8ryy	.	8b-L\	.	8ryy	.
+.	8ryy	.	8aJ	.	8ryy	.
+.	8ryy	.	8cc	.	8ryy	.
+.	8ryy	.	8r	.	8ryy	.
+=7	=7	=7	=7	=7	=7	=7
+4ryyyy	8ryy	.	8aL	.	8ryy	.
+.	8ryy	.	8g#XJ	.	8ryy	.
+8ryy	4ryyyy	.	8f#XL	.	8ryy	.
+8ryy	.	.	8aJ	.	8ryy	.
+4ryyyy	8ryy	.	8g#L	.	8ryy	.
+.	8ryy	.	8f#J	.	8ryy	.
+8ryy	4ryyyy	.	8a	.	8ryy	.
+8ryy	.	.	8r	.	8ryy	.
+=8	=8	=8	=8	=8	=8	=8
+4ryyyy	8ryy	.	8f#XL	.	8ryy	.
+.	8ryy	.	8e-XJ	.	8ryy	.
+8ryy	4ryyyy	.	8dL	.	8ryy	.
+8ryy	.	.	8f#J	.	8ryy	.
+4ryyyy	8ryy	.	8e-L	.	8ryy	.
+.	8ryy	.	8dJ	.	8ryy	.
+8ryy	4ryyyy	.	8f#L	.	8ryy	.
+8ryy	.	.	8dJ	.	8ryy	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: <s1,s2>{(s3,s4)}
+!!!RDF**kern: < = below
+!!!EED:Jason Lee
+!!!EEV:2022/01/11

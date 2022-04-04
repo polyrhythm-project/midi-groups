@@ -1,0 +1,71 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T739_Mes-w18p40m102-108]
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff1	*
+*I"Piano 1	*	*	*	*I"Piano 2	*	*
+*I'Pno. 1	*	*	*	*I'Pno. 2	*	*
+*clefF4	*	*clefF4	*	*clefF4	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*
+*8ba	*above	*8ba	*above	*	*	*
+=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=Modéré, presque vif ([quarter]=80)
+!LO:TX:a:i:t=percuté, staccato	!	!LO:TX:a:t=a	!LO:DY:rj	!	!	!
+!LO:TX:b:t=c	!	!	!	!	!	!
+2CCC#X 2GGGn	pp	4.ryy	4ryy	2ryy	2ryy	.
+.	.	8ryy	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4AAAA#X 4EEE	.	16ryy	.	2ryy	2ryy	.
+.	.	8.ryy	.	.	.	.
+[4CCC#X [4GGGn	.	8.ryy	.	.	.	.
+!	!	!LO:TX:a:t=b	!LO:DY:rj	!	!	!
+.	.	16ryy	4ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4CCC#X] 4GGG]	.	16ryy	.	2ryy	2ryy	.
+.	.	16ryy	.	.	.	.
+.	.	8ryy	.	.	.	.
+!LO:TX:b:t=d	!	!	!	!	!	!
+[4AAAA#X [4EEE	p	8ryy	4ryy	.	.	.
+.	.	8ryy	.	.	.	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!LO:TX:i:t=très libre, très passionneé	!
+4AAAA#] 4EEE]	.	8ryy	.	4ryy	4ryy	4ryy
+.	.	8ryy	.	.	.	.
+8CCC#X'L 8GGGn	.	8ryy	.	16ryy	8ryy	.
+.	.	.	.	8.ryy	.	.
+[8AAAAJ [8EEE	.	8ryy	.	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5
+8AAAAL] 8EEE]	.	8ryy	.	2ryy	16.ryy	.
+!	!	!	!	!	!LO:TX:b:i:t=g	!
+.	.	.	.	.	32ryy	.
+!	!	!	!	!	!LO:TX:a:i:t=dr	!
+16CCC#X'L 16GGGn	.	8ryy	.	.	8ryy	.
+[16AAAA~JJ [16EEE	.	.	.	.	.	.
+4AAAA_ 4EEE_	.	8ryy	.	.	4ryy	.
+.	.	8ryy	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+!	!	!LO:TX:a:t=a	!LO:DY:rj	!	!	!
+4AAAA_ 4EEE_	.	4.ryy	4ryy	4ryy	4ryy	.
+16AAAAKL] 16EEE]	.	.	.	16ryy	8ryy	.
+!LO:TX:b:t=e	!	!	!	!	!	!
+[8.CCC#XJ [8.GGGn	pp	.	.	8.ryy	.	.
+.	.	8ryy	.	.	8ryy	.
+=7	=7	=7	=7	=7	=7	=7
+4CCC#_ 4GGGn_	.	16ryy	.	2ryy	16.ryy	.
+.	.	8.ryy	.	.	.	.
+.	.	.	.	.	32ryy	.
+.	.	.	.	.	8ryy	.
+16CCC#KL] 16GGGn]	.	8.ryy	.	.	4ryy	.
+[8.AAAA#XJ [8.EEE	.	.	.	.	.	.
+!	!	!LO:TX:a:t=b	!LO:DY:a:rj	!	!	!
+.	.	16ryy	4ryy	.	.	.
+*X8ba	*	*X8ba	*	*	*	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!EED: Jason Lee
+!!!EEV: 2021/09/28

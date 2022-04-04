@@ -1,0 +1,271 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T165_Deb-w44p4-5h1m19-36]
+**kern		**kern		**dynam	**kern	**kern		**dynam
+*grp:A		*grp:A		*grp:A	*grp:B	*grp:B		*grp:B
+*part2		*part2		*part2	*part1	*part1		*part1
+*staff4		*staff3		*staff3/4	*staff2	*staff1		*staff1/2
+*I" Piano 2		*I" Piano 2		*I" Piano 2	*I" Piano 1	*I" Piano 1		*I" Piano 1
+*I' Pno. 2		*		*	*I' Pno. 1	*		*
+*clefF4		*clefG2		*	*clefG2	*clefG2		*
+*k[b-e-]		*k[b-e-]		*	*k[b-e-]	*k[b-e-]		*
+*B-:		*B-:		*	*B-:	*B-:		*
+*M3/4		*M3/4		*	*M3/4	*M3/4		*
+=19		=19		=19	=19	=19		=19
+*		*		*	*	*Xtuplet		*
+*^		*^		*	*	*^		*
+!	!	!LO:TX:a:B:t=Sans rigueur	!	!LO:DY:t=%s  dolce  (effacé)	!LO:TX:t=[[half-dot]=66]	!LO:TX:a:B:t=A	!LO:TX:a:B:t=Sans rigueur	!LO:DY:t=%s  dolce
+4ryy	(4G	(4f 4F<	2.B- 2.d	p	8ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4FF\	4g 4G<	.	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	[4BBB-\	[4f) [4F<	.	.	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+4ryy	4BBB-\]	4f] 4F<]	4ryy	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4FF\	(4g~ 4G<	2A 2e-	.	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	[4G)	[4f) [4F<	.	.	4ryy	4ryyyy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+*	*	*	*	*	*clefF4	*	*	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+4ryy	4G]	(4f] 4F<]	2B- 2d	.	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4FF\	4g 4G<	.	.	8ryy	4ryyyy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	[4BBB-\	[4f) [4F<	[4A [4e-	.	8ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+4ryy	4BBB-\]	4f] 4F<]	4A] 4e-]	.	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+*	*	*	*	*	*clefG2	*	*	*
+4ryy	4FF\	(4g~ 4G<	2A 2e-	<	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	[4G	[4f) [4F<	.	[	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	.	12ryy	4ryy
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	(<4G]	(4f] 4F<]	2B- 2d	p	4.ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4FF\	4g 4G<	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	12ryy	12ryy	.
+*v	*v	*	*	*	*	*v	*v	*
+*		*v	*v	*	*	*		*
+*		*		*	*	*Xtuplet		*
+*^		*^		*	*	*^		*
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	[4BBB-\	[4f [4F<	[4B- [4d	.	4ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+4ryy	4BBB-\]	4f] 4F<]	4d] 4B-]	.	6ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	12ryy	12ryy	12ryy	.
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	4FF\	4g 4G<	2B- 2d	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4G)	4f) 4F<	.	.	6ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	12ryy	12ryy	12ryy	4ryy
+*	*	*v	*v	*	*	*	*	*
+=25	=25	=25		=25	=25	=25	=25	=25
+!	!	!		!	!	!LO:TX:a:B:t=B	!	!
+!	!	!		!	!	!LO:N:vis=4.	!	!LO:DY:t=%s  lusigando
+[2.B- [2.d-X	(4F	(<2enTT	pp	8ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	4FF	.	.	8ryy	12ryyyy	12ryy	.
+.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	12ryy	12ryy	.
+!	!	!		!	!LO:TX:t=P:problem: cross-staff beam is not implemented at this time.	!LO:N:vis=4.	!	!
+.	[4BBB-	[4eenTT)	.	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+=26	=26	=26		=26	=26	=26	=26	=26
+*	*	*		*	*	*	*	*
+4B-] 4d-X]	4BBB-]	(>4eenXTTT]	.	8ryy	12ryyyy	12ryy	.
+.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	12ryy	12ryy	.
+!	!	!		!	!	!LO:N:vis=4.	!	!
+/2F 2B- 2d-)	4ryy	2enTT)	.	8ryy	4ryy	12ryy	.
+.	.	.	.	.	.	12ryy	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	12ryy	.
+.	4ryy	.	.	8ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	.	.
+.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	12ryy	12ryy	.
+.	.	16d#qqLL	.	.	.	.	.
+.	.	16eqqJJ	.	.	.	.	.
+=27	=27	=27		=27	=27	=27	=27	=27
+*	*	*^		*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:a:B:t=C	!	!
+!	!	!	!	!	!	!LO:N:vis=4.	!	!LO:DY:t= %s  dolce
+4ryy	(4G	(4f 4F<	2.B- 2.dn	p	4.ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4FF\	4g 4G<	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	12ryy	12ryy	.
+*v	*v	*	*	*	*	*v	*v	*
+*		*	*	*	*	*Xtuplet		*
+*^		*	*	*	*	*^		*
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	[4BBB-\	[4f [4F<	.	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+4ryy	4BBB-\]	4f] 4F<]	4ryy	.	6ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	12ryy	12ryy	12ryy	.
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	4FF\	4a-X 4A-X<	2d 2f	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4G)	4b-) 4B-<	.	.	6ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	12ryy	12ryy	12ryy	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+!	!	!	!	!LO:HP:t=cresc., poco	!	!LO:N:vis=4.	!	!LO:HP:t=cresc., poco
+4ryy	(4F	(4bn 4Bn<	2.e- 2.a-X	<	4.ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4FF\	4cc 4c<	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	8ryy	.	.	.
+.	.	.	.	.	.	12ryy	12ryy	.
+*v	*v	*	*	*	*	*v	*v	*
+*		*	*	*	*	*Xtuplet		*
+*^		*	*	*	*	*^		*
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	[4BBB-\	4b-X 4B-X<	.	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+4ryy	4BBB-\]	4f 4F<	2B- 2e-	.	6ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+.	.	.	.	.	12ryy	12ryy	12ryy	.
+!	!	!	!	!	!	!LO:N:vis=4.	!	!
+4ryy	4FF\	4a-X 4A-X<	.	.	4ryy	4ryy	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	12ryy	.
+4ryy	4F)	4b-) 4B-<	4e- 4f	.	6ryy	12ryyyy	12ryy	.
+.	.	.	.	.	.	12ryyyy	12ryy	.
+!	!	!	!	!	!	!LO:TX:a:B:t=D	!	!
+.	.	.	.	.	12ryy	12ryy	12ryy	.
+*v	*v	*	*	*	*	*v	*v	*
+*		*v	*v	*	*	*		*
+=31||		=31||		=31||	=31||	=31||		=31||
+*k[b-e-a-d-g-c-]		*k[b-e-a-d-g-c-]		*	*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]		*
+*G-:		*G-:		*	*G-:	*G-:		*
+*Xtuplet		*Xtuplet		*	*	*		*
+!		!		!LO:DY:t=%s subito	!	!		!LO:DY:t=%s  subito
+4r	(12d-L	p	2ryy	12ryy	4ryy
+.	12e-	.	.	12ryy	.
+.	12fJ	.	.	12ryy	.
+4CC-X' 4C-X	12e-L	.	.	12ryy	.
+.	12d-	.	.	12ryy	.
+.	12c-J)	.	.	12ryy	.
+4AAA-' 4AA-	(12d-L	.	4ryy	12ryy	.
+.	12e-	.	.	12ryy	.
+.	12fJ	.	.	12ryy	.
+=32		=32		=32	=32	=32		=32
+4%3r	12e-L	.	4ryy	12ryy	.
+.	12d-	.	.	12ryy	.
+.	12c-J)	.	.	12ryy	.
+!		!LO:TX:b:i:t=m.g.		!	!	!		!
+.	\(12d-L	.	2ryy	12ryy	.
+.	\12e-	.	.	12ryy	.
+.	\12fJ	.	.	12ryy	.
+.	\12e-L	.	.	12ryy	.
+.	\12d-	.	.	12ryy	.
+.	\12c-J)	.	.	12ryy	.
+=33		=33		=33	=33	=33		=33
+4r	(12dd-L	pp	2ryy	12ryy	4ryy
+.	12ee-	.	.	12ryy	.
+.	12ffJ	.	.	12ryy	.
+4CC-' 4C-	12ee-L	.	.	12ryy	.
+.	12dd-	.	.	12ryy	.
+.	12cc-J)	.	.	12ryy	.
+4AAA-' 4AA-	(12dd-L	.	4ryy	12ryy	.
+.	12ee-	.	.	12ryy	.
+.	12ffJ	.	.	12ryy	.
+=34		=34		=34	=34	=34		=34
+4r	12ee-L	.	4ryy	12ryy	.
+.	12dd-	.	.	12ryy	.
+.	12cc-J)	.	.	12ryy	.
+*clefG2		*		*	*	*		*
+4ryy	(12dd-<L	.	2ryy	12ryy	.
+.	12ee-<	.	.	12ryy	.
+.	12ff<J	.	.	12ryy	.
+4ryy	12ee-<L	.	.	12ryy	.
+.	12dd-<	.	.	12ryy	.
+.	12cc-<J)	.	.	12ryy	.
+=35		=35		=35	=35	=35		=35
+*		*8va		*	*	*		*
+2.dd-TT	(12eeee-L	.	2ryy	12ryy	.
+.	12dddd-	.	.	12ryy	.
+.	12cccc-J	.	.	12ryy	.
+.	12bbb-L	.	.	12ryy	.
+.	12aaa-	.	.	12ryy	.
+.	12ggg-J	.	.	12ryy	.
+.	12fffL	.	4ryy	12ryy	.
+.	12eee-	.	.	12ryy	.
+.	12ddd-J	.	.	12ryy	.
+*		*X8va		*	*	*		*
+=36		=36		=36	=36	=36		=36
+4dd-	12ccc-L	>	4ryy	12ryy	4ryy
+.	12bb-	.	.	12ryy	.
+.	12aa-J	.	.	12ryy	.
+4r	12gg-L	.	2ryy	12ryy	.
+.	12ff	.	.	12ryy	.
+.	12ee-J	.	.	12ryy	.
+4r	16dd-LL	.	.	12ryy	.
+.	16cc-	.	.	.	.
+.	.	.	.	12ryy	.
+.	16b-	.	.	.	.
+.	.	.	.	12ryy	4ryy
+.	16a-JJ)	]	.	.	.
+=||		=||		=||	=||	=||		=||
+*-		*-		*-	*-	*-		*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: j = editorial accidental, bracket
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08

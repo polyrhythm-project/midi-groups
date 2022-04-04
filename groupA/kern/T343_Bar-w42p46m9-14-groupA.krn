@@ -1,0 +1,57 @@
+!!!COM: Béla Bartók
+!!!OTL: [T343_Bar-w42p46m9-14]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*	*part1	*
+*staff2	*	*staff1	*
+*I"Violin 2	*	*I"Violin 1	*
+*I'Vln. 2	*	*I'Vln. 1	*
+*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*
+*M2/4	*	*M2/4	*
+=9	=9	=9	=9
+!	!	!LO:TX:t=[Allegro, [quarter]=136–144]	!
+!	!LO:DY:t=[ %s pesante]	!	!LO:DY:t=[ %s pesante]
+8B-XL	f	16ryy	4ryy
+.	.	16ryy	.
+8c#X	.	16ryy	.
+.	.	16ryy	.
+8B-J	.	8ryy	.
+8dL	.	8ryy	.
+=10	=10	=10	=10
+8c#X	.	8ryy	.
+8B-X'J	.	8ryy	.
+8dL	.	16ryy	.
+.	.	16ryy	.
+8c#	.	8ryy	.
+=11	=11	=11	=11
+8B-XJ	.	16ryy	.
+.	.	16ryy	.
+8dL	.	8ryy	.
+8c#X	.	16ryy	.
+.	.	16ryy	.
+8B-J	.	8ryy	.
+=12	=12	=12	=12
+!	!	!	!
+8dL	.	8ryy	.
+8c#X	.	8ryy	.
+8B-XJ	.	8ryy	.
+8dL	.	8ryy	.
+=13	=13	=13	=13
+8c#X	.	8ryy	.
+8B-XJ	.	8ryy	.
+8dL	.	8ryy	.
+8c#	.	8ryy	.
+=14	=14	=14	=14
+8B-XJ	.	8ryy	.
+8dL	.	8ryy	.
+8c#X	.	4ryy	.
+8B-J	.	.	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: {s1,s2}
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/14
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/30

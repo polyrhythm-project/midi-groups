@@ -1,0 +1,92 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T641_Hin-w35p11m1-13]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part3	*	*part3	*part3	*part2	*part2	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Heckelphone	*	*I"Viola	*
+*I'Pno.	*	*	*	*I'Heckl.	*	*I'Vla.	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefC3	*
+*	*	*	*	*ITrd7c12	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!LO:DY:t=%s staccatissimo	!	!	!LO:TX:a:B:t=Schnell Halbe ([half] = 126)	!
+4ryy	.	4r	mp	2.ryy	4ryy	1ryy	.
+4ryy	.	4F#X'	.	.	.	.	.
+4ryy	.	4A'	.	.	.	.	.
+4ryy	.	4Fn'	.	4ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	4B'	.	8ryy	.	1ryy	.
+.	.	.	.	8ryy	.	.	.
+4ryy	.	4r'	.	4ryy	4ryy	.	.
+4ryy	.	4E'	.	8ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+4ryy	.	4G#X'	.	4ryy	4ryy	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4D#X'	.	4ryy	.	1ryy	.
+4ryy	.	4A#X'	.	4ryy	4ryy	.	.
+4ryy	.	4r'	.	4ryy	.	.	.
+4ryy	.	4C#X'	.	4ryy	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	.	4Gn'	.	2ryy	.	1ryy	.
+4ryy	.	4Fn'	.	.	.	.	.
+4ryy	.	4cn'	.	4ryy	4ryy	.	.
+4ryy	.	4r	.	4ryy	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4ryy	.	4E-X'	.	2ryy	.	1ryy	.
+4ryy	.	4A'	.	.	.	.	.
+4ryy	.	4G'	.	4ryy	4ryy	.	.
+4ryy	.	4A-X'	.	4ryy	4ryy	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4ryy	.	4r'	.	4ryy	.	1ryy	.
+4ryy	.	4Fn'	.	2ryy	.	.	.
+4ryy	.	4B-X'	.	.	.	.	.
+4ryy	.	4G'	.	4ryy	.	.	.
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7	=7
+4ryy	.	4e-X'	<	4ryy	4ryy	1ryy	.
+4ryy	.	4r'	.	4ryy	.	.	.
+4ryy	.	4En'	.	4ryy	4ryy	.	.
+4ryy	.	4A'	[	4ryy	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4ryy	.	4Fn'	.	8ryy	.	1ryy	.
+.	.	.	.	8ryy	.	.	.
+4ryy	.	4B'	.	4ryy	4ryy	.	.
+4ryy	.	4r'	.	2ryy	4ryy	.	.
+4ryy	.	4E-X'	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+4ryy	.	4c'	.	2ryy	.	1ryy	.
+4ryy	.	4F#X'	.	.	.	.	.
+4ryy	.	4d'	.	4ryy	4ryy	.	.
+4ryy	.	4r'	.	4ryy	4ryy	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+4ryy	.	4G'	.	4ryy	.	1ryy	.
+4ryy	.	4B'	.	4ryy	.	.	.
+4ryy	.	4G#X'	.	4ryy	.	.	.
+4ryy	.	4c#X'	.	4ryy	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+4ryy	.	4r'	.	8ryy	.	1ryy	.
+.	.	.	.	8ryy	.	.	.
+4ryy	.	4C#X'	>	4ryy	.	.	.
+4ryy	.	4B'	.	2ryy	4ryy	.	.
+4ryy	.	4G'	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+4ryy	.	4B-X'	.	2.ryy	.	1ryy	.
+4ryy	.	4r'	.	.	.	.	.
+4ryy	.	4E-X'	.	.	.	.	.
+4ryy	.	4G'	]	4ryy	4ryy	.	.
+!!LO:REH:t=A
+=13	=13	=13	=13	=13	=13	=13	=13
+4ryy	.	4F'	.	2ryy	.	1ryy	.
+4ryy	.	4An'	.	.	.	.	.
+4ryy	.	4r'	.	4.ryy	4ryy	.	.
+4ryy	.	4Cn'	.	.	.	.	.
+.	.	.	.	8ryy	4ryy	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/27

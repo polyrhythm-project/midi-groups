@@ -1,0 +1,72 @@
+!!!COM: Charles Ives
+!!!OTL: [T245_Ive-w11p5m29-31]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part3	*part3	*	*part2	*	*part1	*part1
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Clarinet in Bb	*	*I"Violin	*
+*I'Pno.	*	*	*I'Cl.	*	*I'Vln.	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*ITrd1c2	*	*	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!LO:TX:t=[quarter]=90	!
+!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8.DD^^L 8.D	8.d^^L	mf	16ryy	4ryy	8ryy	4ryy
+.	.	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16EE^^Jk [16E	[16c#X^^Jk	.	16ryy	.	.	.
+8.EEL] 8.E]	8c#L]	.	16ryy	.	8ryy	.
+.	.	.	16ryy	.	.	.
+.	[8cn^^J	.	16ryy	.	8ryy	.
+[16FF^^Jk [16F	.	.	16ryy	.	.	.
+8.FFL] 8.F]	16cKL]	.	16ryy	.	8ryy	.
+.	8.Bn^^J	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16GG^^Jk [16G	.	.	16ryy	.	.	.
+8.GGL] 8.G]	8.B-X^^L	.	16ryy	.	8ryy	.
+.	.	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16GG#X^^Jk [16G#X	[16dn^^Jk	.	16ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+8.GG#L] 8.G#]	8dL]	.	16ryy	.	8ryy	.
+.	.	.	16ryy	.	.	.
+.	[8c#X^^J	.	16ryy	.	8ryy	.
+[16DD^^Jk [16D	.	.	16ryy	.	.	.
+8.DD^^L] 8.D]	16c#KL]	.	16ryy	.	8ryy	.
+.	8.cn^^J	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16EE^^Jk [16E	.	.	16ryy	.	.	.
+8.EEL] 8.E]	8.Bn^^L	.	16ryy	.	8ryy	.
+.	.	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16FF^^Jk [16F	[16B-X^^Jk	.	16ryy	.	.	.
+8.FFL] 8.F]	8B-L]	.	16ryy	.	8ryy	.
+.	.	.	16ryy	.	.	.
+.	[8d^^J	.	16ryy	.	8ryy	4ryy
+[16GGn^^Jk [16Gn	.	.	16ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+8.GGL] 8.G]	16dKL]	.	16ryy	.	8ryy	.
+.	8.d#X^^J	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16GG#X^^Jk [16G#X	.	.	16ryy	.	.	.
+8.GG#L] 8.G#]	8.cn^^L	.	16ryy	.	8ryy	.
+.	.	.	16ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.
+[16DD^^Jk [16D	(16Bn^^Jk	.	16ryy	.	.	.
+8.DDL] 8.D]	16aLL)	.	16ryy	.	8ryy	4ryy
+*	*^	*	*	*	*	*
+.	16ryy@	[8.B-X^^	.	8.ryy	.	.	.
+.	16f 16a	.	.	.	.	8ryy	.
+[16EE^^Jk [16E	16d#JJ	.	.	.	.	.	.
+8.EEL] 8.E]	16aLL)	16B-KL]	.	16ryy	.	8ryy	.
+.	(16c#X	8c#^^	.	8ryy	.	.	.
+.	16f 16a)	.	.	.	.	8ryy	.
+[16FF^^Jk [16F	(16cnJJ	[16c^^Jk	.	16ryy	.	.	.
+*	*v	*v	*	*	*	*	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]

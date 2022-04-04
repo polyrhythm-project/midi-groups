@@ -1,0 +1,94 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T615_Hin-w5p24hCm1-5]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Ivioln	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*
+*D:	*D:	*	*D:	*
+*M3/4	*M3/4	*	*M3/4	*
+*	*8va	*	*	*
+*	*Xtuplet	*	*	*
+!!LO:REH:t=C
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[[quarter]=128]	!
+!	!	!LO:DY:ed=brack	!LO:TX:a:B:t=Wieder sehr fließend	!
+8DDD#Xi] 8DD#Xi]	12ryy	4ryy	4d#Xi]	pp
+.	12ryy	.	.	.
+4DDD#X 4DD#X	.	.	.	.
+.	12ryy	.	.	.
+!	!	!LO:DY:t= %s  sempre ben legato	!	!
+.	12ryy	4ryy	8.eL	.
+.	12ryy	.	.	.
+4DDD# 4DD#	.	.	.	.
+.	12ryy	.	.	.
+.	.	.	16d#XJk	.
+.	12ryy	.	[4e	.
+.	12ryy	.	.	.
+[8DDD# [8DD#	.	.	.	.
+.	12ryy	.	.	.
+=2	=2	=2	=2	=2
+8DDD#X] 8DD#X]	12ryy	.	4e])j	.
+.	12ryy	.	.	.
+4DDD# 4DD#	.	.	.	.
+.	12ryy	.	.	.
+.	12ryy	.	(4e#X	.
+.	12ryy	.	.	.
+4DDD# 4DD#	.	.	.	.
+.	12ryy	.	.	.
+.	12ryy	.	8dd#XL	.
+.	12ryy	.	.	.
+[8DDD# [8DD#	.	.	8cc#J	.
+.	12ryy	.	.	.
+=3	=3	=3	=3	=3
+8DDD#] 8DD#]	12ryy	.	4b	.
+.	12ryy	.	.	.
+4DDD#X 4DD#X	.	.	.	.
+.	12ryy	.	.	.
+.	12ryy	.	8.g##XL	.
+.	12ryy	.	.	.
+4DDD# 4DD#	.	.	.	.
+.	12ryy	.	.	.
+.	.	.	16a#XJk	<
+.	12ryy	.	[4cc##X	.
+.	12ryy	.	.	.
+[8DDD# [8DD#	.	.	.	.
+.	12ryy	.	.	.
+=4	=4	=4	=4	=4
+8DDD#] 8DD#]	12ryy	.	8cc##L])	.
+.	12ryy	.	.	.
+4DDD#X 4DD#X	.	.	(8gg#X	[
+.	12ryy	.	.	.
+.	12ryy	.	8ff#	.
+.	12ryy	.	.	.
+4DDD# 4DD#	.	.	8ee#X	.
+.	12ryy	.	.	.
+.	12ryy	.	8dd#X	.
+.	12ryy	.	.	.
+[8DDD# [8DD#	.	.	8cc##XJ	.
+.	12ryy	.	.	.
+=5	=5	=5	=5	=5
+8DDD#] 8DD#]	12ryy	.	4aa#X	.
+.	12ryy	.	.	.
+4DDD#X 4DD#X	.	.	.	.
+.	12ryy	.	.	.
+.	12ryy	.	8bbL	.
+.	12ryy	.	.	.
+4DDD# 4DD#	.	.	8gg#XJ	.
+.	12ryy	.	.	.
+.	12ryy	.	[4een)	> ]
+.	12ryy	.	.	.
+[8DDD# [8DD#	.	.	.	.
+.	12ryy	.	.	.
+*	*X8va	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: i = editorial accidental, brack
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

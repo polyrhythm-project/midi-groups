@@ -1,0 +1,101 @@
+!!!COM: Manuel de Falla (y Matheu)
+!!!OTL: [T305_Fal-w7p15m204-222]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*	*
+*I'Pno.	*	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
+*B:	*B:	*
+*M3/8	*M3/8	*
+=1	=1	=1
+!	!LO:TX:t=[[quarter-dot]=52]	!
+!	!LO:TX:b:i:t=Dolcemente marc. il canto	!
+!	!	!LO:DY:rj:a=2
+(8GG#L	8ryy	4ryy
+8F#	8ryy	.
+8BJ)	8ryy	.
+=2	=2	=2
+(8C#L	8ryy	.
+8G#	4ryy	.
+8c#J)	.	.
+=3	=3	=3
+(8GG#L	4ryy	.
+8F#	.	.
+!	!LO:TX:t=P:problem: cross-bar beaming to be implemented	!
+8BJ)	8ryy	.
+=4	=4	=4
+(8C#L	8ryy	.
+8G#	4ryy	.
+8c#J)	.	.
+=5	=5	=5
+(8GG#L	8ryy	.
+8F#	8ryy	.
+8BJ)	8ryy	.
+=6	=6	=6
+(8C#L	8ryy	.
+8G#	4ryy	.
+8c#J)	.	.
+=7	=7	=7
+(8GG#L	4ryy	.
+8F#	.	.
+!	!LO:TX:t=P:problem: cross-bar beaming to be implemented	!
+8BJ	8ryy	.
+=8	=8	=8
+8EL	8ryy	.
+8An	4ryy	.
+8G#J)	.	.
+=9	=9	=9
+(8GG#L	8ryy	.
+8F#	8ryy	.
+8G#J	8ryy	.
+=10	=10	=10
+8AnL	8ryy	.
+8B	4ryy	.
+8G#J)	.	.
+=11	=11	=11
+(8GG#L	4ryy	.
+8F#	.	.
+!	!LO:TX:t=P:problem: cross-bar beaming to be implemented	!
+8G#J	8ryy	.
+=12	=12	=12
+8AnL	8ryy	.
+8B	4ryy	.
+8G#J)	.	.
+=13	=13	=13
+(8GG#L>	8ryy	.
+8F#	8ryy	.
+8G#J	8ryy	.
+=14	=14	=14
+8AnL	8ryy	.
+8B	4ryy	.
+8G#J)	.	.
+=15	=15	=15
+(8GG#L>	4ryy	.
+8G#	.	.
+!	!LO:TX:t=P:problem: cross-bar beaming to be implemented	!
+8F#J	8ryy	.
+=16	=16	=16
+8C#L>	8ryy	.
+8D#	4ryy	.
+8EJ)	.	.
+=17	=17	=17
+(8GG#L	8ryy	.
+8C#	8ryy	.
+8D#J	8ryy	.
+=18	=18	=18
+8EL	8ryy	.
+8F#	4ryy	.
+8D#J)	.	.
+=19	=19	=19
+(8GG#L	4ryy	.
+8G#	.	.
+8F#J	8ryy	.
+=	=	=
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

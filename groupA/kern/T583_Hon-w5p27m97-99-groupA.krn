@@ -1,0 +1,134 @@
+!!!COM: Arthur Honegger
+!!!OTL: [T583_Hon-w5p27m97-99]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:C	*	*grp:C	*	*grp:B	*	*grp:B	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Horn in F 3. 4.	*	*I"Horns in F 1. 2.	*	*I"Contrabassoon	*	*I"Bassoons	*	*I"Clarinets in Bb	*	*I"English Horn	*	*I"Oboes	*	*I"Flutes	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Timp.	*	*I'Hn.	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'E.H.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Itimpa	*	*Icor	*	*Icor	*	*Ifag_c	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*	*ITrd-7c-12	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[b-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*C:	*	*	*	*	*	*E-:	*	*E-:	*	*	*	*	*	*E-:	*	*E-:	*	*E-:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=138	!
+*	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*Xtuplet	*
+*	*	*	*	*tremolo	*	*tremolo	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TUP:num=3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
+!LO:TUP:a	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TUP:a	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+12DDL	4ryy	12DDL	4ryy	24ryy	4ryy	24ryy	4ryy	24ryy	4ryy	1ryy	4ryy	12.ryy	4ryy	12.ryy	12.ryy	4ryy	4DDD	4ryy	12DDnL	4ryy	12ryy	4ryy	8ryy	4ryy	8ryy	4ryy	12ryy	4ryy	12ryy	4ryy
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12DD	.	12DD	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	12DD	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	24ryy	.	24ryy	24ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+12DDJ	.	12DDJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	12DDJ	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TUP:num=3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8FF#XL	.	8FF#XL	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	8FFF#XL	.	8FF#XL	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+8DDJ	.	8DDJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	8DDDJ	.	8DDJ	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TUP:num=3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12CCL	.	12CL	.	24ryy	.	24ryy	.	24ryy	.	.	.	12.ryy	.	12.ryy	12.ryy	.	4CC	.	12CnL	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12CC	.	12C	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	12C	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	24ryy	.	24ryy	24ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+12CCJ	.	12CJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	12CJ	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TUP:num=3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EE-L	.	8E-L	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	8EE-XL	.	8E-XL	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+8CCJ	.	8CJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	8CCJ	.	8CJ	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!
+12DDL	.	12DL	.	24ryy	.	24ryy	.	24ryy	.	1ryy	.	12.ryy	.	12.ryy	12.ryy	.	4DD	.	12DL	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12DD	.	12D	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	12D	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	24ryy	.	24ryy	24ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.
+12DDJ	.	12DJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	12DJ	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FF#XL	.	8F#XL	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	8FF#XL	.	8F#XL	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	4ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+8DDJ	.	8DJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	8DDJ	.	8DJ	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!
+12CL	.	12cL	.	24ryy	.	24ryy	.	24ryy	.	.	.	12.ryy	.	12.ryy	12.ryy	.	4C	.	12cL	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	2ryy	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12C	.	12c	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	12c	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	24ryy	.	24ryy	24ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+12CJ	.	12cJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	12cJ	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E-L	.	8e-L	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	8E-L	.	8e-L	.	12ryy	.	8ryy	.	8ryy	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+8CJ	.	8cJ	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	8CJ	.	8cJ	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	12ryy	.	12ryy	12ryy	.	.	.	.	.	12ryy	.	.	.	.	.	12ryy	.	.	.
+.	.	.	.	24ryy	.	24ryy	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*Xtuplet	*	*	*	*	*	*tuplet	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*tuplet	*	*	*	*	*	*tuplet	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!
+*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*	*	*	*	*	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*	*	*	*grp:A	*	*grp:A	*
+4ryy	.	24ryy	.	12DL	.	12dL	.	12dL	.	1ryy	.	12.ryy	.	12.ryy	12.ryy	.	12ryy	.	12ryy	.	12dnL	.	8ryy	.	8ryy	.	12ddL	.	2r	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	12D	.	12d	.	12d	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12d	.	.	.	.	.	12dd	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	24ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	24ryy	.	12DJ	.	12dJ	.	12dJ	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	12dJ	.	.	.	.	.	12ddJ	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	24ryy	.	8F#XL	.	8f#XL	.	8f#XL	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	8f#XL	.	8ryy	.	8ryy	.	8ff#XL	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	8DJ	.	8dJ	.	8dJ	.	.	.	.	.	.	.	.	.	.	.	.	8dJ	.	8ryy	.	8ryy	.	8ddJ	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!LO:TUP:a	!	!	!
+4ryy	.	24ryy	.	12cL	.	12ccL	.	12ccL	.	.	.	12.ryy	.	12.ryy	12.ryy	.	12ryy	.	12ryy	.	12ccL	.	8ryy	.	8ryy	.	12cccL	.	12cccL	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	12c	.	12cc	.	12cc	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12cc	.	.	.	.	.	12ccc	.	12ccc	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	24ryy	.	24ryy	24ryy	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	24ryy	.	12cJ	.	12ccJ	.	12ccJ	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	12ccJ	.	.	.	.	.	12cccJ	.	12cccJ	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	24ryy	.	8e-XL	.	8ee-XL	.	8ee-XL	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	8ee-XL	.	8ryy	.	8ryy	.	8eee-XL	.	8eee-XL	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	8cJ	.	8ccJ	.	8ccJ	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ	.	8ryy	.	8ryy	.	8cccJ	.	8cccJ	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5[(s6,s7)])][([(s8,s9)]s10)][(s11,s12)]s13,s14,s15
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/10

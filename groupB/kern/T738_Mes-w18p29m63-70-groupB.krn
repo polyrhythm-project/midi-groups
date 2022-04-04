@@ -1,0 +1,95 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T738_Mes-w18p29m63-70]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff2	*staff1	*staff1
+*I"Piano 2	*	*	*I"Piano 1	*	*	*
+*I'Pno. 2	*	*	*I'Pno. 1	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*	*	*	*8va	*
+=1	=1	=1	=1	=1	=1	=1
+!	!LO:TX:t= Un peu plus lent ([eighth]=63)	!	!	!	!LO:TX:t= Un peu plus lent ([eighth]=63)	!
+!	!	!	!	!	!LO:TX:b:t=(sans sourd.)	!LO:DY:b:t=%s clair
+8ryy	8ryy	.	2r	.	16ryy	4ryy
+.	.	.	.	.	16ryy	.
+!	!	!LO:DY:t=%s expressif	!	!	!	!
+4ryy	8ryy	4ryy	.	.	16ryy	.
+.	.	.	.	.	16ryy	.
+.	8ryy	.	.	.	16ryy	.
+.	.	.	.	.	16ryy	.
+8ryy	8ryy	.	.	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2
+16ryy	16ryy	.	8.r	.	8ryy	.
+8.ryy	8.ryy	.	.	.	.	.
+.	.	.	.	.	16ryy	.
+*	*	*	*clefF4	*	*	*
+*	*	*	*8ba	*above	*	*
+!	!	!	!LO:TX:b:t=(percuté, en laissant résonner)	!	!	!
+.	.	.	[16CCC#X [16GGG#X [16DDn	p	16ryy	.
+4ryy	4ryy	.	8.CCC#L] 8.GGG#] 8.DD]	.	8ryy	.
+.	.	.	.	.	16ryy	.
+.	.	.	[16EEEnJk [16BBBn [16FFn	.	16ryy	.
+=3	=3	=3	=3	=3	=3	=3
+16ryy	16ryy	.	8.EEEL] 8.BBB] 8.FF]	.	16ryy	.
+8.ryy	8ryy	.	.	.	16ryy	.
+.	.	.	.	.	16ryy	.
+!	!	!	!	!LO:DY:t=poco %s 	!	!
+.	16ryy	.	[16AAAA^>Jk	sf	16ryy	.
+16ryy	16ryy	.	8.AAAAL]	.	8ryy	.
+8.ryy	8ryy	.	.	.	.	.
+.	.	.	.	.	8ryy	.
+.	16ryy	.	[16CCC#XJk [16GGG#X [16DDn	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+2ryy	8ryy	.	16CCC#XKL] 16GGG#X] 16DDn]	.	8ryy	.
+.	.	.	8.EEEJ 8.BBB 8.FFn	.	.	.
+.	8ryy	4ryy	.	.	8ryy	.
+!	!	!	!	!LO:DY:t= poco %s	!	!
+.	4ryy	.	8AAAA^>L	sf	4ryy	.
+.	.	.	8CCC#XJ 8GGG#X 8DD	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5
+4ryy	8ryy	4ryy	8EEEL 8BBB 8FF	.	16ryy	.
+.	.	.	.	.	16ryy	.
+!	!	!	!	!LO:DY:t=poco %s	!	!
+.	8ryy	.	8AAAA^>J	sf	16ryy	.
+.	.	.	.	.	16ryy	.
+4ryy	8ryy	.	8.CCC#XL 8.GGG#X 8.DD	.	16ryy	.
+.	.	.	.	.	16ryy	.
+.	8ryy	.	.	.	8ryy	.
+.	.	.	[16EEEJk [16BBB [16FF	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+16ryy	16ryy	.	8EEEL] 8BBB] 8FF]	.	8ryy	.
+8.ryy	8ryy	.	.	.	.	.
+!	!	!	!	!LO:DY:t=poco %s	!	!
+.	.	.	[8AAAA^>J	sf	16ryy	.
+.	16ryy	.	.	.	16ryy	.
+4ryy	16ryy	.	16AAAALL]	.	8ryy	.
+.	8ryy	.	16CCC#XJ 16GGG#X 16DD	.	.	.
+.	.	.	8EEEJ 8BBB 8FF	.	16ryy	.
+.	16ryy	.	.	.	16ryy	.
+=7	=7	=7	=7	=7	=7	=7
+!	!	!	!	!LO:DY:t=poco %s	!	!
+2ryy	8ryy	.	8.AAAA^>L	.sf	16ryy	.
+.	.	.	.	.	16ryy	.
+.	8ryy	.	.	.	16ryy	.
+.	.	.	[16CCC#XJk [16GGG#X [16DD	.	16ryy	.
+.	8ryy	.	8.CCC#L] 8.GGG#] 8.DD]	.	8ryy	.
+.	16ryy	.	.	.	8ryy	.
+.	16ryy	.	[16EEEJk [16BBB [16FF	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+16ryy	16ryy	.	4EEE_ 4BBB_ 4FF_	.	8ryy	.
+8.ryy	8.ryy	.	.	.	.	.
+.	.	.	.	.	8ryy	.
+4ryy	4ryy	.	8.EEEL] 8.BBB] 8.FF]	.	4ryy	.
+.	.	.	[16CCC#XJk [16GGG#X [16DD	.	.	.
+*	*	*	*X8ba	*	*X8va	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}{(s3,s4)}
+!!!RDF**kern: > = above
+!!!EED: Jason Lee
+!!!: EEV: 2021/09/24

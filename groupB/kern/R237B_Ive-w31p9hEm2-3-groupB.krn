@@ -1,0 +1,141 @@
+!!!COM: Ives, Charles
+!!!OTL: The Gong on the Hook and Ladder for Chamber Orchestra
+!!!OMV:
+!!!example: 237B
+!!!work: Ive-31
+!!!OMD-full: Allegro moderato
+!!!OMD: [Allegro vivace]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part15	*	*part14	*	*part13	*	*part12	*part12	*part11	*part11	*part10	*part10	*	*part9	*	*part8	*part8	*part7	*part7	*	*part6	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Timpani	*	*I"Triangle	*	*I"Snare Drum	*	*	*I"Trombone	*	*I"Trumpet in Bb II	*	*I"Trumpet in Bb I	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*	*I'Timp.	*	*I'Tri.	*	*I'Perc.	*	*	*I'Tbn.	*	*I'Tpt.	*	*I'Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Fl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*	*ICidio	*	*ICidio	*	*ICidio	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*	*Itimpa	*	*Itrngl	*	*Isdrum	*	*	*Itromt	*	*Itromp	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Iflt	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefX	*	*clefF4	*	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*tremolo	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[[eighth]=200]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:b:t=	!
+!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!	!	!	!	!	!LO:TX:b:t=	!LO:DY:t= %s decresc.	!LO:TX:b:t=	!LO:DY:t= %s decresc.	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!
+!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:DY:ed=brack	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+32ryy	4ryy	32ryy	32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	32ryy	4ryy	4ryy	8ryy	4ryy	32ryy	.	4.ryy	4ryy	[4.Rcc\	sff	.	32ryy	4ryy	8ryy	4ryy	4ryy	4ryy	4.ryy	4ryy	8ryy	4ryy	4ryy	4ryy
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!	!	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	16ryy	.	32ryy	.	.	.	.	.	.	4ryy	.	8ryy	.	.	.	.	.	8ryy	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	16ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	2ryy	8ryy	.	32ryy	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	32ryy	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:b:i:t=non decresc. (sempre)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:TX:a:i:t=non decresc. (sempre)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	2ryyyy	.	4ryy	.	32ryy	.	32ryy	.	.	8ryy	.	32ryy	.	4ryy	.	16Rcc\]	.	.	4ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	[4.Rcc\	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	16ryy	.	32ryy	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	32ryy	4ryy	32ryy	4ryy	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=poco decresc.	!	!LO:TX:b:i:t=poco decresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	16ryy	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	.	4ryy	.	32ryy	.	32ryy	.	.	4ryy	.	32ryy	.	4ryy	.	.	.	.	4ryy	.	8ryy	.	8ryy	.	4ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=	!	!LO:TX:b:i:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t= %s decresc.	!	!LO:DY:t= %s decresc.	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	32ryy	.	4.ryy	4.ryyyy	.	32ryy	4ryy	32ryy	4ryy	4ryy	8ryy	.	32ryy	.	4.ryy	4ryy	[4.Rcc\	sff	.	32ryy	4ryy	8ryy	.	4ryy	.	4.ryy	.	8ryy	.	4ryy	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:a	!	!	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	8ryy	.	32ryy	.	.	.	.	.	.	4ryy	.	8ryy	.	.	.	.	.	8ryy	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	4ryy	8ryyyy	.	32ryy	.	.	.	.	.	.	.	.	8ryy	.	8.ryy	.	.	.	8ryy	.	8.ryy	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32ryy	.	32ryy	32ryy	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	2ryyyy	.	4ryy	4ryyyy	.	32ryy	.	32ryy	.	.	16ryy	.	32ryy	.	4ryy	.	16Rcc\]	.	.	4ryy	.	8ryy	.	.	.	4ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=1:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:n=2:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	16ryy	.	32ryy	.	.	.	[4.Rcc\	.	.	.	.	.	.	16ryy	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	4.ryy	8ryy	.	32ryy	.	.	.	.	.	.	.	.	8ryy	.	4ryy	.	.	.	8ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	.	8.ryy	4ryy	.	32ryy	.	32ryy	.	.	8ryy	.	32ryy	.	4ryy	.	.	.	.	4ryy	.	8ryy	.	.	.	4ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32ryy	.	32ryy	.	.	.	.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	4ryy	.	16ryy	.	8ryy	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.
+.	.	.	.	.	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	16Rcc\]	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][(s7,s8,s9)][({(s10,s11)})][(s12,s13,s14,s15,s16)]
+!!!RDF**kern: > = above
+!!!RDF**kern: i = editorial accidental, bracket
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Stage; Ballet
+!!!MCN: Stoessel, Albert
+!!!MDT: 1934/04/22
+!!!MGN: pick-up ensemble
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1934
+!!!MPN:
+!!!ODT: 1912
+!!!PDT: 1960
+!!!excerpt-start-measure: 23
+!!!excerpt-end-measure: 24
+!!!excerpt-start-time: 1:09
+!!!excerpt-end-time: 1:17
+!!!excerpt-duration-sec: 8
+!!!excerpt-time-signature: 7/8
+!!!excerpt-tempo-beat: [eighth]
+!!!excerpt-tempo-rate: [200]
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

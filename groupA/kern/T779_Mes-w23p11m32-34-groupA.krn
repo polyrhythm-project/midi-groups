@@ -1,0 +1,46 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T779_Mes-w23p11m32-34]
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*grp:A	*	*	*grp:A	*	*	*grp:B	*	*
+*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alto	*	*
+*I'B.	*	*	*I'T.	*	*	*I'A.	*	*
+*clefF4	*	*	*clefC4	*	*	*clefG2	*	*
+*	*	*	*Trd0c0	*	*	*	*	*
+*k[]	*	*	*k[]	*	*	*k[]	*	*
+*C:	*	*	*C:	*	*	*C:	*	*
+*M2/4	*	*	*M2/4	*	*	*M2/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*head:odia	*	*	*	*	*
+!LO:TX:a:rj:t=(parlé, percuté)	!	!	!LO:TX:a:rj:t=(parlé, percuté)	!	!	!LO:TX:a:B:t=Bien modéré	!	!
+!LO:TX:a:rj:t=2e et 3e	!	!	!LO:TX:a:rj:t=2e et 3e	!	!	!LO:TX:a:i:t=Couplet	!	!
+.	.	.	8qg/R	4ryy	4ryy	.	.	.
+[4f~>R	4ryy	4ryy	4g~>R	.	.	8ryy	4ryy	4ryy
+.	.	.	.	.	.	8ryy	4ryy	.
+.	.	.	8qg/R	4ryy	.	.	.	.
+8f]R	.	.	4g~>R	.	.	8ryy	4ryy	.
+8r	.	.	.	.	.	16ryy	4ryy	.
+.	.	.	.	.	.	16ryy	4ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+.	.	.	8qg/R	4ryy	.	.	.	.
+4f~>R	4ryy	.	4g~>R	.	.	8.ryy	.	.
+.	.	.	.	.	.	16ryy	4ryy	.
+8f'>LR	4ryy	.	8g'>LR	4ryy	.	16ryy	4ryy	.
+.	.	.	.	.	.	16ryy	4ryy	.
+16r	.	.	8g'>JR	4ryy	.	16ryy	4ryy	.
+16fJkR	4ryy	.	.	.	.	16ryy	4ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+16r	.	.	16r	.	.	16ryy	4ryy	.
+16fKLR	4ryy	.	8g'>LR	4ryy	.	16ryy	4ryy	.
+8f'>JR	4ryy	.	.	.	.	16ryy	4ryy	.
+.	.	.	16gJkR	4ryy	.	16ryy	4ryy	.
+16r'	.	.	16r	.	.	4ryy	4ryy	.
+8.f~>R	4ryy	.	8g'>LR	4ryy	.	.	.	.
+.	.	.	16gJkR	4ryy	.	.	.	.
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/12/29

@@ -1,0 +1,63 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T777_Mes-w23p6m55-57]
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*grp:A	*	*	*grp:B	*	*	*grp:A	*	*	*grp:A	*	*
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"3 Bass	*	*	*I"3 Tenor	*	*	*I"3 Alto	*	*	*I"3 Soprano	*	*
+*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*clefF4	*	*	*clefC4	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
+*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
+*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*head:odia	*	*	*	*	*	*	*	*
+!LO:TX:a:t=3e	!	!LO:DY:t=[ %s ]	!LO:TX:a:t=à3	!	!LO:DY:t=[ %s ]	!LO:TX:a:t=1er	!	!LO:DY:t=[ %s ]	!LO:TX:a:t=2e	!	!LO:DY:t=[ %s ]
+!!LO:TX:B:t=[Modéré (berceur et tendre)]
+4A-X],	4ryy	4ryy	32ryy	4ryy	4ryy	8b-XL]	4ryy	4ryy	16bKL)j	4ryy	4ryy
+.	.	.	32ryy	4ryy	.	.	.	.	.	.	.
+.	.	.	8.ryy	4ryy	.	.	.	.	(8ddn	4ryy	.
+.	.	.	.	.	.	8dJ	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	[16a-XJk	4ryy	.
+16G-XKL	4ryy	.	4ryy	.	.	8.a-X)j	4ryy	.	16a-KL]	.	.
+[8.G-J	4ryy	.	.	.	.	.	.	.	8ee-X	4ryy	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=3e	!	!	!	!	!
+.	.	.	.	.	.	(>[16a-X	4ryy	4ryy	[16bnJk	4ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8G-XL]/	.	.	32ryy	4ryy	.	16a-XKL]	.	.	16bLL]	.	.
+.	.	.	32ryy	4ryy	.	.	.	.	.	.	.
+.	.	.	32ryy	4ryy	.	8b-X	4ryy	.	16bnJ)	4ryy	.
+.	.	.	32ryy	4ryy	.	.	.	.	.	.	.
+16BB-XL	4ryy	.	32ryy	4ryy	.	.	.	.	(8ddnJ	4ryy	.
+.	.	.	32ryy	4ryy	.	.	.	.	.	.	.
+16BB-JJ	4ryy	.	32ryy	4ryy	.	[16anJk	4ryy	.	.	.	.
+.	.	.	32ryy	4ryy	.	.	.	.	.	.	.
+16BB-KL	4ryy	.	8ryy	.	.	16aKL]	.	.	8a-XL	4ryy	.
+8BB-~>	4ryy	.	.	.	.	48a-XLL	4ryy	.	.	.	.
+.	.	.	.	.	.	48g-X	.	.	.	.	.
+.	.	.	.	.	.	48fJJ	.	.	.	.	.
+.	.	.	12ryy	.	.	[8gnJ	4ryy	.	8ee-XJ	4ryy	.
+16BB-Jk	4ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	24ryy	4ryy	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=3e	!	!
+8.F~L	4ryy	.	8ryy	4ryy	.	16gKL]	.	.	8.bn)	4ryy	.
+.	.	.	.	.	.	8A-X	4ryy	.	.	.	.
+.	.	.	8ryy	.	.	.	.	.	.	.	.
+16FJk	4ryy	.	.	.	.	[16dnJk	4ryy	.	[16d	4ryy	4ryy
+!LO:TX:a:rj:t=2e	!	!	!	!	!	!	!	!	!	!	!
+[4BBn	4ryy	4ryy	12ryy	.	.	8d])	.	.	16dLL]	.	.
+.	.	.	.	.	.	.	.	.	16fJ	4ryy	.
+.	.	.	12ryy	4ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=1er	!	!	!	!	!
+.	.	.	.	.	.	(8b-X/i	4ryy	.	[8fJ	4ryy	.
+.	.	.	12ryy	4ryy	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2022/01/03

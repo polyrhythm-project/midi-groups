@@ -1,0 +1,78 @@
+!!!COM: Aaron Copland
+!!!OTL: [T697_Cop-1 bis/25/4-1[13]1]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*part6	*	*part5	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*staff7/8	*staff6	*staff5	*staff5/6	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin II	*	*I"Violin I	*	*I"Violin I	*	*I"Harp II	*	*	*I"Harp I	*	*	*I"Alto Saxophone	*	*I"Bass Clarinet in Bb	*	*I"Cor Anglais	*	*I"Oboe	*
+*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. I	*	*I'Hp.	*	*	*I'Hp.	*	*	*I'Alto Sax.	*	*I'B. Cl.	*	*I'C. A.	*	*I'Ob.	*
+!!pagebreak:original
+*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd5c9	*	*ITrd1c2	*	*ITrd4c7	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=[con sord.]	!	!LO:TX:a:t=[con sord.]	!	!LO:TX:a:t=[con sord.]	!	!LO:TX:a:t=[con sord.]	!	!LO:TX:a:t=[con sord.]	!	!LO:TX:t=[[quarter]=96]	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=96]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack
+8ryy	4ryy	8ryy	4ryy	4ryy	4ryy	8ryy	4ryy	4ryy	4ryy	8ryy	4ryy	1ryy	4ryy	4ryy	1ryy	4ryy	4ryy	[2g-X	p	[1ee-	mf	[2f#X	p	8ryy	4ryy
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[con sord.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	4ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8g-]	.	.	.	8f#]	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	4.f	.	.	.	(4.f	.	4.ryy	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	8ryy	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	1ryy	4ryy	.	1ryy	4ryy	.	2.c	.	2.ee-]	.	2.c)	.	2.ryy	.
+4ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	4d-X	.	4r	.	4c#X	.	4ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!pagebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	1ryy	4ryy	.	1ryy	4ryy	.	[2g-X	.	1r	.	[2f#X	.	1ryy	.
+4ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8g-L]	.	.	.	8f#L]	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	8a--X	.	.	.	8g	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	8g-	.	.	.	8f#	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8fJ	.	.	.	8fJ	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8ryy	.	8ryy	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	1ryy	4ryy	.	1ryy	4ryy	.	[2c	.	1r	.	[2c	.	1ryy	.
+4ryy	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8cL]	.	.	.	8cL]	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	8d-X	.	.	.	8c#X	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	8c	.	.	.	8c	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	8d-J	.	.	.	8c#XJ	.	.	.
+!!LO:REH:t=13
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	1ryy	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	1ryy	4ryy	.	1ryy	4ryy	.	[1b--X	.	2r	.	[1a	.	1ryy	.
+4.ryy	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!	!	!	!
+8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	8ryy	.	.	8ryy	.	.	.	(4eeX	.	.	.	.	.
+4ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	4ryy	.	.	4ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8cc#X	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)]s3,s4)][({(s5,s6)})][({(s7,s8)})][([(s9,s10)][(s11,s12)][(s13,s14)])]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

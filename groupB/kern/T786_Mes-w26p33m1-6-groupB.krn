@@ -1,0 +1,87 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T786_Mes-w26p33m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*
+*part2	*part2	*part1	*part1	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*
+*I"PÉD.	*	*I"[Organ] MAN.	*	*	*
+*I'Ped.	*	*I'Man.	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+!	!	!	!	!LO:TX:a:t=61	!
+!	!	!	!	!LO:TX:a:i:rj:t=m.dr.	!
+!	!	!	!	!LO:TX:a:B:t=R	!
+!LO:TX:b:t=29	!LO:DY:t=%s legato	!	!	!LO:TX:a:B:t=Modéré	!LO:DY:t=%s legato
+2ryy	4ryy	8r	.	2ryy	4ryy
+!	!	!LO:TX:a:rj:t=Pos.	!	!	!
+!	!	!LO:TX:b:i:rj:t=m.g.	!LO:DY:rj	!	!
+.	.	8EE-X~	4ryy	.	.
+.	.	16r	.	.	.
+.	.	8An'	.	.	.
+.	.	(32GG#XLLL	.	.	.
+.	.	32C#XJJJ	.	.	.
+=	=	=	=	=	=
+4ryy	.	8DDn')	.	2ryy	.
+.	.	(<[8Bn^	.	.	.
+!	!	!LO:TUP:a	!	!	!
+8ryy	.	24BLL]	.	.	.
+.	.	24En	.	.	.
+.	.	24CnJJ)	.	.	.
+32ryy	.	8r	.	.	.
+!LO:TX:b:t=30	!	!	!	!	!
+32ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+*	*	*clefG2	*	*	*
+=	=	=	=	=	=
+!	!	!LO:TX:a:rj:t=G	!LO:DY:rj	!	!
+2ryy	.	(40AnLLL	4ryy	2ryy	.
+.	.	40bn	.	.	.
+.	.	40fn	.	.	.
+.	.	40ff#X	.	.	.
+.	.	40cc#XJJJ)	.	.	.
+.	.	8r	.	.	.
+.	.	4r	.	.	.
+*	*	*clefF4	*	*	*
+=	=	=	=	=	=
+!	!	!LO:TX:a:rj:t=Pos.	!	!	!
+.	.	(8qcn/	4ryy	.	4ryy
+4ryy	.	12E-X'L)	.	4ryy	.
+.	.	24DDn'Jk	.	.	.
+.	.	8r	.	.	.
+16ryy	.	4r	.	8ryy	.
+32ryy	.	.	.	.	.
+!LO:TX:b:t=31	!	!	!	!	!
+32ryy	.	.	.	.	.
+8ryy	.	.	.	32ryy	.
+!	!	!	!	!LO:TX:a:t=62	!
+.	.	.	.	32ryy	.
+.	.	.	.	16ryy	.
+=	=	=	=	=	=
+2ryy	.	8.r	.	2ryy	.
+!	!	!LO:TX:a:rj:t=G	!LO:DY:rj	!	!
+.	.	16DDn~	4ryy	.	.
+!	!	!LO:TUP:a	!	!	!
+.	.	40r	.	.	.
+.	.	(40AAnLLL	.	.	.
+.	.	40B-X	.	.	.
+.	.	40en	.	.	.
+.	.	40F#XJJJ)	.	.	.
+.	.	16r	.	.	.
+*	*	*clefG2	*	*	*
+.	.	[16gn~	.	.	.
+=	=	=	=	=	=
+4ryy	.	8gn],	.	2ryy	.
+!	!	!LO:TUP:a	!	!	!
+.	.	(24bn^KL	.	.	.
+.	.	12gg#XJ)	.	.	.
+16ryy	.	4r	.	.	.
+!LO:TX:b:t=32	!	!	!	!	!
+8.ryy	.	.	.	.	.
+*	*	*clefF4	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: < = below
+!!!EED:Jason Lee
+!!!EEV:2021/01/12

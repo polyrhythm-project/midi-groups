@@ -1,0 +1,58 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T276_Rav-w33p30h14m4-6]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[f#]	*k[f#]	*	*k[f#]	*
+*G:	*G:	*	*G:	*
+*M3/4	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1
+!	!LO:TX:t=[Allegro [quarter]=152]	!	!LO:TX:B:t=[Allegro]	!
+!	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]
+4GG' 4D	8dddL	4ryy	16ryy	4ryy
+.	.	.	16ryy	.
+.	16ra	.	16ryy	.
+.	16bk	.	16ryy	.
+8r	8cc#X	.	16ryy	.
+.	.	.	16ryy	.
+4D^ 4c#X	8fn^ 8dd	.	16ryy	.
+.	.	.	16ryy	.
+.	8cc#	.	16ryy	.
+.	.	.	16ryy	.
+8r	8bJ	.	16ryy	.
+.	.	.	16ryy	.
+=2	=2	=2	=2	=2
+4GG' 4D	8eeL	.	16ryy	.
+.	.	.	16ryy	.
+.	16r	.	16ryy	.
+.	16bk	.	16ryy	.
+8r	8cc#X	.	16ryy	.
+.	.	.	16ryy	.
+4D^ 4c#X	8fn^ 8dd	.	16ryy	.
+.	.	.	16ryy	.
+.	8cc#	.	16ryy	.
+.	.	.	16ryy	.
+8r	8bJ	.	16ryy	.
+.	.	.	16ryy	.
+=3	=3	=3	=3	=3
+4GG' 4D	8eeL	.	16ryy	.
+.	.	.	16ryy	.
+.	16r	.	16ryy	.
+.	16bk	.	16ryy	.
+8r	8cc	.	16ryy	.
+.	.	.	16ryy	.
+4D^ 4c#X	8fn^ 8dd	.	16ryy	.
+.	.	.	16ryy	.
+.	8cc	.	16ryy	.
+.	.	.	16ryy	.
+8r	8bJ	.	16ryy	.
+.	.	.	16ryy	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED:Jason Lee
+!!!EEV:2021/10/26

@@ -1,0 +1,116 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T635_Hin-w39p50-51h33m1-5]
+**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1
+*staff7	*staff6	*	*staff5	*staff4	*	*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Harp II	*	*	*I"Harp I	*	*	*I"Horn I in F	*
+*I'Pno.	*	*	*I'2.Hp.	*	*	*I'1.Hp.	*	*	*I'1.Hn.	*
+!!pagebreak:original
+*clefG2	*clefG2	*	*clefF4	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*ITrd4c7	*
+*k[]	*k[]	*	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*	*k[b-]	*
+*C:	*C:	*	*C-:	*C-:	*	*C-:	*C-:	*	*F:	*
+*M9/4	*M9/4	*	*M9/4	*M9/4	*	*M9/4	*M9/4	*	*M9/4	*
+!!LO:REH:t=33
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half-dot]=78]	!
+4ryy	4.ryy	4ryy	2.ryy	2.ryy	.	4r	4r	.	4%9ryy	.
+!	!	!	!	!	!	!	!	!LO:DY:t=%s solo	!	!
+4.ryy	.	.	.	.	.	2cc-	2ccc-	p	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:b:i:t=  nach jedem Ton abdämpfen	!	!	!	!	!	!
+4.ryy	8ryy	.	2.ryy	2.ryy	4ryy	2cc-	2ccc-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	4.ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4ryy	.	.	.	.	.	[4g-	[4gg-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	2.ryy	2.ryy	.	4g-]	4gg-]	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	.	.	.	4cc-	4ccc-	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	4dd-	4ddd-	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.ryy	8ryy	.	2.ryy	2.ryy	.	4ee-	4eee-	.	4%9ryy	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	4.ryy	.	.	.	.	8dd-L	8ddd-L	.	.	.
+8ryy	.	.	.	.	.	8cc-J	8ccc-J	.	.	.
+4ryy	.	.	.	.	.	[4dd-	[4ddd-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	2.ryy	2.ryy	.	4dd-]	4ddd-]	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	.	.	.	2dd-	2ddd-	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4.ryy	8ryy	.	2.ryy	2.ryy	.	2.cc-	2.ccc-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	4.ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4ryy	.	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+!!pagebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	4ryy	.	2.ryy	2.ryy	.	4r	4r	.	4%9ryy	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	2ee-	2eee-	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	2.ryy	2.ryy	.	2ee-	2eee-	.	.	.
+4ryy	8ryy	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	.	.	.	[4ee-	[4eee-	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	2.ryy	2.ryy	.	4ee-]	4eee-]	.	.	.
+8ryy	4ryy	.	.	.	.	4dd-	4ddd-	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	.	.	.	4cc-	4ccc-	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	8ryy	.	2.ryy	2.ryy	.	4b-	4bb-	.	4%9ryy	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	.	.	.	4a-	4aa-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	.	.	.	[4g-	[4gg-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	.	2.ryy	2.ryy	.	4g-]	4gg-]	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4.ryy	8ryy	.	.	.	.	2cc-	2ccc-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	8ryy	.	.	.	.	.	.	.	.	.
+4ryy	4.ryy	.	2.ryy	2.ryy	.	2.dd-	2.ddd-	.	.	.
+4ryy	.	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4.ryy	8ryy	.	2.ryy	2.ryy	.	2.cc-	2.ccc-	.	2.ryy	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	.	.	.	.	.	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=mit Dämpfer	!
+8ryy	4.ryy	.	2.ryy	2.ryy	.	4r	4r	.	1.ryy	4ryy
+8ryy	.	.	.	.	.	.	.	.	.	.
+4.ryy	.	.	.	.	.	2ee-	2eee-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+.	4ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4ryy	8ryy	.	2.ryy	2.ryy	.	2ee-	2eee-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	4.ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.
+4ryy	.	.	.	.	.	[4dd-	[4ddd-	.	.	.
+.	8ryy	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})][({(s4,s5)})][({(s6,s7)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

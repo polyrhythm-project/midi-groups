@@ -1,0 +1,86 @@
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: String Quartet, op. 10
+!!!OMV: Movement 4
+!!!example: 161
+!!!work: Deb-13
+!!!OMD-full: Très modéré
+!!!OMD: [En animant peu à peu]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
+*D-:	*	*D-:	*	*D-:	*	*D-:	*
+*M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
+=25	=25	=25	=25	=25	=25	=25	=25
+!	!	!	!	!LO:TUP:a	!	!LO:TX:t=[[quarter]=108]	!
+16%3g-^L	f	8ryy	4ryy	16%3gg-^L	f	8ryy	4ryy
+.	.	8ryy	.	.	.	8ryy	.
+16%3f^	.	.	.	16%3ff^	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3en^	.	4ryy	.	16%3een^	.	4ryy	.
+16%3e-X^J	.	.	.	16%3ee-X^J	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+!	!	!	!	!LO:TUP:a	!	!	!
+16%3dn^L	.	8ryy	.	16%3ddn^L	.	8ryy	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3d-X^	.	.	.	16%3dd-X^	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3c^	.	8ryy	.	16%3cc^	.	8ryy	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3Bn^J	.	.	.	16%3bn^J	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+=26	=26	=26	=26	=26	=26	=26	=26
+!	!	!	!	!LO:TUP:a	!	!	!
+16%3c^L	.	8ryy	.	16%3cc^L	.	8ryy	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3Bn^	.	.	.	16%3bn^	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3B-X^	.	4ryy	.	16%3b-X^	.	4ryy	.
+16%3An^J	.	.	.	16%3an^J	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3A-X^L	.	8ryy	.	16%3a-X^L	.	8ryy	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3Gn^	.	.	.	16%3gn^	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3G-X^	.	8ryy	.	16%3g-X^	.	8ryy	.
+.	.	8ryy	.	.	.	8ryy	.
+16%3F^J	.	.	.	16%3f^J	.	.	.
+.	.	8ryy	.	.	.	8ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!CDT: 1862/08/22-1918/03/25
+!!!CBL: St Germain-en-Laye, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental; Chamber
+!!!MCN:
+!!!MDT: 1893/12/29
+!!!MGN: Ysaÿe Quartet
+!!!MLC: Paris, France
+!!!MPD: 1893
+!!!MPN: Crickboom, Mathieu; Hout, Léon; Jacob, Joseph; Ysaÿe, Eugène
+!!!ODT: 1893
+!!!PDT: 1894
+!!!excerpt-start-measure: 25
+!!!excerpt-end-measure: 26
+!!!excerpt-start-time: 1:34
+!!!excerpt-end-time: 1:38
+!!!excerpt-duration-sec: 4
+!!!excerpt-time-signature: 12/8
+!!!excerpt-tempo-beat: dotted-quarter
+!!!excerpt-tempo-rate: 72
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

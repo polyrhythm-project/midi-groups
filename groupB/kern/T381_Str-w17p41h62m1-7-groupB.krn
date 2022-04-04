@@ -1,0 +1,66 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T381_Str-w17p41h62m1-7]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
+*staff12	*staff12	*staff11	*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Violoncello Solo	*I"Viola Solo	*I"Violin II Solo	*I"Violin I Solo	*I"Flute II	*I"Flute II	*I"Flute I	*I"Flute I
+*I'Vc.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vc.	*I'Vla.	*I'Vln.	*I'Vln.	*I'Fl.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*	*clefG2	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*	*k[b-e-]	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*B-:	*B-:	*B-:	*B-:	*	*B-:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:t=pizz. 	!LO:TX:a:rj:t=pizz. 	!LO:TX:a:rj:t=pizz. 	!LO:TX:a:rj:t=pizz. 	!	!	!	!
+!	!LO:DY:t=%s subito sino al Fine	!LO:TX:a:t=div.	!LO:DY:B:t=%s subito sino al Fine	!	!LO:DY:B:t=%s subito sino al Fine	!LO:TX:a:t=div.	!LO:DY:B:t=%s subito sino al Fine	!	!LO:DY:B:t=%s subito sino al Fine	!LO:TX:B:t=p subito sino al Fine	!LO:DY:B:t=%s subito sino al Fine	!LO:TX:i:t=très sonore	!LO:TX:i:t=très sonore	!LO:TX:i:t=très sonore	!LO:TX:i:t=très sonore	!	!LO:DY:t=%s staccatissimo	!	!LO:DY:t=%s staccatissimo
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4BB-	4E-	4B-	4f	8ryy	4ryy	8ryy	4ryy
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8r'yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4G	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4BB-	4E-	4B-	4f	8ryy	.	8ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)][(s7,s8[(s9,s10)][(s11,s12)])]

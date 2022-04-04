@@ -1,0 +1,103 @@
+!!!COM: Frank Martin
+!!!OTL: [T564_Mai-w36p20m4-1h1m1-2]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:b:t=[pizz.]	!	!	!	!	!	!	!	!LO:TX:t=[quarter]=100	!
+!	!LO:DY:ed=brack	!LO:TX:b:t=[pizz.]	!	!LO:TX:b:t=[pizz.]	!	!LO:TX:b:t=[pizz.]	!	!LO:TX:b:t=[pizz.]	!
+8EEEL	f	8ryy	.	4ryy	.	8.ryy	.	8.ryy	.
+!LO:TX:b:i:t=marcato	!	!	!	!	!	!	!	!	!
+8GG#X	.	16ryy	.	.	.	.	.	.	.
+!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+.	.	16ryy	4ryy	.	.	16ryy	4ryy	16ryy	4ryy
+!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:a:t=avec 2 doigtz	!	!LO:TX:a:t=avec 2 doigtz	!
+8FF	.	8.ryy	.	8.ryy	4ryy	8.ryy	.	8.ryy	.
+8CCJ	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8BBBL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8AAA#X	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8DD#X	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+8AAAJ	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!LO:TX:a:i:t=en glissantle pouce	!	!	!	!	!	!	!
+8EEEL	.	8ryy	.	4ryy	.	4ryy	.	1ryy	.
+8GG#X	.	16ryy	.	.	.	.	.	.	.
+.	.	16ryy	4ryy	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:t=meno %s	!	!LO:DY:t=meno %s	!	!
+8FF	.	8.ryy	.	8.ryy	4ryy	8.ryy	4ryy	.	.
+8CCJ	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.
+8BBBL	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8AAA#X	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8DD#X	.	16ryy	.	16ryy	.	16ryy	.	.	.
+.	.	8.ryy	.	8.ryy	.	8.ryy	.	.	.
+8AAAJ	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!LO:DY:t=meno %s	!	!	!	!	!	!
+8EEEL	mf	8ryy	4ryy	8ryy	.	1ryy	.	1ryy	.
+8GG#X	.	8ryy	.	8ryy	4ryy	.	.	.	.
+8FF	.	16ryy	4ryy	16ryy	.	.	.	.	.
+.	.	8ryy	.	8ryy	.	.	.	.	.
+8CJ	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	.	.	.	.
+8BBL	.	8ryy	.	8ryy	.	.	.	.	.
+8AA#X	.	8ryy	.	8ryy	.	.	.	.	.
+8D#X	.	16ryy	.	16ryy	.	.	.	.	.
+.	.	8.ryy	4ryy	8.ryy	4ryy	.	.	.	.
+8AAJ	.	.	.	.	.	.	.	.	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*^	*	*	*
+8FF#XL	.	16ryy	.	16ryy	.	2ryy	2ryyyy	.	16ryy	4ryy
+.	.	16ryy	4ryy	8.ryy	4ryy	.	.	.	16ryy	4ryy
+8AA#X	.	8ryy	.	.	.	.	.	.	8ryy	.
+8GG	<	8.ryy	4ryy	8.ryy	4ryy	.	.	.	8.ryy	.
+8DDJ	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	.	.	.	16ryy	.
+!	!	!	!	!	!	!LO:TX:a:t=div.	!	!	!	!
+8CC#XL	.	8ryy	.	8ryy	.	8ryy	8ryyyy	4ryy	8ryy	.
+8CC	.	8ryy	.	8ryy	.	8ryy	8ryy	4ryy	8ryy	.
+8GG-X	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.
+.	.	8.ryy	4ryy	8.ryy	4ryy	8.ryy	8.ryy	4ryy	8.ryy	4ryy
+8FFJ	[	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!LO:TX:a:t=unis.	!	!	!
+8BBB-XL	f	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+8D	.	.	.	.	.	.	.	.	.
+.	.	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+8C-X	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+8GG-XJ	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+8FFL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8EE	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8AA	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.
+.	.	8.ryy	.	8.ryy	.	8.ryy	.	8.ryy	.
+8EE-XJ	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!LO:DY:t=meno %s	!LO:TX:a:i:t=en glissantle pouce	!	!	!LO:DY:t=meno %s	!	!
+8BBB-XL	.	8.ryy	4ryy	8.ryy	.	4ryy	4ryy	1ryy	.
+8D	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	4ryy	.	.	.	.
+8C-X	.	8.ryy	.	8.ryy	.	8.ryy	.	.	.
+8GG-XJ	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	16ryy	.	16ryy	.	.	.
+8FFL	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8EE	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8AA	.	16ryy	.	16ryy	.	16ryy	.	.	.
+.	.	8.ryy	.	8.ryy	.	8.ryy	.	.	.
+8EE-XJ	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3,s4,s5

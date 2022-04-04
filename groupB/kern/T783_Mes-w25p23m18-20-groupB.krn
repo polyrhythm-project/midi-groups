@@ -1,0 +1,73 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T783_Mes-w25p23m18-20]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part1	*part1	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"PED.	*	*I"[Organ] MAN.	*	*	*
+*I'Ped.	*	*I'Org.	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*M5/8	*	*M5/8	*	*M5/8	*
+=18	=18	=18	=18	=18	=18
+!	!	!	!	!LO:TX:t=[[eighth]=163]	!
+!	!	!LO:TX:a:t=23	!	!LO:TX:B:t=Vif (Choeur des alouettes)	!
+!	!	!LO:TX:a:i:t=non leg.	!	!	!
+!	!	!LO:TX:a:B:t=R	!	!LO:TX:B:t=G P R	!
+!	!	!	!	!LO:TX:t=G&colon; Fonds 16, 8, 4, Plein-Jeu | Péd&colon; tirasse Pos seule	!
+!LO:TX:b:t=4	!	!	!	!LO:TX:t=R&colon; Fonds et Anche 16, 8, 4, Mixtures | Pos&colon; Prestant 4, Flûte 4, Cornet, Mixtures et Piccolo | 	!
+!	!LO:DY:t=꙳ legato %s	!	!	!	!LO:DY:t= stacc. %s
+!LO:TX:t=P:problem: Organ Peddle Markings need to be added into VHV (U and V).	!	!	!	!	!
+4ryy	4ryy	[2DDn [2GG [2Cn	f	16ryy	4ryy
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+!LO:TX:b:t=↑	!	!	!	!	!
+!LO:TX:b:t=(Durées chromatiques, de 4 [sixteenth] à 25)	!	!	!	!	!
+.	.	.	.	16ryy	.
+!LO:TX:b:t=5	!	!LO:TX:t=↓	!	!	!
+!LO:TX:b:t=꙳ Ces chiffres indiquent pour chaque durée sa valeur en doubles croches.	!	!LO:TX:a:t=(Durées chromatiques, de 23 [sixteenth] à 1)	!	!	!
+!	!	!	!	!	!
+8ryy	.	.	.	8ryy	.
+.	.	.	.	8ryy	.
+8.ryy	.	.	.	8ryy	.
+.	.	8DD_ 8GG_ 8C_	.	8ryy	.
+!LO:TX:b:t=6	!	!	!	!	!
+16ryy	.	.	.	.	.
+=19	=19	=19	=19	=19	=19
+*M7/8	*	*M7/8	*	*M7/8	*
+4ryy	.	2.DD_ 2.GG_ 2.C_	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+16ryy	.	.	.	8ryy	.
+!LO:TX:b:t=7	!	!	!	!	!
+16ryy	.	.	.	.	.
+.	.	.	.	8ryy	.
+4ryy	.	.	.	8ryy	.
+.	.	.	.	8ryy	.
+.	.	.	.	8ryy	.
+8ryy	.	.	.	8ryy	.
+!LO:TX:b:t=8	!	!	!	!	!
+8ryy	.	16DDLL] 16GG] 16C]	.	8ryy	.
+!	!	!LO:TX:a:t=22	!	!	!
+.	.	[16FFnJJ [16AA-X [16D-X	.	.	.
+=20	=20	=20	=20	=20	=20
+4ryy	.	2.FF_ 2.AA-X_ 2.D-X_	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+.	.	.	.	16ryy	.
+8ryy	.	.	.	8ryy	.
+!LO:TX:b:t=9	!	!	!	!	!
+16ryy	.	.	.	16ryy	.
+8ryy	.	.	.	8ryy	.
+8.ryy	.	.	.	8ryy	.
+.	.	.	.	16ryy	.
+8ryy	.	8FF_ 8AA-_ 8D-_	.	8ryy	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/1/20

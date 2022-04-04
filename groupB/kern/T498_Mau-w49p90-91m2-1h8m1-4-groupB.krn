@@ -1,0 +1,55 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T498_Mau-49/90-91/2-1[8]1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Violin Solo	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:TX:t=[[quarter]=80]	!
+4ryy	4ryy	4ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8r	.	2ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s cantabile	!	!
+.	4ryy	.	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4ee	f	.	.
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	(8dd	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+!	!	!	!	!LO:TX:a:t=uniti	!	!LO:TX:a:t=uniti	!	!LO:TX:a:t=uniti	!	!	!	!	!
+2ryy	.	2ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8eeL	.	8ryy	4ryy
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.	8bJ)	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	(16ddLL	.	.	.
+.	.	.	.	.	.	.	.	.	.	16eeJ	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ccJ)	.	8ryy	.
+!!LO:REH:t=8
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+2ryy	.	2ryy	.	4ryy	.	4ryy	.	4ryy	.	(8dd	<	2ryy	.
+.	.	.	.	.	.	.	.	.	.	4ee)	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	(8ee	[	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+2ryy	.	2ryy	.	8ryy	.	8ryy	.	8ryy	.	8aaL)	.	2ryy	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	(8ggJ	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.	[4ee	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+2ryy	.	2ryy	.	8ryy	.	8ryy	.	8ryy	.	8eeL])	.	2ryy	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.	(8ddJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	8eeL	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8bJ)	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+2ryy	.	4.ryy	.	4ryy	.	4ryy	.	4ryy	.	(16ccLL	.	2ryy	.
+.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ccJ)	.	.	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	(8ddL	.	.	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	[8eeJ	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4,s5,s6,s7)]
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/08/05
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/16

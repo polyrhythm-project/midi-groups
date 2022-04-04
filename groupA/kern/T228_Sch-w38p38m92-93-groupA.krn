@@ -1,0 +1,65 @@
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: [T228_Sch-w38p38m92-93]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part11	*	*part10	*	*part9	*	*part8	*	*part7	*part7	*part6	*part6	*part5	*	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trumpet 1.2. in C	*	*I"Horn 1.2. in F	*	*I"Bassoon 1.2.	*	*I"Clarinet 1.2. in Bb	*	*I"Oboe 1.2.	*	*I"Flute 1.2.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*
+*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*	*G-:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:t=[eighth]=92	!LO:DY:ed=brack
+!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!LO:DY:t=%s dim.	!	!LO:DY:t=%s dim.	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:t=%s dim.	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:t=%s dim.	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:t=%s dim.	!	!	!	!LO:DY:t=%s dim.	!	!	!	!LO:DY:t=%s dim.
+(8AA-XL	ff	8ryy	4ryy	8d-X'^	ff	16ryy	4ryy	16ryy	4ryy	2ryy	.	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	.	8ff#X	ff
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:a:t=trem. pont.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:b:i:t=dim.	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!LO:TX:a:t=1.	!	!	!
+8EE-XJ)	.	8ryy	.	32AnLLL	.	4ryy	.	4ryy	.	.	.	8ryy	.	16ryy	4ryy	8ryy	.	16ryy	4ryy	8r	.
+.	.	.	.	32An	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32An	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	.	.
+.	.	.	.	32An	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=2 Soli	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8r	.	4ryy	.	32Gn	.	.	.	.	.	.	.	4ryy	.	8.ryy	.	4ryy	.	8.ryy	.	4r	.
+.	.	.	.	32Gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32Gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32Gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:t=trem. pont.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+32FF-X 32F-XLLL	.	.	.	32d-X	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+32FF-X 32F-X	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32FF-X 32F-X	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.	.	.
+32FF-X 32F-X	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+(32EE- 32E-	.	2ryy	.	32AnLLL	.	2ryy	.	8ryy	.	4ryy	.	2ryy	.	2ryy	.	16ryy	4ryy	2ryy	.	8r	.
+32EE- 32E-	.	.	.	32An	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE- 32E-	.	.	.	32An	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+32EE- 32E-	.	.	.	32An	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*
+!	!	!	!	!	!	!	!	!LO:TX:a:t=1 solo	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1. Flutter tongue	!	!
+32AAA 32AA	.	.	.	32Gn	.	.	.	8ryy	4ryy	.	.	.	.	.	.	8ryy	.	.	.	32dd-LLL	8dd-L	p
+32AAA 32AA	.	.	.	32Gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dd-	.	.
+32AAA 32AA	.	.	.	32Gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dd-	.	.
+32AAA 32AA)JJJ	.	.	.	32Gn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dd-	.	.
+8r	.	.	.	32d-X	.	.	.	8ryy	.	8ryy	.	.	.	.	.	16ryy	.	.	.	32gn	8g	.
+.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32gn	.	.
+.	.	.	.	32d-X	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	32gn	.	.
+.	.	.	.	32d-XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32gn	.	.
+*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!
+32GGG-X 32GG-X	.	.	.	8r	.	.	.	8ryy	.	8ryy	4ryy	.	.	.	.	16ryy	.	.	.	32a-X	8a-J	.
+32GGG-X 32GG-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a-X	.	.
+32GGG-X 32GG-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	32a-X	.	.
+32GGG-X 32GG-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a-XJJJ	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*
+*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][(s7,s8,s9,s10,s11)]

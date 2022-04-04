@@ -1,0 +1,53 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T226_Sch-w35p124m568-569]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:B	*	*grp:B	*	*grp:B	*
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Solo Violin	*I"Bassoon 3	*	*I"Bassoon 2	*	*I"Bassoon 1	*
+*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Vln. S.	*I'Bsn.	*	*I'Bsn.	*	*I'Bsn.	*
+*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefF4	*	*clefF4	*	*clefF4	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=568
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=P:problem=artificial harmonics	!	!	!	!	!LO:TX:t=[[quarter]=126]	!
+4ryy	.	2ryy	.	1ryy	.	8ryy	4r	.	4r	.	4r	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	.	.	.	.	4ryy	8r	.	8r	.	8r	.
+8ryy	.	.	.	.	.	.	16FF#XLL	4ryy	16BBnLL	4ryy	16EnLL	4ryy
+.	.	.	.	.	.	.	16FF#JJ	.	16BBJJ	.	16EJJ	.
+8ryy	.	4ryy	.	.	.	2ryy	16FF#LL	.	16BBLL	.	16ELL	.
+.	.	.	.	.	.	.	16FF#J	.	16BBJ	.	16EJ	.
+16ryy	.	.	.	.	.	.	8FF#J	.	8BBJ	.	8EJ	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	4ryy	.	.	.	16BBnLL	.	16EnLL	.	16d#XLL	.
+.	.	.	.	.	.	.	16BB	.	16E	.	16d#	.
+8ryy	.	8ryy	.	.	.	.	16BB	.	16E	.	16d#	.
+.	.	.	.	.	.	.	16BBJ	.	16EJ	.	16d#J	.
+!!LO:REH:t=569
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1ryy	.	8ryy	.	4ryy	.	2ryy	8BBnJ	.	8EnJ	.	8d#XJ	.
+*	*	*	*	*	*	*	*clefC4	*	*clefC4	*	*clefC4	*
+.	.	16ryy	.	.	.	.	16BBnLL	.	16d#XLL	.	16b-XLL	.
+.	.	16ryy	.	.	.	.	16BBJ	.	16d#J	.	16b-J	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!
+.	.	8ryy	.	8ryy	4ryy	.	16BBL	.	16d#L	.	16b-L	.
+.	.	.	.	.	.	.	16BBJ	.	16d#J	.	16b-J	.
+.	.	8ryy	.	8ryy	.	.	8BBJ	.	8d#J	.	8b-J	.
+.	.	2ryy	.	8ryy	.	4ryy	16AnLL	.	16d#LL	.	16b-LL	.
+.	.	.	.	.	.	.	16A	.	16d#	.	16b-	.
+.	.	.	.	16ryy	.	.	16A	.	16d#	.	16b-	.
+.	.	.	.	16ryy	.	.	16AJ	.	16d#J	.	16b-J	.
+.	.	.	.	8ryy	.	8ryy	8AJ	.	8d#J	.	8b-J	.
+.	.	.	.	8ryy	.	16ryy	8r	.	8r	.	8r	.
+.	.	.	.	.	.	16ryy	.	.	.	.	.	.
+*	*	*	*	*	*	*	*clefF4	*	*clefF4	*	*clefF4	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2,s3)])]s4[(s5,s6,s7)]
+!!!EED:Jason Lee
+!!!EEV:2021/10/19

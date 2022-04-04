@@ -1,0 +1,71 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T659_Hin-w70p91h17m14-21]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:C	*
+*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin 2	*	*I"Solo Violin	*	*I"Horn in F 1	*	*I"Clarinet in Bb 2	*	*I"Clarinet in Bb 1	*	*I"Oboe	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn.	*	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Iclars	*	*Iclars	*	*Ioboe	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd1c2	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!!LO:REH:t=17
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=152]	!
+8ryy	4ryy	8ryy	4ryy	8ryy	.	8ryy	.	[2fff#X	4ryy	2ryy	4ryy	4ryy	4ryy	4ryy	4ryy	2ryy	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	.	.	.	.	4ryy	.	4ryy	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	4fff#]	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	((16fff#XLL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ggg#X	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	16bbb	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ggg#JJ	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	8fff#XL)	.	2ryy	.	2ryy	.	2ryy	.	2ryy	4ryy
+.	.	8ryy	.	8ryy	.	8ryy	.	8ddd#X'	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ccc#X'	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8gg#X'J)	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ccc#XL	.	2ryy	.	2ryy	.	2ryy	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	((16ccc#L	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gg#XJJ	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ff#XL)	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8cc#X'J)	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	(8dd#XL	4ryy	2ryy	.	2ryy	.	2ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	8gg#XJ	.	.	.	.	.	.	.	8ryy	.
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	[4aa#X)	.	.	.	.	.	.	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	8aa#L]	.	2ryy	.	2ryy	.	2ryy	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	(8aa#X	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	8ccc#X	.	.	.	.	.	.	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8aa#J)	4ryy	.	.	.	.	.	.	8ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	(16aanLL	.	2ryy	.	2ryy	.	2ryy	.	8ryy	4ryy
+.	.	.	.	.	.	.	.	16ggnJ	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8eeJ)	.	.	.	.	.	.	.	8ryy	.
+4ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	.	.	.	.	.	.	4ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.	8ccc	4ryy	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	(16bb-XLL	.	2ryy	.	2ryy	.	2ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	16cccJ	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ccc#XJ)	.	.	.	.	.	.	.	8ryy	.
+8ryy	.	8ryy	.	4ryy	.	4ryy	.	8r	.	.	.	.	.	.	.	8ryy	.
+8ryy	.	8ryy	.	.	.	.	.	8ccc#	4ryy	.	.	.	.	.	.	8ryy	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1[(s2,s3)])][(s4)]s5[(s6,s7,s8,s9)]
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

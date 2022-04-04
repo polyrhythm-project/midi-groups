@@ -1,0 +1,71 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T497_Mau-39/11/1-6]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Pno.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*clefG2	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:TX:t=Andante (Poco moderato) [quarter]=72	!	!	!	!	!	!	!	!LO:TX:t=Andante (Poco moderato) [quarter]=72	!
+2ryy	2ryy	.	8r	.	8r	.	8r	.	8r	.
+!	!	!	!	!LO:DY:t=%s dolce	!	!LO:DY:t=%s dolce	!	!LO:DY:t=%s dolce	!	!LO:DY:t=%s dolce
+.	.	.	(8BB-X	p	(8B-X	p	(8d	p	(8f	p
+.	.	.	8CL	.	8e-XL	.	8cL	.	8b-XL	.
+.	.	.	8DJ)	.	8dJ)	.	8fJ)	.	8aJ)	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+8ryy	4%3ryy	4ryy	(8E-XL	.	(8gL	.	(>8e-XL	.	(8gL	.
+*^	*	*	*	*	*	*	*	*	*	*
+8ryy	8ryy	.	.	8DJ	.	8dJ	.	8fJ	.	8b-XJ	.
+8ryy	8ryy	.	.	8CL	.	8e-XL	.	8cL	.	8fL	.
+*v	*v	*	*	*	*	*	*	*	*	*	*
+8r'yy	.	.	8BB-XJ	.	8B-XJ	.	8dJ	.	8gJ	.
+8r'yy	.	.	8AAL	.	8cL	.	8AL	.	8dL	.
+*^	*	*	*	*	*	*	*	*	*	*
+8ryy	8ryy	.	.	8GGJ)	.	8GJ)	.	8B-XJ)	.	8e-XJ)	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	8ryy	4%3ryy	.	(8AAL	.	(8cL	.	(>8AL	.	4.f	.
+*v	*v	*	*	*	*	*	*	*	*	*	*
+8ryy	.	.	8BB-XJ	<	8B-XJ	<	8dJ	.	.	.
+8ryy	.	.	8CL	.	/8e-XL	.	8cL	.	.	.
+*^	*	*	*	*	*	*	*	*	*	*
+8ryy	8ryy	.	.	8BB-J	.	8B-J	.	8dJ	<	(8f	<
+8ryy	8ryy	.	.	8AAL	.	8cL	.	8AL	.	4cc)	[[
+*v	*v	*	*	*	*	*	*	*	*	*	*
+8r'yy	.	.	8BB-J)	[	8B-J)	[	8dJ)	[	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8r'yy	8r'yy	.	(8CL	.	(8enL	.	(>8cL	.	(>8b-XL	<
+8ryy	8ryy	.	8BB-XJ	<	8B-XJ	<	8dJ	.	8aJ	.
+8ryy	8ryy	.	8CL	.	8eL	.	8cL	.	8ddL	[
+8r'yy	8r'yy	.	8DJ	.	8dJ	.	8fJ	>	8b-J	>
+8r'yy	8r'yy	.	8EnL	.	8gL)	.	8enL	.	8aL	.
+8ryy	8ryy	.	8DJ)	[	8dJ	[	8fJ)	]	8gJ)	]
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+8ryy	8ryy	4ryy	(8EnL	.	(8gL	.	(>8enL	.	/(>8ccL	.
+8ryy	8ryy	.	8DJ	<	8fJ	.	8fJ	.	8aJ	.
+8ryy	8ryy	.	8EL	.	8gL	<	8eL	<	8gL	.
+8ryy	8ryy	4ryy	8FJ	.	8fJ	.	8aJ	.	8fJ	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+8ryy	8ryy	.	4.G)	[[	4.b-X)	[[	4.g)	.	8dL	<
+8ryy	8ryy	.	.	.	.	.	.	[	8enJ)	.
+4ryy	4ryy	.	.	.	.	.	.	.	8eL	.
+!	!	!	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s
+.	.	.	(8F	mf	(8a	mf	(>8f	mf	(>8fJ	mf [
+8ryy	8ryy	.	8GL	.	8gL	.	8b-XL	.	8ffL	.
+8ryy	8ryy	4ryy	8AJ	.	8ccJ	.	8aJ	.	8ee-XJ)	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4[({(s5,s6)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/08/05
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/16

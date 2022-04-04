@@ -1,0 +1,144 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Spring Symphony for Soprano, Alto and Tenor Soli, Mixed Chorus, Boys' Choir and Orchestra, op. 44
+!!!OMV: Part 1, Text 5: The Morning Star
+!!!example: 812
+!!!work: Bri-33
+!!!OMD-full: Molto moderato ma giocoso
+!!!OMD: [Molto moderato ma giocoso]
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part11	*part11	*part11	*part10	*part10	*part10	*part9	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff11	*staff11	*	*staff10	*staff10	*	*staff9	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Soprano and Alto	*	*	*I"Percussion I	*	*I"Timpani	*	*I"Trombone III	*	*I"Trombones I,II	*	*I"Trumpet in C III	*	*I"Trumpets in C I,II	*	*I"Horns in F III,IV	*	*I"Horns in F I,II	*
+*I'B.	*	*	*I'T.	*	*	*I'S. A.	*	*	*I'1.Perc.	*	*I'Timp.	*	*I'3.Tbn.	*	*I'1.2.Tbn.	*	*I'3.C Tpt.	*	*I'1.2.C Tpt.	*	*I'3.4.Hn.	*	*I'1.2.Hn.	*
+*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*
+*Ibass	*	*	*Itenor	*	*	*	*	*	*Ibdrum	*	*Itimpa	*	*Itromt	*	*Itromt	*	*Itromp	*	*Itromp	*	*Icor	*	*Icor	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefX	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*
+*k[b-]	*	*	*k[b-]	*	*	*k[b-]	*	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*	*F:	*	*	*F:	*	*	*C:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
+*M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=44]	!
+!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:a:t=[B.D.]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+(16FKL	boun-	p	(16FKL	boun-	p	(16fKL	boun-	p	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+8G	.	.	8G	.	.	8g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16FJk)	-te-	.	16FJk)	-te-	.	16fJk)	-te-	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F	-ous	.	8F	-ous	.	8f	-ous	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+(4F	May,	.	(4F	May,	.	(4f	May,	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[8D	.	>]	[8D	.	>]	[8d	.	>]	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4D])	.	.	4D])	.	.	4d])	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8r	.	.	8r	.	.	8r	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8D	that	<	8D	that	<	8d	that	<	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8E	doth	.	8E	doth	.	8e	doth	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8F	in-	[[	8F	in-	[[	8f	in-	[[	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+4G~	-spire	.	4G~	-spire	.	4g~	-spire	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4A~	Mirth	.	4A~	Mirth	.	4a~	Mirth	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4F#X~	and	.	4F#X~	and	.	4f#X~	and	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+8.G~	youth,	.	8.G~	youth,	.	8.g~	youth,	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8.A~	and	.	8.A~	and	.	8.a~	and	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8.F#X~	warm	.	8.F#X~	warm	.	8.f#X~	warm	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8.G~	de-	.	8.G~	de-	.	8.g~	de-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r`yy	.	8r`yy	.	8ryy	.	8ryy	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+(4A	-sire;	<	(4A	-sire;	<	(4a	-sire;	<	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[8c	.	.	[8c	.	.	[8cc	.	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+4.c])	.	.	4.c])	.	.	4.cc])	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	[[	.	.	[[	.	.	[[	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+8r	.	.	8r	.	.	8r	.	.	2.ryy	4ryy	4%3ryy	.	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy
+8e-X~	Woods	f	8e-X~	Woods	f	8ee-X~	Woods	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c~	and	.	8c~	and	.	8cc~	and	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.B-~	groves	>	8.B-~	groves	>	8.b-~	groves	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16B-LL	are	.	(16B-LL	are	.	(16b-LL	are	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16G	.	.	16G	.	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16E-XJJ)	.	]]	16E-XJJ)	.	]]	16e-XJJ)	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+(4F	of	.	(4F	of	.	(4f	of	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4G)	.	.	4G)	.	.	4g)	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4En	thy	.	4En	thy	.	4en	thy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+8FL	dres-	>	8FL	dres-	>	8fL	dres-	>	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8AJ	.	.	8AJ	.	.	8aJ	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[8c	-sing,	] <	[8c	-sing,	] <	[8cc	-sing,	] <	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!
+4.c]	.	.	4.c]	.	.	4.cc]	.	.	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	[[	.	.	[[	.	.	[[	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+8r	.	.	8r	.	.	8r	.	.	4%3ryy	.	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy
+8d~	Hill	f	8d~	Hill	f	8dd~	Hill	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8Bn~	and	.	8Bn~	and	.	8bn~	and	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8.A~	dale	.	8.A~	dale	.	8.a~	dale	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16ALL	doth	>	(16ALL	doth	>	(16aLL	doth	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16F#X	.	.	16F#X	.	.	16f#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16DJJ)	.	]]	16DJJ)	.	]]	16dJJ)	.	]]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+(4E	boast	p	(4E	boast	p	(4e	boast	p	8ryy	4ryy	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4F#X)	.	.	4F#X)	.	.	4f#X)	.	.	8ryy	.	8ryy	.	8ryy	.	8r`yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4D	thy	.	4D	thy	.	4d	thy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+8EL	bles-	.	8EL	bles-	.	8eL	bles-	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8BnJ	.	>	8BnJ	.	>	8bnJ	.	>	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[8A	-sing.	.	[8A	-sing.	.	[8a	-sing.	.	8ryy	.	8ryy	.	8r`yy	.	8r`yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4.A]	.	]	4.A]	.	]	4.a]	.	]	8ryy	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+4r	.	.	4r	.	.	4r	.	.	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[8A	Hail,	.	[8A	Hail,	.	[8a	Hail,	.	8ryy	.	8ryy	.	8r`yy	.	8r`yy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8AL]	.	>	8AL]	.	>	8aL]	.	>	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+8G	.	.	8G	.	.	8g	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+8FnJ	.	]]	8FnJ	.	]]	8fnJ	.	]]	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7)](s8)[(s9,s10,s11)]
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!AGN: Vocal; Choral
+!!!MCN: Beinum, Eduard van
+!!!MDT: 1949/07/14
+!!!MGN: Dutch Radio Chorus; Concertgebouw Orchestra
+!!!MLC: Amsterdam, The Netherlands
+!!!MPD: 1949
+!!!MPN: Ferrier, Kathleen; Pears, Peter; Vincent, Joe
+!!!ODT: 1949
+!!!PDT: 1951
+!!!excerpt-start-measure: 20
+!!!excerpt-end-measure: 31
+!!!excerpt-start-time: 1:09
+!!!excerpt-end-time: 1:46
+!!!excerpt-duration-sec: 37
+!!!excerpt-time-signature: 6/8
+!!!excerpt-tempo-beat: [dotted-quarter]
+!!!excerpt-tempo-rate: [44]
+!!!excerpt-meter-type: compound
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

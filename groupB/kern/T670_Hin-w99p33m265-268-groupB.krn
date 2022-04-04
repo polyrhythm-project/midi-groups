@@ -1,0 +1,56 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T670_Hin-w99p33m265-268]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola II	*	*I"Viola I	*	*I"Violin	*	*I"Clarinet in Bb	*
+*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln.	*	*I'Cl.	*
+*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
+*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Iclars	*
+*	*	*	*	*	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*
+*	*	*	*	*	*	*	*	*	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+!!LO:REH:t=V
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=100]	!
+2r)yy	.	4ryy	.	4ryy	.	8ryy	.	2dd	4ryy
+.	.	.	.	.	.	8ryy	4ryy	.	.
+.	.	8ryy	.	8ryy	4ryy	8ryy	.	.	.
+.	.	8ryy	4ryy	8ryy	.	8ryy	.	.	.
+8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	(8dd-XL	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8a-X)	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8e-	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8dd-J	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	4f	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	(8eXL	.
+8ryy	4ryy	8ryy	.	8ryy	.	8ryy	.	8bXJ)	4ryy
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	2c	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	(8eXL	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8bXJ)	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	2c	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	(8eL	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8bJ)	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	2c	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	(8B-L	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8d-X)	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8f	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8a-XJ	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2[(s3,s4)]s5)]

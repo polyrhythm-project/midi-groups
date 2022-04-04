@@ -1,0 +1,74 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T384_Str-25/11/[3]1-7]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Clarinet in A II	*	*I"Clarinet in A I	*	*I"Flute	*
+*I'Cl. II. (A) 	*	*I'Cl. I. (A)	*	*I'Fl.	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd2c3	*	*ITrd2c3	*	*	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*
+*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=3
+=23!|:	=23!|:	=23!|:	=23!|:	=23!|:	=23!|:
+!	!	!	!LO:DY:ed=brack	!LO:TX:t=[[half-dot]=66]	!
+4ryy	.	4ryy	4ryy	4r	.
+!	!	!	!	!	!LO:DY:ed=brack
+.	.	.	.	(<16qqddd/LL	mp
+.	.	.	.	16qqddd/JJ	.
+!	!LO:DY:ed=brack	!	!	!	!
+4ryy	4ryy	4ryy	.	2fff#)	.
+4ryy	.	4ryy	.	.	.
+=24	=24	=24	=24	=24	=24
+.	.	.	.	(<16qqeee/LL	.
+.	.	.	.	16qqeee/JJ	.
+4ryy	.	4ryy	.	2ggg#X)	.
+4ryy	.	4ryy	.	.	.
+.	.	.	.	(<16qqggg#/LL	.
+.	.	.	.	16qqggg#/JJ	.
+4ryy	.	4ryy	.	[4bbb)	.
+=25	=25	=25	=25	=25	=25
+4ryy	.	4ryy	.	4bbb]	.
+.	.	.	.	(<16qqggg#X/LL	.
+.	.	.	.	16qqggg#/JJ	.
+4ryy	.	4ryy	.	2gg#X)	.
+4ryy	.	4ryy	.	.	.
+=26	=26	=26	=26	=26	=26
+.	.	.	.	(<16qqgggn/LL	.
+.	.	.	.	16qqggg/JJ	.
+4ryy	.	4ryy	.	2bbb)	.
+4ryy	.	4ryy	.	.	.
+.	.	.	.	(<16qqggg#X/LL	.
+.	.	.	.	16qqggg#/JJ	.
+4ryy	.	4ryy	.	[4aa)	.
+=27	=27	=27	=27	=27	=27
+4ryy	.	4ryy	.	4aa]	.
+.	.	.	.	(<16qqddd/LL	.
+.	.	.	.	16qqddd/JJ	.
+4ryy	.	4ryy	.	2fff#)	.
+4ryy	.	4ryy	.	.	.
+=28	=28	=28	=28	=28	=28
+.	.	.	.	(<16qqeee/LL	.
+.	.	.	.	16qqeee/JJ	.
+4ryy	.	4ryy	.	2ggg#X)	.
+4ryy	.	4ryy	.	.	.
+.	.	.	.	(<16qqggg#/LL	.
+.	.	.	.	16qqggg#/JJ	.
+4ryy	.	4ryy	.	[4bbb)	.
+=29	=29	=29	=29	=29	=29
+4ryy	.	4ryy	.	4bbb]	.
+.	.	.	.	(<16qqggg#X/LL	.
+.	.	.	.	16qqggg#/JJ	.
+4ryy	.	4ryy	.	2aa)	.
+4ryy	.	4ryy	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1[{s2,s3}])]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/28
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/10

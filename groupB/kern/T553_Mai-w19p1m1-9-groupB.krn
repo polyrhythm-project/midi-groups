@@ -1,0 +1,87 @@
+!!!COM: Frank Martin
+!!!OTL: [T553_Mai-w19p1m1-9]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part3	*part2	*part2	*part1	*part1
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Pedals	*I"Man. Organ	*I"Man. Organ	*I"Flute	*I"Flute
+*I'Ped.	*I'Org.	*	*I'Fl.	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*
+*	*^	*	*	*
+!	!LO:TX:a:t=8' or 16' très fins	!	!	!	!
+4ryy	(4cc	[4a	p	4ryy	.
+=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=8'.16'.	!	!	!	!LO:TX:a:i:t=dolce teneramente	!
+1ryy	4b)	4a]	.	1ryy	.
+.	[4b	(4a	.	.	.
+.	4b]	4g#X)	.	.	.
+.	(4b	(4g#	.	.	.
+=2	=2	=2	=2	=2	=2
+2.ryy	4ff)	4gn)	.	2ryy	.
+.	(4ff	(4g	.	.	.
+.	4ee)	4dd-X)	.	4.ryy	.
+4ryy	(4ee	[4dd-	.	.	.
+.	.	.	.	8ryy	.
+=3	=3	=3	=3	=3	=3
+2.ryy	4ee-X)	4dd-]	.	8ryy	.
+.	.	.	.	4ryy	.
+.	[4ee-	(4dd-X	.	.	.
+.	.	.	.	8ryy	.
+.	4ee-]	4cc)	.	4ryy	.
+4ryy	(4ee-	(4cc	.	4ryy	.
+=4	=4	=4	=4	=4	=4
+2.ryy	4aa)	4ddn)	.	8ryy	.
+.	.	.	.	4.ryy	.
+.	(4aa	[4bn	.	.	.
+.	4gg#X)	4b]	.	4.ryy	.
+4ryy	(4gg#	(4b	.	.	.
+.	.	.	.	8ryy	.
+=5	=5	=5	=5	=5	=5
+1ryy	4ggn)	4ff)	.	1ryy	4ryy
+.	[4gg	(4ff	.	.	.
+.	4gg]	4ee)	.	.	.
+.	(4gg	(4ee	.	.	.
+!!linebreak:original
+=6	=6	=6	=6	=6	=6
+2.ryy	4ccc#X)	4ee-X)	.	4.ryy	.
+.	(4ccc#	(4ee-	.	.	.
+.	.	.	.	8ryy	4ryy
+.	4cccn)	4aa)	.	8ryy	.
+.	.	.	.	4ryy	.
+4ryy	(4ccc	[4aa	.	.	.
+.	.	.	.	8ryy	.
+=7	=7	=7	=7	=7	=7
+2.ryy	4bbn)	4aa]	.	8ryy	.
+.	.	.	.	4ryy	.
+.	[4bb	(4aa	.	.	.
+.	.	.	.	8ryy	.
+.	4bb]	4aa-X)	.	8ryy	.
+.	.	.	.	4ryy	.
+4ryy	[4bb-X	(4aa-	.	.	.
+.	.	.	.	8ryy	.
+=8	=8	=8	=8	=8	=8
+2.ryy	4bb-]	4cc)	.	8ryy	.
+.	.	.	.	8ryy	.
+.	[4aa	(4ff#X	.	8ryy	.
+.	.	.	.	8ryy	.
+.	4aa]	4bn)	.	8ryy	.
+.	.	.	.	8ryy	.
+4ryy	[4gg#X	(4ffn	.	8.ryy	.
+.	.	.	.	16ryy	.
+=9	=9	=9	=9	=9	=9
+2.ryy	4gg#]	4b-X)	.	8ryy	.
+.	.	.	.	8ryy	.
+.	[4ff#X	(4b-	.	8ryy	.
+.	.	.	.	8ryy	.
+.	4ff#]	4a)	.	4ryy	.
+4ryy	[4ff#	[4a	.	8.ryy	.
+.	.	.	.	16ryy	.
+*	*v	*v	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3)]
+!!!RDF**kern: N = hairpin accent

@@ -1,0 +1,57 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T784_Mes-w26p11s1]
+**kern	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*
+*part2	*part1	*part1	*part1
+*staff3	*staff2	*staff1	*staff1
+*I"PED.	*I"[Organ] MAN.	*	*
+*I'Ped.	*I'Org.	*	*
+*clefF4	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*
+=1	=1	=1	=1
+!!LO:TX:a:B:t=Lent
+!LO:TX:b:t=[f]	!	!	!LO:DY:t=[ %s ]
+(4GG^^n,	(16ccnLL	36ryy	4ryy
+.	.	36ryy	.
+.	.	36ryy	.
+.	16ddn	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	16ee-X	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	16aa-XJJ	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+!LO:TX:b:t=∪	!	!	!
+4GG	16bbnLL	36ryy	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	16aa-X	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	16ee-X	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	16ddnJJ	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+4FFn~<^^<)	16ccnLL	36ryy	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	16b-XJJ	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	(<8qaa-X/	.	.
+.	[8an))	.	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	.	36ryy	.
+.	.	36ryy	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: < = below
+!!!EED:Jason Lee
+!!!EEV:2022/01/12

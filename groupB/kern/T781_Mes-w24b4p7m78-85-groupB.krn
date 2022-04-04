@@ -1,0 +1,76 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T781_Mes-w24b4p7m78-85]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part1	*	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"P3	*	*I"Piano	*	*	*
+*	*	*I'Pno.	*	*	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1
+!	!	!	!	!LO:TX:t=[eighth]=144	!
+!	!LO:DY:t=(sempre %s )	!	!LO:DY:ed=brack	!	!
+16ryy	4ryy	[4D-X [4d-X	ff	2ryy	4ryy
+16ryy	.	.	.	.	.
+8ryy	.	.	.	.	.
+8ryy	.	8.D-L] 8.d-]	.	.	.
+8ryy	.	.	.	.	.
+.	.	[16DnJk [16dn	f	.	.
+=2	=2	=2	=2	=2	=2
+8ryy	.	2Dn_ 2dn_	.	16ryy	.
+!	!	!	!	!	!LO:DY:a
+.	.	.	.	8.ryy	4ryy
+8ryy	.	.	.	.	.
+8ryy	.	.	.	4ryy	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+4ryy	.	16DKL] 16d]	.	4ryy	.
+.	.	[8.E-XJ [8.e-X	mf	.	.
+!	!	!	!	!	!LO:DY:a
+8.ryy	.	4E-_ 4e-_	.	4ryy	4ryy
+16ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+16ryy	.	8E-X] 8e-X]	.	2ryy	.
+8.ryy	.	.	.	.	.
+.	.	[4.En [4.en	mf	.	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+8ryy	.	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!LO:DY:a
+8ryy	.	8E] 8e]	.	2ryy	4ryy
+4.ryy	4ryy	[4.Fn [4.fn	ff	.	.
+=6	=6	=6	=6	=6	=6
+8ryy	.	16FKL] 16f]	.	8ryy	.
+.	.	8F#X'^J 8f#X	ff	.	.
+!	!LO:DY:t=(sempre %s )	!	!	!	!
+8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!LO:DY:a
+4ryy	.	.	.	4.ryy	4ryy
+.	.	16r	.	.	.
+.	.	8.r	.	.	.
+8ryy	.	.	.	.	.
+*	*	*clefG2	*	*	*
+.	.	([16G [16g	p	.	.
+=7	=7	=7	=7	=7	=7
+4ryy	.	4G] 4g]	.	8ryy	.
+.	.	.	.	8ryy	4ryy
+4ryy	.	4A-X 4a-X)	p	4ryy	.
+=8	=8	=8	=8	=8	=8
+*M3/8	*	*M3/8	*	*M3/8	*
+!	!LO:DY:t=(sempre %s )	!	!	!LO:TX:a:t=rit.	!
+4ryy	4ryy	8An~L 8an	f	4ryy	4ryy
+.	.	16r~	.	.	.
+.	.	[16B-X~Jk [16b-X	f	.	.
+!	!LO:DY:a	!	!	!	!
+16ryy	4ryy	16B-LL] 16b-]	.	8ryy	4ryy
+16ryy	.	16Bn'^JJ 16bn	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)}s3)]

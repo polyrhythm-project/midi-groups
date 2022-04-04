@@ -1,0 +1,72 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T231_Sch-w42p104m39-40]
+**kern	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"NARRATOR	*I"NARRATOR	*I"Snare Drum	*I"Snare Drum	*I"Cymbal	*I"Cymbal	*I"Bass Drum	*I"Bass Drum	*I"Xylophone	*I"Xylophone
+*I'NARR.	*	*I'S. D.	*	*I'Cym.	*	*I'B. D.	*	*I'Xyl.	*
+!!pagebreak:original
+*stria1	*	*stria1	*	*stria1	*	*stria1	*	*	*
+*clefF1	*	*clefX	*	*clefX	*	*clefX	*	*clefG2	*
+*	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:TX:a:Bi:t=colla parte	!
+8ryy	4ryy	32ryy	4ryy	8ryy	4ryy	16r	.	8r	.
+.	.	32ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!
+.	.	16ryy	.	.	.	16Re/LL	mf	.	.
+!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack
+8ryy	.	16ryy	.	8ryy	.	16Re/JJ	.	8aaa-X	p
+.	.	32ryy	.	.	.	16r	.	.	.
+.	.	32ryy	.	.	.	.	.	.	.
+16.ryy	4ryy	16ryy	.	8ryy	.	16Re/LL	.	16r	.
+.	.	32ryy	.	.	.	16Re/J	.	16eeenLL	.
+32ryy	4ryy	32ryy	.	.	.	.	.	.	.
+16.ryy	4ryy	32ryy	.	8ryy	.	16r	.	16r	.
+.	.	32ryy	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16Re/Jk	.	16ccccnJJ	.
+32ryy	4ryy	.	.	.	.	.	.	.	.
+16ryy	4ryy	16ryy	.	8ryy	.	16Re/KL	.	16aaa-LL	.
+16ryy	4ryy	32ryy	.	.	.	16r	.	16r	.
+.	.	32ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	16Re/L	.	16r	.
+.	.	.	.	.	.	16Re/JJ	.	16eeeJJ	.
+16ryy	.	32ryy	.	8ryy	.	16r	.	16cccc	.
+.	.	32ryy	.	.	.	.	.	.	.
+32ryy	4ryy	16ryy	.	.	.	16Re/LL	.	16r	.
+32ryy	4ryy	.	.	.	.	.	.	.	.
+32ryy	4ryy	16ryy	.	8ryy	.	16Re/JJ	.	8r	.
+32ryy	4ryy	.	.	.	.	.	.	.	.
+16ryy	4ryy	32ryy	.	.	.	16r	.	.	.
+.	.	32ryy	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16ryy	.	32ryy	.	8ryy	.	16r	.	8r	.
+.	.	32ryy	.	.	.	.	.	.	.
+16ryy	4ryy	16ryy	.	.	.	16Re/LL	.	.	.
+16ryy	4ryy	16ryy	.	8ryy	.	16Re/JJ	.	8aaa-X	.
+32ryy	4ryy	32ryy	.	.	.	16r	.	.	.
+32ryy	4ryy	32ryy	.	.	.	.	.	.	.
+8ryy	4ryy	16ryy	.	8ryy	.	16Re/LL	.	16r	.
+.	.	32ryy	.	.	.	16Re/J	.	16eeenLL	.
+.	.	32ryy	.	.	.	.	.	.	.
+8ryy	.	32ryy	.	8ryy	.	16r	.	16r	.
+.	.	32ryy	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	16Re/Jk	.	16ccccnJJ	.
+16ryy	4ryy	16ryy	.	8ryy	.	16Re/KL	.	16aaa-LL	.
+16ryy	4ryy	32ryy	.	.	.	16r	.	16r	.
+.	.	32ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	16Re/L	.	16r	.
+.	.	.	.	.	.	16Re/JJ	.	16eeeJJ	.
+16ryy	4ryy	32ryy	.	8ryy	.	16r	.	16cccc	.
+.	.	32ryy	.	.	.	.	.	.	.
+16ryy	4ryy	16ryy	.	.	.	16Re/LL	.	16r	.
+16ryy	4ryy	16ryy	.	8ryy	.	16Re/JJ	.	8r	.
+16ryy	4ryy	32ryy	.	.	.	16r	.	.	.
+.	.	32ryy	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]

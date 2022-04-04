@@ -1,0 +1,76 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T229_Sch-w39p12m88-91]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Organ	*	*
+*I'Org.	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M7/8	*M7/8	*
+!	!LO:TX:t=[quarter-dot]=80	!
+!	!	!LO:DY:ed=brack
+8BL)	8ryy	4ryy
+8cn	8ryy	.
+8d-X;J)	8ryy	.
+!	!LO:TX:t=[quarter]=100	!
+!	!LO:TX:a:B:t=VAR. VII	!LO:DY:t=%s dolcissimo
+(16DD#XLL	8ryy	4ryy
+16FF#X	.	.
+16En	8ryy	.
+16DnJJ)	.	.
+8r	8ryy	.
+(16AA#XLL	8ryy	.
+16C#XJJ	.	.
+=1	=1	=1
+*M4/4	*M4/4	*
+!LO:TX:t=P:problem:beaming over the barline	!	!
+16BnLL	8ryy	.
+16AnJJ)	.	.
+8r	8ryy	.
+(16AAnLL	8ryy	.
+16Cn	.	.
+16B-X	8ryy	.
+16A-XJJ)	.	.
+8r	8ryy	.
+(16DD#XLL	8ryy	.
+16FF#X	.	.
+16En	8ryy	.
+16DnJJ)	.	.
+8r	8ryy	.
+!!linebreak:original
+=2	=2	=2
+(16AA#XLL	8ryy	.
+16C#X	.	.
+16Bn	8ryy	4ryy
+16AnJJ)	.	.
+8r	8ryy	.
+(16AAnLL	8ryy	.
+16Cn	.	.
+16B-X	8ryy	.
+16A-XJJ)	.	.
+8r	8ryy	.
+(16GGnLL	8ryy	.
+16BB-X	.	.
+16A-X	8ryy	4ryy
+16G-XJJ)	.	.
+=3	=3	=3
+8r	8ryy	4ryy
+(16CnLL	8ryy	.
+16E-X	.	.
+16c#X	8ryy	.
+16BnJJ)	.	.
+8r	8ryy	.
+(16BBnLL	8ryy	4ryy
+16Dn	.	.
+16cn	8ryy	.
+16B-XJJ)	.	.
+8r	8ryy	.
+8Cn'~ 8Gn [8cn	16ryy	.
+.	16ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

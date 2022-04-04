@@ -1,0 +1,57 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T205_Sch-w27p18m31-32]
+**kern	**kern	**kern	**kern	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*	*
+*part8	*part7	*part6	*part5	*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff8	*staff7	*staff6	*staff5	*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Violoncello m. Dämpfer	*I"Violin m. Dämpfer	*I"Clarinet	*I"Mandolin	*I"Bass	*	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*
+*I'Vc. m.D.	*I'Vln. m.D.	*I'Cl.	*I'Mand.	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*clefF4	*clefG2	*clefG2	*clefG2	*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*
+*M6/8	*M6/8	*M6/8	*M6/8	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*	*M6/8	*	*
+!!LO:REH:t=31
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:rj:a:t=(pizz.)	!LO:TX:a:t=spring	!	!LO:TX:b:i:t=dolce	!	!	!	!	!	!LO:DY:a:t=%s dolce, legato	!	!	!LO:DY:a:t=%s dolce, legato	!LO:TX:t=[[quarter-dot]=52]	!	!
+16ryy	8ryy	(8f#XL	16f#XLL	16AA-XLL	4ryy	4ryy	8.ryy	4ryy	4ryy	4f#X	4ryy	4ryy	8ryy	.	.
+16ryy	.	.	16een	16AA-JJ	4ryy	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	8dd#X	16aan	4AA-	4ryy	.	.	.	.	.	.	.	16ryy	4ryy	4ryy
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	.	16ccc#X	.	.	.	16ryy	4ryy	.	.	.	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	8ryy	8enJ	16bbn	.	.	.	8.ryy	4ryy	.	8en	4ryy	.	8ryy	4ryy	.
+16ryy	.	.	16ff#XJJ	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	16r'yy	8anL	16eeen	16AA-LL	4ryy	.	.	.	.	4an	4ryy	.	16ryy	.	.
+16ryy	32ryy	.	16r	[16AA-JJ	4ryy	.	16ryy	4ryy	.	.	.	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	8dd#X	16anLL	8AA-L]	.	.	8.ryy	4ryy	.	.	.	.	8.ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	.	16ccc#X	.	.	.	.	.	.	.	.	.	.	.	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	16ryy	8c#XJ	16bbn	8AA-J	4ryy	.	.	.	.	8c#X	4ryy	.	.	.	.
+16ryy	32ryy	.	16fff#XJJ	.	.	.	16ryy	4ryy	.	.	.	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:REH:t=32
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16ryy	32ryy	8BnL	16eeenLL	8.AA-XL	4ryy	.	8.ryy	4ryy	.	4Bn	4ryy	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	.	16an	.	.	.	.	.	.	.	.	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	8ryy	8dd#X	16cc#X	.	.	.	.	.	.	.	.	.	8ryy	4ryy	.
+16ryy	.	.	16BnJJ	16AA-L	4ryy	.	16ryy	4ryy	.	.	.	.	.	.	.
+16ryy	32ryy	8g#XJ	16g#XLL	16En	4ryy	.	8.ryy	4ryy	.	8g#X	4ryy	.	8ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	.	16ff#X	16EJJ	4ryy	.	.	.	.	.	.	.	.	.	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	8f#XL	16b-X	4E	4ryy	.	.	.	.	4f#X	4ryy	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	32ryy	.	16ee-XJ	.	.	.	16ryy	4ryy	.	.	.	.	16ryy	4ryy	.
+.	32ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	8ryy	8bn	8ddd-XJ	.	.	.	8.ryy	4ryy	.	.	.	.	4ryy	4ryy	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	8ryy	8b-XJ)	16aa-XLL	16ELL	4ryy	.	.	.	.	8b-X	4ryy	.	.	.	.
+16ryy	.	.	16gg-X	[16EJJ	4ryy	.	16ryy	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8)]
+!!!EED:Jason Lee
+!!!EEV:2021/11/22

@@ -1,0 +1,105 @@
+!!!COM: Frank Martin
+!!!OTL: [T542_Mai-w11p27h14m1-10]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*
+*I'Pno.	*	*	*I'Vc.	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Icello	*
+*clefG2	*clefG2	*	*clefF4	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*
+*met(c)	*met(c)	*	*met(c)	*
+=1	=1	=1	=1	=1
+!!LO:TX:t=[Più mosso [half]=108]
+!	!	!LO:DY:t= meno %s	!	!
+4ryy	2ryy	4ryy	2C]	4ryy
+8ryy	.	.	.	.
+8ryy	.	.	.	.
+4ryy	4ryy	.	[2D-X	.
+8ryy	4ryy	.	.	.
+8ryy	.	.	.	.
+=2	=2	=2	=2	=2
+4ryy	4ryy	.	4D-]	.
+4ryy	2ryy	.	2E-X	.
+4ryy	.	.	.	.
+4ryy	4ryy	.	[4F	.
+=3	=3	=3	=3	=3
+4ryy	4ryy	.	2F]	.
+8ryy	4ryy	.	.	.
+8ryy	.	.	.	.
+4ryy	4ryy	.	(2G-X	.
+8ryy	4ryy	.	.	.
+8ryy	.	.	.	.
+=4	=4	=4	=4	=4
+4ryy	8ryy	.	4F)	.
+.	8ryy	.	.	.
+4ryy	2ryy	.	2E-X	.
+4ryy	.	.	.	.
+4ryy	4ryy	.	[4D-X	.
+=5	=5	=5	=5	=5
+4ryy	4ryy	.	4D-]	.
+!	!LO:TUP:a	!	!	!
+4ryy	12ryy	.	(4E-X	.
+.	12ryy	.	.	.
+.	12ryy	.	.	.
+!	!LO:TUP:a	!	!	!
+4ryy	12ryy	.	4F)	.
+.	12ryy	.	.	.
+.	12ryy	.	.	.
+4ryy	4ryy	.	[4G-X	.
+=6	=6	=6	=6	=6
+4ryy	8ryy	.	4G-X]	.
+.	8ryy	.	.	.
+4ryy	2ryy	.	(4A-X	4ryy
+4ryy	.	.	4B-X)	.
+*clefF4	*	*	*	*
+4ryy	16ryy	4ryy	(8A-L	.
+.	16ryy	.	.	.
+.	16ryy	.	8B-J)	4ryy
+.	16ryy	4ryy	.	.
+=7	=7	=7	=7	=7
+!	!	!	!LO:TX:b:i:t=dolce	!
+4ryy	4ryy	4ryy	2c	.
+4ryy	8ryy	.	.	.
+.	8ryy	.	.	.
+4ryy	4ryy	.	(4B-X	.
+4ryy	8ryy	.	4c	.
+.	8ryy	.	.	.
+=8	=8	=8	=8	=8
+4ryy	4ryy	.	4B-X)	.
+4ryy	4ryy	.	2An	.
+4ryy	4ryy	.	.	.
+4ryy	16ryy	.	(4G	.
+.	16ryy	.	.	.
+.	16ryy	.	.	.
+.	16ryy	.	.	.
+=9	=9	=9	=9	=9
+4ryy	4ryy	.	4A	.
+4ryy	8ryy	.	4B-X)	4ryy
+.	8ryy	.	.	.
+4ryy	4ryy	.	(4c	.
+4ryy	8ryy	.	4d)	.
+.	8ryy	.	.	.
+=10	=10	=10	=10	=10
+4ryy	4ryy	.	(8cL	.
+.	.	.	8dJ	4ryy
+4ryy	4ryy	.	2e-X)	.
+4ryy	4ryy	.	.	.
+4ryy	16ryy	.	[4fN>	.
+.	16ryy	.	.	.
+.	16ryy	.	.	.
+.	16ryy	.	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: > = above
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/17

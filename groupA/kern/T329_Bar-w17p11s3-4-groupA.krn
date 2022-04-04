@@ -1,0 +1,104 @@
+!!!COM: Béla Bartók
+!!!OTL: [T329_Bar-w17p11s3-4]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*I"Piano
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*	*	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*^	*^	*
+!	!	!LO:TX:t=[half-dot]=92	!	!LO:DY:ed=brack
+4B-X'	[2.D-X	2.ryy	2.ryy	4ryy
+4E'	.	.	.	.
+4B-'	.	.	.	.
+*	*	*v	*v	*
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+=2	=2	=2	=2
+4E'	2.D-]	2.ryy	4ryy
+4B-X'	.	.	.
+4E'	.	.	.
+=3	=3	=3	=3
+4B-X'	[2.D-X	4ryy	.
+4E'	.	4ryy	.
+4B-'	.	4ryy	.
+=4	=4	=4	=4
+4E'	2.D-]	4ryy	.
+4B-X'	.	4ryy	.
+4E'	.	4ryy	.
+=5	=5	=5	=5
+4D-X'	[2.GG	2ryy	.
+4B-X'	.	.	.
+4En'	.	4ryy	.
+=6	=6	=6	=6
+4B-X'	2.GG_	2.ryy	.
+4D-X'	.	.	.
+4B-'	.	.	.
+=7	=7	=7	=7
+!	!	!LO:TX:a:t=rit.	!
+4E'	2.GG_	8%3ryy	.
+4B-X'	.	.	.
+.	.	8%3ryy	4ryy
+4D-X'	.	.	.
+=8	=8	=8	=8
+4B-X'	2.GG]	8%3ryy	.
+4E'	.	.	.
+.	.	8%3ryy	4ryy
+4B-'	.	.	.
+*v	*v	*	*
+=9	=9	=9
+!	!LO:TX:t=[half-dot]=122	!
+!	!LO:TX:a:B:t=Tempo I.	!
+4%3r	4ryy	.
+.	4ryy	.
+.	4ryy	.
+=10	=10	=10
+4%3r	4%3ryy	.
+.	16ryy	.
+.	16ryy	.
+.	16ryy	.
+*clefG2	*	*
+=11	=11	=11
+4G: 4B-X: 4d-X: 4en:	4ryy	4ryy
+4r	4ryy	.
+4r	4ryy	.
+=12	=12	=12
+4%3r	4%3ryy	.
+.	16ryy	.
+.	16ryy	.
+.	16ryy	.
+=13	=13	=13
+4%3r	4ryy	4ryy
+.	4ryy	.
+.	4ryy	.
+=14	=14	=14
+4ccc'	4%3ryy	.
+4aa-X'	.	.
+4een'	.	.
+=15	=15	=15
+4%3r	4ryy	.
+.	4ryy	.
+.	4ryy	.
+=16	=16	=16
+4cc'	4%3ryy	.
+4a-X'	.	.
+4en'	.	.
+=17	=17	=17
+4%3r	4ryy	.
+.	4ryy	.
+.	4ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/12
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08

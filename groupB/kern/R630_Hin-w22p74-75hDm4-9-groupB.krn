@@ -1,0 +1,138 @@
+!!!COM: Hindemith, Paul
+!!!OTL: Kammermusik No. 2 (Chamber Music No. 2), Concerto for Piano and Chamber Orchestra Op. 36, No. 1
+!!!OMV: Movement 4: Finale
+!!!example: 630
+!!!work: Hin-22
+!!!OMD-full: Schnelle viertel
+!!!OMD: [Schnelle Viertel]
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*
+*I'Pno.	*	*	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*
+*ICklav	*	*ICklav	*ICbras	*	*ICbras	*	*ICww	*
+*Ipiano	*	*Ipiano	*Itromt	*	*Icor	*	*Ifagot	*
+*clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefF4	*
+*k[]	*	*	*k[]	*	*ITrd-3c-5	*	*k[]	*
+*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+*MM131	*	*MM131	*MM131	*	*MM131	*	*MM131	*
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+!LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[[quarter]=131]	!
+*Xtuplet	*	*Xtuplet	*	*	*	*	*	*
+!	!LO:DY:a	!	!	!	!	!	!	!
+12ryy	4ryy	4ryyyy	1r	.	1r	.	1r	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+!	!	!LO:TX:t=(Triolen)	!	!	!	!	!	!
+12ryy	.	.	.	.	.	.	.	.
+12ryyyy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryyyy	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+12ryy	.	1ryyyy	1EE	p<	1r	.	1r	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	[	.	.	.	.
+12ryy	.	.	.	>	.	.	.	.
+!	!	!	!	!	!	!	!	!
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	]	.	.	.	.
+*	*	*	*	*	*clefF4	*	*	*
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+12ryy	.	12ryy	1r	.	1FF	p<	1r	.
+12ryy	.	12ryyyy	.	.	.	.	.	.
+12ryy	.	12ryyyy	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	[	.	.
+12ryy	.	4ryyyy	.	.	.	>	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	]	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+12ryyyy	.	12ryy	1EE	p<	1r	.	1r	.
+12ryyyy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	[	.	.	.	.
+12ryy	.	4ryyyy	.	>	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	]	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+12ryy	.	4ryyyy	1r	.	1FF	p<	1r	.
+12ryy	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!
+12ryy	.	.	.	.	.	.	.	.
+12ryyyy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.
+12ryy	.	12ryyyy	.	.	.	[	.	.
+12ryy	.	4ryyyy	.	.	.	>	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	]	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!LO:DY:t=%s cresc.
+12ryy	.	4ryyyy	2.EE	mf <	2r	.	[1D	p
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	4ryyyy	.	.	.	.	.	.
+12ryy	.	.	.	[	.	.	.	.
+12ryy	.	.	.	>	.	.	.	.
+12ryy	.	12ryy	.	.	4r	.	.	.
+12ryy	.	12ryyyy	.	.	.	.	.	.
+12ryy	.	12ryyyy	.	.	.	.	.	.
+!	!	!	!	!	!LO:TX:i:b:t=cresc.	!	!	!
+12ryy	.	4ryyyy	4r	]	4FF[	mf<[	.	.
+12ryy	.	.	.	.	.	.	.	.
+12ryy	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [s1][(s2,s3)]{(s4,s5)}
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Orchestral; Concerto
+!!!MCN: Kraus, Clemens
+!!!MDT: 1924/10/31
+!!!MGN: Ensemble of the Frankfurter Museumgesellschaft
+!!!MLC: Frankfurt, Germany
+!!!MPD: 1924
+!!!MPN: Lübbecke-Job, Emma
+!!!ODT: 1924
+!!!PDT: 1924
+!!!excerpt-start-measure: 53
+!!!excerpt-end-measure: 58
+!!!excerpt-start-time: 1:28
+!!!excerpt-end-time: 1:39
+!!!excerpt-duration-sec: 11
+!!!excerpt-time-signature: [4/4]
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {131}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

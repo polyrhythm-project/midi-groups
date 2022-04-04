@@ -1,0 +1,76 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T284_Rav-w7p49m2-1h2m1]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*	*part7	*part6	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff8	*staff7	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Voice	*	*	*I"Harp	*	*	*I"Horn in F 1.2.	*	*I"Bassoon 1.2.	*	*I"Clarinet in A 1.2.	*	*I"Cor Anglais	*	*I"Flute 1.2.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Voice	*	*	*I'Hp.	*	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'C. A.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*ITrd4c7	*	*	*
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[]	*k[]	*	*k[b-]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
+*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*	*	*	*	*F:	*	*E:	*	*E:	*	*E:	*	*E:	*
+*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*	*M6/4	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:t=[Lent [quarter]=60]
+!LO:TX:a:t=[Sourdines]	!	!LO:TX:a:t=[Sourdines Div.]	!	!LO:TX:a:t=[Sourdines Div.]	!LO:DY:t=[ %s ]	!LO:TX:a:t=[Sourdines Div.]	!LO:DY:t=[ %s ]	!LO:TX:a:t=[Sourdines Div.]	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s très tendre]	!	!	!	!	!LO:TX:a:t=1º	!	!	!LO:DY:t=[ %s ]	!	!	!	!	!	!
+1.ryy	4ryy	1.ryy	4ryy	4ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.d#)j	4ryy	4ryy	1.ryy	1.ryy	4ryy	1.ryy	4ryy	8ryy	4ryy	1.ryy	4ryy	2%3ryy	.	2.ryy	4ryy
+.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	8ryy	.	.	4ryy	.	.	.	.
+.	.	.	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:gliss. lines	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!LO:N:vis=8%3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	4ryy	.	4ryy	4ryy	4ryy	.	(>16%3d#	.	4ryy	.	.	.	.	.	2ryy	.	.	.	.	.	4ryy	4ryy
+!	!	!	!	!	!	!	!	!	!	!LO:N:vis=8%3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	16%3d#	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!LO:N:vis=8%3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	16%3a#X	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	4ryy	.
+!	!	!	!	!	!	!	!	!	!	!LO:N:vis=8%3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	4ryy	.	4ryy	.	4ryy	.	.	.	.	16%3g#	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!LO:TX:a:t=Unis.	!	!LO:TX:a:t=Unis.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+1.ryy	4ryy	1.ryy	4ryy	4ryy	4ryy	1.ryy	4ryy	1.ryy	4ryy	4.d#	.	4ryy	2%3ryy	2%3ryy	.	8ryy	4ryy	2%3ryy	.	8ryy	4ryy	2%3ryy	.	2%3ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4.d#	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+.	.	.	.	4ryy	.	.	.	.	.	4.c#	.	4ryy	.	.	.	2ryy	.	.	.	2ryy	.	.	.	.	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4.g#	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.	.	.
+!!LO:REH:t=2
+=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||
+*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*	*	*M9/4	*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:a	!	!	!	!	!	!LO:TX:b:i:t=expressif	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!LO:TX:a:t=2º	!	!LO:TX:a:t=Solo	!	!	!
+4%9ryy	.	2ryy	.	8ryy	.	8ryy	.	8ryy	.	[4.g#	.	4ryy	4%9ryy	4%9ryy	.	2.ryy	2rAyy	4ryy	.	2ryy	.	2ryy	4ryy	4ryy	4ryy	4%9ryy	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	4.g#])	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=Unis.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	4ryy	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	4rAyy	.	.	4ryy	.	4ryy	.	4ryy	.	.	.
+!	!	!LO:N:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	.	2ryy	.	2ryy	.	2ryy	.	2r	.	.	.	.	.	4ryy	4rAyy	.	.	2ryy	.	4ryy	.	4ryy	.	.	.
+.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	2ryy	2ryy	4ryy	4ryy	.	.	2ryy	4ryy	4ryy	4ryy	.	.
+!	!	!LO:N:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:a	!	!	!	!	!	!	!	!	!
+.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4r	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	4ryy	4ryy	4ryy	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2º	!LO:DY:rj	!	!	!	!	!	!
+.	.	4ryy	.	2ryy	.	2ryy	.	2ryy	.	2r	.	.	.	.	.	2.ryy	2.ryy	.	.	2.ryy	4ryy	2.ryy	.	2.ryy	.	.	.
+!	!	!LO:N:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4r	.	.	.	.	.	.	.	4ryy	4ryy	.	.	.	4ryy	.	4ryy	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][({(s6,s7)})][(s8,s9,s10,s11,s12,s13)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/12/01

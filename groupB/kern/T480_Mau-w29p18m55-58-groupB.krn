@@ -1,0 +1,64 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T480_Mau-29/18/55-58]
+**kern	**kern		**dynam	**kern	**dynam
+*grp:A	*grp:A		*grp:A	*grp:B	*grp:B
+*part2	*part2		*part2	*part1	*part1
+*staff3	*staff2		*	*staff1	*
+*I"Piano	*		*	*I"Violin	*
+*I'Pno.	*		*	*I'Vln.	*
+*ICklav	*ICklav		*	*ICstr	*
+*Ipiano	*Ipiano		*	*	*
+*clefG2	*clefG2		*	*clefG2	*
+*k[]	*k[]		*	*k[]	*
+*M4/4	*M4/4		*	*M4/4	*
+=1	=1		=1	=1	=1
+*	*^		*	*	*
+!	!LO:T:a	!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=160]	!
+8ryy	8ryy	4ryyyy	4ryy	4ccc#X	f
+8ryy	8ryy	.	4ryy	.	.
+4ryy	8.ryy	8ryy	4ryy	(2ccc#	p
+.	.	8ryy	.	.	.
+.	16ryy	.	.	.	.
+4ryy	8.ryy	8ryy	4ryy	.	.
+.	.	8ryy	4ryy	.	.
+.	16ryy	.	.	.	.
+4ryy	8.ryy	8ryy	.	[4cccn	.
+.	.	8ryy	.	.	.
+.	16ryy	.	4ryy	.	.
+*	*v	*v	*	*	*
+=2	=2		=2	=2	=2
+4ryy	4ryy	.	4ccc])	.
+4ryy	4ryy	.	(2bb	<
+4ryy	4ryy	.	.	.
+4ryy	4ryy	.	4aa#X	[
+=3	=3		=3	=3	=3
+*	*^		*	*	*
+4ryy	8.ryy	8ryy	4ryy	4gg#X)	.
+.	.	8ryy	.	.	.
+.	16ryy	.	.	.	.
+4ryy	8.ryy	8ryy	.	(2ccc#X	.
+.	.	8ryy	4ryy	.	.
+.	16ryy	.	.	.	.
+4ryy	8.ryy	8ryy	4ryy	.	.
+.	.	8ryy	.	.	.
+.	16ryy	.	.	.	.
+4ryy	4ryy	8ryy	.	[4cccn	.
+.	.	8ryy	4ryy	.	.
+*	*v	*v	*	*	*
+=4	=4		=4	=4	=4
+4ryy	4ryy	4ryy	4ccc])	<
+4ryy	4ryy	.	(2bbi	.
+4ryy	4ryy	.	.	.
+*clefF4	*		*	*	*
+4ryy	8.ryy	4ryy	4aa	[
+.	16ryy	.	.	.
+=|	=|		=|	=|	=|
+*-	*-		*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: Z = editorial accidental, paren
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: > = above
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/02

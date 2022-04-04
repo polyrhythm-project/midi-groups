@@ -1,0 +1,119 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T191_Sch-w8p35m22-33]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*staff3	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M2/4	*	*M2/4	*
+!	!	!	!	!LO:TX:a:t=[Mit Dämpfer]	!	!	!
+!LO:TX:a:t=[Mit Dämpfer]	!	!LO:TX:a:t=[Mit Dämpfer]	!	!LO:TX:b:t=	!	!	!
+!	!	!	!	!LO:TX:a:t=h = h.	!	!	!
+*	*	*Xtuplet	*	*Xtuplet	*	*	*
+!	!	!	!	!	!	!LO:TX:a:t=h = h.	!
+*	*	*	*	*	*	*Xtuplet	*
+!	!	!	!	!	!	!LO:TX:t=[half-dot]=55	!
+!	!	!	!	!LO:TX:a:t=[Mit Dämpfer]		!	!LO:TX:a:t=[Mit Dämpfer]		!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!
+!	!	!	!	!LO:TX:rj:t=[half]=[half-dot]  	!	!LO:TX:rj:t=[half]=[half-dot]  	!
+2.ryy	4ryy	8ryy	4ryy	16%3aL	pp	16%3ff#XL	pp
+.	.	8ryy	.	.	.	.	.
+.	.	.	.	16%3f#X	.	16%3aa	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	16%3g#X	.	16%3ee#X	.
+.	.	8ryy	.	.	.	.	.
+.	.	.	.	16%3e#XJ	.	16%3gg#XJ	.
+.	.	8ryy	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2.ryy	.	8ryy	.	16%3B-XL	.	16%3gnL	.
+.	.	8ryy	.	.	.	.	.
+.	.	.	.	16%3Gn	.	16%3b-X	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	16%3gn	.	16%3een	.
+.	.	8ryy	.	.	.	.	.
+.	.	.	.	16%3enJ	.	16%3ggnJ	.
+.	.	8ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2.ryy	.	8ryy	.	16%3f#XL	.	16%3dd#XL	.
+.	.	8ryy	.	.	.	.	.
+.	.	.	.	16%3d#XJ	.	16%3ff#XJ	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	8%3r	.	8%3r	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2.ryy	.	8ryy	.	4%3r	.	4%3r	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+*M2/4	*	*	*	*	*	*	*
+*Xtuplet	*	*	*	*	*	*	*
+!LO:TX:rj:t=[half]=[half-dot]  	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+16%3ryy	.	8ryy	.	4%3r	.	4%3r	.
+.	.	8ryy	.	.	.	.	.
+16%3ryy	.	.	.	.	.	.	.
+.	.	2ryy	.	.	.	.	.
+16%3ryy	.	.	.	.	.	.	.
+16%3ryy	.	.	.	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5
+16%3ryy	.	2.ryy	.	4%3r	.	4%3r	.
+16%3ryy	.	.	.	.	.	.	.
+16%3ryy	.	.	.	.	.	.	.
+16%3ryy	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*M3/4	*
+!	!	!	!	!	!	!LO:TX:a:t=Bogen	!
+!	!	!	!	!	!	!LO:TX:rj:t=[half]=[half-dot]  	!
+16%3ryy	.	8ryy	.	16%3dd#XL	pp	2ff#X	p
+.	.	8ryy	.	.	.	.	.
+16%3ryy	.	.	.	16%3bnJ	.	.	.
+.	.	4ryy	.	.	.	.	.
+8%3ryy	.	.	.	16%3ddnL	.	.	.
+.	.	4ryy	.	.	.	[4een	.
+.	.	.	.	16%3b-XJ	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+!	!	!LO:TX:a:t=Dämpfer weg	!	!	!	!	!
+4%3ryy	.	4%3ryy	.	16%3enL	.	4ee]	.
+.	.	.	.	16%3cnJ	.	.	.
+.	.	.	.	.	.	4g#X	.
+.	.	.	.	16%3cc#XL	.	.	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	16%3anJ	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+16%3ryy	4ryy	4%3ryy	.	16%3ccnL	.	2ccn	.
+16%3ryy	.	.	.	16%3a-XJ	.	.	.
+16%3ryy	.	.	.	8%3r	.	.	.
+.	.	.	.	.	.	[4b-X	.
+16%3ryy	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+16%3ryy	.	4%3ryy	.	4%3r	.	4b-]	.
+16%3ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	4a	.
+16%3ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	4g#X	.
+16%3ryy	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+*	*	*	*	*M3/4	*	*	*
+!	!	!	!	!LO:TX:a:t=Bogen	!	!	!
+!	!	!	!	!LO:TX:rj:t=[half]=[half-dot]  	!	!	!
+16%3ryy	.	8ryy	.	[2.An	.	[2.an	.
+.	.	8ryy	4ryy	.	.	.	.
+16%3ryy	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+8%3ryy	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.
+.	.	8ryy	4ryy	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: i = editorial accidental

@@ -1,0 +1,166 @@
+!!!COM: Béla Bartók
+!!!OTL: [T358_Bar-w46b5p38m1-20]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*I"Piano
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+=1	=1	=1
+*^	*	*
+!	!	!LO:TX:t=Allegretto, [quarter]=132	!
+*ped	*	*	*
+4.ryy	8ryy	2r	mf
+.	4ryy	.	.
+8ryy	8ryy	.	.
+=2	=2	=2	=2
+4ryy	4ryy	2r	.
+4ryy	8ryy	.	.
+.	8ryy	.	.
+=3	=3	=3	=3
+*	*	*^	*
+8ryy	8ryy	4r	4ryy	.
+4.ryy	8ryy	.	.	.
+.	4ryy	8r	8ryy	.
+.	.	8ryy	[8a\	.
+=4	=4	=4	=4	=4
+4.ryy	8ryy	(8ggL	2a_	.
+.	4ryy	16ff#XL	.	.
+.	.	16eeJJ	.	.
+.	.	8dd'L)	.	.
+8ryy	8ryy	(8ccJ	.	.
+=5	=5	=5	=5	=5
+4ryy	4ryy	8dd'L)	2a_	.
+.	.	8dd'J	.	.
+4ryy	8ryy	(20eeLL	.	.
+.	.	20ffn	.	.
+.	.	20ee	.	.
+.	8ryy	.	.	.
+.	.	20ff	.	.
+.	.	20eeJJ	.	.
+=6	=6	=6	=6	=6
+8ryy	8ryy	2dd)	2a]	.
+4.ryy	8ryy	.	.	.
+.	4ryy	.	.	.
+=7	=7	=7	=7	=7
+4.ryy	8ryy	(8ggL	2a	.
+.	4ryy	16ff#XL	.	.
+.	.	16eeJJ	.	.
+.	.	8dd'L)	.	.
+8ryy	8ryy	(8ccJ	.	.
+=8	=8	=8	=8	=8
+4ryy	4ryy	8b'L)	8b	.
+.	.	8g'J	8ryy	.
+4ryy	8ryy	(>20aLL	4ryy	.
+.	.	20b-X	.	.
+.	.	20a	.	.
+.	8ryy	.	.	.
+.	.	20b-	.	.
+.	.	20aJJ	.	.
+*	*	*v	*v	*
+=9	=9	=9	=9
+8ryy	8ryy	2g)	.
+4.ryy	8ryy	.	.
+.	4ryy	.	.
+=10	=10	=10	=10
+*	*	*^	*
+4.ryy	8ryy	(>8dL	4ryy	.
+.	4ryy	8gJ)	.	.
+.	.	(16aLL	[4a	.
+.	.	16bJ	.	.
+8ryy	8ryy	8ccJ	.	.
+=11	=11	=11	=11	=11
+4ryy	4ryy	8dd'L)	2a_	f
+.	.	8dd'J	.	.
+4ryy	8ryy	(20eeLL	.	.
+.	.	20ff	.	.
+.	.	20ee	.	.
+.	8ryy	.	.	.
+.	.	20ff	.	.
+.	.	20eeJJ	.	.
+=12	=12	=12	=12	=12
+8ryy	8ryy	2dd)	2a]	.
+4.ryy	8ryy	.	.	.
+.	4ryy	.	.	.
+*	*	*v	*v	*
+=13	=13	=13	=13
+4.ryy	8ryy	8d	.
+.	4ryy	(>8gL	.
+.	.	16dL	.
+.	.	16gJ	.
+8ryy	8ryy	8aJ	.
+=14	=14	=14	=14
+4ryy	4ryy	8b'/L)	.
+.	.	8b'J	.
+4ryy	8ryy	(20aLL	.
+.	.	20b-X	.
+.	.	20a	.
+.	8ryy	.	.
+.	.	20b-	.
+.	.	20aJJ)	.
+=15	=15	=15	=15
+8ryy	8ryy	([4g	<
+4.ryy	8ryy	.	.
+!	!	!LO:TUP:br	!
+.	4ryy	28gLL]	.
+.	.	28a	.
+.	.	28b	.
+.	.	28cc	.
+.	.	28dd	.
+.	.	28ee	.
+.	.	28ffJJ)	[
+=16	=16	=16	=16
+*	*	*^	*
+8ryy	4.ryy	(8ggL	[2a	.
+4ryy	.	16ff#XL	.	.
+.	.	16eeJJ	.	.
+.	.	8dd'L)	.	.
+8ryy	8ryy	(8ccJ	.	.
+=17	=17	=17	=17	=17
+4ryy	4ryy	8dd'L)	2a]	.
+.	.	8dd'J	.	.
+8ryy	4ryy	(20eeLL	.	.
+.	.	20ffn	.	.
+.	.	20ee	.	.
+!LO:TX:t=P:problem:cross-bar beaming	!	!	!	!
+8ryy	.	.	.	.
+.	.	20ff	.	.
+.	.	20eeJJ	.	.
+=18	=18	=18	=18	=18
+8ryy	8ryy	2dd)	8a'L	.
+8ryy	4.ryy	.	8a'J	.
+4ryy	.	.	(20bLL	.
+.	.	.	20cc	.
+.	.	.	20b	.
+.	.	.	20cc	.
+.	.	.	20bJJ	.
+=19	=19	=19	=19	=19
+8ryy	4.ryy	(8ggL	2a)	.
+4ryy	.	16ff#XL	.	.
+.	.	16eeJJ	.	.
+.	.	8dd'L)	.	.
+8ryy	8ryy	(8ccJ	.	.
+=20	=20	=20	=20	=20
+4ryy	4ryy	8b'L)	8b	.
+.	.	8g'J	8ryy	.
+8ryy	4ryy	(20aLL	4ryy	.
+.	.	20b-X	.	.
+.	.	20a	.	.
+8ryy	.	.	.	.
+.	.	20b-	.	.
+.	.	20aJJ)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/15
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/09

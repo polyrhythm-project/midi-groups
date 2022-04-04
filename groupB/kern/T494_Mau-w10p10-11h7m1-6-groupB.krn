@@ -1,0 +1,93 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T494_Mau-w10p10-11h7m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F 1	*	*I"Bassoon	*	*I"Clarinet in Bb 1 + 2	*	*I"Oboe 1	*	*I"Flute 2	*	*I"Flute 1	*
+*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Hn. 1	*	*I'Bsn.	*	*I'Cl.	*	*I'Ob. 1	*	*I'Fl. 2	*	*I'Fl. 1	*
+*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*	*	*	*	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[b-]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*F:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=7
+=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109
+!	!	!	!	!	!	!	!	!LO:TX:a:i:t=dolce	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=115]	!
+!LO:TX:t=P:problem:Hanging slur not implemented yetLO:TX:t=P:problem:Hanging slur not implemented yet	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=dolce	!	!	!	!LO:TX:a:i:t=dolce	!
+!LO:TX:a:i:t=dolce	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack
+4ryy	.	8d'L	pp	8dd'L	pp	1ryy	.	4ryy	4ryy	1ryy	.	4ryy	4ryy	1r	.	4ryy	4ryy
+.	.	8d'	.	8dd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8dd'	.	8ddd'	.	.	.	8ryy	.	.	.	4ryy	.	.	.	4ryy	.
+8ryy	.	8d'J	.	8dd'J	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8dd'L	.	8ddd'L	.	.	.	8ryy	.	.	.	4ryy	.	.	.	4ryy	.
+8ryy	.	8d'	.	8dd'	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+8ryy	.	8dd'	.	8ddd'	.	.	.	8ryy	.	.	.	4ryy	.	.	.	4ryy	.
+8ryy	.	8d'J	.	8dd'J	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
+2.ryy	.	8dd'L	.	8ddd'L	.	2ryy	.	2.ryy	.	1ryy	.	2ryy	.	1r	.	2ryy	.
+.	.	8d'	.	8dd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8d'	.	8dd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8dd'J	.	8ddd'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8d'L	.	8dd'L	.	4ryy	.	.	.	.	.	4ryy	.	.	.	4ryy	.
+.	.	8dd'	.	8ddd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	8d'	.	8dd'	.	4ryy	4ryy	4ryy	.	.	.	4ryy	.	.	.	4ryy	.
+.	.	8d'J	.	8dd'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
+1ryy	.	8d'L	.	8dd'L	.	4ryy	.	4ryy	.	1ryy	.	4ryy	.	1r	.	4ryy	.
+.	.	8dd'J	.	8ddd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ddd'L	.	8dd'	.	4ryy	.	4ryy	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	8dd'J	.	8dd'J	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	8cc'L	.	8ddd'L	.	4ryy	.	4ryy	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	8d'	.	8dd'	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	8d'	.	8dd'	.	4ryy	.	4ryy	.	.	.	8ryy	.	.	.	8ryy	.
+.	.	8cc'J	.	8ddd'J	.	.	.	.	.	.	.	8ryy	.	.	.	8ryy	.
+!!pagebreak:original
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=1	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=2	!	!	!	!	!	!	!
+2ryy	.	8b'L	.	8dd'L	.	2.ryy	.	2.ryy	.	2ryy	.	2ryy	.	2r	.	2ryy	.
+.	.	8d'	.	8dd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8dd'	.	8ddd'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8d'J	.	8dd'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	8g'	.	8d'	.	.	.	.	.	4ryy	.	2ryy	.	8r	.	2ryy	.
+!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!	!	!	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s	!	!	!	!	!	!
+.	4ryy	8r	f	8r	.	.	.	.	4ryy	.	4ryy	.	.	8d	pp	.	.
+!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!
+*	*	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	4r	.	4ryy	.	8ryy	.	8ryy	.	.	.	8ddL	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8dJ	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113
+8ryy	.	4ryy	.	1r	.	4ryy	.	4ryy	.	4ryy	.	1ryy	.	8ddL	.	1ryy	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	8d	.	.	.
+4ryy	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	8d	.	.	.
+.	.	8ryy	.	.	.	8ryy	.	8ryy	.	8ryy	.	.	.	8ddJ	.	.	.
+4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	8dL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dd	.	.	.
+8ryy	.	8ryy	.	.	.	4ryy	.	8ryy	.	8ryy	.	.	.	8d	.	.	.
+8ryy	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	.	.	8dJ	.	.	.
+=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!
+2.ryy	.	4ryy	.	2r	.	4ryy	.	4ryy	.	2.ryy	.	4ryy	1ryy	.	8ddL	.	2ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8d	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	2ryy	.	.	.	2ryy	.	2ryy	.	.	.	2ryy	.	.	8d	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ddJ	.	.	.
+.	.	.	.	4r	.	.	.	.	.	.	.	.	.	.	8d	.	4ryy	.
+!	!	!	!	!	!LO:DY:t=poco %s	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=poco %s
+.	.	.	.	.	f	.	.	.	.	.	.	.	.	.	8r	.	.	4ryy
+*	*	*	*	*grp:A	*grp:A	*	*	*clefC4	*	*	*	*	*	*	*	*	*	*
+8ryy	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	4ryy	.	8ryy	.	.	4r	.	8ryy	.
+8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	8ryy	.	.	.	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6)][(s7,s8,s9)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/06
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/06

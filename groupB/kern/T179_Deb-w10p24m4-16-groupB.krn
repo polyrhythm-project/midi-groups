@@ -1,0 +1,128 @@
+!!!COM: Claude (-Achille) Debussy
+!!!OTL: [T179_Deb-w10p24m4-16]
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*staff2/3	*staff1	*staff1	*
+*I"Piano	*I"Piano	*	*I"Soprano Solo	*	*
+*I'Pno.	*I'Pno.	*	*I'S. Solo	*	*
+*clefG2	*clefG2	*	*clefG2	*	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*
+*E:	*E:	*	*E:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+=4	=4	=4	=4	=4	=4
+!	!	!	!LO:TX:t=[[quarter]=64]	!	!
+*	*	*	*	*	*
+!	!LO:TX:t=P:problem: Cross-Measure Beaming still need to be implemented.	!	!	!	!
+4ryy	8ryy	4ryy	4r	.	.
+.	8ryy	.	.	.	.
+!	!LO:T:b	!	!	!	!
+4ryyyy	8ryy	.	8r	.	.
+.	8ryy	.	8b	Clo-	p
+4ryy	8ryy	.	8b	-ches	.
+.	8ryy	.	8b	chré-	.
+!!LO:REH:t=5
+=5	=5	=5	=5	=5	=5
+!	!LO:T:b	!	!	!	!
+4ryyyy	8ryy	.	4a	-tien-	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	8a	-nes	.
+.	8ryy	.	8a	pour	.
+!	!LO:T:b	!	!	!	!
+4ryyyy	8ryy	.	8a	les	.
+.	8ryy	.	8a	ma-	.
+=6	=6	=6	=6	=6	=6
+4ryy	8ryy	.	2gn	-ti-	.
+.	8ryy	.	.	.	.
+4ryyyy	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	4d#	-nes,	.
+.	8ryy	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4ryyyy	8ryy	.	4r	.	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	4d#	son-	.
+.	8ryy	.	.	.	.
+4ryyyy	8ryy	.	8f#	-nant	.
+.	8ryy	.	8a	au	.
+=8	=8	=8	=8	=8	=8
+4ryy	8ryy	.	4cc#	cœur	.
+.	8ryy	.	.	.	.
+4ryyyy	8ryy	.	8a	d'es-	<
+.	8ryy	.	8a	-pér-	.
+4ryy	8ryy	4ryy	8b	-er	.
+.	8ryy	.	8cc#	en-	[
+*clefF4	*	*	*	*	*
+!!LO:REH:t=9
+=9	=9	=9	=9	=9	=9
+4ryy	8ryy	4ryy	[2.dd#	-co-	> ]
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+!	!LO:TX:b:i:t=dim.	!	!	!	!
+4ryy	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+!!linebreak:original
+=10	=10	=10	=10	=10	=10
+4ryy	8ryy	.	4dd#]	-re!	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	4r	.	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	4r	.	.
+.	8ryy	.	.	.	.
+*clefG2	*	*	*	*	*
+=11	=11	=11	=11	=11	=11
+4ryyyy	8ryy	.	4r	.	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	4ff#	An-	.
+.	8ryy	.	.	.	.
+4ryyyy	8ryy	.	4dd#	-ge-	.
+.	8ryy	.	.	.	.
+=12	=12	=12	=12	=12	=12
+4ryy	8ryy	.	8cc#	-lus	.
+.	8ryy	.	8a	an-	.
+4ryyyy	8ryy	.	8a	-ge-	.
+.	8ryy	.	8a	-li-	.
+4ryy	8ryy	.	8b	-sés	.
+.	8ryy	.	8cc#	d'au-	.
+!!LO:REH:t=13
+=13	=13	=13	=13	=13	=13
+4ryyyy	8ryy	.	2b	-ro-	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+4ryyyy	8ryy	.	4gn	-re!	.
+.	8ryy	.	.	.	.
+=14	=14	=14	=14	=14	=14
+4ryy	8ryy	.	4r	.	.
+.	8ryy	.	.	.	.
+4ryyyy	8ryy	4ryy	2dd#'~^	Las!	.
+.	8ryy	.	.	.	.
+4ryy	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+*clefF4	*	*	*	*	*
+=15	=15	=15	=15	=15	=15
+2.ryy	8ryy	4ryy	8cc#	où	.
+.	8ryy	.	8b	sont	.
+.	8ryy	.	8a#X	vos	.
+.	8ryy	.	8g#	pri-	.
+.	8ryy	.	8f#	-è-	.
+.	8ryy	.	[8e	-res	.
+=16	=16	=16	=16	=16	=16
+*	*^	*	*	*	*
+!	!	!	!	!LO:TX:a:t=retenu -    -	!	!
+2ryy	8ryy	2ryyyy	.	8e]	.	.
+.	8ryy	.	.	8f#	ca-	.
+.	8ryy	.	.	4d#	-li-	.
+.	8ryy	.	.	.	.	.
+4ryy	8ryy	4ryy	.	4c#	-nes?	.
+.	8ryy	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!EED: Daniel Wright
+!!!EEV: 2021/11/12

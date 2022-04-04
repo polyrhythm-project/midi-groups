@@ -1,0 +1,50 @@
+!!!COM: Aaron Copland
+!!!OTL: [T698_Cop-w6p4s1]
+**kern	**kern		**dynam	**kern	**dynam
+*grp:A	*grp:A		*grp:A	*grp:B	*grp:B
+*part2	*part2		*part2	*part1	*part1
+*staff3	*staff2		*staff2	*staff1	*staff1
+*I"Piano	*I"Piano		*I"Piano	*I"Voice	*I"Voice
+*I'Pno.	*		*	*I'Voice	*
+*clefF4	*clefG2		*	*clefG2	*
+*k[]	*k[]		*	*k[]	*
+*C:	*C:		*	*C:	*
+*M3/4	*M3/4		*	*M3/4	*
+=1	=1		=1	=1	=1
+*	*^		*	*	*
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4%3ryy	2.ryy	4.ryy	4ryy	8ee	pp
+.	.	.	.	8r	.
+.	.	.	.	(4b-X	<
+.	.	8ryy	.	.	.
+.	.	4ryy	.	4cc	[[
+=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!LO:DY:t=più %s
+1ryy	8ryy	4.ryy	4ryy	2ee-X	f
+.	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+.	8ryy	4.ryy	4ryy	.	.
+.	8ryy	.	.	4dd-X	.
+.	8ryy	.	.	.	.
+.	4ryy	4ryy	.	2cc-X	.
+1ryy	8ryy	4.ryy	4ryy	.	.
+.	8ryy	.	.	.	.
+.	8ryy	.	.	4g-X	.
+.	8ryy	4.ryy	4ryy	.	.
+.	8ryy	.	.	2dd-X	.
+.	8ryy	.	.	.	.
+.	4ryy	4ryy	.	.	.
+1ryy	8ryy	4.ryy	4ryy	4cc-X	.
+.	8ryy	.	.	.	.
+!	!LO:TX:a:B:t=Poco rit.	!	!	!LO:TX:a:B:t=Poco rit.	!
+.	8ryy	.	.	2b-X	.
+.	8ryy	4.ryy	4ryy	.	.
+.	8ryy	.	.	.	.
+.	8ryy	.	.	.	.
+.	8ryy	4ryy	.	4a-X)	.
+.	8ryy	.	4ryy	.	.
+*	*v	*v	*	*	*
+=	=		=	=	=
+*-	*-		*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!YEM: Copyright © Natalie Dietterich

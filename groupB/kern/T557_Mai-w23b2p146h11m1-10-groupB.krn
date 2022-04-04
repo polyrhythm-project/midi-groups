@@ -1,0 +1,83 @@
+!!!COM: Frank Martin
+!!!OTL: [T557_Mai-w23b2p146h11m1-10]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**blank	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern		**text	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A		*grp:A	*grp:A	*grp:A
+*part6	*	*part5	*	*part5	*part5	*part4	*	*part4	*part4	*	*part3	*	*part3	*part3	*part2	*part2	*	*part1		*part1	*part1	*part1
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*	*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1		*staff1	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*	*	*I"Viola	*	*	*	*	*I"Violin	*	*	*	*I"Pf.	*	*	*I"Tristan		*	*	*
+*I'Cb.	*	*I'Vc.	*	*	*	*I'Vla.	*	*	*	*	*I'Vln.	*	*	*	*I'Pno.	*	*	*I'Tristan		*	*	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICvox		*	*	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*		*	*	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefGv2		*	*	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]		*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4		*	*	*
+!!LO:REH:t=11
+=98	=98	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1		=1	=1	=1
+!!LO:TX:B:t=Molto Allegro [half]=116
+!LO:TX:b:i:t=dolce	!	!LO:TX:b:i:t=dolce	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!
+!LO:TX:a:t=pizz.	!LO:DY:ed=brack	!LO:TX:a:t=pizz.	!LO:DY:ed=brack	!	!LO:DY:t=%s marcato	!	!LO:DY:t=%s  subito	!	!LO:DY:t=%s  subito	!	!	!LO:DY:t=%s  subito	!	!LO:DY:t=%s  subito	!	!	!LO:DY:t=%s  dolce	!		!	!	!
+2ryy	4ryy	2ryy	4ryy	1ryy	4ryy	2.b-X	p	2.cc#X	p	.	2.gg	p	2.eee-X	p	2ryy	1ryy	4ryy	1ryy	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*	*	*		*	*	*
+2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.
+.	.	.	.	.	.	[4B-X	.	[4c#X	.	.	[4g	.	[4ee-X	.	4ryy	.	.	.	.	.	.
+=99	=99	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2		=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!		!	!	!LO:DY:t= sempre %s
+2ryy	.	2ryy	.	1ryy	.	2B-]	.	2c#]	.	.	2g]	.	2ee-]	.	2ryy	1ryy	.	4ryy	.	.	4ryy
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:dash		!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	[2b-X	.	[2cc#X	.	.	[2gg	.	[2eee-X	.	4ryy	.	.	4ryy	4ryy	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+=100	=100	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3		=3	=3	=3
+2ryy	.	2ryy	.	1ryy	.	4b-]	.	4cc#]	.	.	4gg]	.	4eee-]	.	2ryy	4ryy	.	4ryy	4ryy	4ryy	.
+.	.	.	.	.	.	2.dd-X	.	2.een	.	.	2.bb-X	.	2.ggg-X	.	.	2.ryy	.	4ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+=101	=101	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4		=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*
+2ryy	.	2ryy	.	1ryy	.	2.ee-X	.	2.ff#X	.	.	2.ccc	.	2.aaa-X	.	2ryy	1ryy	.	1ryy	2ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	[4E-X	.	[4F#X	.	.	[4c	.	[4a-X	.	4ryy	.	.	.	4ryy	.	4ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=102	=102	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5		=5	=5	=5
+2ryy	.	2ryy	.	1ryy	.	2E-]	.	2F#]	.	.	2c]	.	2a-]	.	2ryy	1ryy	.	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	(2e-X	.	(2f#X	.	.	(2cc	.	[2aa-X	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8ba	*	*	*		*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*		*	*	*
+=103	=103	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6		=6	=6	=6
+2ryy	.	2ryy	.	1ryy	.	2.f-X)	.	2.a-X)	.	.	2.b--)	.	2.aa-]	.	2ryy	1ryy	.	2.ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.
+.	.	.	.	.	.	[4F-X	.	[4A-X	.	.	[4B--	.	[4a-X	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+=104	=104	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7		=7	=7	=7
+2ryy	.	2ryy	.	2ryy	.	2F-]	.	2A-]	.	.	2B--]	.	2a-]	.	2ryy	1ryy	.	4ryy	4ryy	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	2ryy	.	[2f-X	.	[2a-X	.	.	[2b--	.	[2aa-X	.	4ryy	.	.	6ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	4ryy	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	6ryy	4ryy	4ryy	.
+=105	=105	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8		=8	=8	=8
+2ryy	.	2ryy	.	2ryy	.	4f-X]	.	4a-X]	.	.	4b--X]	.	4aa-X]	.	2ryy	1ryy	.	2ryy	4ryy	4ryy	.
+.	.	.	.	.	.	2.F-X	.	2.A-X	.	.	2.B--	.	2.a-X	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	4ryy	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	.	.	.
+=106	=106	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9		=9	=9	=9
+2ryy	.	2ryy	.	1ryy	.	2.Dn	.	2.An	.	.	2.fn	.	2.g#X	.	2ryy	1ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+.	.	.	.	.	.	[4d	.	[4an	.	.	[4ff	.	[4gg#X	.	4ryy	.	.	4ryy	4ryy	4ryy	.
+=107	=107	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10		=10	=10	=10
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^		*	*	*
+2ryy	.	2ryy	.	1ryy	.	2d]	.	2a]	.	.	2ff]	.	2gg#]	.	2ryy	1ryy	.	2ryy	2.ryy	4ryy	4ryy	.
+2ryy	.	2ryy	.	.	.	[2D	.	[2A	.	.	[2f	.	[2g#X	.	4ryy	.	.	4ryy	.	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.	4ryy	4ryy	4ryy	4ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=		=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-		*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})][([({(s4,s5)})][({(s6,s7)})][({(s8,s9)})]s10)]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/03

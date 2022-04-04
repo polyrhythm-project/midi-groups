@@ -1,0 +1,119 @@
+!!!COM: (Edward) Benjamin Britten
+!!!OTL: [T1207_Bri-w14p112m1-10]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*staff1	*staff1
+*I"Contrabass (2 Desks)	*	*I"Violoncello (3 Desks)	*	*I"Viola (3 Desks)	*	*I"Violin I	*	*I"Voice	*	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Voice	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M2/4	*	*
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*
+!	!	!LO:TX:b:t=pizz. quasi chitarra	!	!LO:TX:a:t=pizz. quasi chitarra	!	!LO:TX:t=Allegretto, un pococ mosso, ([quarter]=58-62)	!	!LO:TX:t=Allegretto, un pococ mosso, ([quarter]=58-62)	!	!
+2rr	.	12r	.	12r	.	2rryy	.	2rryy	.	.
+.	.	12BB-uL 12F 12d	4ryy	12DuL 12B- 12f	4ryy	.	.	.	.	.
+.	.	12BB-uJ 12F 12d	.	12DuJ 12B- 12f	.	.	.	.	.	.
+.	.	12BB-uL 12F 12d	.	12DuL 12B- 12f	.	.	.	.	.	.
+.	.	12BB-u 12F 12d	.	12Du 12B- 12f	.	.	.	.	.	.
+.	.	12BB-uJ 12F 12d	.	12DuJ 12B- 12f	.	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2rr	.	12r	.	12r	.	2rryy	.	2rryy	.	.
+.	.	24BB-uLL 24F 24d	.	24DuLL 24B- 24f	.	.	.	.	.	.
+.	.	24BB-vJ 24F 24d	.	24DvJ 24B- 24f	.	.	.	.	.	.
+.	.	12BB-uJ 12F 12d	.	12DuJ 12B- 12f	.	.	.	.	.	.
+.	.	12BB-uL 12F 12d	.	12DuL 12B- 12f	.	.	.	.	.	.
+.	.	12BB-u 12F 12d	.	12Du 12B- 12f	.	.	.	.	.	.
+.	.	24BB-uL 24F 24d	.	24DuL 24B- 24f	.	.	.	.	.	.
+.	.	24BB-vJJ 24F 24d	.	24DvJJ 24B- 24f	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-uL 12F 12d	.	12DuL 12B- 12f	.	12ryy	.	12ryy	.	.
+!	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:i:t=simile	!	!LO:TX:a:t=Solo	!LO:DY:b:t=%s legato	!	!	!
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	12ryy	4ryy	12ryy	4ryy	.
+.	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+!LO:TX:a:t=pizz.	!LO:DY:b:t=%s (poco marcato)	!	!	!	!	!	!	!	!	!
+12FFF	4ryy	12BB-L 12F 12d	.	12DL 12B- 12f	.	12.ryy	.	24%3ryy	4ryy	4ryy
+12r	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	.	.	.
+.	.	.	.	.	.	12.ryy	.	24%3ryy	4ryy	4ryy
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:TX:b:i:t=sempre	!	!	!	!LO:TX:b:i:t=espress.	!	!	!	!
+12BBB-^	.	12r	.	12r	.	12ryy	4ryy	2ryy	4ryy	.
+!	!	!	!LO:DY:b:i:t=sempre %s	!	!LO:DY:b:i:t=sempre %s	!	!	!	!	!
+12r	.	24BB-LL 24F 24d	4ryy	24DLL 24B- 24f	4ryy	6ryy	.	.	.	.
+.	.	24BB-J 24F 24d	.	24DJ 24B- 24f	.	.	4ryy	.	.	.
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	.	.	.	.
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	6ryy	.	.	.	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	.	.	.
+.	.	24BB-L 24F 24d	.	24DL 24B- 24f	.	12ryy	.	.	.	.
+.	.	24BB-JJ 24F 24d	.	24DJJ 24B- 24f	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	12ryy	4ryy	2ryy	.	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	6ryy	.	.	.	.
+.	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	4ryy	.	.	.
+12FFF	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	6ryy	.	.	.	.
+12r	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	.	.	.
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	12ryy	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!LO:TX:a:t=Solo	!	!	!	!
+12BBB-^	.	12r	.	12r	.	12.ryy	.	24%3ryy	.	.
+12r	.	24BB-LL 24F 24d	.	24DLL 24B- 24f	.	.	.	.	.	.
+.	.	24BB-J 24F 24d	.	24DJ 24B- 24f	.	12.ryy	.	24%3ryy	.	.
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	.	.	.	.
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	4ryy	.	24%3ryy	.	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:DY:a:t=%s leggiero
+.	.	.	.	.	.	.	.	24%3ryy	4ryy	4ryy
+.	.	24BB-L 24F 24d	.	24DL 24B- 24f	.	.	.	.	.	.
+.	.	24BB-JJ 24F 24d	.	24DJJ 24B- 24f	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2rr	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+.	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+.	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+!	!	!	!	!	!	!	!LO:DY:t=più %s	!	!	!
+.	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	12ryy	4ryy	12ryy	4ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+.	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	12ryy	.	12ryy	4ryy	.
+12FFF	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	12.ryy	.	12ryy	4ryy	.
+12r	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	12ryy	4ryy	.
+.	.	.	.	.	.	12.ryy	.	.	.	.
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	.	24ryy	4ryy	4ryy
+.	.	.	.	.	.	.	.	24ryy	4ryy	4ryy
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+12BBB-^	.	12r	.	12r	.	12ryy	4ryy	4.ryy	4ryy	4ryy
+12r	.	24BB-LL 24F 24d	.	24DLL 24B- 24f	.	6ryy	.	.	.	.
+.	.	24BB-J 24F 24d	.	24DJ 24B- 24f	.	.	4ryy	.	.	.
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	.	.	.	.
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	6ryy	.	.	.	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	8ryy	4ryy	.
+.	.	24BB-L 24F 24d	.	24DL 24B- 24f	.	12ryy	.	.	.	.
+.	.	24BB-JJ 24F 24d	.	24DJJ 24B- 24f	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!LO:N:vis=4.	!	!	!	!	!	!	!	!	!	!
+4r	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	12ryy	4ryy	8ryy	.	.
+.	.	12BB- 12F 12d	.	12D 12B- 12f	.	6ryy	.	.	.	.
+.	.	.	.	.	.	.	4ryy	8ryy	4ryy	.
+.	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	.	.	.	.	.
+12FFF	.	12BB-L 12F 12d	.	12DL 12B- 12f	.	6ryy	.	4ryy	4ryy	.
+12r	.	12BB- 12F 12d	.	12D 12B- 12f	.	.	.	.	.	.
+12r	.	12BB-J 12F 12d	.	12DJ 12B- 12f	.	12ryy	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3,s4,s5)]
+!!!EED:Jason Lee
+!!!EEV:2022/01/27

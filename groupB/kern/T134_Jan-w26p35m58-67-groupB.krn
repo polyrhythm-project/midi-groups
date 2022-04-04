@@ -1,0 +1,138 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T134_Jan-w26p35m58-67]
+**kern	**kern	**dynam
+!!pagebreak:original
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/8	*M3/8	*
+=1	=1	=1
+!	!LO:TX:t=[eighth-dot]=69	!
+!	!LO:TX:b:t=[pp]	!
+16ryy	8.ryy	.
+16ryy	.	.
+16ryy	.	.
+16ryy	8.ryy	.
+16ryy	.	.
+16ryy	.	.
+=2	=2	=2
+*^	*	*
+4.ryy	16ryy	8.ryy	4ryy
+.	16ryy	.	.
+.	16ryy	.	.
+.	16ryy	16ryy	.
+.	16ryy	16ryy	.
+.	16ryy	16ryy	.
+=3	=3	=3	=3
+!	!	!LO:TX:b:i:t=sine p	!
+!	!	!LO:TX:a:t=3	!
+4.ryy	16ryy	8.ryy	.
+.	16ryy	.	.
+*v	*v	*^	*
+.	.	16ryy	.
+*^	*v	*v	*
+.	16ryy	8.ryy	.
+*v	*v	*^	*
+.	.	16ryy	.
+*^	*v	*v	*
+.	16ryy	.	.
+=4	=4	=4	=4
+4.ryy	16ryy	8.ryy	4ryy
+.	16ryy	.	.
+*v	*v	*^	*
+.	.	16ryy	.
+*^	*v	*v	*
+.	16ryy	8.ryy	.
+*v	*v	*^	*
+.	.	16ryy	.
+*^	*v	*v	*
+.	16ryy	.	.
+=5	=5	=5	=5
+*	*	*^	*
+4.ryy	16ryy	8.ryy	4.ryyyy	.
+.	16ryy	.	.	.
+.	16ryy	.	.	.
+.	16ryy	16ryy	.	.
+!	!	!LO:TX:a:t=2        1	!	!
+.	16ryy	16ryy	.	.
+.	16ryy	16ryy	.	.
+!!linebreak:original
+=6	=6	=6	=6	=6
+!	!	!LO:TX:b:i:t=cresc.	!	!
+4.ryy	16ryy	8.ryy	4.ryyyy	.
+.	16ryy	.	.	.
+*v	*v	*	*	*
+.	.	.	.
+*^	*	*	*
+.	16ryy	8.ryy	.	.
+*v	*v	*	*	*
+.	.	.	.
+*^	*	*	*
+.	16ryy	.	.	.
+=7	=7	=7	=7	=7
+!	!	!LO:TX:a:t=1	!	!
+4.ryy	16ryy	8.ryy	4.ryyyy	.
+.	16ryy	.	.	.
+*v	*v	*	*	*
+.	.	.	.
+*^	*	*	*
+.	16ryy	8.ryy	.	.
+*v	*v	*	*	*
+.	.	.	.
+*^	*	*	*
+.	16ryy	.	.	.
+=8	=8	=8	=8	=8
+4.ryy	16ryy	32%3ryy	4.ryyyy	.
+.	16ryy	.	.	.
+.	.	32%3ryy	.	.
+*v	*v	*	*	*
+.	.	.	.
+*^	*	*	*
+.	16ryy	32%3ryy	.	.
+*v	*v	*	*	*
+.	.	.	.
+.	32%3ryy	.	.
+*^	*	*	*
+.	16ryy	.	.	.
+*v	*v	*	*	*
+=9	=9	=9	=9
+!	!LO:TX:a:t=1	!	!
+4.ryy	16ryy	16ryy	.
+.	16ryy	16ryy	.
+.	16ryy	16ryy	.
+.	64%3ryy	16ryy	.
+!	!LO:TX:a:t=1           4          1	!	!
+.	64%3ryy	.	.
+.	.	16ryy	.
+.	64%3ryy	.	.
+.	.	16ryy	.
+.	64%3ryy	.	.
+=10	=10	=10	=10
+*	*	*^	*
+!	!LO:TX:b:t=5	!	!	!
+!	!LO:TX:b:t=3	!	!	!
+!	!LO:TX:b:t=2	!	!	!
+!	!LO:TX:b:t=1	!	!	!
+!	!LO:TX:a:t=2	!	!	!
+!	!LO:TX:a:t=1	!	!	!
+!	!LO:TX:b:t=m.s.	!	!	!
+!	!LO:TX:a:t=1     3    4	!	!	!
+!	!LO:TX:a:t=2	!	!	!
+8%3ryy	4.ryy	4ryy	8ryyyy	4ryy
+.	.	.	8r;yy	.
+.	.	16ryy	.	4ryy
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	16ryy	.	.
+.	.	8r)yyyy	8ryyyy	.
+*	*v	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

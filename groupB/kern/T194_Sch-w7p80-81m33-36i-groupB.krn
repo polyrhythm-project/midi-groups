@@ -1,0 +1,76 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T194_Sch-w7p80-81m33-36i]
+**kern	**kern	**dynam	**kern	**dynam	**text
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*staff1
+*I"Piano	*	*	*I"Voice	*	*
+*I'Pno.	*	*	*I'S. Solo	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*
+*F:	*F:	*	*F:	*	*
+*M6/8	*M6/8	*	*M6/8	*	*
+=1	=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[quarter-dot]=64	!	!
+!	!LO:TX:b:i:t=dim.	!LO:DY:ed=brack	!LO:TX:a:t=rit.	!	!
+16ryy	8.ryy	4ryy	8r	.	.
+16ryy	.	.	.	.	.
+4ryy	.	.	8r	.	.
+.	16ryy	.	.	.	.
+!	!	!	!	!LO:DY:ed=brack	!
+.	16ryy	.	4ccn	ff	mein
+.	16ryy	.	.	.	.
+16ryy	8.ryy	.	.	.	.
+16ryy	.	.	.	.	.
+4ryy	.	.	4b-	.	er-
+.	16ryy	.	.	.	.
+.	16ryy	.	.	.	.
+.	16ryy	.	.	.	.
+=2	=2	=2	=2	=2	=2
+16ryy	8.ryy	.	4a-X	.	-mü-
+16ryy	.	.	.	.	.
+4ryy	.	.	.	.	.
+.	16ryy	.	.	.	.
+.	16ryy	.	4g-X	.	-de-
+.	16ryy	.	.	.	.
+16ryy	8.ryy	.	.	.	.
+16ryy	.	.	.	.	.
+8.ryy	.	.	4a-	.	-tes
+*	*clefF4	*	*	*	*
+.	16ryy	.	.	.	.
+.	8ryy	.	.	.	.
+16ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+8.ryy	16ryy	.	([4.b-	.	Aug'
+.	16ryy	.	.	.	.
+.	8.ryy	.	.	.	.
+16ryy	.	.	.	.	.
+8ryy	.	.	.	.	.
+.	16ryy	.	.	.	.
+16ryy	8.ryy	4ryy	8b-L]	.	.
+16ryy	.	.	.	.	.
+8.ryy	.	.	8a-XJ)	.	.
+*	*clefG2	*	*	*	*
+.	16ryy	.	.	.	.
+.	16ryy	.	8g-X	.	sich
+16ryy	16ryy	4ryy	.	.	.
+=4	=4	=4	=4	=4	=4
+*	*^	*	*	*	*
+!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!	!LO:TX:a:B:t=Zeitmaß	!	!
+16ryy	4.ryy	2.ryy	4ryy	2.f	.	schließt.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	4ryy	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+16ryy	8ryy	.	.	.	.	.
+16ryy	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]

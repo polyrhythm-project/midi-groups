@@ -1,0 +1,99 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T153_Deb-w8p21m24-29]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1
+*staff2	*staff1	*staff1/2
+*I"Piano	*I"Piano	*I"Piano
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M4/4	*M4/4	*
+=24	=24	=24
+*	*Xbrackettup	*
+*	*^	*
+!	!LO:TX:t=[[quarter]=170]	!	!
+8AAL	6ryy	2ryy	4ryy
+8E	.	.	.
+.	6ryy	.	.
+8A	.	.	.
+.	6ryy	.	.
+8c#J	.	.	.
+8DL	6ryy	2ryy	.
+8A	.	.	.
+.	6ryy	.	.
+8d	.	.	.
+.	6ryy	.	.
+8AJ	.	.	.
+=25	=25	=25	=25
+8F#L	4ryy	2ryy	.
+8A	.	.	.
+8c#	4ryy	.	.
+8AJ	.	.	.
+8BBL	2ryy	2ryyyy	.
+8F#	.	.	.
+8B	.	.	.
+8F#J	.	.	.
+=26	=26	=26	=26
+*	*	*^	*
+8EEL<	4ryy	2ryy	1ryy	.
+8BB	.	.	.	.
+8E	4ryy	.	.	.
+8GnJ<	.	.	.	.
+8EEL<	2ryy	4ryy	.	.
+8AA	.	.	.	.
+8G	.	4ryy	.	.
+8AAJ<	.	.	.	.
+*	*	*v	*v	*
+=27	=27	=27	=27
+8FF#L	1ryy	6ryy	.
+8C#	.	.	.
+!	!	!	!LO:HP:a
+.	.	6ryy	4ryy
+8A	.	.	.
+.	.	6ryy	.
+8F#J	.	.	.
+8EEL<	.	6ryy	.
+8AA	.	.	.
+.	.	6ryy	.
+8F#	.	.	.
+.	.	6ryy	.
+8AAJ<	.	.	.
+=28	=28	=28	=28
+8DDL<	4ryy	6ryy	.
+8AA	.	.	.
+.	.	6ryy	.
+8D	4ryyyy	.	.
+.	.	6ryy	.
+8F#J<	.	.	.
+8AAL	2ryyyy	6ryy	.
+8D	.	.	.
+.	.	6ryy	.
+8F#	.	.	.
+.	.	6ryy	.
+8AJ	.	.	.
+=29	=29	=29	=29
+8DL	1ryyyy	6ryy	.
+8A	.	.	.
+.	.	6ryy	.
+8d	.	.	.
+.	.	6ryy	.
+8f#J	.	.	.
+8C#L	.	6ryy	.
+8F#	.	.	.
+.	.	6ryy	.
+8A	.	.	.
+.	.	6ryy	.
+8dJ	.	.	.
+*	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08

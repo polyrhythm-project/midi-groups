@@ -1,0 +1,121 @@
+!!!COM: Frank Martin
+!!!OTL: [T540_Mai-w11p3h2m3-h3m4]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefC4	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*F:	*	*F:	*	*F:	*
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!LO:DY:ed=brack	!LO:TX:t=[quarter]=126	!LO:DY:ed=brack
+!	!	!LO:DY:ed=brack	!	!LO:DY:t=poco menop %s	!	!LO:DY:t=%s un poco marcato
+4ryy	4ryy	4ryy	(4g~	p	4ryy	4ryy
+4ryy	4ryy	.	(8.gL	.	4ryy	.
+.	.	.	16aJk))	.	.	.
+4ryy	4ryy	.	(8gL	.	4ryy	.
+.	.	.	8f	.	.	.
+4ryy	4ryy	.	8e	.	4ryy	.
+.	.	.	8gJ)	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4ryy	4ryy	.	(4.f	.	4ryy	.
+4ryy	4ryy	.	.	.	4ryy	.
+.	.	.	8e	.	.	.
+2ryy	2ryy	.	4c)	.	2ryy	.
+.	.	.	(8gL	.	.	.
+.	.	.	8fJ)	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+.	.	.	(8qqe/L	.	.	.
+.	.	.	8qqf/J	.	.	.
+2ryy	2ryy	.	8eL	.	2ryy	.
+.	.	.	8d	.	.	.
+.	.	.	8e	.	.	.
+.	.	.	8fJ)	.	.	.
+2ryy	2ryy	.	(8.gL	.	2ryy	.
+.	.	.	16aJk	.	.	.
+.	.	.	16gLL	.	.	.
+.	.	.	16f	.	.	.
+.	.	.	16e	.	.	.
+.	.	.	16gJJ)	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+4ryy	4ryy	.	(8fL	.	4ryy	.
+.	.	.	24gL	.	.	.
+.	.	.	24f	.	.	.
+.	.	.	24eJJ	.	.	.
+2ryy	2ryy	.	8fL	.	2ryy	.
+.	.	.	8gJ)	.	.	.
+.	.	.	(4b-	.	.	.
+4ryy	4ryy	.	8ccL	.	4ryy	.
+.	.	.	8b-J)	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+4ryy	4ryy	.	(4g~	.	4ryy	.
+4ryy	4ryy	.	(8.gL	.	4ryy	.
+.	.	.	16aJk))	.	.	.
+4ryy	4ryy	.	(8gL	.	4ryy	.
+.	.	.	8f	.	.	.
+4ryy	4ryy	.	8e	.	4ryy	.
+.	.	.	8fJ)	.	.	.
+!!linebreak:original
+=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*^	*
+4ryy	4ryy	.	2.g	.	4ryy	4ryyyy	.
+4ryy	4ryy	.	.	.	12ryy	4ryy	.
+.	.	.	.	.	12ryy	.	.
+.	.	.	.	.	12ryy	.	.
+*	*	*	*	*	*v	*v	*
+2ryy	2ryy	.	.	.	2ryy	.
+.	.	.	(8cL	.	.	.
+.	.	.	8dJ)	.	.	.
+!!LO:REH:t=3
+=7	=7	=7	=7	=7	=7	=7
+.	.	.	(8qqe/L	.	.	.
+.	.	.	8qqf/J	.	.	.
+!	!	!LO:DY:t=poco menop %s	!	!	!	!LO:DY:t=poco menop %s
+4ryy	4ryy	4ryy	8eL	.	4ryy	4ryy
+.	.	.	8d)	.	.	.
+4ryy	4ryy	.	(8e'	.	4ryy	.
+.	.	.	8f'J)	.	.	.
+8ryy	8ryy	.	(8.gL	.	8ryy	.
+8ryy	8ryy	.	.	.	8ryy	.
+.	.	.	16aJk)	.	.	.
+8ryy	8ryy	.	(16gLL	.	8ryy	.
+.	.	.	16f	.	.	.
+8ryy	8ryy	.	16e	.	8ryy	.
+.	.	.	16gJJ)	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+8ryy	8ryy	.	(8fL	.	8ryy	.
+4ryy	4ryy	.	24gL	.	4ryy	.
+.	.	.	24f	.	.	.
+.	.	.	24eJJ)	.	.	.
+.	.	.	(8f'L	.	.	.
+8ryy	8ryy	.	8g'J)	.	8ryy	.
+*	*	*	*clefG2	*	*	*
+8ryy	8ryy	.	4b-	.	8ryy	.
+8ryy	8ryy	.	.	.	8ryy	.
+4ryy	4ryy	.	(8ccL	.	4ryy	.
+.	.	.	8b-J)	.	.	.
+=9	=9	=9	=9	=9	=9	=9
+8ryy	8ryy	4ryy	4g	.	8ryy	4ryy
+8ryy	8ryy	.	.	.	8ryy	.
+8ryy	8ryy	.	(8.gL	<	8ryy	.
+8ryy	8ryy	.	.	.	8ryy	.
+.	.	.	16aJk)	.	.	.
+8ryy	8ryy	.	(8b-L	.	8ryy	.
+8ryy	8ryy	.	8cc)	.	8ryy	.
+4ryy	4ryy	4ryy	(8dd'	.	4ryy	4ryy
+.	.	.	8ff'J)	[	.	.
+=10	=10	=10	=10	=10	=10	=10
+4ryy	4ryy	4ryy	(4.ee-X	.	4ryy	.
+4ryy	4ryy	.	.	.	4ryy	4ryy
+.	.	.	8dd)	>	.	.
+8ryy	8ryy	.	(8ccL	.	8ryy	.
+8ryy	8ryy	.	8b-J	.	8ryy	.
+8ryy	8ryy	4ryy	4dd)	]	8ryy	.
+8ryy	8ryy	.	.	.	8ryy	4ryy
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]

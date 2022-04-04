@@ -1,0 +1,102 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T207_Sch-w28p44m76-82]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part5	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Bass Clarinet in Bb	*
+*I'Pno.	*	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'B. Cl.	*
+*clefF4	*	*clefG2	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefF4	*
+*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Etwas langsamer als das Haupttempo	!
+!	!	!	!	!	!	!LO:TX:a:t=Stschl	!	!LO:TX:a:t=Stschl	!	!LO:TX:t=[[quarter]=52]	!
+*	*	*	*	*neben	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=P:problem:Nebenstimme lines need to be added to VHV.	!	!	!	!	!	!	!
+2r	.	2r	.	16AA-XLL	fp	16ryy	.	16r`yy	.	8r	.
+!	!	!	!	!	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be implemented.	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be implemented.	!	!	!
+.	.	.	.	32r	.	16ryy	4ryy	16ryy	4ryy	.	.
+.	.	.	.	(32EnJJk	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*haupt	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:Hauptstimme lines need to be added to VHV.	!
+.	.	.	.	4FFn)	.	16ryy	.	16ryy	.	4.d-X	f
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	[8AA-X^	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+2r	.	2r	.	16AA-LL]	.	16ryy	.	16ryy	.	4.Cn	.
+.	.	.	.	32r	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	32BBnJJk	<	.	.	.	.	.	.
+.	.	.	.	4dn	fp [	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	16GGnLL	.	16ryy	.	16ryy	.	16E-LL	.
+.	.	.	.	32r	.	16ryy	.	16ryy	.	32r	.
+.	.	.	.	32F#XJJk	.	.	.	.	.	32E-JJk	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+!	!	!	!	!LO:TX:t=P:problem: Cross-Measure Beaming still needs to be implemented.	!	!	!	!	!	!	!
+2r	.	2r	.	(32BB-X'LLL	.	8ryy	.	8ryy	.	4E-	.
+.	.	.	.	32BB-'J	.	.	.	.	.	.	.
+.	.	.	.	16BB-'J)	.	.	.	.	.	.	.
+.	.	.	.	8GG-XJ	.	16r`yy	.	16ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	16.r	.	16ryy	.	16ryy	.	16GGKnL	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	[8.GGJ	.
+.	.	.	.	(32E-X	.	.	.	.	.	.	.
+.	.	.	.	[8DDnL)	.	8ryy	.	8ryy	.	.	.
+!!linebreak:original
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+2r	.	2r	.	8DDJ]	.	16r`yy	.	16ryy	.	8GG]	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	[8DD	.	16ryy	.	16ryy	.	8r	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	16DDLL]	.	8ryy	.	8ryy	.	[4BnX	.
+.	.	.	.	32r	.	.	.	.	.	.	.
+.	.	.	.	(32cnJJk	.	.	.	.	.	.	.
+.	.	.	.	[8AAnL	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+2r	.	2r	.	8AAJ])	.	16ryy	.	16ryy	.	8B]	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	[8C#X	.	8ryy	.	8ryy	.	4.Fn	.
+.	.	.	.	16C#LL]	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	32r	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	(32EEnJk	.	.	.	.	.	.	.
+.	.	.	.	[8G#XJ	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+2r	.	2r	.	8G#L])	.	8ryy	.	8ryy	.	16EnXLL	.
+.	.	.	.	.	.	.	.	.	.	32r	.
+.	.	.	.	.	.	.	.	.	.	32EJJk	.
+.	.	.	.	16FFnL	.	16ryy	.	16ryy	.	4E	.
+.	.	.	.	32r	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	(32c#XJJk	.	.	.	.	.	.	.
+.	.	.	.	16AnLL)	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	16rJ	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	[8BBnJ	.	8ryy	.	8ryy	.	16CCnLL	.
+.	.	.	.	.	.	.	.	.	.	[16CCJJ	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+8r	.	2r	.	16BBLL]	.	16ryy	.	16ryy	.	2CC]	.
+*	*	*	*	*	*	*	*	*	*	*Xhaupt	*
+.	.	.	.	32r	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	(32DnJJk	.	.	.	.	.	.	.
+32r	.	.	.	4EE-X)	.	16ryy	.	16ryy	.	.	.
+16GGGnLL	f	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+32FF#XJJk	.	.	.	.	.	.	.	.	.	.	.
+8.BBB-XL	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	.	.	16ryy	.	16ryy	.	.	.
+.	.	.	.	16EE-	sf	16ryy	.	16ryy	.	.	.
+*	*	*	*	*Xneben	*	*	*	*	*	*	*
+16BBB-Jk	.	.	.	16r	.	16ryy	.	16ryy	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3,s4)][({(s5,s6)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/29

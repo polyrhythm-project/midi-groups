@@ -1,0 +1,54 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T227_Sch-w36p15-16m140-142]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*color:crimson	*	*color:dodgerblue	*	*color:crimson	*	*color:crimson	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefC4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=140
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=152]	!
+8ryy	.	2ryy	.	2ryy	.	4ryy	.
+8ryy	.	.	.	.	.	.	.
+*XNeben	*	*	*	*	*	*	*
+4ryy	.	.	.	.	.	8ryy	.
+!	!	!	!	!	!	!	!LO:DY:rj
+.	.	.	.	.	.	8ryy	4ryy
+2ryy	.	4ryy	.	8ryy	.	8ryy	.
+!	!	!	!	!	!LO:DY:rj	!	!
+.	.	.	.	8ryy	4ryy	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+!	!	!	!LO:DY:rj	!	!	!	!
+.	.	8ryy	4ryy	8ryy	.	8ryy	.
+!!LO:REH:t=141
+=2	=2	=2	=2	=2	=2	=2	=2
+4ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+*Haupt	*	*	*	*	*	*	*
+!	!LO:DY:rj	!	!	!	!	!	!
+2.ryy	4ryy	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	8ryy	.	8ryy	.	8ryy	.
+!!LO:REH:t=142
+=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	8ryy	.	1ryy	.	8ryy	.
+.	.	8ryy	.	.	.	8ryy	.
+2ryy	.	2.ryy	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+4ryy	.	.	.	.	.	4ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED:Jason Lee
+!!!EEV:2021/10/19

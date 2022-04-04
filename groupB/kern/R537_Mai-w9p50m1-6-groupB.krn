@@ -1,0 +1,104 @@
+!!!COM: Martin, Frank
+!!!OTL: Mass for Unaccompanied Mixed Double Choir
+!!!OMV: Part V: Agnus Dei
+!!!example: 537
+!!!work: Mai-9
+!!!OMD-full: Andante
+!!!OMD: Andante
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part6	*part5	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff8	*staff8	*	*staff7	*staff7	*	*staff6	*staff6	*	*staff5	*staff5	*	*staff4	*staff4	*	*staff3	*staff3	*	*staff2	*staff2	*	*staff1	*staff1	*
+*I"Bass	*	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Soprano	*	*	*I"BASS	*	*	*I"TENOR	*	*	*I"ALTO	*	*	*I"SOPRANO	*	*
+*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'S.	*	*
+*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*
+*Ibass	*	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*	*Ibass	*	*	*Itenor	*	*	*Icalto	*	*	*Isoprn	*	*
+*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*
+*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*	*k[f#]	*	*
+*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*	*G:	*	*
+*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=58]	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4%5r	.	.	4%5r	.	.	4%5r	.	.	4%5r	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=dolce	!	!	!LO:TX:a:i:t=dolce	!	!	!LO:TX:a:i:t=dolce	!	!	!LO:TX:a:i:t=dolce	!	!
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4B	A-	.	4B	A-	.	4b	A-	.	4b	A-	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4A	-gnus	.	4A	-gnus	.	4a	-gnus	.	4a	-gnus	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4F#	De-	.	4F#	De-	.	4f#	De-	.	4f#	De-	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4G	-i,	.	4G	-i,	.	4g	-i,	.	4g	-i,	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8F#	qui	.	8F#	qui	.	8f#	qui	.	8f#	qui	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	[8DJZ	tol-	.	[8DJZ	tol-	.	[8dJZ	tol-	.	[8dZ	tol-	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8D]	.	.	8D]	.	.	8d]	.	.	8d]	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4D	-lis	.	4D	-lis	.	4d	-lis	.	4d	-lis	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8E	pec-	.	8E	pec-	.	8e	pec-	.	8e	pec-	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4F#	-ca-	.	4F#	-ca-	.	4f#	-ca-	.	4f#	-ca-	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8D	-ta	.	8D	-ta	.	8d	-ta	.	8d	-ta	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8CJZ	mun-	.	[8CJZ	mun-	.	[8cZ	mun-	.	[8cZ	mun-	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*	*
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	2C]	.	>	2C]	.	>	2c]	.	>	2c]	.	>
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	2BB	-di:	.	2BB	-di:	.	2B	-di:	.	2B	-di:	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	]]	.	.	]]	.	.	]]	.	.	]]
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*	*M5/4	*	*
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4r	.	.	4r	.	.	4r	.	.	4r	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8C#X	mi-	<	8C#XL	mi-	<	8c#X	mi-	<	8c#X	mi-	<
+.	.	.	.	.	.	.	.	.	.	.	.	8D	-se-	.	8D	-se-	.	8d	-se-	.	8d	-se-	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	(4EZ	-re-	[	(4EZ	-re-	[	(4eZ	-re-	[	(4eZ	-re-	[
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8G	.	.	8G	.	.	8g	.	.	8g	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4E	.	.	4E	.	.	4e	.	.	4e	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8D	.	.	[8D	.	.	[8d	.	.	[8d	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8DL]	.	.	8DL]	.	.	8dL]	.	.	8dL]	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8BB	.	.	8BB	.	.	8B	.	.	8B	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8DJ	.	.	8DJ	.	.	8dJ	.	.	8dJ	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4E	.	.	4E	.	.	4e	.	.	4e	.	.
+4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8G)	.	.	8G)	.	.	8g)	.	.	8g)	.	.
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	(8AL	-re_	.	(8AL	-re_	.	(8aL	-re_	.	(8aL	-re_	.
+.	.	.	.	.	.	.	.	.	.	.	.	8G	.	.	8G	.	.	8g	.	.	8g	.	.
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	8EJ)	.	.	8EJ)	.	.	8eJ)	.	.	8eJ)	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.	.	8r	.	.
+=	=	=	=	=	=||	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)]
+!!!RDF**kern: Z = hairpin accent
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Vocal; Choral
+!!!MCN: Brunnert, Franz, W.
+!!!MDT: 1963/11/02
+!!!MGN: Bugenhagen Kantorei
+!!!MLC: Hamburg, Germany
+!!!MPD: 1963
+!!!MPN:
+!!!ODT: 1922 (rev. 1926)
+!!!PDT: 1972
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 6
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:29
+!!!excerpt-duration-sec: 29
+!!!excerpt-time-signature: 5/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {58}
+!!!excerpt-meter-type: odd
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G3,G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

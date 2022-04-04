@@ -1,0 +1,128 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T801_Bri-w2p16h29m1-8]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Oboe	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Ob.	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=29
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[quarter]=61	!
+!	!	!	!LO:DY:t=%s sub.	!	!	!LO:TX:a:B:t=Poco a poco accel. e più agitato	!
+4r	.	[2.coX [2.goX	pp	12bL]	ppp	2ryy	4ryy
+.	.	.	.	(12b	.	.	.
+.	.	.	.	12a#XJ)	.	.	.
+8r	.	.	.	(12g#XL	.	.	.
+.	.	.	.	12b	.	.	.
+!LO:TX:a:t=pizz.	!LO:DY:t=%s un poco marc.	!	!	!	!	!	!
+8BB	pp	.	.	.	.	.	.
+.	.	.	.	12a#J)	.	.	.
+4EE~	.	.	.	(12g#L	.	4ryy	4ryy
+.	.	.	.	12b	.	.	.
+.	.	.	.	12a#J)	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4DD#X^ 4AA#X	.	2.c] 2.g]	.	(12g#XL	.	4ryy	.
+.	.	.	.	12b	.	.	.
+.	.	.	.	12a#XJ)	.	.	.
+4EE~ 4BB	.	.	.	(12g#L	.	8ryy	.
+.	.	.	.	12b	.	.	.
+.	.	.	.	.	.	8ryy	4ryy
+.	.	.	.	12a#J)	.	.	.
+8r	.	.	.	(12bL	<	4ryy	.
+.	.	.	.	12cc#X	.	.	.
+8BB	.	.	.	.	.	.	.
+.	.	.	.	12eeJ)	[	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4EE~	.	[2.C [2.G	pp	(12G#XL	ppp	4ryy	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+4FF#X^ 4C#X	.	.	.	(12G#L	.	16ryy	.
+.	.	.	.	.	.	16ryy	4ryy
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	4.ryy	.
+.	.	.	.	12A#J)	.	.	.
+4EE~ 4BB	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4	=4	=4
+8r	.	2.C_ 2.G_	.	(12G#XL	.	8ryy	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	4ryy	.
+.	.	.	.	12A#XJ)	.	.	.
+4EE~	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	12A#J)	.	.	.
+4DD#X^ 4AA#X	.	.	.	(12G#L	.	20ryy	4ryy
+.	.	.	.	.	.	20ryy	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	20ryy	.
+.	.	.	.	.	.	20ryy	.
+.	.	.	.	12A#J)	.	.	.
+.	.	.	.	.	.	20ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5
+4EE~ 4BB	.	2.C_ 2.G_	.	(12G#XL	.	4ryy	4ryy
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+!	!	!	!	!	!	!	!LO:DY:t=più %s
+8r	.	.	.	(12G#L	.	2ryy	4ryy
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	.	.
+.	.	.	.	12A#J)	.	.	.
+4EE~	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4FF#X^ 4C#X	.	2.C_ 2.G_	.	(12G#XL	.	8ryy	4ryy
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	12A#XJ)	.	.	.
+4EE~ 4BB	.	.	.	(12G#L	.	12ryy	4ryy
+.	.	.	.	12B	.	12ryy	.
+.	.	.	.	12A#J)	.	12ryy	.
+!	!	!	!	!	!	!LO:TX:a:t=(ten.)	!
+8r	.	.	.	(12G#L	.	16ryy	4ryy
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	16ryy	.
+.	.	.	.	12A#J)	.	.	.
+.	.	.	.	.	.	16ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4EE~	.	2.C_ 2.G_	.	(12G#XL	.	2ryy	4ryy
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+4DD#X^ 4AA#X	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16ryy	.
+4EE~ 4BB	.	.	.	(12G#L	.	4ryy	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	12A#J)	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8r	.	2.C_ 2.G_	.	(12G#XL	.	4ryy	.
+.	.	.	.	12B	.	.	.
+8BB	.	.	.	.	.	.	.
+.	.	.	.	12A#XJ)	.	.	.
+4EE~	.	.	.	(12G#L	.	8ryy	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	4ryy	4ryy
+.	.	.	.	12A#J)	.	.	.
+4FF#X^ 4C#X	.	.	.	(12G#L	.	.	.
+.	.	.	.	12B	.	.	.
+.	.	.	.	.	.	8ryy	.
+.	.	.	.	12A#J)	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

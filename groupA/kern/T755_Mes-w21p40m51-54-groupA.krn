@@ -1,0 +1,54 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T755_Mes-21/40/51-54]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M3/8	*	*M3/8	*
+*8ba	*	*8ba	*
+=1	=1	=1	=1
+!	!	!LO:TX:t=[eighth]=107	!
+!	!LO:DY:LO:DY:t=[ %s legato ]	!	!LO:DY:LO:DY:t=[ %s stacc. ]
+(8BBBBnL	p	16ryy	4ryy
+.	.	16ryy	.
+!	!	!LO:TX:a:i:t=[mystérieux]	!
+8EEE	.	16ryy	.
+.	.	16ryy	.
+8DDD#XJ	.	16ryy	.
+.	.	16ryy	.
+=2	=2	=2	=2
+*M3/16	*	*M3/16	*
+16FFFn^KL	.	16ryy	.
+8BBBBnJ)	.	16ryy	.
+.	.	16ryy	.
+=3	=3	=3	=3
+*M4/16	*	*M4/16	*
+(16BBBB-XLL	.	8ryy	.
+16DDDn	.	.	.
+16EEE-X	.	16ryy	.
+16AAAAnJJ)	.	16ryy	.
+=4	=4	=4	=4
+*M6/8	*	*M6/8	*
+(8AAAAL	.	16ryy	.
+.	.	16ryy	.
+8DDD	.	16ryy	.
+.	.	16ryy	.
+8CCC#X	.	16ryy	.
+.	.	16ryy	.
+8EEE-XJ	.	16ryy	.
+.	.	16ryy	.
+*	*	*	*
+4AAAA)	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+*X8ba	*	*X8ba	*
+.	.	16ryy	.
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

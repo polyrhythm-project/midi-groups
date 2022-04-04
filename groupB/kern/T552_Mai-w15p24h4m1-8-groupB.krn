@@ -1,0 +1,113 @@
+!!!COM: Frank Martin
+!!!OTL: [T552_Mai-w15p24h4m1-8]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*	*grp:B	*
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*clefF4	*clefF4	*	*clefG2	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*
+*B:	*B:	*	*B:	*
+*M6/8	*M6/8	*	*M6/8	*
+!!LO:REH:t=4
+=1	=1	=1	=1	=1
+8ryy	8BL])j	.	8r	.
+.	(8qA#X/	.	.	.
+8ryy	8B)	.	(4a#X	4ryy
+8ryy	8c#'~J	.	.	.
+*	*clefG2	*	*	*
+.	(8qdn/	.	.	.
+8ryy	(8e)	.	4g##X	.
+8ryy	4fn)	.	.	.
+8ryy	.	.	[8A#X	.
+=2	=2	=2	=2	=2
+8ryy	8r	.	8A#]	.
+.	(8qe#X/	.	.	.
+8ryy	(8f#L)	.	[4g#X	.
+8ryy	8e#XJ	.	.	.
+8ryy	8f#L	.	4g#])	.
+8ryy	8e#	.	.	.
+8ryy	8d#J)	.	(8g#	.
+=3	=3	=3	=3	=3
+*8ba	*	*	*	*
+8ryy	(16cc#NLL	.	4f#X	.
+.	16bJJ	.	.	.
+8ryy	[4cc#	.	.	.
+8ryy	.	.	[8e	.
+8ryy	8cc#]	.	8e]	.
+8ryy	4b)	.	[4d#	.
+8ryy	.	.	.	.
+=4	=4	=4	=4	=4
+8ryy	(24a#LL	.	8d#L])	.
+.	24g##X	.	.	.
+.	24a#JJ	.	.	.
+8ryy	[4g##	.	8r	.
+8ryy	.	.	([8c##XJ	.
+8ryy	16g##])LL	.	8c##L]	.
+.	(<16G#X	.	.	.
+8ryy	16g#X	.	8d#	.
+.	16f#	.	.	.
+8ryy	16g#	.	8c##J	.
+.	16f#JJ	.	.	.
+=5	=5	=5	=5	=5
+8ryy	16g#LL	.	4d#)	.
+.	16e#X	.	.	.
+8ryy	16f#	.	.	.
+.	16g#	.	.	.
+8ryy	16a#	.	([8e	.
+.	16g#JJ	.	.	.
+8ryy	16a#LL	.	8eL]	.
+.	16f##X	.	.	.
+8ryy	16g#	.	8e#X	.
+.	16a#	.	.	.
+8ryy	16b	.	8c##XJ)	.
+.	16a#JJ	.	.	.
+=6	=6	=6	=6	=6
+8ryy	16bZLL	.	8r	.
+.	16a#	.	.	.
+*X8ba	*	*	*	*
+8ryy	16b	.	(4d##X	.
+.	16a#	.	.	.
+8ryy	16b	.	.	.
+.	16a#JJ	.	.	.
+8ryy	4b)	.	8e#XL	.
+8ryy	.	.	8d##	.
+.	(<16qqb/LL	.	.	.
+!	!	!	!	!LO:HP:t=poco %s
+.	16qqcc#/JJ	.	.	4ryy
+8ryy	[8ddn)	.	8e#J)	.
+=7	=7	=7	=7	=7
+8ryy	16ddLL]	.	8r	.
+.	(16dnJ	.	.	.
+8ryy	8.cc#)	.	(8d##XL	.
+8ryy	.	.	16e#XL	.
+.	(16dJk	.	16d##JJ	.
+8ryy	8.ccnL)	.	4e#)	.
+8ryy	.	.	.	.
+.	(16d#Xk	.	.	.
+8ryy	[8ccJ	.	([8f#	.
+=8	=8	=8	=8	=8
+8ryy	16ccLL])	.	8f#L]	.
+.	(16BJ	.	.	.
+.	.	.	(8qe#X/	.
+8ryy	8.a#X	.	8f#)	.
+8ryy	.	.	8g#J)	.
+.	16anJk)	.	.	.
+.	.	.	(8qg##X/	.
+8ryy	(4g#	.	(<8a#)i	.
+8ryy	.	.	(>4bi	.
+.	(16qqf##X/LL	.	.	.
+.	16qqg#/JJ	.	.	.
+8ryy	8f##y'))	.	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/11/19

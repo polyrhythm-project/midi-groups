@@ -1,0 +1,32 @@
+!!!COM: Frank Martin
+!!!OTL: [T566_Mai-w40p31h3m1-2]
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*k[]	*	*k[]	*
+*C:	*	*C:	*C:	*	*C:	*
+*M6/8	*	*M6/8	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=arco	!	!	!	!LO:DY:rj:ed=brack	!	!LO:DY:rj:ed=brack
+8r	.	4%3ryy	4ryy	4ryy	4ryy	4ryy
+!	!LO:DY:t=%s un poco marc.	!	!	!	!	!
+[4DD^	mp	.	.	.	.	.
+.	.	.	8ryy	4ryy	8ryy	4ryy
+4DD]	.	.	8ryy	.	8ryy	.
+.	.	.	8ryy	.	8ryy	.
+[8AA^	.	.	8ryy	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2
+4AA]	.	4%3ryy	8ryy	.	8ryy	.
+.	.	.	8ryy	.	8ryy	.
+[8E^	.	.	8ryy	.	8ryy	.
+8EL]	.	.	8ryy	.	8ryy	.
+8Bn^	.	.	8ryy	.	8ryy	.
+[8c^J	.	.	8ryy	.	8ryy	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

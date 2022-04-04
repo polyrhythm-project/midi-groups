@@ -1,0 +1,168 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T626_Hin-w28p3m14-25]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*	*	*
+!	!LO:TX:t=[[eighth]=170]	!
+16ryy	16f	4ryy
+16ryy	(8cniL	.
+16ryy	.	.
+!	!LO:TX:b:i:t=cresc.	!
+16ryy	16c-X^Jk 16d-X)	.
+16ryy	16r	.
+16ryy	16en'LL	.
+8ryy	16f'	.
+.	([16gJJ	.
+=	=	=
+16ryy	16gLL]	.
+16ryy	16g-XJJ 16a-X)	.
+16ryy	16r	.
+16ryy	16bn'	.
+16ryy	16cc'KL	.
+16ryy	(8dd	.
+8ryy	.	.
+.	16dd-X^Jk 16ee-X)	.
+=	=	=
+16ryy	16r	.
+16ryy	(16ccKL	.
+16ryy	8ddnJ	.
+16ryy	.	.
+16ryy	16dd-X^LL 16ee-X)	.
+16ryy	16r	.
+8ryy	(16cc	.
+.	[16ddnJJ	.
+=	=	=
+16ryy	16ddLL]	.
+16ryy	16dd-X^ 16ee-X)	.
+16ryy	16r	.
+16ryy	(16ccJJ	.
+16ryy	8ddnL	.
+16ryy	.	.
+8ryy	16dd-X^Jk 16ee-)	.
+.	16r	.
+=1	=1	=1
+*M5/16	*M5/16	*
+!LO:TX:t=P:problem:all time signatures are inside parentheses	!LO:TX:t=P:problem:all time signatures are inside parentheses	!
+16ryy	(16ccKL	.
+16ryy	8dd	.
+16ryy	.	.
+16ryy	16dd-X^Jk 16ee-X)	.
+16ryy	16r	.
+=2	=2	=2
+8ryy	(16ff^LL	4ryy
+.	16ee	.
+16ryy	16ff	.
+16ryy	16ccJJ	.
+8ryy	16ffLL	.
+.	16bb-X	.
+16ryy	16aa-X	.
+16ryy	16bb-JJ	.
+16ryy	16ggLL	.
+16ryy	16ff	.
+8ryy	16gg	.
+.	16ee-XJJ	.
+=-	=-	=-
+*M3/16	*M3/16	*
+16ryy	16cccLL	.
+16ryy	16gg	.
+16ryy	16aanJJ)	.
+=3	=3	=3
+8ryy	(16ff^LL	4ryy
+.	16ee	.
+16ryy	16ff	.
+16ryy	16ccJJ	.
+8ryy	16ffLL	.
+.	16bb-X	.
+16ryy	16aa-X	.
+16ryy	16bb-JJ	.
+=-	=-	=-
+*M3/8	*M3/8	*
+16ryy	16ggLL	.
+16ryy	16ff	.
+8ryy	16gg	.
+.	16ee-X	.
+16ryy	16ccc	.
+16ryy	16ggJJ)	4ryy
+=4	=4	=4
+*^	*	*
+16ryy@yy	16ryy	16aanLL	4ryy
+16ryy@yy	16ryy	16gg#XJJ	.
+4ryy	16r^yy	(48aa^LLL	.
+.	.	48ccc	.
+.	.	48bbJJ	.
+.	8.ryy	8.aaJ)	.
+*v	*v	*^	*
+8ryy	8ee	16ddLL	.
+.	.	16ccJJ	.
+*	*v	*v	*
+=5	=5	=5
+16ryy	16bLL	.
+16ryy	16a#XJJ	.
+*^	*	*
+4ryy	16ryy	(48b^LLL	.
+.	.	48dd	.
+.	.	48cc#XJJ	.
+.	8.ryy	8.bJ)	4ryy
+*v	*v	*^	*
+8ryy	8f#X	16eLL	4ryy
+.	.	16dJJ	.
+*	*v	*v	*
+*	*clefF4	*
+=6	=6	=6
+*M11/16	*	*
+!LO:TX:t=P:problem:cross-bar beaming to be implemented	!	!
+16ryy	(16c#X^LL	4ryy
+!LO:TX:a:B:t=(quasi 3/16)	!	!
+8ryy	16B#X	.
+.	16c#	.
+16ryy	16G#XJJ	.
+8ryy	16c#LL	.
+.	16f#X	.
+16ryy	16e	.
+8ryy	16f#JJ	.
+=-	=-	=-
+*	*M3/16	*
+.	16d#XLL	.
+16ryy	16g#X	.
+16ryy	16BnJJ)	.
+=7	=7	=7
+*M13/16	*	*
+16ryy	(16c#X^LL	.
+16ryy	16B#X	.
+8ryy	16c#	.
+.	16G#XJJ	.
+16ryy	16c#LL	.
+8ryy	16f#X	.
+.	16e	.
+16ryy	16f#JJ	.
+=-	=-	=-
+*	*M5/16	*
+8ryy	16d#XLL	.
+.	16g#X	.
+16ryy	16Bn	.
+8ryy	16c#X	.
+.	16AJJ	.
+=8	=8	=8
+*M7/16	*M7/16	*
+16ryy	16BniLL	4ryy
+8ryy	16A	.
+.	16B	.
+16ryy	16G	4ryy
+16ryy	16d	.
+16ryy	16A	.
+16ryy	16BJJ)	4ryy
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = editorial accidental, parentheses
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

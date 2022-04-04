@@ -1,0 +1,115 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T138_Jan-w4p13m2-1h2m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*
+*kcancel	*	*kcancel	*	*kcancel	*	*kcancel	*	*kcancel	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:B:t=[Allegro]
+4%3r	.	4r	.	(4c#	.	(4e#X	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+.	.	(4G#X	.	4f#)	.	4g#X)	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+.	.	[4c#)	4ryy	[4e#X	4ryy	(4e#	4ryy	12ryy	4ryy
+!	!	!	!	!	!	!	!	!LO:TX:B:t=rit.	!
+.	.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4%3r	.	4c#]	.	4e#]	.	4g#X	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	.	.	12ryy	.
+*	*	*	*	*Xtuplet	*	*	*	*	*
+*	*	*	*	*grp:B	*	*	*	*grp:A	*
+.	.	2C#	4ryy	12ryy	4ryy	4e#X)	4ryy	4e#X)	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a tempo	!
+.	.	.	.	12ryy	.	(4ee#X	4ryy	(4ee#X	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
+*D-:	*	*D-:	*	*D-:	*	*D-:	*	*D-:	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!LO:TX:b:i:t=dolce	!
+*	*	*	*	*tuplet	*	*	*	*	*
+4DD-	4ryy	4D-	4ryy	12ryy	4ryy	4dd-X)	.	4ff)	.
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4r	.	(4D-	4ryy	12ryy	.	4r	.	(4ff	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4r	.	4G-)	4ryy	12ryy	.	4r	.	4gg-)	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*Xtuplet	*	*	*	*	*
+4AAA-	.	(4A-	4ryy	12ryy	.	2.A-	4ryy	(4.ff	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4r	.	4AA-	4ryy	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	8ee-	.
+.	.	.	.	12ryy	.	.	.	.	.
+4r	.	[4D-)	.	12ryy	.	.	.	4dd-)	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4r	.	4D-]	.	12ryy	.	4%3r	.	4r	.
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4DD-	.	(4D-	.	12ryy	.	.	.	4ff	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4GG-	.	4G-)	.	12ryy	.	.	.	(8aa-L	.
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	8gg-J)	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+4AA-	.	(4A-	.	12ryy	.	2.a-	4ryy	(4ff	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4r	.	4AA-	.	12ryy	.	.	.	4ee-	.
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+4r	.	4D-)	.	12ryy	.	.	.	4dd-)	4ryy
+.	.	.	.	12ryy	.	.	.	.	.
+.	.	.	.	12ryy	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*	*	*grp:A	*	*grp:B	*	*grp:B	*
+4%3r	.	4r	.	4D-)	.	12ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+!	!	!	!LO:DY:rj	!	!LO:DY:rj	!	!	!	!
+.	.	(4F	4ryy	(4F	4ryy	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	4d-)	4ryy	4d-)	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*
+4FF	4ryy	(4An	4ryy	(4An	4ryy	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+4r	.	4c	.	4c	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+4BB-	.	4B-)	4ryy	4B-)	4ryy	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+.	.	.	.	.	.	12ryy	.	12ryy	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)}s3,s4,s5)]
+!!!EED:Jason Lee
+!!!EEV:2021/10/05

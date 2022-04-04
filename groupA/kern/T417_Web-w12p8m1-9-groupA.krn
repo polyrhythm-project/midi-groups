@@ -1,0 +1,192 @@
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [T417_Web-w12p8m1-9]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=mit Dämpfer	!	!LO:TX:a:t=mit Dämpfer	!	!LO:TX:a:t=mit Dämpfer	!	!LO:TX:a:t=mit Dämpfer	!
+!	!	!	!	!	!	!LO:TX:a:B:t=Fließend ([quarter] = ca 84)	!
+4r	.	8ryy	.	8ryy	.	4ryy	.
+!	!	!LO:N:head=dia:n=2	!	!	!	!	!
+.	.	4ryy	4ryy	4ryy	4ryy	.	.
+8r	.	.	.	.	.	4ryy	4ryy
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+4Cn`~o 4Fn	4ryy	8ryy	4ryy	8ryy	4ryy	.	.
+!	!	!LO:TX:b:t=am Steg	!	!LO:TX:b:t=am Steg	!	!	!
+.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+8r	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=2	=2	=2	=2	=2	=2	=2	=2
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+4A-Xo` 4d-X	4ryy	4ryy	.	4ryy	.	8ryy	.
+!	!	!	!	!	!	!LO:TX:a:t=pizz.	!
+.	4ryy	.	.	.	.	8ryy	.
+*clefC4	*	*	*	*	*	*	*
+!	!	!LO:TX:b:t=am Steg	!	!LO:TX:a:t=am Steg	!	!	!
+12r	.	8ryy	4ryy	8ryy	4ryy	8ryy	.
+!LO:N:head=dia:n=2	!	!	!	!	!	!LO:TX:a:t=arco	!
+12dn`~o 12gn	4ryy	.	.	.	.	.	.
+.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+!	!	!	!	!	!	!LO:TX:B:a:t=rit.	!
+12r	4ryy	.	.	.	.	.	.
+4r	4ryy	4ryy	4ryy	4ryy	.	4ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:TX:b:t=am Steg	!	!	!	!LO:TX:a:B:t=tempo	!
+!	!	!	!	!	!	!LO:TUP:a	!
+12r	.	12ryy	.	12ryy	.	12ryy	.
+!LO:N:head=dia:n=2	!	!	!	!LO:N:head=dia:n=2	!	!LO:N:head=dia:n=2	!
+12Bn`~o 12en	4ryy	12ryy	4ryy	12ryy	4ryy	12ryy	4ryy
+12r	4ryy	12ryy	4ryy	12ryy	4ryy	12ryy	4ryy
+12r	.	8ryy	.	4ryy	4ryy	8ryy	.
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+6bn^o 6een	4ryy	.	.	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!	!LO:TX:a:t=pizz.	!
+!	!	!LO:N:head=dia	!	!	!	!	!
+.	.	8ryy	4ryy	.	.	8ryy	4ryy
+*clefF4	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:a:t=arco	!
+.	4ryy	.	.	.	.	.	.
+8r	.	4ryy	.	4ryy	4ryy	4ryy	4ryy
+(8qCC#X/ 8qAAn	4ryy	.	.	.	.	.	.
+[8dno)	.	.	.	.	.	.	.
+!!linebreak:original
+*	*	*clefG2	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*tremolo	*	*	*
+!LO:TUP:a	!	!	!	!LO:N:head=dia:n=2	!	!LO:TX:a:t=pizz.	!
+!	!	!	!	!	!	!LO:TX:a:B:t=rit. – – –	!
+12dL]	4ryy	8ryy	.	32ryy	4ryy	8ryy	.
+.	.	.	.	32ryy	.	.	.
+.	.	.	.	32ryy	.	.	.
+12r	.	.	.	.	.	.	.
+.	.	.	.	32ryy	.	.	.
+.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+!LO:N:head=dia:n=2	!	!	!	!	!	!	!
+12FFn`~oJ 12BB-X	4ryy	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TUP:a	!
+8.r	.	8ryy	4ryy	16ryy	.	12ryy	.
+.	.	.	.	8ryy	4ryy	.	.
+!	!	!	!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	.	.	12ryy	4ryy
+.	.	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	12ryy	4ryy
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+16FF#X'	4ryy	.	.	16ryy	.	.	.
+4r	.	8ryy	.	12ryy	.	8ryy	.
+.	.	.	4ryy	6ryy	4ryy	.	.
+!	!	!	!	!	!	!LO:TX:a:B:t=tempo	!
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+.	.	8ryy	.	.	4ryy	8ryy	4ryy
+=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!LO:N:head=dia:n=2	!	!LO:TUP:a	!
+4r	.	8ryy	.	4ryy	4ryy	12ryy	4ryy
+.	.	.	.	.	.	12rddyy	.
+*	*	*clefC3	*	*	*	*	*
+!	!	!LO:N:head=dia	!	!	!	!	!
+!	!	!LO:TX:t=P:problem:cue pitches not shown here	!	!	!	!	!
+.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+.	.	.	4ryy	.	4ryy	12ryy	4ryy
+*clefC4	*	*	*	*	*	*	*
+!LO:TX:b:t=am Steg	!	!	!	!	!	!	!
+!LO:TX:a:rj:t=arco	!	!	!	!LO:TX:a:t=am Steg	!	!	!
+!	!	!	!	!	!	!LO:N:head=dia:n=2	!
+2a-XTT	4ryy	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*
+*	*	*tremolo	*	*	*	*	*
+!	!	!LO:N:head=dia:n=2	!	!	!	!	!
+.	.	32ryy	4ryy	32ryy	4ryy	8ryy	4ryy
+.	.	32ryy	.	32ryy	.	.	.
+.	.	32ryy	.	32ryy	.	.	.
+.	.	32ryy	.	32ryy	.	.	.
+.	.	32ryy	.	32ryy	.	16ryy	.
+.	.	32ryy	.	32ryy	.	.	.
+.	.	32ryy	.	32ryy	.	16ryy	4ryy
+.	.	32ryy	.	32ryy	.	.	.
+.	.	32ryy	.	32ryy	.	16ryy	4ryy
+.	.	32ryy	.	32ryy	.	.	.
+.	.	32ryy	.	32ryy	.	16ryy	4ryy
+.	.	32ryy	4ryy	32ryy	4ryy	.	.
+*	*	*Xtremolo	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!LO:TX:a:t=rit.	!
+!	!	!	!	!	!	!LO:TX:a:i:t=(lang)	!
+4r;	.	4r;yy	.	4r;yy	.	4.ryy	4ryy
+!	!	!LO:N:head=dia:n=2	!	!LO:TX:a:t=pizz.	!	!	!
+8r	.	8ryy	4ryy	12ryy	.	.	.
+!	!	!	!	!LO:TX:a:i:t=sehr zart	!LO:DY:rj	!LO:TX:a:B:t=rit. – – –	!
+.	.	.	.	12ryy	4ryy	.	4ryy
+*clefF4	*	*	*	*	*	*	*
+!LO:N:head=dia	!	!	!	!	!	!	!
+!LO:TX:t=P:problem:cue pitches not shown here	!	!	!	!	!	!	!
+(4EEno	4ryy	8ryy	.	.	.	8ryy	.
+.	.	.	.	12ryy	4ryy	.	.
+.	.	4ryy	.	8ryy	.	16ryy	.
+.	.	.	.	.	.	8.ryy	4ryy
+*	*	*	*	*	*	*	*
+.	4ryy	.	.	.	4ryy	.	.
+*	*	*	*	*	*	*	*
+8Fn)	.	.	.	8ryy	.	.	4ryy
+!!pagebreak:original
+=7	=7	=7	=7	=7	=7	=7	=7
+!	!	!	!	!	!	!LO:TX:a:B:t=tempo	!
+8r	.	8ryy	.	4ryy	.	4ryy	4ryy
+4CCn~ 4E-X	4ryy	4ryy	4ryy	.	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!
+.	.	.	.	12ryy	.	4r;yy	4ryy
+.	.	.	.	6ryy	4ryy	.	.
+8r;	4ryy	8r;yy	4ryy	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!
+4r	.	8ryy	.	4ryy	4ryy	4ryy	.
+.	.	8ryy	4ryy	.	4ryy	.	.
+*clefC4	*	*	*	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8	=8
+!LO:TX:b:t=am Steg	!	!	!	!	!	!	!
+2.ddntt	4ryy	4ryy	.	4ryy	.	4ryy	.
+*	*	*clefG2	*	*	*	*	*
+!	!	!LO:N:head=dia:n=2	!	!LO:N:head=dia:n=2	!	!LO:TX:a:t=am Griffbrett	!
+.	.	4ryy	4ryy	4ryy	4ryy	8ryy	.
+.	.	.	.	.	.	4.ryy	4ryy
+.	.	4ryy	4ryy	4ryy	.	.	4ryy
+=9	=9	=9	=9	=9	=9	=9	=9
+!	!	!	!	!LO:TX:a:t=am Steg	!	!	!
+8.r	.	4ryy	.	32ryy	4ryy	8ryy	4ryy
+.	.	.	.	32ryy	.	.	.
+.	.	.	.	32ryy	.	.	.
+.	.	.	.	32ryy	.	.	.
+.	.	.	.	32ryy	.	8ryy	4ryy
+.	.	.	.	32ryy	.	.	.
+!LO:TX:a:i:t=sehr zart	!	!	!	!	!	!	!
+(16a#X	4ryy	.	.	32ryy	.	.	.
+.	.	.	.	32ryy	.	.	.
+!	!	!	!	!LO:TX:t=P:problem:tuplet tremolo not showing correctly	!	!	!
+!	!	!	!	!LO:TUP:a	!	!LO:TX:a:t=am Steg	!
+4bn)	4ryy	4ryy	.	48ryy	.	4ryy	.
+.	.	.	.	48ryy	.	.	.
+.	.	.	.	48ryy	.	.	.
+.	.	.	.	48ryy	.	.	.
+.	.	.	.	48ryy	.	.	.
+.	.	.	.	48ryy	.	.	.
+.	.	.	.	48ryy	.	.	.
+.	.	.	.	48ryy	.	.	.
+*	*	*	*	*Xtremolo	*	*	*
+.	.	.	.	12ryy	4ryy	.	.
+*	*	*clefC3	*	*	*	*	*
+!	!	!LO:TR:acc=n	!	!	!	!LO:TX:t=[quarter] = ca 42	!LO:DY:rj
+4r	4ryy	4ryy	4ryy	4ryy	.	8ryy	4ryy
+.	.	.	4ryy	.	.	8ryy	4ryy
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = hairpin accent
+!!!EED:Jason Lee
+!!!EEV:2021/12/06

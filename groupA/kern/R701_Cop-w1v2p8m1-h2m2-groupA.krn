@@ -1,0 +1,216 @@
+!!!COM: Copland, Aaron
+!!!OTL: Symphony No. 1
+!!!OMV: Movement 2: Scherzo
+!!!example: 701
+!!!work: Cop-1
+!!!OMD-full: Allegro molto
+!!!OMD: Allegro molto
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff6	*	*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICww	*	*ICww	*
+*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Ioboe	*	*Ioboe	*
+*I"Violin II Divisi II	*	*I"Violin II Divisi I	*	*I"Piano	*	*	*I"Oboe II	*	*I"Oboe I	*
+*I'2.Vl. 2.Div.	*	*I'2.Vl. 1.Div.	*	*I'Pno.	*	*	*I'2.Ob.	*	*I'1.Ob.	*
+*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:t= Molto Allegro ([quarter]=160)	!	!	!	!	!	!	!	!
+!	!	!LO:TX:a:t=col legno	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s non leggiero	!	!	!LO:TX:t=Molto Allegro ([quarter]=160)	!
+4r	.	8aL	p	8ryy	8a^L	p	4%3ryy	.	4%3ryy	.
+.	.	8cJ	.	8ryy	8gJ	.	.	.	.	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+!LO:TX:a:t=col legno	!	!	!	!	!	!	!	!	!	!
+8g	p	8c	.	8ryy	8g^	.	.	.	.	.
+!LO:TX:a:t=	!	!	!	!	!	!	!	!	!	!
+8r	.	8r	.	8ryy	8r	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8aL	.	8a	.	8ryy	8a^L	.	4%3ryy	.	4%3ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	.	.	.	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+8c	.	8g	.	8ryy	8g^	.	.	.	.	.
+8r	.	8r	.	8ryy	8r	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=	!LO:DY:t=%s ritmico
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+8a	.	8aL	.	8ryy	8a^L	.	4%3ryy	.	8ryy	4ryy
+8r	.	8cJ	.	8ryy	8gJ	.	.	.	8ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	8ryy	.
+.	.	.	.	8ryy	8a	.	.	.	8ryy	.
+8g	.	8c	.	8ryy	8g^	.	.	.	8ryy	.
+8r	.	8r	.	8ryy	8r	.	.	.	8ryy	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8aL	.	8a	.	8ryy	8a^L	.	4%3ryy	.	8ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	.	.	8ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	8ryy	.
+.	.	.	.	8ryy	8a	.	.	.	4ryy	.
+8c	.	8g	.	8ryy	8g^	.	.	.	.	.
+8r	.	8r	.	8ryy	8r	.	.	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: written accel.'s realization differs from original (x 1/2)	!
+8a	.	8aL	.	8ryy	8a^L	.	4%3ryy	.	16%3ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16%3ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	8ryy	8a	.	.	.	16%3ryy	.
+8g	.	8c	.	8ryy	8g^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16%3ryy	.
+8r	.	8r	.	8ryy	8r	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*Xtuplet	*
+!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=(ad lib. faster and faster/senza misura)	!
+8aL	.	8a	.	8ryy	8a^L	.	4%3ryy	.	44%3ryy	.
+.	.	.	.	.	.	.	.	.	22%3ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	22%3ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	22%3ryy	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	22%3ryy	.
+8c	.	8g	.	8ryy	8g^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	22%3ryy	.
+8r	.	8r	.	8ryy	8r	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*	*	*	*	*	*	*	*Xtuplet	*
+8a	.	8aL	.	8ryy	8a^L	.	4ryy	.	48%5ryy	.
+.	.	.	.	.	.	.	.	.	48%5ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	48%5ryy	.
+4r	.	4r	.	8ryy	8r	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	.	48%5ryy	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	48%5ryy	.
+8g	.	8c	.	8ryy	8g^	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	.	48%5ryy	.
+8r	.	8r	.	8ryy	8r	.	8ryy	4ryy	8ryy	.
+!!LO:REH:t=1
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!	!LO:TX:b:i:t=simile	!	!	!	!	!
+8aL	.	8a	.	8ryy	8aL	.	8ryy	.	4%3ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	8ryy	.	.	.
+4r	.	4r	.	8ryy	8r	.	8ryy	.	.	.
+.	.	.	.	8ryy	8a	.	8ryy	.	.	.
+8c	.	8g	.	8ryy	8g	.	8ryy	.	.	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+8a	.	8aL	.	8ryy	8aL	.	8ryy	.	4ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	8ryy	.	.	.
+4r	.	4r	.	8ryy	8r	.	4ryy	.	4ryy	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+8g	.	8c	.	8ryy	8g	.	8ryy	.	8ryy	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	8ryy	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+8aL	.	8a	.	8ryy	8aL	.	4%3ryy	.	8ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	.	.	8ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	8ryy	.
+.	.	.	.	8ryy	8a	.	.	.	8ryy	.
+8c	.	8g	.	8ryy	8g	.	.	.	8ryy	.
+8r	.	8r	.	8ryy	8r	.	.	.	8ryy	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+8a	.	8aL	.	8ryy	8aL	.	4%3ryy	.	8ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	.	.	4ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	8ryy	8a	.	.	.	4ryy	.
+8g	.	8c	.	8ryy	8g	.	.	.	.	.
+8r	.	8r	.	8ryy	8r	.	.	.	8ryy	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:same as before	!
+8aL	.	8a	.	8ryy	8aL	.	4%3ryy	.	16%3ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16%3ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	8ryy	8a	.	.	.	16%3ryy	.
+8c	.	8g	.	8ryy	8g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	16%3ryy	.
+8r	.	8r	.	8ryy	8r	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*	*	*	*	*	*	*	*	*	*Xtuplet	*
+!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=(ad lib. faster and faster/senza misura)	!
+8a	.	8aL	.	8ryy	8aL	.	4%3ryy	.	52%3ryy	.
+.	.	.	.	.	.	.	.	.	26%3ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	26%3ryy	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	26%3ryy	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	26%3ryy	.
+8g	.	8c	.	8ryy	8g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	26%3ryy	.
+8r	.	8r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	26%3ryy	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*	*	*	*Xtuplet	*
+8aL	.	8a	.	8ryy	8aL	.	4ryy	.	10ryy	.
+.	.	.	.	.	.	.	.	.	10ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10ryy	.
+4r	.	4r	.	8ryy	8r	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	.	10ryy	.
+.	.	.	.	8ryy	8a	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10ryy	.
+8c	.	8g	.	8ryy	8g	.	8ryy	.	4ryy	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+8a	.	8aL	.	8ryy	8aL	.	8ryy	.	4%3ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	4ryy	.	.	.
+4r	.	4r	.	8ryy	8r	.	.	.	.	.
+.	.	.	.	8ryy	8a	.	4ryy	.	.	.
+8g	.	8c	.	8ryy	8g	.	.	.	.	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+8aL	.	8a	.	8ryy	8aL	.	8ryy	.	4ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	8ryy	.	.	.
+4r	.	4r	.	8ryy	8r	.	8ryy	.	4ryy	.
+.	.	.	.	8ryy	8a	.	8ryy	.	.	.
+8c	.	8g	.	8ryy	8g	.	8ryy	.	8ryy	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	8ryy	.
+!!LO:REH:t=2
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+8a	.	8aL	.	8ryy	8aL	.	8ryy	.	8ryy	.
+8r	.	8cJ	.	8ryy	8gJ	.	8ryy	.	8ryy	.
+4r	.	4r	.	8ryy	8r	.	8ryy	.	8ryy	.
+.	.	.	.	8ryy	8a	.	8ryy	.	8ryy	.
+8g	.	8c	.	8ryy	8g	.	8ryy	.	8ryy	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	8ryy	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+8aL	.	8a	.	8ryy	8aL	.	8ryy	.	8ryy	.
+8cJ	.	8r	.	8ryy	8gJ	.	8ryy	.	8ryy	.
+4r	.	4r	.	8ryy	8r	.	8ryy	.	8ryy	.
+.	.	.	.	8ryy	8a	.	8ryy	.	8ryy	.
+8c	.	8g	.	8ryy	8g	.	8ryy	.	8ryy	.
+8r	.	8r	.	8ryy	8r	.	8ryy	.	8ryy	.
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]{(s3,s4)}[s5,s6]
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Reiner, Fritz
+!!!MDT: 1927/11/04
+!!!MGN: Philadelphia Orchestra
+!!!MLC: Philadelphia, Pennsylvania, United States of America
+!!!MPD: 1927
+!!!MPN:
+!!!ODT: 1924 (rev. 1928)
+!!!PDT: 1931
+!!!excerpt-start-measure: 1
+!!!excerpt-end-measure: 18
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:23
+!!!excerpt-duration-sec: 23
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 160
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2021/02/21
+!!!ONB: Converted from MusicXML on 2020/09/04

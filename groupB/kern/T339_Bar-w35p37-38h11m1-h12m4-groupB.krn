@@ -1,0 +1,115 @@
+!!!COM: Béla Bartók
+!!!OTL: [T339_Bar-w35p37-38mh11m1-h12m4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=11
+=154	=154	=154	=154	=154	=154	=154	=154
+!LO:TX:a:t=a 5 battute	!LO:DY:t=[ %s marcato]	!	!LO:DY:t=[ %s marcato]	!	!	!LO:TX:t=[Meno vivo [quarter]=120]	!
+!!!ONB:There should be a brace between Vla. + Vc. to show that the battute sign applies to both parts.
+!!!ONB: Downward arrows indicating order of triple-stop playingin Vc. are not available in Verovio
+4ryy	4ryy	4ryy	4ryy	8dd#X 8ccc#X	f	8ddd#X	f
+*	*	*	*	*tremolo	*	*tremolo	*
+.	.	.	.	8r	.	16cc#X 16ddd#LL	.
+.	.	.	.	.	.	16cc#X 16ddd#	.
+8ryy	.	8ryy	.	8r	.	16cc#X 16ddd#	.
+.	.	.	.	.	.	16cc#X 16ddd#JJ	.
+=155	=155	=155	=155	=155	=155	=155	=155
+8ryy	.	8ryy	.	8r~^^	.	8ddn~^^ 8eee	.
+8ryy	.	8ryy	.	16f#X 16gg#XLL	.	16cc#X 16ddd#XLL	.
+.	.	.	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+8ryy	.	8ryy	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+.	.	.	.	16f#X 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
+=156	=156	=156	=156	=156	=156	=156	=156
+8ryy	.	8ryy	.	8gn~^^ 8aa	.	8r	.
+8ryy	.	4ryy	.	16f 16gg#XLL	.	16cc#X 16ddd#XLL	.
+.	.	.	.	16f 16gg#X	.	16cc#X 16ddd#X	.
+8ryy	.	.	.	16f 16gg#X	.	16cc#X 16ddd#X	.
+.	.	.	.	16f 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
+=157	=157	=157	=157	=157	=157	=157	=157
+8ryy	.	8ryy	.	8r~^^	.	8ddn~^^ 8eee	.
+8ryy	.	8ryy	.	16f#X 16gg#XLL	.	16cc#X 16ddd#XLL	.
+.	.	.	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+8ryy	.	8ryy	.	16f#X 16gg#X	.	16cc#X 16ddd#X	.
+.	.	.	.	16f#X 16gg#XJJ	.	16cc#X 16ddd#XJJ	.
+=158	=158	=158	=158	=158	=158	=158	=158
+8ryy	.	8ryy	.	8gn~^^ 8aa	.	8r	.
+8ryy	.	8ryy	.	16f#X 16gg#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16gg#X	.	16c#X 16dd#X	.
+8ryy	.	8ryy	.	16f#X 16gg#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16gg#XJJ	.	16c#X 16dd#XJJ	.
+=159	=159	=159	=159	=159	=159	=159	=159
+8ryy	.	4ryy	.	8r~^^	.	8dn~^^< 8ee	.
+8ryy	.	.	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+8ryy	.	8ryy	.	16f#X 16g#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
+=160	=160	=160	=160	=160	=160	=160	=160
+8ryy	.	8ryy	.	8Gn~^^< 8a	.	8r	.
+8ryy	.	8ryy	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+8ryy	.	8ryy	.	16f#X 16g#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
+!!linebreak:original
+=161	=161	=161	=161	=161	=161	=161	=161
+8ryy	.	8ryy	.	8r~^^	.	8dn~<^^< 8ee	.
+8ryy	.	4ryy	.	16f#X 16g#XLL	.	16c#X 16dd#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+8ryy	.	.	.	16f#X 16g#X	.	16c#X 16dd#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16dd#XJJ	.
+=162	=162	=162	=162	=162	=162	=162	=162
+8ryy	.	8ryy	.	8Gn~^^< 8a	.	8r	.
+8ryy	.	8ryy	.	16f#X 16g#XLL	.	16c#X 16d#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16d#X	.
+8ryy	.	8ryy	.	16f#X 16g#X	.	16c#X 16d#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16d#XJJ	.
+=163	=163	=163	=163	=163	=163	=163	=163
+8ryy	.	4ryy	.	8r~^^	.	8dn~<^^< 8e	.
+8ryy	.	.	.	16f#X 16g#XLL	.	16c#X 16d#XLL	.
+.	.	.	.	16f#X 16g#X	.	16c#X 16d#X	.
+8ryy	.	8ryy	.	16f#X 16g#X	.	16c#X 16d#X	.
+.	.	.	.	16f#X 16g#XJJ	.	16c#X 16d#XJJ	.
+!!LO:REH:t=12
+=164	=164	=164	=164	=164	=164	=164	=164
+8ryy	.	4ryy	.	8Gn~^^ 8a	.	8r	.
+!	!	!	!	!	!	!	!LO:DY:t=%s marcato
+8ryy	.	.	.	16f#X 16g#XLL	.	8gg#XL 8ccc#uX	ff
+.	.	.	.	16f#X 16g#X	.	.	.
+8ryy	.	8ryy	.	16f#X 16g#X	.	8ffJ 8bb	.
+.	.	.	.	16f#X 16g#XJJ	.	.	.
+=165	=165	=165	=165	=165	=165	=165	=165
+!	!	!	!	!	!	!LO:TX:b:t=a5 battute	!
+.	.	.	.	.	.	(8qa/ 8qee	.
+8ryy	.	8ryy	.	8dn~^^< 8e	.	4ee^^ 4aa)	.
+8ryy	.	8ryy	.	16c#X 16d#XLL	.	.	.
+.	.	.	.	16c#X 16d#X	.	.	.
+8ryy	.	8ryy	.	16c#X 16d#X	.	[8dd#XL [8gg#X	.
+.	.	.	.	16c#X 16d#XJJ	.	.	.
+=166	=166	=166	=166	=166	=166	=166	=166
+8ryy	.	8ryy	.	8r~^^	.	8dd#J] 8gg#]	.
+4ryy	.	4ryy	.	16c#X 16d#XLL	.	8cc#XL 8ff#X	.
+.	.	.	.	16c#X 16d#X	.	.	.
+.	.	.	.	16c#X 16d#X	.	8bJ 8ee	.
+.	.	.	.	16c#X 16d#XJJ	.	.	.
+=167	=167	=167	=167	=167	=167	=167	=167
+8ryy	.	8ryy	.	8dn~^^< 8e	.	8dd#X 8gg#X	.
+8ryy	.	8ryy	.	16c#X 16d#XLL	.	[4ff#X [4bb	.
+.	.	.	.	16c#X 16d#X	.	.	.
+8ryy	.	8ryy	.	16c#X 16d#X	.	.	.
+.	.	.	.	16c#X 16d#XJJ	.	.	.
+*	*	*	*	*Xtremolo	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/21
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/30

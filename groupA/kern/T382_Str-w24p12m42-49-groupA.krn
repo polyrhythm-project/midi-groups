@@ -1,0 +1,95 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T382_Str-24/12/42-49]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1	*part1	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*I"Piano	*	*I"Piano	*
+*I'Pno.	*	*I'Pno.	*	*I'Pno.	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*M2/4	*	*M2/4	*	*M2/4	*
+=42	=42	=42	=42	=42	=42
+!	!	!	!	!LO:TX:t=[[quarter]=100]	!
+!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack
+16c#XLL	p	2ryy	.	8ryy	4ryy
+16D	.	.	.	.	.
+16B	.	.	.	8ryy	.
+16C#XJJ	.	.	.	.	.
+16ALL	.	.	.	8.ryy	.
+16BB	.	.	.	.	.
+16B	.	.	.	.	.
+16AAJJ	.	.	.	16ryy	.
+=43	=43	=43	=43	=43	=43
+16ALL	.	2ryy	.	16ryy	.
+16GG#X	.	.	.	16ryy	.
+16A	.	.	.	8ryy	.
+16AAJJ	.	.	.	.	.
+16C#XLL	.	.	.	16ryy	.
+16E	.	.	.	16ryy	.
+16A	.	.	.	8ryy	.
+16c#XJJ	.	.	.	.	.
+=44	=44	=44	=44	=44	=44
+!	!	!LO:TX:t=P:problem: Middle Staff disappears when it is moved to a subsequent system, as it is an empty staff.	!	!	!
+16FLL	.	2ryy	.	8ryy	.
+16B-	.	.	.	.	.
+16e-X>	.	.	.	16ryy	.
+16GJJ	.	.	.	16ryy	.
+/16c>LL	.	.	.	8ryy	.
+16f>	.	.	.	.	.
+16A-	.	.	.	8ryy	.
+16d->XJJ	.	.	.	.	.
+=45	=45	=45	=45	=45	=45
+/16g>LL	.	2ryy	.	8ryy	.
+16B-	.	.	.	.	.
+16e->X	.	.	.	8ryy	.
+16a->XJJ	.	.	.	.	.
+/16A-LL	.	.	.	4ryy	.
+16d->X	.	.	.	.	.
+16g>	.	.	.	.	.
+16GJJ	.	.	.	.	.
+!!linebreak:original
+=46	=46	=46	=46	=46	=46
+/16cLL	.	2ryy	.	8ryy	.
+16f>	.	.	.	.	.
+16A-	.	.	.	16ryy	.
+16d->XJJ	.	.	.	16ryy	.
+/16g>LL	.	.	.	8ryy	.
+16B-	.	.	.	.	.
+16e->X	.	.	.	8ryy	.
+16a->XJJ	.	.	.	.	.
+=47	=47	=47	=47	=47	=47
+16c>LL	.	2ryy	.	8ryy	.
+16f>	.	.	.	.	.
+16b->X	.	.	.	16ryy	.
+16B->JJ	.	.	.	16ryy	.
+/16e->XLL	.	.	.	8ryy	.
+16a->X	.	.	.	.	.
+16A-	.	.	.	8ryy	.
+16d->XJJ	.	.	.	.	.
+=48	=48	=48	=48	=48	=48
+/16g>LL	.	2ryy	.	8ryy	.
+16B-	.	.	.	.	.
+16e->X	.	.	.	8ryy	.
+16a->XJJ	.	.	.	.	.
+/16A-LL	.	.	.	8ryy	.
+16d->X	.	.	.	.	.
+16g>	.	.	.	8ryy	.
+16GJJ	.	.	.	.	.
+=49	=49	=49	=49	=49	=49
+/16c>LL	.	2ryy	.	8ryy	.
+16f>	.	.	.	.	.
+16A	.	.	.	16ryy	.
+16c>JJ	.	.	.	16ryy	.
+/16f>LL	.	.	.	8ryy	.
+16B-	.	.	.	.	.
+16d>	.	.	.	8ryy	.
+16f>JJ	.	.	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/02/10

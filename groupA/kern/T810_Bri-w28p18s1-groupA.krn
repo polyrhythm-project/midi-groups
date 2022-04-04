@@ -1,0 +1,59 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T810_Bri-w28p18s1]
+**kern	**kern	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**text	**kern	**dynam	**text	**kern	**dynam	**text
+*grp:A	*grp:A	*grp:B	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*
+*part6	*part5	*part5	*part5	*part4	*part4	*part4	*part3	*part3	*part3	*part2	*part2	*part2	*part1	*part1	*part1
+*staff7	*staff6	*staff5	*	*staff4	*	*staff4	*staff3	*	*staff3	*staff2	*	*staff2	*staff1	*	*staff1
+*I"Pedals	*I"Organ	*	*	*I"Basses	*	*	*I"Tenors	*	*	*I"Altos	*	*	*I"Trebles	*	*
+*I'Ped.	*I'Org.	*	*	*I'B.	*	*	*I'T.	*	*	*I'A.	*	*	*I'T.	*	*
+*clefF4	*clefF4	*clefG2	*	*clefF4	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*	*	*	*	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*	*k[f#c#g#d#]	*	*
+*E:	*E:	*E:	*	*E:	*	*	*E:	*	*	*E:	*	*	*E:	*	*
+*M3/4	*M3/4	*M3/4	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*	*M3/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:t=[Andante con moto ([quarter]=72)]	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[Andante con moto ([eighth]=144)]	!	!
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!LO:HP:t=[ poco a poco %s ]	!	!LO:HP:t=[ poco a poco %s ]	!	!	!LO:HP:t=[ poco a poco %s ]	!	!	!LO:HP:t=[ poco a poco %s ]	!	!	!LO:HP:t=[ poco a poco %s ]	!
+(8A#XLZ]	(8A#XLZ]	2.ryy	4ryy	2.ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	2.ryy	4ryy	4ryy
+8E#XJ	8E#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8A#	8A#	.	.	.	.	.	2ryy	.	4ryy	4ryy	.	.	.	.	.
+4c#)	4c#)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.
+(8CC#	(8CC#	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:T:a	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FF#L	8FF#L	2.ryy	.	4ryy	.	4ryy	4.ryy	.	4ryy	2ryy	.	4ryy	8ryy	.	.
+8CC#	8CC#	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	4ryy
+8FF#	8FF#	.	.	4ryy	.	4ryy	.	.	.	.	.	.	4.ryy	.	4ryy
+8AA#XJ)	8AA#XJ)	.	.	.	.	.	8ryy	.	4ryy	.	.	.	.	.	.
+([4FF#	([4FF#	.	.	4ryy	.	4ryy	8ryy	.	4ryy	4ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	.	8ryy	.	4ryy	.	.	.	8ryy	.	4ryy
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FF#L]	8FF#L]	2.ryy	.	8ryy	.	4ryy	8ryy	.	4ryy	4ryy	.	4ryy	8ryy	.	4ryy
+8FF##XJ	8FF##XJ	.	.	4.ryy	.	4ryy	4ryy	.	4ryy	.	.	.	4ryy	.	4ryy
+8AA#X	8AA#X	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.
+4BB#X)	4BB#X)	.	.	.	.	.	8ryy	.	4ryy	.	.	.	8ryy	.	4ryy
+.	.	.	.	4ryy	.	4ryy	8ryy	.	4ryy	4ryy	.	4ryy	8ryy	.	4ryy
+(8AA#	(8AA#	.	.	.	.	.	8ryy	.	4ryy	.	.	.	8ryy	.	4ryy
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+4C##X	4C##X	2.ryy	.	4ryy	.	4ryy	8ryy	.	.	8ryy	.	4ryy	8ryy	.	.
+.	.	.	.	.	.	.	4ryy	.	4ryy	4.ryy	.	4ryy	8ryy	.	4ryy
+8D#XL)/	8D#XL)/	.	.	4ryy	.	4ryy	.	.	.	.	.	.	8ryy	.	4ryy
+(8C##i	(8C##i	.	.	.	.	.	4ryy	.	4ryy	.	.	.	4ryy	.	4ryy
+8D#	8D#	.	.	4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	.	.
+8E#XJ	8E#XJ	.	.	.	.	.	8ryy	.	4ryy	.	.	.	8ryy	.	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]s7
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED:Jason Lee
+!!!EEV:2021/12/24

@@ -1,0 +1,93 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: [T746_Mes-w20p18m1-7]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part1	*part1	*part1	*part1	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano	*	*I"Piano	*	*I"Piano	*
+*I'Pno.	*	*I'Pno.	*	*I'Pno.	*
+*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+*	*	*8va	*	*8va	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:t=Très lent ([sixteenth]=76)
+!	!	!	!	!LO:TX:a:i:t= m. dr.	!
+!	!	!LO:TX:b:i:t=m.g.	!LO:DY:t=%s (doux et mystérieux)	!LO:TX:a:t=(Polymodalité et canon rythmique par ajout du point)	!
+2ryy	.	4.aa-X 4.dddn 4.eee-X 4.aaan	ppp	4ryy	4ryy
+!LO:TX:b:t=(Thème de Dieu)	!	!LO:TX:a:t=(mode 4⁴)	!	!	!
+.	.	.	.	4ryy	.
+.	.	[8ddn [8aan [8aa-X [8eee-X	.	.	.
+!	!	!	!	!LO:TX:t=(mode 6³)	!
+=2	=2	=2	=2	=2	=2
+4ryy	.	4ddn] 4aanX] 4aa-X] 4eee-X]	.	4ryy	.
+!LO:TX:a:i:t=m.g.	!	!	!	!	!
+!LO:TX:a:t=(mode 2)	!LO:DY:t=%s  lumineux et solennel	!	!	!	!
+8ryy	4ryy	.	.	.	4ryy
+4ryy	.	[4aan [4ccc-X [4fffn [4aaa-X	.	8ryy	.
+.	.	.	.	8ryy	.
+=3	=3	=3	=3	=3	=3
+8ryy	.	.	.	.	.
+4ryy	.	8aanXL] 8ccc-X] 8fffnX] 8aaa-X]	.	16ryy	.
+.	.	.	.	8ryy	.
+.	.	[8ee-XJ [8ffnX [8ccc-X [8dddn	.	.	.
+.	.	.	.	16ryy	.
+4ryy	.	16ee-KL] 16ff] 16ccc-] 16dddn]	.	16ryy	.
+.	.	[8.aanJ [8.ccc-X [8.eee-X [8.aaa-X	.	8ryy	.
+.	.	.	.	16ryy	.
+=4	=4	=4	=4	=4	=4
+2ryy	.	16aanXLL_ 16ccc-X_ 16eee-X_ 16aaa-X_	.	16ryy	.
+.	.	32aaL] 32ccc-] 32eee-] 32aaa-]	.	8.ryy	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+!	!	!LO:TX:b:i:t=g.	!	!	!
+.	.	[32ccc-XJJ [32fff-X [32aaa-X [32bbb-X	.	.	.
+.	.	8ccc-J_ 8fff-_ 8aaa-_ 8bbb-_	.	.	.
+!!linebreak:original
+.	.	32ccc-LLL] 32fff-] 32aaa-] 32bbb-]	.	8.ryy	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+!	!	!LO:TX:b:i:t=g.	!	!	!
+.	.	[32aa-XJJ [32dddn [32eee-X [32aaan	.	.	.
+.	.	8aa-_ 8ddd_ 8eee-_ 8aaa_	.	.	.
+.	.	32aa-LL] 32ddd] 32eee-] 32aaa]	.	16ryy	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+!	!	!LO:TX:b:i:t=g.	!	!	!
+.	.	[32ddnJJJ [32aan [32aa-X [32eee-X	.	.	.
+=5	=5	=5	=5	=5	=5
+2ryy	.	8ddXL_ 8aanX_ 8aa-X_ 8eee-X_	.	8ryy	.
+.	.	32ddLL] 32aan] 32aa-] 32eee-]	.	16ryy	.
+!	!	!LO:TX:b:i:t=g.	!	!	!
+.	.	[32aanJ [32ccc-X [32fffn [32aaa-X	.	.	.
+.	.	16aaJJ_ 16ccc-_ 16fff_ 16aaa-_	.	16ryy	.
+.	.	16aaLL_ 16ccc-_ 16fff_ 16aaa-_	.	16ryy	.
+.	.	32aaL] 32ccc-] 32fff] 32aaa-]	.	8.ryy	.
+.	.	[32ee-XJJ [32ffn [32ccc-X [32dddn	.	.	.
+.	.	8ee-J_ 8ff_ 8ccc-_ 8ddd_	.	.	.
+=6	=6	=6	=6	=6	=6
+4ryy	.	8ee-X]\ 8ffnX] 8ccc-X] 8dddnX]	.	4ryy	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+.	.	[4aan [4ccc-X [4eee-X [4aaa-X	.	.	.
+4ryy	.	.	.	4ryy	.
+.	.	32aanLLL] 32ccc-] 32eee-] 32aaa-]	.	.	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+.	.	[32ccc-XJ [32fff-X [32aaa-X [32bbb-X	.	.	.
+.	.	16ccc-JJ_ 16fff-_ 16aaa-_ 16bbb-_	.	.	.
+=7	=7	=7	=7	=7	=7
+8ryy	.	.	.	.	.
+4ryy	.	8.ccc-XL] 8.fff-X] 8.aaa-X] 8.bbb-X]	.	4ryy	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+.	.	[16dddnJk [16fffn [16aaan [16cccc-X	.	.	.
+4ryy	.	32dddLLL] 32fff] 32aaa] 32cccc-]	.	4ryy	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+!	!	!LO:TX:b:i:t=g.	!	!	!
+.	.	[32aa-XJJ [32dddn [32eee-X [32aaan	.	.	.
+.	.	8aa-_ 8ddd_ 8eee-_ 8aaa_	.	.	.
+.	.	32aa-LL] 32ddd] 32eee-] 32aaa]	.	.	.
+!	!	!LO:TX:a:i:t=dr.	!	!	!
+!	!	!LO:TX:b:i:t=g.	!	!	!
+.	.	[32ddnJJJ [32aa-X [32aan [32eee-X	.	.	.
+*	*	*X8va	*	*X8va	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2,s3)}
+!!!EED:Jason Lee
+!!!EEV:2021/10/01

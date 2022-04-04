@@ -1,0 +1,98 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T747_Mes-20/26/11-18]
+**kern		**dynam		**kern		**dynam
+*part1		*part1		*part1		*part1
+*staff2		*staff2		*staff1		*staff1
+*I"Piano		*		*		*
+*I'Pno.		*		*		*
+*clefF4		*		*clefG2		*
+*k[]		*		*k[]		*
+*C:		*		*C:		*
+=1		=1		=1		=1
+*^		*^		*^		*^
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:A	*grp:B
+!!LO:TX:t=([eighth]=160)
+!!LO:TX:a:t=(Strette du sujet, canon de rhythmes non rétrogradables)
+!	!	!	!	!	!	!LO:DY:a:t=%s marcato	!LO:DY:b:t=%s legato
+8rc	4r	.	.	8.dd#XL	16ryy	f	4ryy
+.	.	.	.	.	16ryy	.	.
+!	!	!LO:DY:rj:a	!	!	!	!	!
+[8dn	.	f	.	.	16ryy	.	.
+.	.	.	.	[16dd#Jk	16ryy	.	.
+!	!	!	!LO:DY:t=marcato %s	!	!	!	!
+16dKL]	8.C#XL	.	f	4dd#]	16ryy	.	.
+[8.dJ	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	[16C#Jk	.	.	.	16ryy	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+8d]	4C#X]	.	.	2dd#X	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[4.d	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	[4C#	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8dL]	4C#]	.	.	[4een	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[8e-XJ	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+8.e-L]	[4D	.	.	16eeKL]	16ryy	.	.
+.	.	.	.	8.ffJ	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[16enJk	.	.	.	.	16ryy	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+8e]	16DKL]	.	.	4ff#X	16ryy	.	.
+.	8.E-XJ	.	.	.	16ryy	.	.
+4fn	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	4En	.	.	8.cccnL	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[8b	.	.	.	.	16ryy	.	.
+.	.	.	.	[16bbJk	16ryy	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5
+16bKL]	8.B-XL	.	.	4bb_	16ryy	.	.
+[8.a#XJ	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	[16AnJk	.	.	.	16ryy	.	.
+4a#]	4A_	.	.	8bbL]	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+.	.	.	.	[8ff#XJ	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+8.fnL	8AL]	.	.	16ff#XKL]	16ryy	.	.
+.	.	.	.	[8.ffnJ	16ryy	.	.
+.	[8EJ	.	.	.	16ryy	.	.
+[16eJk	.	.	.	.	16ryy	.	.
+8.eL]	16EKL]	.	.	16ffKL]	16ryy	.	.
+.	[8.E-XJ	.	.	8ee	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[16e-XJk	.	.	.	[16bbJk	16ryy	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+16e-KL]	16E-KL]	.	.	16bbKL]	16ryy	.	.
+8b-X	8D	.	.	8.aa#XJ	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[16aJk	[16AJk	.	.	.	16ryy	.	.
+8aL]	16AKL]	.	.	[4aan	16ryy	.	.
+.	8.A-XJ	.	.	.	16ryy	.	.
+[8a-XJ	.	.	.	.	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8.a-L]	[4G	.	.	16aaKL]	16ryy	.	.
+.	.	.	.	8.eeJ	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+[16e-XJk	.	.	.	.	16ryy	.	.
+8e-L]	16GKL]	.	.	8dd#XL	16ryy	.	.
+.	8.DnJ	.	.	.	16ryy	.	.
+8dnJ	.	.	.	8dd#XJ	16ryy	.	.
+.	.	.	.	.	16ryy	.	.
+*	*clefG2	*	*	*	*	*	*
+*v	*v	*	*	*v	*v	*	*
+*		*v	*v	*		*v	*v
+=		=		=		=
+*-		*-		*-		*-
+!!!system-decoration: [({(s1,s2)})]
+!!!EED:Jason Lee
+!!!EEV:2021/10/08

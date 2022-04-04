@@ -1,0 +1,72 @@
+!!!COM: Prokofiev, Sergey (Sergeyevich)
+!!!OTL: Piano Sonata No. 8 in B-flat Major, op. 84
+!!!OMV: Movement 3
+!!!example: 573
+!!!work: Pro-36
+!!!OMD-full: Vivace
+!!!OMD: [Allegro ben marcato]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*	*part1	*
+*staff2	*	*staff1	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*
+*clefG2	*	*clefG2	*
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*
+*D-:	*	*D-:	*
+*M3/4	*	*M3/4	*
+=293	=293	=293	=293
+!!LO:TX:t=[[quarter]=180]
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+!LO:TX:t=P:problem:missing lines between staves that show voice exchanges	!	!LO:TX:i:t=[legato]	!
+4dd->	p	4.ddd-<	p
+4a-	.	.	.
+.	.	4.fff-X	.
+4gn\	.	.	.
+=294	=294	=294	=294
+*^	*	*	*
+4b-- 4ff-X	[2.a-	.	4.eee-	.
+4b-- 4ff-	.	.	.	.
+.	.	.	4.aa-	.
+4b-X 4ff-	.	.	.	.
+=295	=295	=295	=295	=295
+4bn 4ffn	2.a-_	.	4.eee-	.
+4cc 4gg-	.	.	.	.
+.	.	.	4.ddd-	.
+4dd- 4ggn	.	.	.	.
+*v	*v	*	*	*
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: < = below, > = above
+!!!CDT: 1891/04/23-1953/03/05
+!!!CBL: Sontsovka, Ukraine
+!!!CDL: Moscow, Russia
+!!!CNT: Russian
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1944/12/30
+!!!MGN:
+!!!MLC: Moscow, Russia
+!!!MPD: 1944
+!!!MPN: Gilels, Emile
+!!!ODT: 1944
+!!!PDT: 1946
+!!!excerpt-start-measure: 293
+!!!excerpt-end-measure: 295
+!!!excerpt-start-time: 5:39
+!!!excerpt-end-time: 5:42
+!!!excerpt-duration-sec: 3
+!!!excerpt-time-signature: 3/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {180}
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

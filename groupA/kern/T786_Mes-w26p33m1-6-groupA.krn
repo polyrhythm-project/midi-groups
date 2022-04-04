@@ -1,0 +1,87 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T786_Mes-w26p33m1-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*
+*part2	*part2	*part1	*part1	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*
+*I"PÉD.	*	*I"[Organ] MAN.	*	*	*
+*I'Ped.	*	*I'Man.	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+!	!	!	!	!LO:TX:a:t=61	!
+!	!	!	!	!LO:TX:a:i:rj:t=m.dr.	!
+!	!	!	!	!LO:TX:a:B:t=R	!
+!LO:TX:b:t=29	!LO:DY:t=%s legato	!	!	!LO:TX:a:B:t=Modéré	!LO:DY:t=%s legato
+[2FFn [2F#X	4ryy	8ryy	.	[2b-X [2ggn	4ryy
+!	!	!LO:TX:a:rj:t=Pos.	!	!	!
+!	!	!LO:TX:b:i:rj:t=m.g.	!LO:DY:rj	!	!
+.	.	8ryy	4ryy	.	.
+.	.	16ryy	.	.	.
+.	.	8ryy	.	.	.
+.	.	32ryy	.	.	.
+.	.	32ryy	.	.	.
+=	=	=	=	=	=
+4FFnX_ 4F#X_	.	8ryy	.	2b-X_ 2ggnX_	.
+.	.	8ryy	.	.	.
+!	!	!LO:TUP:a	!	!	!
+8FF_ 8F#_	.	24ryy	.	.	.
+.	.	24ryy	.	.	.
+.	.	24ryy	.	.	.
+32FFLLL] 32F#]	.	8ryy	.	.	.
+!LO:TX:b:t=30	!	!	!	!	!
+[32EEnJ [32G#X	.	.	.	.	.
+16EEJJ_ 16G#_	.	.	.	.	.
+*	*	*clefG2	*	*	*
+=	=	=	=	=	=
+!	!	!LO:TX:a:rj:t=G	!LO:DY:rj	!	!
+2EEnX_ 2G#X_	.	40ryy	4ryy	2b-X_ 2ggnX_	.
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	8ryy	.	.	.
+.	.	4ryy	.	.	.
+*	*	*clefF4	*	*	*
+=	=	=	=	=	=
+!	!	!LO:TX:a:rj:t=Pos.	!	!	!
+.	.	8ryy	4ryy	.	4ryy
+4EEnX_ 4G#X_	.	12ryy	.	4b-X_ 4ggnX_	.
+.	.	24ryy	.	.	.
+.	.	8ryy	.	.	.
+16EELL_ 16G#_	.	4ryy	.	8b-_ 8gg_	.
+32EEL] 32G#]	.	.	.	.	.
+!LO:TX:b:t=31	!	!	!	!	!
+[32DD-XJJJ [32Fn	.	.	.	.	.
+8DD-_ 8F_	.	.	.	32b-LLL] 32gg]	.
+!	!	!	!	!LO:TX:a:t=62	!
+.	.	.	.	[32ee-XJ [32cccn	.
+.	.	.	.	16ee-JJ_ 16ccc_	.
+=	=	=	=	=	=
+2DD-X_ 2FnX_	.	8.ryy	.	2ee-X_ 2cccnX_	.
+!	!	!LO:TX:a:rj:t=G	!LO:DY:rj	!	!
+.	.	16ryy	4ryy	.	.
+!	!	!LO:TUP:a	!	!	!
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	40ryy	.	.	.
+.	.	16ryy	.	.	.
+*	*	*clefG2	*	*	*
+.	.	16ryy	.	.	.
+=	=	=	=	=	=
+4DD-X_ 4Fn_	.	8ryy	.	2ee-X_ 2cccnX_	.
+!	!	!LO:TUP:a	!	!	!
+.	.	24ryy	.	.	.
+.	.	12ryy	.	.	.
+16DD-KL] 16F]	.	4ryy	.	.	.
+!LO:TX:b:t=32	!	!	!	!	!
+[8.DDnJ [8.En	.	.	.	.	.
+*	*	*clefF4	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: < = below
+!!!EED:Jason Lee
+!!!EEV:2021/01/12

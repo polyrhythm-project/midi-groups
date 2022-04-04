@@ -1,0 +1,120 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T618_Hin-w13p8m19-27]
+**kern		**kern		**dynam
+*grp:A		*grp:B		*
+*part1		*part1		*part1
+*staff2		*staff1		*
+*I"Piano		*		*
+*I'Pno.		*		*
+*ICklav		*ICklav		*
+*Ipiano		*Ipiano		*
+*clefF4		*clefG2		*
+*k[]		*k[]		*
+*C:		*C:		*
+*M2/4		*M2/4		*
+=1		=1		=1
+!		!LO:TX:t=[[quarter]=146]		!
+4r	4ryy	.
+4DD#X^ 4D#X	4ryy	4ryy
+=2		=2		=2
+*M4/4		*M4/4		*
+*^		*^		*
+4rd	2GGG#X 2GG#X	2.ryy	8rcyy	4ryy
+.	.	.	4ryy	.
+4F#X 4B 4d	.	.	.	.
+.	.	.	4ryy	.
+4rd	2GGG# 2GG#	.	.	.
+.	.	.	4ryy	.
+4F# 4B 4d	.	4ryy	.	.
+.	.	.	8ryy	.
+=3	=3	=3	=3	=3
+4rd	2GGG#X 2GG#X	1ryyyy	8ryy	4ryy
+.	.	.	4ryy	.
+4F#X 4B 4d	.	.	.	.
+.	.	.	8ryy	.
+2rd	4GGG#^ 4GG#	.	8ryy	4ryy
+.	.	.	8ryy	.
+.	[4GGG#^ [4GG#	.	4ryy	.
+=4	=4	=4	=4	=4
+4F#X 4B 4d	4GGG#] 4GG#]	2ryyyy	8ryy	4ryy
+.	.	.	8ryy	.
+4rd	2GGG#X 2GG#X	.	8ryy	.
+.	.	.	8ryy	.
+4F# 4B 4d	.	4ryy	8ryy	.
+.	.	.	4ryy	.
+4rd	4GGG# 4GG#	4ryy	.	.
+.	.	.	8ryy	4ryy
+=5	=5	=5	=5	=5
+4rd	2BBB 2BB	2.ryy	8rcyy	4ryy
+.	.	.	4ryy	.
+4An 4d 4fn	.	.	.	.
+.	.	.	4ryy	.
+4rd	2BBB 2BB	.	.	.
+.	.	.	4ryy	.
+4A 4d 4f	.	4ryy	.	.
+.	.	.	8ryy	.
+=6	=6	=6	=6	=6
+4rd	2BBB 2BB	1ryyyy	8ryy	.
+.	.	.	4ryy	.
+4A 4d 4f	.	.	.	.
+.	.	.	8ryy	.
+2rd	4BBB^ 4BB	.	8ryy	.
+.	.	.	8ryy	.
+.	[4BBB^ [4BB	.	4ryy	.
+=7	=7	=7	=7	=7
+4A 4d 4f	4BBB] 4BB]	8ryy@yy	8ryy	.
+.	.	8ryy@yy	8ryy	.
+4rd	2BBB 2BB	8ryy@yy	8ryy	.
+.	.	8ryy@yy	8ryy	.
+4A 4d 4f	.	4ryy	8rcyy	.
+.	.	.	4ryy	.
+4rd	4BBB 4BB	4ryy	.	.
+.	.	.	8ryy	.
+*	*	*v	*v	*
+*clefG2	*	*		*
+=8	=8	=8		=8
+8ryy@	8d^L\ 8f	8ryy	4ryy
+.	.	16ryy	.
+.	.	16ryy	.
+8ryy@	[8d^J [8f	4ryy	4ryy
+8a-X'L 8cc	4d] 4f]	.	.
+8a-'J 8cc	.	8ryy	4ryy
+!	!	!		!
+12ryy@	8d^L\ 8f	12ryy	.
+24ryy@	.	12ryy	.
+24ryy@	[8d^J [8f	.	.
+12ryy@	.	12ryy	.
+!	!	!		!
+(16ffLL	4d] 4f]	12ryy	.
+16cc	.	.	.
+.	.	12ryy	.
+16ee-X	.	.	.
+.	.	12ryy	.
+16b-XJJ	.	.	.
+*v	*v	*		*
+=9		=9		=9
+!		!		!
+4at)	24ryy	.
+.	24ryy	.
+.	24ryy	.
+.	24ryy	.
+.	24ryy	.
+.	24ryy	.
+(16ffLL	4.ryy	.
+16cc	.	.
+16ee-X	.	.
+16b-XJJ	.	.
+!LO:TR:acc=-		!		!
+4at)	.	.
+.	16ryy	.
+.	16ryy	.
+.	4ryy	4ryy
+(16ffLL	.	.
+16cc	.	.
+16ee-	8ryy	4ryy
+16b-JJ)	.	.
+=		=		=
+*-		*-		*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above

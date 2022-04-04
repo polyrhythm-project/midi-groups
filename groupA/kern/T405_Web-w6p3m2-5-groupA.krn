@@ -1,0 +1,130 @@
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [T405_Web-w6p3m2-5]
+**kern		**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A		*	*grp:A	*	*grp:B	*	*
+*part2		*part2	*part2	*part2	*part1	*part1	*part1
+*staff3		*staff3	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Piano		*	*	*	*I"Voice	*	*
+*clefF4		*	*clefG2	*	*clefG2	*	*
+*k[]		*	*k[]	*	*k[]	*	*
+*M3/4		*	*M3/4	*	*M3/4	*	*
+=1		=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[Sehr fließend ([quarter]=100)]
+!LO:T:b		!	!LO:T:a	!LO:DY:rj:t=[ %s ]	!	!	!LO:DY:rj:t=[ %s ]
+16fnX>] 16ddnX>]	.	16gg#XLL] 16ccc#X]	4ryy	8ryy	4ryy	4ryy
+*ped		*	*	*	*	*	*
+16r	.	N(16ffn	4ryy	.	.	.
+8r	.	16dddn	.	8ryy	4ryy	.
+.	.	16aanJJ	4ryy	.	.	.
+!		!LO:HP:a	!	!	!	!	!
+16ee>nLL/	4ryy	16rddd	.	8ryy	4ryy	.
+16f>nJ	.	N(>16b-XLL	4ryy	.	.	.
+8GG-XJ 8E-XN)	4ryy	16ddn	.	8ryy	4ryy	.
+.	.	16anJJ	4ryy	.	.	.
+*Xped		*	*	*	*	*	*
+!		!	!LO:TUP:a	!	!	!	!
+4ryy	.	28cnLL\	4ryy	12ryy	4ryy	4ryy
+*ped		*	*	*	*	*	*
+.	.	28b-X	.	.	.	.
+.	.	28an	.	.	.	.
+.	.	.	.	12ryy	4ryy	.
+.	.	28en	.	.	.	.
+.	.	28A#<	.	.	.	.
+.	.	.	.	12ryy	4ryy	.
+.	.	28Bn<	.	.	.	4ryy
+.	.	28Fn<JJ	4ryy	.	.	.
+*		*	*	*	*	*	*
+=2		=2	=2	=2	=2	=2	=2
+*^		*	*	*	*	*	*
+8An 8c#XN)	12rBB	.	8r	.	12ryy	4ryy	.
+*Xped	*	*	*	*	*	*	*
+.	12rBB	.	.	.	12ryy	4ryy	.
+!	!	!	!	!LO:HP:a	!	!	!
+8rA	.	.	(8fn	4ryy	.	.	.
+*ped	*	*	*	*	*	*	*
+.	(>24EnLL	4ryy	.	.	12ryy	4ryy	.
+.	24dnJJ	.	.	.	.	.	.
+!	!LO:TUP:a	!	!	!	!	!	!
+4ryy	20cnLL	.	12f#XL	4ryy	8ryy	4ryy	4ryy
+.	20Gn	4ryy	.	.	.	.	.
+!	!	!	!	!LO:HP:a	!	!	!
+.	.	4ryy	12dn	4ryy	.	.	.
+.	20C#X	.	.	.	.	.	.
+.	.	.	.	.	8ryy	4ryy	.
+.	20Dn	.	.	.	.	.	.
+.	.	.	12d-XJ	.	.	.	.
+.	20GG#XJJ)	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+!	!LO:TUP:a	!	!	!	!	!	!
+4ryy	20r	4ryy	12cnL)	4ryy	8ryy	4ryy	4ryy
+*ped	*	*	*	*	*	*	*
+.	(20AnXLL	.	.	.	.	.	.
+!	!	!	!	!LO:HP:a	!	!	!
+.	.	.	(12f#X	4ryy	.	.	.
+.	20En	4ryy	.	.	.	.	.
+.	.	.	.	.	8ryy	.	.
+.	20AA#X	.	.	.	.	.	.
+.	.	.	12dnJ	.	.	.	.
+.	20BBnJJ	.	.	4ryy	.	.	.
+*v	*v	*	*	*	*	*	*
+!!linebreak:original
+=3		=3	=3	=3	=3	=3	=3
+*Xped		*	*	*	*	*	*
+!		!	!	!LO:HP:a	!	!	!
+4FFn)	4ryy	12g#XL	4ryy	8ryy	.	.
+*ped		*	*	*	*	*	*
+.	.	12en	.	.	.	.
+.	.	.	.	8ryy	4ryy	4ryy
+.	.	12e-XJ	4ryy	.	.	.
+*clefG2		*	*	*	*	*	*
+16r	.	12d-XL	.	8.ryy	4ryy	4ryy
+!		!	!	!LO:HP:a	!	!	!
+(16eenLL	4ryy	.	4ryy	.	.	4ryy
+.	.	12e-X)	.	.	.	.
+16bnJJ)	4ryy	.	.	.	.	.
+.	.	(12fnJ	.	.	.	.
+16r	.	.	.	16ryy	4ryy	.
+*Xped		*	*	*	*	*	*
+!		!	!LO:TX:b:i:t=espress.	!	!LO:TUP:r=4		!	!
+20r	.	12anL	4ryy	12ryy	4ryy	4ryy
+*ped		*	*	*	*	*	*
+(10bbnL	4ryy	.	.	.	.	.
+.	.	12en	.	24ryy	.	.
+.	.	.	.	12.ryy	4ryy	.
+20bb-XL	.	.	.	.	.	.
+.	.	12e-XJ	.	.	.	.
+20ffnJJ)	4ryy	.	.	.	.	.
+=4		=4	=4	=4	=4	=4	=4
+*Xped		*	*	*	*	*	*
+!		!	!LO:TUP:a	!	!	!	!
+16r	.	12a-XL	.	8ryy	4ryy	.
+*clefF4		*	*	*	*	*	*
+16En'LL	.	.	.	.	.	.
+.	.	12ddn	.	.	.	.
+16rD	.	.	.	8ryy	4ryy	.
+.	.	12b-XJ)	.	.	.	.
+16c#X'JJ	.	.	.	.	.	.
+16.r	.	16r	.	6ryy	4ryy	4ryy
+!		!	!	!LO:DY:rj	!	!	!
+.	.	(>16eenLL	4ryy	.	.	.
+*ped		*	*	*	*	*	*
+16.G#X~	.	.	.	.	.	.
+.	.	16ccn	.	.	.	.
+.	.	.	.	12ryy	4ryy	4ryy
+16r	.	16bnJJ	4ryy	.	.	.
+!		!	!	!LO:DY:rj	!	!	!
+8r	.	24b-XLL\	4ryy	8ryy	.	.
+.	.	24en	.	.	.	.
+.	.	24Bn	.	.	.	.
+8ryy	.	24Dn<	.	8ryy	4ryy	4ryy
+.	.	24AA-X<	.	.	.	.
+.	.	24CC<JJ)	4ryy	.	.	.
+=		=	=	=	=	=	=
+*-		*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2022/01/20

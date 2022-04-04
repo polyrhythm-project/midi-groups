@@ -1,0 +1,108 @@
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: [T808_Bri-w24p32m8-1h14m1-2]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern		**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B		*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2		*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2		*	*staff1	*
+*I"Double Bass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II		*	*I"Violin I	*
+*I'Db.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II		*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2		*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*		*	*	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]		*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:		*	*D:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4		*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1		=1	=1	=1
+!	!	!	!	!	!	!		!	!LO:TX:t=[quarter]=52	!
+!	!	!	!	!	!	!		!	!LO:TX:a:B:t=Grave come prima	!
+1r	.	1r	.	2ryy	.	2ryy	.	2ryy	.
+!	!	!	!	!	!LO:DY:t=%s expr. sempre sul G	!		!LO:DY:t=%s expr. sempre sul G	!	!LO:DY:t=%s expr. sempre sul G
+.	.	.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+=2	=2	=2	=2	=2	=2	=2		=2	=2	=2
+4r	.	4r	.	2.ryy	.	2.ryy	.	2.ryy	.
+!LO:TX:a:t=pizz.	!LO:DY:t=%s pesante	!LO:TX:a:t=pizz.	!LO:DY:t=%s pesante	!	!	!		!	!	!
+4CCCn 4CCn	fff	4CCn	fff	.	.	.	.	.	.
+4FFFn	.	4FFn	.	.	.	.	.	.	.
+8GGG#X^L	.	8GG#X^L	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+8AAA^J	.	8AA^J	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3		=3	=3	=3
+8r	.	8r	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+4CCCn 4CCn	.	4CCn	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+4FFFn	.	4FFn	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+8GGG#X	.	8GG#X	.	.	.	.	.	.	.
+4AAA	.	4AA	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+.	.	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=4	=4	=4	=4	=4	=4	=4		=4	=4	=4
+4r	.	4r	.	2ryy	.	2ryy	.	2ryy	.
+4DDD 4DD	.	4DD	.	.	.	.	.	.	.
+4GGGn	.	4GG	.	4ryy	.	4ryy	.	4ryy	.
+8AAA#X^L	.	8AA#X^L	.	4ryy	.	4ryy	.	4ryy	.
+8BBB^J	.	8BB^J	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5		=5	=5	=5
+8r	.	8r	.	4ryy	.	4ryy	.	4ryy	.
+4DDD 4DD	.	4DD	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+4GGG	.	4GG	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+4AAA#X	.	4AA#X	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+8BBB^	.	8BB^	.	.	.	.	.	.	.
+!!linebreak:original
+=6	=6	=6	=6	=6	=6	=6		=6	=6	=6
+!	!	!	!	!LO:TX:a:i:t=sul D	!	!LO:TX:a:i:t=sul D		!	!LO:TX:a:i:t=sul D	!
+4CCn	.	4Cn	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+4r	.	4r	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+8EE-XL	.	8E-XL	.	4ryy	.	4ryy	.	4ryy	.
+8AA-X	.	8A-X	.	.	.	.	.	.	.
+8BBn	.	8Bn	.	4ryy	.	4ryy	.	4ryy	.
+8CnJ	.	8cnJ	.	.	.	.	.	.	.
+*	*	*	*	*clefG2	*	*		*	*	*
+=7	=7	=7	=7	=7	=7	=7		=7	=7	=7
+8r	.	8r	.	4ryy	.	4ryy	.	4ryy	.
+4D^	.	4d^	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+4E-X^	.	4e-X^	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+4Cn	.	4cn	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	4ryy	.	4ryy	.
+8Gn^	.	8gn^	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8		=8	=8	=8
+8G#X	sf	8g#X	sf	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.
+!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!		!LO:HP:i:t=dim.	!	!LO:HP:i:t=dim.
+4r	.	4r	.	8ryy	.	2.ryy	4ryy	2.ryy	4ryy
+.	.	.	.	8ryy	.	.	.	.	.
+*	*	*	*	*clefC3	*	*		*	*	*
+!	!LO:DY:t=%s sost.	!	!LO:DY:t=%s sost.	!	!LO:DY:t=%s sost.	!		!	!	!
+4BBB~	mf	4BB~	mf	4ryy	4ryy	.	.	.	.
+4EEn~	.	4E~	.	4ryy	.	.	.	.	.
+!!LO:REH:t=14
+=9||	=9||	=9||	=9||	=9||	=9||	=9||		=9||	=9||	=9||
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]		*	*k[f#c#g#d#]	*
+*E:	*	*E:	*	*E:	*	*E:		*	*E:	*
+(8FF##X^	.	(8F##X^	.	8ryy	.	2ryy	.	2ryy	.
+[4.GG#	.	[4.G#	.	4.ryy	.	.	.	.	.
+!	!	!	!	!	!	!		!LO:DY:t=%s dolce	!	!LO:DY:t=%s dolce
+8GG#])	.	8G#])	.	8ryy	.	4ryy	4ryy	4ryy	4ryy
+4BBB	.	4BB	.	4ryy	.	.	.	.	.
+.	.	.	.	.	.	4ryy	.	4ryy	.
+[8EE	.	[8E	.	8ryy	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10		=10	=10	=10
+*	*	*	*	*	*	*^		*	*	*
+!	!	!	!	!	!	!LO:TX:a:t=div.	!	!	!	!
+8EE]	.	8E]	.	8ryy	.	2ryy	4ryy	.	2.ryy	.
+!	!LO:HP:i:t=dim.	!	!LO:HP:i:t=dim.	!	!LO:HP:i:t=dim.	!	!	!	!	!
+(8FF##X~	>	(8F##X~	>	8ryy	4ryy	.	.	.	.	.
+4GG#)	.	4G#)	.	4ryy	.	.	4ryy	.	.	.
+4BBB	.	4BB	.	4ryy	.	4ryy	2ryy	.	.	.
+!	!	!	!	!	!	!	!	!LO:HP:i:t=dim.	!	!
+4EE	.	4E	.	4ryy	.	4ryy	.	4ryy	4ryy	.
+*	*	*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=		=	=	=
+*-	*-	*-	*-	*-	*-	*-		*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]

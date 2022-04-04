@@ -1,0 +1,72 @@
+!!!COM: Copland, Aaron
+!!!OTL: T715_Cop-w15p4m17-21
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Solo Trpt.	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tpt.	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd1c2	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!LO:TX:a:t=[pizz.]	!	!LO:TX:t=[quarter]=76	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	4ryy	4ryy	4ryy	4ryy	(8ee-	mp
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=freely, with natural expression	!
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	4ee-	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ee-	.
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	2ee-)	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	(6dd	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	6cc	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	6b-	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	4ff	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4f)	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	4r	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	(16ffLL	.
+.	.	.	.	.	.	.	.	.	.	16ddJ	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8b-J	.
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	6ee-	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	6dd	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	6ee-	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	8ff	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	4ff	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	[8ff	.
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	2ff])	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	(6dd	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	6ff	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	[6gg	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	4gg]	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	4f)	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4,s5,s6)]

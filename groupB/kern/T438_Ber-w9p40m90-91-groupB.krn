@@ -1,0 +1,133 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T438_Ber-w9p40m90-91]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part22	*part22	*part21	*part21	*part20	*part20	*part19	*part19	*part18	*part18	*part17	*part17	*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff22	*	*staff21	*	*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin II 2. Solo	*	*I"Violin II 1. Solo	*	*I"Violin I	*	*I"Celesta	*	*I"2 Harps	*	*I"Timpani	*	*I"Triangle	*	*I"Tam-tam	*	*I"Tuba	*	*I"4 Trombones	*	*I"4 Trumpets in F	*	*I"6 Horns in F	*	*I"Contrabassoon	*	*I"3 Bassoons	*	*I"Bass Clarinet in Bb	*	*I"4 Clarinets in A	*	*I"4 Oboes	*	*I"4 Piccolos	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln.	*	*I'Vln.	*	*I'Vln. I	*	*I'Cel.	*	*I'Hp.	*	*I'Timp.	*	*I'Tri.	*	*I'T.-t.	*	*I'Tba.	*	*I'Tbn.	*	*I'F Tpt.	*	*I'Hn.	*	*I'Cbsn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Picc.	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefX	*	*clefX	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-3c-5	*	*ITrd4c7	*	*ITrd7c12	*	*	*	*ITrd1c2	*	*ITrd2c3	*	*	*	*ITrd7c12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[f#c#g#]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=90
+=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:b:i:t=geschl.	!	!LO:TX:b:i:t=geschl.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=trem.	!	!	!	!	!	!LO:TX:a:t=(get.)	!	!	!	!LO:TX:a:t=I	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 4	!	!	!	!LO:TX:b:t=1.3.5.	!	!	!	!LO:TX:a:t=a3	!	!	!	!	!	!LO:TX:a:t=a 4	!	!LO:TX:t=[[quarter]=72]	!
+!LO:TX:a:t=col legno	!	!LO:TX:a:t=col legno	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=II	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=2.4.6.	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:DY:ed=paren	!LO:TX:b:t=get.	!	!	!	!	!LO:DY:ed=paren	!	!LO:DY:ed=paren	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=paren	!	!	!LO:TX:t=P:problem: ties and slurs cannot be placed on a tremolo	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=paren	!	!LO:DY:ed=paren	!	!LO:DY:ed=paren	!	!	!	!LO:DY:ed=paren	!	!
+!	!	!	!	!	!	!LO:TX:t=P:problem: ties and slurs cannot be placed on a tremolo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 4	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=paren
+12ryy	4ryy	12ryy	4ryy	16r	.	32cc#XLLL	p	8.cccnL<])	pp	4eee-X_	pp	16r	.	12ryy	4ryy	12ryy	4ryy	12ryy	4ryy	(2.Rett/	pp	4r	.	12ryy	4ryy	12ryy	.	32cc#LLL	mf	16r	.	12ryy	4ryy	12ryy	4ryy	12ryy	4ryy	16r	.	48cc#X'LLL	mf	12ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48cc#'	.	.	.
+.	.	.	.	.	.	32cc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48cc#'JJJ	.	.	.
+!	!	!	!	!	!LO:DY:ed=paren	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=Schalltrichter hoch	!LO:DY:ed=paren	!	!	!	!	!	!	!	!LO:DY:ed=paren	!	!	!	!
+*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*neben	*	*	*	*Haupt	*	*	*	*	*	*	*	*Haupt	*	*	*	*	*
+.	.	.	.	16DnLL 16Dn	ff	32cc#X	.	.	.	.	.	16Bn'LL 16dn	mf	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc#	.	16BBXLL 16Dn	f	.	.	.	.	.	.	16Dn'LL 16Dn	ff	16r	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	4ryy	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	32cc#X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:t=(am Steg)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16C#X 16G#X	.	32ccn	.	.	.	.	.	16c#X' 16g#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc	.	16C#X 16G#X	.	.	.	.	.	.	.	16C#X' 16G#X	.	48ccn'LLL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48cc'	.	.	.
+.	.	.	.	.	.	32ccn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=poco espr.	!	!	!	!	!	!	!	!LO:TX:b:i:t=kein cresc.	!	!LO:TX:b:i:t=kein cresc.	!	!	!	!	!	!LO:TX:i:b:t=kein cresc.	!
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.	12ryy	4ryy	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	48cc'JJJ)	.	12ryy	.
+.	.	.	.	16GnJJ 16c#X	.	32ccn	.	(16GnJk 16dn	.	.	.	16gn'JJ 16cc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc	.	16GJJ 16c#X	.	.	.	.	.	.	.	16GX'JJ 16c#X	.	16r	.	.	.
+.	.	.	.	.	.	32ccn)JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ccJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:a:i:t=etwas zurücktreten	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:B	*	*	*	*	*Xtuplet	*	*grp:B	*grp:B	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*Xtuplet	*
+12ryy	.	12ryy	.	8cn 8en	.	16r	.	4ccc^)	.	16eee-LL])	.	4.ccn^ 4.een	<	12ryy	.	12ryy	.	4r	.	.	.	8Re\	p	12ryy	.	8BnL	[	16r)	.	(<4.c^ 4.en	<	12ryy	.	12ryy	.	12ryy	.	16cX'^ 16en	.	16r	.	12ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*
+.	.	.	.	.	.	(32dnLLL	.	.	.	(16dnJ 16an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(32dnLLL	.	.	.	.	.	.	.	.	.	16r	.	(48dn'LLL	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=kein cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	48d'	.	12ryy	.
+.	.	.	.	.	.	32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48d'JJJ	.	.	.
+.	.	.	.	16r	.	32dn	.	.	.	[8eee-^J	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	8AnJ)	.	32dn	.	.	.	.	.	.	.	.	.	16r	.	16r	.	.	.
+.	.	.	.	.	.	32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	16Dn 16Dn	.	32en	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32en	.	.	.	.	.	.	.	.	.	16Dn' 16Dn	.	48en'LLL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e'	.	.	.
+.	.	.	.	.	.	32enJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32enJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48e'JJJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=kein cresc.	!	!	!	!	!	!	!	!LO:TX:b:i:t=(kein cresc.)	!	!LO:TX:b:i:t=kein cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12ryy	.	12ryy	.	16C#XLL 16G#X	.	32f#XLLL	.	(16GK\L 16d	.	4eee-_	.	.	.	12ryy	.	12ryy	.	8CnL	.	.	.	8r	.	12ryy	.	(<8CnL	.	32f#XLLL	.	.	.	12ryy	.	12ryy	.	12ryy	.	16C#X'LL 16G#X	.	48f#X'LLL	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48f#'	.	.	.
+.	.	.	.	.	.	32f#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32f#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48f#'JJJ)	.	.	.
+.	.	.	.	16GnJ 16c#X	.	32f#X	.	[8.ccc^J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32f#X	.	.	.	.	.	.	.	.	.	16GX' 16c#	.	16r	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	32f#X)	.	.	.	.	.	.	[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32f#X)	.	.	[	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s espr.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s espr.	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	8cnJ 8en	.	(32bn	.	.	.	.	.	([8cc^ [8ee	f	.	.	.	.	8DnJ	.	.	.	8Re\	.	.	.	8DnJ	<	(32bX	.	[8c^ [8e	ff	.	.	.	.	.	.	16cX'^JJ 16en	.	(48bn'LLL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48b'	.	.	.
+.	.	.	.	.	.	32bn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bX	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=kein cresc.	!	!LO:TX:b:i:t=kein cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	48b'JJJ	.	12ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*
+.	.	.	.	.	.	32bn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bX	.	.	.	.	.	.	.	.	.	16r	.	16r	.	.	.
+.	.	.	.	.	.	32bnJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bXJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+*	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*neben	*	*	*	*	*	*	*	*	*	*	*	*neben	*	*	*
+!	!	!LO:TX:b:i:t=(kein cresc.)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=etwas zurücktreten	!	!LO:TX:a:i:t=etwas zurücktreten	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=etwas zurücktreten	!	!	!
+12ryy	.	12ryy	.	4r	.	32anLLL	.	8.cccL\])	.	16eee-LL])	.	4cc_ 4ee_	.	12ryy	.	12ryy	.	8r	.	2.Rettt/)	.	4r	.	12ryy	.	8FnL)	[	32anLLL	.	4c_ 4e_	.	12ryy	.	12ryy	.	12ryy	.	4r	.	48an'LLL	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48a'	.	.	.
+.	.	.	.	.	.	32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48a'JJJ	.	.	.
+.	.	.	.	.	.	32an	<	.	.	(16dnJ 16an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32an	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	32ggn	.	.	.	[8eee-X^J	.	.	.	.	.	.	.	8E-XL	.	.	.	.	.	.	.	(8E-X	.	32ggn	.	.	.	.	.	.	.	.	.	.	.	48ggn'LLL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48gg'	.	.	.
+.	.	.	.	.	.	32ggn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ggn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	48gg'JJJ	.	12ryy	.
+.	.	.	.	.	.	32ggn	.	(16GnJk 16dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ggn	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.
+.	.	.	.	.	.	32ggnJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ggnJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:i:b:t=ohne cresc. 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+12ryy	.	12ryy	.	16DnLL 16Dn	.	32ffnLLL	[	[4cccn^	.	8eee-L])	.	8cc] 8ee]	.	12ryy	.	12ryy	.	8D-XJ	.	.	.	8r	.	12ryy	.	8D-X	.	32ffnLLL	<	8c] 8e]	.	12ryy	.	12ryy	.	12ryy	.	16Dn'LL 16Dn	.	48ffn'LLL	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48ff'	.	.	.
+.	.	.	.	.	.	32ffn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ffn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48ff'JJJ)	.	.	.
+.	.	.	.	16C#X 16G#X	.	32ffn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ffn	.	.	.	.	.	.	.	.	.	16C#X' 16G#X	.	16r	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	32ffn)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ffn)	[	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:b:i:t=kein cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8GnJJ 8c#X	.	(32g#X	.	.	.	(16dL 16a	.	[4.dd-X^ [4.ffn	.	.	.	.	.	8r	.	.	.	8Re^\	.	.	.	8Bn	.	(32g#X	.	[4.d-X^ [4.fn	.	.	.	.	.	.	.	16GX'JJ 16c#X	.	(<48g#X'LLL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48g#'	.	.	.
+.	.	.	.	.	.	32g#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	48g#'JJJ	.	12ryy	.
+.	.	.	.	.	.	32g#X	.	.	.	[16eee-^JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g#X	.	.	.	.	.	.	.	.	.	16r	.	16r	.	.	.
+.	.	.	.	.	.	32g#XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g#XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12ryy	.	12ryy	.	8.r	.	32a#XLLL	.	16cccLL])	.	4eee-])	.	.	.	12ryy	.	12ryy	.	8r	.	.	.	4r	.	12ryy	.	8An)	.	32a#XLLL	.	.	.	12ryy	.	12ryy	.	12ryy	.	8r	.	48a#X'LLL	<	12ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48a#'	.	.	.
+.	.	.	.	.	.	32a#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48a#'JJJ	.	.	.
+.	.	.	.	.	.	32a#X	.	(16GJ 16d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a#X	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	.	.	12ryy	.
+.	.	.	.	.	.	32a#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=ohne cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	32cc#X	<	[8ccc^J	.	.	.	.	.	.	.	.	.	8Cn	.	.	.	.	.	.	.	(8CnJ	< [	32cc#X	.	.	.	.	.	.	.	.	.	16r	.	48cc#X'LLL	[[	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48cc#'	.	.	.
+.	.	.	.	.	.	32cc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+12ryy	.	12ryy	.	.	.	.	.	.	.	.	.	.	.	12ryy	.	12ryy	.	.	.	.	.	.	.	12ryy	.	.	.	.	.	.	.	12ryy	.	12ryy	.	12ryy	.	.	.	48cc#'JJJ	.	12ryy	.
+.	.	.	.	16Dn 16Dn	.	32cc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc#X	.	.	.	.	.	.	.	.	.	16Dn' 16Dn	.	16r	.	.	.
+.	.	.	.	.	.	32cc#X)JJJ	[[	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc#X)JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2[(s3,s4)][(s5,s6)])][(s7,s8,s9,s10)]s11,s12,s13[(s14)][(s15)][(s16,s17,s18,s19,s20,s21,s22)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/1/8

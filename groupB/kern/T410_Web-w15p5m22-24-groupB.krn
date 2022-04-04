@@ -1,0 +1,57 @@
+!!!COM: Anton (Friedrich Wilhelm von) Webern
+!!!OTL: [T410_Web-w15p5m22-24]
+**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*	*part2	*part2	*part1	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*staff1	*
+*I"Piano	*	*	*	*I"Soprano Solo	*	*
+*I'Pno.	*	*	*	*I'Sop.	*	*
+*clefF4	*	*clefG2	*	*clefG2	*	*
+*k[]	*	*k[]	*	*k[]	*	*
+*C:	*	*C:	*	*C:	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*
+=22	=22	=22	=22	=22	=22	=22
+*^	*	*	*	*	*	*
+!	!	!	!	!	!LO:TX:t=[[quarter]=54]	!	!
+!	!	!	!	!	!	!	!LO:DY:ed=brack
+8ryy	2ryyyy	4ryy	16ryy	4ryy	(4g-X	hö-	p >
+.	.	.	8.ryy	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+4ryy	.	4ryy	16ryy	4ryy	4fn)	-ren,	]
+.	.	.	16ryy	4ryy	.	.	.
+.	.	.	16ryy	.	.	.	.
+.	.	.	16ryy	.	.	.	.
+8ryy	4ryy	4ryy	8ryy	.	(8cnL	wenn	p <
+8ryy	.	.	8ryy	4ryy	8d-XJ	die	.
+*v	*v	*	*	*	*	*	*
+=23	=23	=23	=23	=23	=23	=23
+4ryy	4ryy	16ryy	4ryy	6a-X	Er-	.
+.	.	16ryy	4ryy	.	.	.
+.	.	8ryy	.	.	.	.
+.	.	.	.	6gn	-de	[ >
+16ryy	.	6ryy	.	.	.	.
+16ryy	4ryy	.	.	.	.	.
+.	.	.	.	/6b-X)	schläft,	]
+16ryy	.	.	.	.	.	.
+.	.	12ryy	4ryy	.	.	.
+16ryy	4ryy	.	.	.	.	.
+!LO:TUP:a	!	!	!	!	!	!
+12ryy	4ryy	16ryy	.	8r	.	.
+.	.	8.ryy	4ryy	.	.	.
+12ryy	.	.	.	.	.	.
+.	.	.	.	(8bn	die	p
+12ryy	4ryy	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24
+8ryy	4ryy	4.ryy	4ryy	4cn	Vö-	>
+8ryy	.	.	4ryy	.	.	.
+4.ryy	4ryy	.	.	4cc#X)	-gel	.
+.	.	4.ryy	.	.	.	.
+.	4ryy	.	.	(>8enL	ein	pp ]
+8ryy	4ryy	.	4ryy	8fnJ	Ge-	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/12/03

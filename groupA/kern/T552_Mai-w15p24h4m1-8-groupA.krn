@@ -1,0 +1,113 @@
+!!!COM: Frank Martin
+!!!OTL: [T552_Mai-w15p24h4m1-8]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*	*grp:B	*
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*clefF4	*clefF4	*	*clefG2	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*
+*B:	*B:	*	*B:	*
+*M6/8	*M6/8	*	*M6/8	*
+!!LO:REH:t=4
+=1	=1	=1	=1	=1
+8EE	8ryy	.	8ryy	.
+.	8ryy	.	.	.
+8r	8ryy	.	4ryy	4ryy
+8r	8ryy	.	.	.
+*	*clefG2	*	*	*
+.	8ryy	.	.	.
+8AAn	8ryy	.	4ryy	.
+8r	4ryy	.	.	.
+8r	.	.	8ryy	.
+=2	=2	=2	=2	=2
+8FF#	8ryy	.	8ryy	.
+.	8ryy	.	.	.
+8r	8ryy	.	4ryy	.
+8r	8ryy	.	.	.
+8BBB	8ryy	.	4ryy	.
+8r	8ryy	.	.	.
+8r	8ryy	.	8ryy	.
+=3	=3	=3	=3	=3
+*8ba	*	*	*	*
+8FFF##X 8FF##X	16ryy	.	4ryy	.
+.	16ryy	.	.	.
+8r	4ryy	.	.	.
+8r	.	.	8ryy	.
+8GGG# 8GG#	8ryy	.	8ryy	.
+8r	4ryy	.	4ryy	.
+8r	.	.	.	.
+=4	=4	=4	=4	=4
+8EEE#X 8EE#X	24ryy	.	8ryy	.
+.	24ryy	.	.	.
+.	24ryy	.	.	.
+8r	4ryy	.	8ryy	.
+8r	.	.	8ryy	.
+8AAA# 8AA#	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+8r	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+8r	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+=5	=5	=5	=5	=5
+8BBB 8BB	16ryy	.	4ryy	.
+.	16ryy	.	.	.
+8r	16ryy	.	.	.
+.	16ryy	.	.	.
+8r	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+8FFF##X 8FF##X	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+8r	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+8r	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+=6	=6	=6	=6	=6
+8BBB#X 8BB#X	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+*X8ba	*	*	*	*
+8r	16ryy	.	4ryy	.
+.	16ryy	.	.	.
+8r	16ryy	.	.	.
+.	16ryy	.	.	.
+8CC# 8C#	4ryy	.	8ryy	.
+8r	.	.	8ryy	.
+.	16ryy	.	.	.
+!	!	!	!	!LO:HP:t=poco %s
+.	16ryy	.	.	4ryy
+8r	8ryy	.	8ryy	.
+=7	=7	=7	=7	=7
+8AAAn 8AAn	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+8r	8.ryy	.	8ryy	.
+8r	.	.	16ryy	.
+.	16ryy	.	16ryy	.
+8DDn 8Dn	8.ryy	.	4ryy	.
+8r	.	.	.	.
+.	16ryy	.	.	.
+8r	8ryy	.	8ryy	.
+=8	=8	=8	=8	=8
+8BBB 8BB	16ryy	.	8ryy	.
+.	16ryy	.	.	.
+.	.	.	8ryy	.
+8r	8.ryy	.	8ryy	.
+8r	.	.	8ryy	.
+.	16ryy	.	.	.
+.	.	.	8ryy	.
+8EE 8E	4ryy	.	8ryy	.
+8r	.	.	4ryy	.
+.	16ryy	.	.	.
+.	16ryy	.	.	.
+8r	8ryy	.	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/11/19

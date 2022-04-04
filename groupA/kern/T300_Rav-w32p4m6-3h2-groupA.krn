@@ -1,0 +1,78 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T300_Rav-w32p4m6-3h2]
+**kern	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:B	*
+*part4	*part4	*part 4	*part3	*part 3	*part3	*part2	*part 2	*part1	*part 1
+*staff5	*staff4	*	*staff3	*	*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Voice	*	*	*I"Violoncello	*	*I"Flute	*
+*I'Pno.	*	*	*I'S. Solo	*	*	*I'Vc.	*	*I'Fl.	*
+*clefF4	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*	*C:	*	*C:	*
+*M6/8	*M6/8	*	*M6/8	*	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[Più animato [eighth]=138]
+!	!LO:T:n=3:a	!LO:DY:t=[ %s ]	!	!LO:DY:a:t=[ %s ]	!	!	!LO:DY:t=[ %s ]	!LO:TX:t=P:problem:broken beams not showing correctly	!LO:DY:t=[ %s ]
+!	!LO:T:n=4:a	!	!	!	!	!	!	!	!
+(8CC^	4e] 4g] 4b] 4dd]	4ryy	4dd]	4ryy	4ryy	16bLL]	4ryy	16ryy	4ryy
+.	.	.	.	.	.	16aJ	.	16ryy	.
+4GGG)	.	.	.	.	.	8f)j	.	16rLyy	.
+.	.	.	.	.	.	.	.	16ryy	.
+!	!LO:S:b	!	!	!	!	!	!	!	!
+.	8d 8f 8a 8cc)j	.	32cc	.	4ryy	8cJ	.	16ryy	.
+.	.	.	16.ee	.	4ryy	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	.
+(8CC^	(4e^ 4g 4b 4dd	.	[4.dd	.	4ryy	(8.b^L	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+4GGG)	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16aL)	.	16rJyy	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	16ryy	.
+.	.	.	.	.	.	16cJJ)	.	16ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+(8CC^	(4e^ 4g 4b 4dd	.	8dd]	.	.	(16b^LL	.	16ryy	.
+.	.	.	.	.	.	16aJ	.	16ryy	.
+4GGG)	.	.	8dd)j	.	4ryy	8f)	.	16rLyy	.
+.	.	.	.	.	.	.	.	16ryy	.
+.	8d 8f 8a 8cc)	.	(8cc	.	4ryy	8cJ	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+(8CC^	(4e^ 4g 4b 4dd	.	8a	.	4ryy	(8.b^L	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+4GGG)	.	.	8a	.	4ryy	.	.	16ryy	.
+.	.	.	.	.	.	16aL)	.	16ryy	.
+.	8d 8f 8a 8cc)	.	32cc	.	4ryy	(16f	.	16ryy	.
+.	.	.	16.ee	.	4ryy	.	.	.	.
+.	.	.	.	.	.	16cJJ)	.	16ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+(8CC^	(4e^ 4g 4b 4dd	.	[4.dd	.	4ryy	(8.b^L	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+4GGG)	.	.	.	.	.	.	.	16rLyy	.
+.	.	.	.	.	.	16aL)	.	16ryy	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	16ryy	.
+.	.	.	.	.	.	16cJJ)	.	16ryy	.
+(8CC^	(4e^ 4g 4b 4dd	.	4dd]	.	.	(8.b^L	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+4GGG)	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16aL)	.	16rJyy	.
+.	8d 8f 8a 8cc)	.	8dd)	.	4ryy	(16f	.	16ryy	.
+.	.	.	.	.	.	16cJJ)	.	16ryy	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+(8CC^	(4e^ 4g 4b 4dd	.	4%3r	.	.	(8.b^L	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+4GGG)	.	.	.	.	.	.	.	16ryy	.
+.	.	.	.	.	.	16aL)	.	16ryy	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	16ryy	.
+.	.	.	.	.	.	16cJJ)	.	16ryy	.
+(8CC^	(4e^ 4g 4b 4dd	.	.	.	.	(8.b^L	.	16ryy	.
+.	.	.	.	.	.	.	.	16ryy	.
+4GG)	.	.	.	.	.	.	.	8ryy	.
+.	.	.	.	.	.	16aL)	.	.	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	16ryy	.
+.	.	.	.	.	.	16cJJ)	.	16ryy	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3[({(s4,s5)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!EED:Jason Lee
+!!!EEV:2021/11/26

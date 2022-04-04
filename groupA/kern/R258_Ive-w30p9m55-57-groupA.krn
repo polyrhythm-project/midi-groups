@@ -1,0 +1,134 @@
+!!!COM: Ives, Charles
+!!!OTL: Robert Browning Overture
+!!!OMV:
+!!!example: 258
+!!!work: Ive-30
+!!!OMD-full: Adagio maestoso-Largo
+!!!OMD: Meno (poco mosso)
+**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part17	*part16	*part15	*part14	*part13	*part12	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part2	*part1	*part1
+*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff12	*staff11	*staff10	*staff10	*staff9	*staff8	*staff7	*staff6	*staff6	*staff5	*staff4	*staff3	*staff2	*	*staff1	*
+*ICstr	*ICstr	*ICstr	*ICstr	*ICstr	*ICidio	*	*ICidio	*ICidio	*	*ICbras	*ICbras	*ICbras	*ICbras	*	*ICww	*ICww	*ICww	*ICww	*	*ICww	*
+*Icbass	*Icello	*Iviola	*Ivioln	*Ivioln	*	*	*Ibdrum	*Itimpa	*	*Itromt	*Itromp	*Icor	*Icor	*	*Ifagot	*Iclars	*Ioboe	*Iflt	*	*Ipicco	*
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Snare Drum / Cymbals	*	*I"Bass Drum	*I"Timpani	*	*I"Trombone 1. 2.	*I"Trumpet in C 1.	*I"Horn in F 3. 4.	*I"Horn in F 1. 2.	*	*I"Bassoon 1. 2.	*I"Clarinet in Bb 1. 2.	*I"Oboe 1. 2.	*I"Flute 1. 2.	*	*I"Piccolo	*
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'S.Dr. / Cymb.	*	*I'B.Dr.	*I'Timp.	*	*I'Tbn.	*I'Tpt.	*I'Hn.	*I'Hn.	*	*I'Bsn.	*I'Cl.	*I'Ob.	*I'Fl.	*	*I'Picc.	*
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*	*clefF4	*clefF4	*	*clefF4	*clefG2	*clefG2	*clefG2	*	*clefF4	*clefG2	*clefG2	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*ITrd4c7	*	*	*ITrd1c2	*	*	*	*	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*k[b-]	*k[b-]	*	*k[]	*k[b-e-]	*k[]	*k[]	*	*k[]	*
+*ITrd7c12	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+*^	*^	*^	*^	*	*^	*	*	*^	*	*^	*	*	*	*	*^	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*Isdrum	*Ipiatt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!LO:TX:a:t=Tutti	!	!	!	!LO:TX:a:t=Div. 3	!	!LO:TX:a:t=Div. 3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=Div.	!	!LO:TX:b:t=Div.	!	!LO:TX:a:t=Div. 3	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*	*	*v	*v	*	*v	*v	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*^	*	*	*	*	*^	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=Meno (poco mosso)	!
+*	*	*	*	*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=p	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6AAn^^	6AAAn^^	6An^^	6AAn^^	2ryy	2ryy	2ryy	2ryy	2ryy	12Rdd/L	3Rf\	f	4ryy	4ryy	4ryy	4ryy	6A^^	6AA^^	6ryy	1ryy	6ryy	.	6An^^	6AAn^^	6eX^^	4ryy	4ryy	4ryy	4ryy	4ryy
+.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+6AA-X	6AAA#X	6A-X	6AA#X	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6A-X	6BB-X	3ryy	.	3ryy	.	6A-X	6AA-X	6e-	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	12r	.	.	4ryy	4ryy	4ryy	4ryy	.	.	.	.	.	.	.	.	.	12.ryy	12.ryy	.	12.ryy	.
+6GG^^	6BBB^^	6G^^	6BB^^	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6G^^	6BBn^^	.	.	.	.	6G^^	6GG^^	6d^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	24ryy	.	24ryy	.
+.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	12ryy	.
+6GG-X	6CC	6G-X	6C	4.ryy	4.ryy	4.ryy	4.ryy	4.ryy	12Rdd/J	.	.	4ryy	4ryy	4ryy	4ryy	6G-X	6C	8.ryy	.	8ryy	.	6G-X	6GG-X	6d-X	3ryy	3ryy	.	3ryy	.
+.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+6FF^^	6CC#X^^	6F^^	6C#X^^	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6F^^	6C#X^^	.	.	.	.	6F^^	6FF^^	6cn^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12r	.	.	4ryy	4ryy	4ryy	.	.	.	8ryy	.	8.ryy	.	.	.	.	.	.	.	.	.
+6EE	6DD	6E	6D	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6E	6D	.	.	.	.	6E	6EE	6BX	6ryy	6ryy	.	6ryy	.
+.	.	.	.	8ryy	8ryy	8ryy	8ryy	8ryy	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+6EE-X^^	6EE-^^	6E-X^^	6E-^^	2ryy	2ryy	2ryy	2ryy	2ryy	2ryyyy	12Rdd/L	3Rf\	.	4ryy	4ryy	4ryy	.	6E-X^^	6E-^^	4.ryy	1ryy	6ryy	.	6E-X^^	6B-X^^	12.ryy	12.ryy	.	12.ryy	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	24ryy	.	24ryy	.
+6DD	6DD	6D	6D	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6D	6D	.	.	12ryy	.	6D	6A	12ryy	12ryy	.	12ryy	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4ryy	4ryy	4ryy	.	.	.	.	.	4ryy	.	.	.	4ryy	4ryy	.	4ryy	.
+12.DD-XL	12.DD-L	12.D-XL	12.D-L	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	12.D-XL	12.D-L	.	.	.	.	12.D-XL	12.A-XL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.
+24DD-Jk	24DD-Jk	24D-Jk	24D-Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	24D-Jk	24D-Jk	.	.	.	.	24D-Jk	24A-Jk	.	.	.	.	.
+6AA-X^^	6AAA-X^^	6A-X^^	6AA-X^^	2ryy	2ryy	2ryy	2ryy	2ryy	2ryy	12Rdd/J	.	.	4ryy	4ryy	4ryy	.	6A-X^^	6AA-X^^	8.ryy	.	8.ryy	.	6A-X^^	6e-X^^	4ryy	4ryy	.	4ryy	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+6GG	6BBB	6G	6BBn	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6G	6AAn	.	.	.	.	6G	6d	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4ryy	4ryy	4ryy	.	.	.	8ryy	.	8.ryy	.	.	.	4ryy	4ryy	.	4ryy	.
+6GG-X^^	6BBB#X^^	6G-X^^	6BB#X^^	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6G-X^^	6BB-X^^	.	.	.	.	6G-X^^	6d-X^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(one or two horns)	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing line between staves	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*Xtuplet	*tuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=pp	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6FF	6BBB	6F	6BB	2ryy	2ryy	2ryy	2ryy	2ryy	2ryy	(12Rdd/L	3Rf\	p	4ryy	4ryy	4ryy	4ryy	6F	6BBn	8ryy	2ryyyy	2ryy	4ryy	6F	6c	4.ryy	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.
+6EE^^	6CC^^	6E^^	6C^^	.	.	.	.	.	.	12Rdd/J	.	.	.	.	.	.	6E^^	6C^^	.	.	.	.	6E^^	6BX^^	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4ryy	4ryy	4ryy	.	.	.	8.ryy	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6EE-X	6DD-X	6E-X	6D-X	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6E-X	6D-X	.	.	.	.	6E-X	6B-	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=3 or 6	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.
+6DD^^	6DD^^	6Dn^^	6D^^	4.ryy	4.ryy	4.ryy	4.ryy	4.ryy	2ryyyy	12Rdd/J	.	.	4ryy	4ryy	4ryy	.	6D^^	6D^^	8.ryy	4.ryy	2ryyyy	.	6D^^	6A^^	3ryy	3ryy	.	3ryy	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+6DD-X	6DD-	6D-X	6D-	.	.	.	.	.	.	12Rdd/L	3Rf\	.	.	.	.	.	6D-X	6D-	.	.	.	.	6D-X	6A-X	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	4ryy	4ryy	4ryy	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.
+12.CCL	12.CCL	12.CL	12.CL	.	.	.	.	.	.	12Rdd/J)	.	.	.	.	.	.	12.CL	12.CL	.	.	.	.	12.CL	12.GL	6ryy	6ryy	.	6ryy	.
+.	.	.	.	8ryy	8ryy	8ryy	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+24CCJk	24CCJk	24CJk	24CJk	.	.	.	.	.	.	.	.	.	.	.	.	.	24CJk	24CJk	.	.	.	.	24CJk	24GJk	.	.	.	.	.
+*v	*v	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*v	*v	*	*	*v	*v	*	*	*v	*v	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)][(s10,s11,s12)][(s13,s14,s15,s16,s17)]
+!!!CDT: 1874/10/20-1954/05/19
+!!!CBL: Danbury, United States
+!!!CDL: New York, United States
+!!!CNT: American
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Stokowski, Leopold
+!!!MDT: 1956/10/14
+!!!MGN: American Symphony Orchestra
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1956
+!!!MPN:
+!!!ODT: 1914 (rev. 1942)
+!!!PDT: 1959
+!!!excerpt-start-measure: 55
+!!!excerpt-end-measure: 57
+!!!excerpt-start-time: 4:03
+!!!excerpt-end-time: 4:11
+!!!excerpt-duration-sec: 8
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: triplet-quarter
+!!!excerpt-tempo-rate: 132
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/10/05

@@ -1,0 +1,59 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T468_Mau-w17p14m9-4h4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part8	*	*part7	*	*part6	*	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trombone II.	*	*I"Trombone I.	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Oboe	*
+*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Tbn.	*	*I'Tbn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Ob.	*
+*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k	*	*k[]	*
+*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:B:t=[Moderato poco allegro]
+!	!LO:DY:t=[ %s sempre]	!	!LO:DY:t=[ %s sempre]	!	!LO:DY:t=[ %s sempre]	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+16d^LL	ff	16d^LL	ff	16d^LL	ff	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+[16eJJ	.	[16eJJ	.	[16eJJ	.	.	.	.	.	.	.	.	.	.	.
+16eLL]	.	16eLL]	.	16eLL]	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16dJJ	.	16dJJ	.	16dJJ	.	.	.	.	.	.	.	.	.	.	.
+=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||	=2||
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+8fL	.	8fL	.	8fL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16c^L	.	16c^L	.	16c^L	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[16dJ	.	[16dJ	.	[16dJ	.	.	.	.	.	.	.	.	.	.	.
+16d]L	.	16d]L	.	16d]L	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16cJJ	.	16cJJ	.	16cJJ	.	.	.	.	.	.	.	.	.	.	.
+=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||	=3||
+*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*	*M2/8	*
+8fL	.	8fL	.	8fL	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+16B-XL	.	16B-XL	.	16B-XL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+[16cJJ	.	[16cJJ	.	[16cJJ	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy
+=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=accel.--------poco-------a-------poco-------e-------	!
+16cLL]	.	16cLL]	.	16cLL]	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16B-XJ	.	16B-XJ	.	16B-XJ	.	.	.	.	.	.	.	.	.	.	.
+8f	.	8f	.	8f	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16f^L	.	16f^L	.	16f^L	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16eJJ	.	16eJJ	.	16eJJ	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+16fLL	.	16fLL	.	16fLL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16cJ	.	16cJ	.	16cJ	.	.	.	.	.	.	.	.	.	.	.
+16d-XL	.	16d-XL	.	16d-XL	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16A-XJ	.	16A-XJ	.	16A-XJ	.	.	.	.	.	.	.	.	.	.	.
+8GJ	.	8GJ	.	8GJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||	=6||
+*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*	*M4/8	*
+16cLL	.	16cLL	.	16cLL	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+16BJ	.	16BJ	.	16BJ	.	.	.	.	.	.	.	.	.	.	.
+(8cJ	.	(8cJ	.	(8cJ	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16c#XLL)	.	16c#XLL)	.	16c#XLL)	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+16B#XJ	.	16B#XJ	.	16B#XJ	.	.	.	.	.	.	.	.	.	.	.
+8c#J	.	8c#J	.	8c#J	.	8ryy	.	8ryy	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [s1,s2,s3],[s4,s5],[s6,s7,s8]
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/05

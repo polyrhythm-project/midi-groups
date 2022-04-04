@@ -1,0 +1,373 @@
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
+!!!OMV: II: Perséphone aux enfers (Persephone in the Underworld)
+!!!example: 392
+!!!work: Str-33
+!!!OMD-full: none
+!!!OMD: A Tempo [Poco meno]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**kern	**text	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part3	*part2	*part2	*part2	*part1	*part7
+*staff7	*	*staff6	*	*staff5	*	*staff4	*staff3	*staff2	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*ICstr	*ICvox	*	*	*ICklav	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*Ivioln	*Ivox	*	*	*Ipiano	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Soprani	*	*	*I"Piano	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*I'Vln. I	*I'Sop.	*	*	*I'Pno.	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*ITrd0c0	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*clefG2	*clefG2	*	*	*clefF4	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:	*D:	*D:	*	*	*D:	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+!!LO:REH:t=74
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+*	*	*	*	*	*	*	*	*cue	*	*	*	*	*	*	*
+!LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=Div.	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*8ba	*8ba	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing 8ba line	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=60]	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:i:t=cantabile dolce	!	!
+2ryy	4ryy	4ryy	4ryy	4ryy	4ryy	.	8r	8ryy	8r	8ryy	4ryy	.	2ryy	2ryy	4ryy
+!	!	!	!	!	!	!	!LO:TX:a:i:t=restez	!LO:TX:t=P:problem:missing brackets	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8ryy	4ryy	.	.	.	.
+.	4ryy	.	4ryy	.	4ryy	4ryy	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	4ryy	4ryy	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!LO:TX:a:i:t=poco	!	!	!	!	!
+2ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	.	4ryy	4rEEyy	2ryy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	8ryy	4ryy	4ryy	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	.	4ryy	.	.	4rEEyy	.	.
+!	!	!	!	!	!	!	!LO:TX:a:i:t=restez	! 	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	4ryy	.	.	.
+4ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	4ryy	4ryy	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	4ryy	4ryy	.	4ryy	2ryy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	4ryy	.	8r	8ryy	.	8ryy	4ryy	.	4rEEyy	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+4ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8bbJ]	8BJ] 8e]	4ryy	4ryy	.	4rEEyy	4ryy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.	.	.	.
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	2ryy	2ryy	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	4ryy	.	4ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	8gv	8ryy	[8gLo	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+!!LO:REH:t=75
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ryy	8gJ]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	.	.	4ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	8bbJ]	8BJ] 8e]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8ryy	4ryy	.	.	.	.
+.	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	4ryy	4ryy	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	4ryy	4ryy	2.ryyyy	2.rEEyy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	8ryy	.	4ryy	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	.	4ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4bb	4B 4e	.	.	4ryy	.	.	.
+4ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8ryy	4ryy	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8fff#J]	8f#J] 8b]	4ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8go	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+!!LO:REH:t=76
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+4ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	8g]	4ryy	4ryy	.	2.ryyyy	2.rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.	.	.	.
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8ryy	4ryy	.	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gLo	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ryy	8gJ]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	.	.	4ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	8fff#J]	8f#J] 8b]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8ryy	.	.	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gLo	8ryy	4ryy	4ryy	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
+2ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	8gJ]	8ryy	4ryy	4ryy	2.ryyyy	2.rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	4.ryy	4ryy	4ryy	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	4ryy	.	.	.
+4ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8ryy	4ryy	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+!!LO:REH:t=77
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8fff#J]	8f#J] 8b]	4ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gLo	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+4ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	8gJ]	4ryy	4ryy	.	2.ryyyy	2.rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.	.	.	.
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	4rCCyy	.	4ryy	.	4ryy	.	8r'	8fff#J]	8f#J] 8b]	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	4ryy	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	8ryy	.	4ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+!	!	!	!	!	!	!	!	!	!	!LO:S:b	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r'	8fff#J]	8f#J] 8b]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8ryy	.	.	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gLo	8ryy	.	4ryy	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+!!LO:REH:t=78
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
+2ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	8gJ]	8ryy	.	4ryy	2.ryyyy	2.rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	4.ryy	.	4ryy	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	4ryy	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+4ryy	4ryy	.	4ryy	.	4ryy	.	8r'	8fff#J]	8f#J] 8b]	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	4ryy	4ryy	.	2ryyyy	2rEEyy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	8ryy	.	8ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+4ryy	4rCCyy	.	4ryy	.	4ryy	.	8r'	8ff#J]	8BJ] 8f#]	4ryy	4ryy	.	2.ryyyy	2.rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	4bb	4B 4e	.	.	.	.	.	.
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	4rCCyy	.	4ryy	.	4ryy	.	8r'	8fff#J]	8f#J] 8b]	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	4ryy	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	8ryy	.	4ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	.	.	.	.	.	.
+!!LO:REH:t=79
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r	8bbJ]	8BJ] 8e]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	8ryy	4ryy	.	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r'	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	4ryy	4ryy	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=poco	!	!	!	!	!
+2ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	.	4ryy	2.ryyyy	2.rEEyy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	4.ryy	4ryy	4ryy	.	.	.
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	8ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	[8fff#L	[8f#L [8b	.	.	4ryy	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+4ryy	4ryy	.	4ryy	.	4ryy	.	8r'	8fff#J]	8f#J] 8b]	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	4ryy	4ryy	.	2ryyyy	2rEEyy	.
+.	.	.	.	.	.	.	8gv	8ryy	4go	.	.	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	8ryy	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	[8bbL	[8BL [8e	8ryy	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*M3/4	*	*	*M3/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+4ryy	4rCCyy	.	4ryy	.	4ryy	.	8r	8bbJ]	8BJ] 8e]	4ryy	4ryy	.	2.ryyyy	2.rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8fff#'v	4fff#	4f# 4b	.	.	.	.	.	.
+2ryy	4ryy	.	4ryy	.	4ryy	.	8r'	.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	[8ff#L	[8BL [8f#	8ryy	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	4rCCyy	.	4ryy	.	4ryy	.	8r	8ff#J]	8BJ] 8f#]	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	.	8gv	8ryy	[8gLo	8ryy	4ryy	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+!!LO:REH:t=80
+=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*M2/4	*	*	*M2/4	*
+*^	*	*	*	*	*	*	*^	*	*	*	*^	*
+2ryy	2rCCyy	.	2ryy	.	4ryy	.	8r	8ryy	8gJ]	8ryy	4ryy	.	2ryyyy	2rEEyy	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+.	.	.	.	.	.	.	8ff#'v	4ff#	4B 4f#	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	4ryy	.	8r	.	.	4ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!LO:T:n=2:dash	!	!	!	!	!	!
+.	.	.	.	.	.	.	8bbv	[8bb	[8B [8e	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*v	*v	*	*	*	*v	*v	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4,s5,s6)]
+!!!RDF**kern: i = editorial accidental
+!!!CDT: 1882/06/17-1971/04/06
+!!!CBL: Lomonosov (Oranienbaum), Russia
+!!!CDL: New York, United States
+!!!CNT: Russian, French, American
+!!!AGN: Stage; Theatrical
+!!!MCN: Stravinsky, Igor
+!!!MDT: 1934/04/30
+!!!MGN: Orchestre de l'Opéra
+!!!MLC: Paris, France
+!!!MPD: 1934
+!!!MPN: Maison, René; Rubinstein, Ida
+!!!ODT: 1934
+!!!PDT: 1934
+!!!excerpt-start-measure: 64
+!!!excerpt-end-measure: 88
+!!!excerpt-start-time: 3:47
+!!!excerpt-end-time: 4:48
+!!!excerpt-duration-sec: 61
+!!!excerpt-time-signature: 2/4
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 60
+!!!excerpt-meter-type: duple
+!!!excerpt-beat-group: G2
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,133 @@
+!!!COM: Martin, Frank
+!!!OTL: Esquisse pour Piano
+!!!OMV:
+!!!example: 534x
+!!!work: Mai-0
+!!!OMD-full: Allegretto tranquillo
+!!!OMD: Allegretto tranquillo  [eighth]=108
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*	*part1	*part1
+*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M3/8	*	*M3/8	*
+!	!	!	!LO:DY:t=cantabile ( %s )
+8r	.	8ryy	4ryy
+8e'	p	32ryy	.
+.	.	16.ryy	.
+=1	=1	=1	=1
+(8e-X~L 8ccn	.	8.ryy	.
+8d'J 8a)	.	.	.
+.	.	16ryy	.
+(8e-~L 8bn	.	16ryy	.
+.	.	16ryy	.
+=2	=2	=2	=2
+8d'J 8a)	.	8.ryy	.
+(8e-X~L 8cc	.	.	.
+.	.	16ryy	.
+8d'J 8a)	.	16ryy	.
+.	.	16ryy	.
+=3	=3	=3	=3
+8e-X' 8b	.	16ryy	.
+.	.	16ryy	.
+(8d~L> 8cc	.	8.ryy	.
+8e-'J 8b)	.	.	.
+.	.	16ryy	.
+=4	=4	=4	=4
+(8f~L 8dd	.	8.ryy	.
+8en'J 8bn)	.	.	.
+.	.	16ryy	.
+(8f~L 8cc#X	.	16ryy	.
+.	.	16ryy	.
+=5	=5	=5	=5
+8e'J 8bn)	.	8ryy	.
+!	!	!LO:S:a	!
+(8f~L 8dd	.	16ryy	.
+.	.	8.ryy	.
+8e'J 8b)	.	.	.
+=6	=6	=6	=6
+(8f~L> 8cc#X	.	8.ryy	4ryy
+8e' 8b	.	.	.
+.	.	8.ryy	.
+8f'J 8dd)	.	.	4ryy
+=7	=7	=7	=7
+8%3r	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+!	!	!	!LO:DY:t= %s ma cantabile
+.	.	16ryy	4ryy
+.	.	16ryy	.
+.	.	16ryy	.
+=8	=8	=8	=8
+!	!LO:DY:ed=paren	!	!
+(8gn~L 8ee/	p	8.ryy	.
+8f#X'J 8cc#X)	.	.	.
+.	.	16ryy	.
+(8g~/L 8dd#X/	.	16ryy	.
+.	.	16ryy	.
+=9	=9	=9	=9
+8f#X'J 8cc#X)	.	8.ryy	.
+(8g~/L 8ee/	.	.	.
+.	.	16ryy	.
+8f#'J 8cc#)	.	16ryy	.
+.	.	16ryy	.
+=10	=10	=10	=10
+8g' 8dd#X	.	16ryy	.
+.	.	16ryy	.
+(8f#X~L 8ee	.	8.ryy	.
+8g'J 8dd#)	.	.	.
+.	.	16ryy	.
+=11	=11	=11	=11
+(8a~L 8ff#X	.	16ryy	.
+.	.	8ryy	.
+8g#X'J 8dd#X)	.	.	.
+.	.	16ryy	.
+(8a~L 8ffn	.	16ryy	.
+.	.	16ryy	.
+=12	=12	=12	=12
+8g#X'J 8dd#X)	.	16ryy	.
+.	.	16ryy	.
+(8a~L 8ff#X	.	8.ryy	.
+8b-X'J 8ee-X)	.	.	.
+.	.	16ryy	.
+=	=	=	=
+*-	*-	*-	*-
+!!!Xfilter: slurcheck
+!!!system-decoration: [({(s1,s2)})]
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Instrumental; Keyboard
+!!!MCN: unknown
+!!!MDT: ?
+!!!MGN:
+!!!MLC: unknown
+!!!MPD: 1966
+!!!MPN: unknown
+!!!ODT: 1965
+!!!PDT: unknown
+!!!excerpt-start-measure: 0.333
+!!!excerpt-end-measure: 12
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time: 0:19
+!!!excerpt-duration-sec: 19
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 108
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/09/18
+!!!ONB: Converted from MusicXML on 2020/09/04
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

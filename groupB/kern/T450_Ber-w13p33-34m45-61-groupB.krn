@@ -1,0 +1,221 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T450_Ber-w13p33-34m45-61]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=P:problem:Hanging slur not implemented yet	!LO:DY:ed=brack	!LO:TX:t=[quarter]=150	!
+!	!	!LO:TX:t=P:problem:Hanging slur not implemented yet	!	!	!	!	!
+16ryy	4ryy	16d-XLL	pp <	16a-XLL)	pp < [	4%3ryy	.
+16ryy	4ryy	16e-XJJ)	.	(16f#X	>	.	.
+16ryy	.	(16enLL	[	16gn	.	.	.
+16ryy	.	16cnJ	>	16a-XJJ)	.	.	.
+16ryy	.	16dnL	.	(16f#XLL	.	.	.
+16ryy	.	16d-X	.	16gn	.	.	.
+16ryy	.	16e-XJJ)	.	16a-XJJ)	.	.	.
+16ryy	4ryy	16r	]	16r	]	.	.
+8ryy	.	4r	.	4r	.	.	.
+!LO:TX:a:t=col legno(gestrichen)	!	!	!	!	!	!	!
+16ryy	4ryy	.	.	.	.	.	.
+16ryy	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*M9/16	*	*M9/16	*	*M9/16	*	*M9/16	*
+16ryy	.	16r	.	8.r	.	16%9ryy	.
+16ryy	.	16r	.	.	.	.	.
+!	!	!LO:TX:a:t=col legno(gestrich.)	!	!	!	!	!
+!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!	!	!
+16ryy	.	(16B-XKL	pp	.	.	.	.
+16ryy	.	16AnL	.	16r	.	.	.
+16ryy	.	16Fn	.	16r	.	.	.
+!	!	!	!	!LO:TX:a:t=col legno(gestrich.)	!	!	!
+!	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!
+16ryy	.	16BnJ	.	(16a-XKL	pp	.	.
+16ryy	.	16cnL	.	16gnL	.	.	.
+16ryy	.	16Gn	.	16e-X	.	.	.
+16ryy	.	16d-XJ	.	16anJ	.	.	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3
+!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!	!	!	!	!	!LO:TX:a:t=col legno(gestrich.)	!
+16ryy	.	16G-XL	.	16b-XL	.	16ryy	4ryy
+!!)
+!	!LO:DY:t=%s !!!	!	!	!	!	!	!
+!LO:TX:a:t=(geschlagen)	!LO:DY:ed=paren	!	!	!	!	!	!
+16ryy	4ryy	16A-X	.	16fn	.	16ryy	.
+16ryy	.	16dnJ	.	16bnJ	.	16ryy	.
+16ryy	.	16e-XL	.	16enL	.	16ryy	.
+16ryy	.	16enJJ)	.	16f#X	.	16ryy	.
+!	!	!LO:TX:a:t=(geschlagen)	!	!	!	!	!
+!	!	!	!LO:DY:ed=paren	!	!	!	!
+16ryy	.	16B-X`KL	pp	16ccnJ	.	16ryy	.
+16ryy	.	16An`L	.	16dd-XL	.	16ryy	.
+16ryy	.	16Fn`	.	16ddnJJ)	.	16ryy	.
+!	!	!	!	!LO:TX:b:t=)	!	!	!
+!	!	!	!	!LO:TX:b:t=(	!	!	!
+!	!	!	!	!LO:TX:a:t=(geschlag.)	!	!	!
+16ryy	.	16Bn`J	.	16a-X`KL	pp	16ryy	.
+=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:a:t=(gestrich.)	!	!	!	!	!	!LO:TX:t=P:problem:Cross-measure beaming not implemwnted yet	!
+16ryy	.	16cn`L	.	16gn`L	.	16ryy	.
+16ryy	.	16Gn`	.	16e-X`	.	16ryy	.
+16ryy	.	16d-X`JJ	.	16an`JJ	.	16ryy	.
+!	!	!LO:TX:a:t=(gestrich.)	!	!	!	!LO:TX:a:t=(geschlag.)	!LO:DY:ed=paren
+16ryy	.	(16B-XLL	.	16r	.	16ryy	4ryy
+16ryy	.	16G-X	.	16r	.	16ryy	.
+!	!	!	!	!LO:TX:a:t=(gestrich.)	!	!	!
+16ryy	.	16cnJ	.	(16g#XKL	.	16ryy	.
+!	!	!	!	!	!	!LO:TX:a:t=(gestrich.)	!
+16ryy	.	16d-XL	.	16enL	.	16ryy	.
+16ryy	.	16A-X	.	16a#X	.	16ryy	.
+16ryy	.	16dnJ	.	16bnJ	.	16ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5
+16ryy	.	16GnL	.	16g-XL	.	16ryy	.
+16ryy	.	16An	.	16ccn	.	16ryy	.
+16ryy	.	16e-XJ	.	16fnJ	.	16ryy	.
+!LO:TX:a:t=(geschlag.)	!	!	!	!	!	!	!
+16ryy	.	16enL	.	16gnL	.	16ryy	.
+16ryy	.	16fn	.	16cc#X	.	16ryy	.
+16ryy	.	16BnJJ)	.	16ddnJ	.	16ryy	.
+16ryy	.	16r	.	16ee-XL	.	16ryy	.
+16ryy	.	16B-X`LL	.	16anJJ)	.	16ryy	.
+16ryy	.	16G-X`J	.	16g#X`KL	.	16ryy	.
+!!linebreak:original
+=6	=6	=6	=6	=6	=6	=6	=6
+16ryy	.	16cn`Jk	.	16en`L	.	16ryy	.
+16ryy	.	(16GnLL	.	16b-X`JJ	.	16ryy	.
+16ryy	.	16c#XJ	.	(16fnKL	.	16ryy	.
+16ryy	.	16dnL	.	16bnL	.	16ryy	.
+16ryy	.	16An	.	16ccn	.	16ryy	.
+16ryy	.	16e-XJ	.	16gnJ	.	16ryy	.
+16ryy	.	16A-XL	.	16dd-XL	.	16ryy	.
+16ryy	.	16B-X	.	16g-X	.	16ryy	.
+16ryy	.	16enJ	.	16a-XJ	.	16ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7
+16ryy	.	16fnL	.	16ddnL	.	16ryy	.
+16ryy	.	16f#X	.	16ee-X	.	16ryy	.
+16ryy	.	16cnJ	.	16eenJ	.	16ryy	.
+16ryy	.	16BnJk)	.	16b-XL	.	16ryy	.
+16ryy	.	(16dnLL	.	16anJJ)	.	16ryy	.
+16ryy	.	16e-XJ	.	16fn`KL	.	16ryy	.
+16ryy	.	16B-XL	.	16bn`L	.	16ryy	.
+16ryy	.	16en	.	16ccn`	.	16ryy	.
+16ryy	.	16AnJ	.	16gn`J	.	16ryy	.
+=8	=8	=8	=8	=8	=8	=8	=8
+16ryy	.	16BnL	.	16dd-X`Jk	.	16ryy	.
+16ryy	.	16fn	.	(16ccnLL	.	16ryy	.
+16ryy	.	16g-XJ	.	16dd-XJ	.	16ryy	.
+16ryy	.	16gnL	.	16a-XL	.	16ryy	.
+16ryy	.	16d-X	.	16ddn	.	16ryy	.
+16ryy	.	16cnJ	.	16gnJ	.	16ryy	.
+16ryy	.	16A-XJk)	.	16anL	.	16ryy	.
+16ryy	.	16dn`LL	.	16ee-X	.	16ryy	.
+16ryy	.	16e-X`J	.	16eenJ	.	16ryy	.
+!!pagebreak:original
+=9	=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*^	*	*	*
+!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s
+16ryy	4ryy	16B-X`Jk	pp	16ffnL	8.ryy	pp	16ryy	4ryy
+16ryy	.	(16enLL	.	16bn	.	.	16ryy	.
+16ryy	.	16BnJ	.	16a#XJ	.	.	16ryy	.
+16ryy	.	16fnL	.	16f#XJk)	16ryy	.	8.ryy	.
+16ryy	.	16B-X	.	16ryy	(<16ddnLL	.	.	.
+16ryy	.	16cnJ	.	16ryy	16anJ	.	.	.
+16ryy	.	16f#XL	.	16ryy	16dd#XL	.	16ryy	.
+16ryy	.	16gn	.	16ryy	16g#X	.	16ryy	.
+16ryy	.	16g#XJ	.	16ryy	16a#XJ	.	16ryy	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+16ryy	.	16dnL	.	16ryy	16eenL	.	16ryy	.
+16ryy	.	16c#X	.	16ryy	16ffn	.	16ryy	.
+16ryy	.	16AnJ	.	16ryy	16ff#XJ	.	16ryy	.
+16ryy	.	16d#XJk)	.	16ryy	16ccnL	.	16ryy	.
+16ryy	.	(16cnLL	.	16ryy	16bn	.	16ryy	.
+16ryy	.	16f#XJ	.	(16b-XKL	16GJ	.	16ryy	.
+16ryy	.	16BnL	.	16eenL	16cc#XJk)	.	16ryy	.
+16ryy	.	16c#X	.	16an	16ryy	.	16ryy	.
+16ryy	.	16gnJ	.	16bnJ	16ryy	.	16ryy	.
+*	*	*	*	*v	*v	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11
+16ryy	.	16a-XL	.	16ffnL	.	16ryy	.
+16ryy	.	16an	.	16gg-X	.	16ryy	.
+16ryy	.	16e-XJ	.	16ggnJ	.	16ryy	.
+16ryy	.	16dnL	.	16dd-XL	.	16ryy	.
+16ryy	.	16B-X	.	16ccn	.	16ryy	.
+16ryy	.	16enJ	.	16a-XJ	.	16ryy	.
+16ryy	.	16fnJk)	.	16ddnL	.	16ryy	.
+16ryy	.	16cn`LL	.	16ee-XJJ)	.	16ryy	.
+16ryy	.	16g-X`J	.	16b-X`KL	.	16ryy	.
+!!linebreak:original
+=12	=12	=12	=12	=12	=12	=12	=12
+16ryy	.	16c-X`L	.	16een`L	.	16ryy	.
+16ryy	.	16d-X`	.	16an`	.	16ryy	.
+16ryy	.	16gn`J	.	16bn`JJ	.	16ryy	.
+16ryy	.	16a-X`L	.	(16ffnLL	.	16ryy	.
+16ryy	.	16an`	.	16b-X	.	16ryy	.
+16ryy	.	16e-X`J	.	16ccnJ	.	16ryy	.
+16ryy	.	16dn`L	.	16ff#XL	.	16ryy	.
+16ryy	.	16B-X`JJ	.	16ggn	.	16ryy	.
+16ryy	.	16r	.	16gg#XJ	.	16ryy	.
+=13	=13	=13	=13	=13	=13	=13	=13
+16ryy	.	16r	.	16ddnL	.	16ryy	.
+16ryy	.	(16gnLL	.	16cc#X	.	16ryy	.
+16ryy	.	16cnJ	.	16anJ	.	16ryy	.
+16ryy	.	16dnL	.	16dd#XL	.	16ryy	.
+16ryy	.	16a-X	.	16een	.	16ryy	.
+16ryy	.	16anJ	.	16bnJJ)	.	16ryy	.
+16ryy	.	16b-XL	.	16ffn`LL	.	16ryy	.
+16ryy	.	16en	.	16b-X`	.	16ryy	.
+16ryy	.	16d#XJ	.	16ccn`J	.	16ryy	.
+=14	=14	=14	=14	=14	=14	=14	=14
+16ryy	.	16BnL	.	16ff#X`L	.	16ryy	.
+16ryy	.	16fn	.	16ggn`	.	16ryy	.
+16ryy	.	16g-XJ	.	16gg#X`J	.	16ryy	.
+16ryy	.	16d-XJk)	.	16ddn`Jk	.	16ryy	.
+16ryy	.	16r	.	(16bnLL	.	16ryy	.
+16ryy	.	16r	.	16cc#XJ	.	16ryy	.
+16ryy	.	16r	.	16ggnL	.	16ryy	.
+16ryy	.	16gn`LL	.	16aa-X	.	16ryy	.
+16ryy	.	16c#X`JJ	.	16aanJJ	.	16ryy	.
+!!linebreak:original
+=15	=15	=15	=15	=15	=15	=15	=15
+16ryy	.	16dn`LL	.	16ee-XLL	.	16ryy	.
+16ryy	.	16a-X`J	.	16ddn	.	16ryy	.
+16ryy	.	(16d-XK	.	16b-XJ	.	16ryy	.
+16ryy	.	16e-XL	.	16eenL	.	16ryy	.
+16ryy	.	16an	.	16ffn	.	16ryy	.
+16ryy	.	16b-XJ	.	16ccnJ	.	16ryy	.
+16ryy	.	16bnL	.	16ff#XJk)	.	16ryy	.
+16ryy	.	16fn	.	16r	.	16ryy	.
+16ryy	.	16enJ	.	(16ddnKL	.	16ryy	.
+=16	=16	=16	=16	=16	=16	=16	=16
+16ryy	.	16cnL	.	16aa-XL	.	16ryy	.
+16ryy	.	16f#X	.	16aan	.	16ryy	.
+16ryy	.	16gnJ	.	16bb-XJ	.	16ryy	.
+16ryy	.	16dnL	.	16eenL	.	16ryy	.
+16ryy	.	16a-XJJ)	.	16dd#X	.	16ryy	.
+16ryy	.	16r	.	16bnJ	.	16ryy	.
+16ryy	.	16e-X`LL	.	16ffnL	.	16ryy	.
+16ryy	.	16an`JJ	.	16gg-X	.	16ryy	.
+16ryy	.	16r	.	16dd-XJ	.	16ryy	.
+=17	=17	=17	=17	=17	=17	=17	=17
+16ryy	.	(16eLL	.	16ggnL	.	16ryy	.
+16ryy	.	16b-X	.	16ccnJJ)	.	16ryy	.
+16ryy	.	16bnJ	.	16ddn`KL	.	16ryy	.
+16ryy	.	16ccnL	.	16aa-X`L	.	16ryy	.
+16ryy	.	16g-X	.	16aan`	.	16ryy	.
+16ryy	.	16fJ	.	16bb-X`J	.	16ryy	.
+16ryy	.	16d-XL	.	16een`L	.	16ryy	.
+16ryy	.	16gn	.	16dd#X`	.	16ryy	.
+16ryy	.	16a-XJJ)	.	16bn`JJ	.	16ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

@@ -1,0 +1,78 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T661_Hin-w63p4h5m1-6]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Oboe	*
+*I'Pno.	*	*	*I'Ob.	*
+*ICklav	*ICklav	*	*ICww	*
+*Ipiano	*Ipiano	*	*Ioboe	*
+*clefG2	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*
+*	*8va	*	*	*
+!!LO:REH:t=5
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[[quarter]=120]	!
+8ryy	16ryy	4ryy	4ff#X~)j	f
+.	16ryy	.	.	.
+8ryy	16ryy	.	.	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8b'L	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8ee'J	.
+.	16ryy	.	.	.
+=2	=2	=2	=2	=2
+8ryy	16ryy	.	4ff#X~	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	.	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8b'L	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8ee'J	.
+.	16ryy	.	.	.
+=3	=3	=3	=3	=3
+8ryy	16ryy	.	4ff#X~	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	.	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8b'L	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8ee'J	.
+.	16ryy	.	.	.
+=4	=4	=4	=4	=4
+*M3/8	*M3/8	*	*M3/8	*
+8ryy	16ryy	.	8ff#X'L	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	(16bbL	.
+.	16ryy	.	16aaJ)	.
+8ryy	16ryy	.	8ggJ	.
+.	16ryy	.	.	.
+=5	=5	=5	=5	=5
+*M2/4	*M2/4	*	*M2/4	*
+8ryy	16ryy	.	4ff#X~	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	.	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8b'L	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8ee'J	.
+.	16ryy	.	.	.
+=6	=6	=6	=6	=6
+8ryy	16ryy	.	4ff#X~	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	.	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8b'L	.
+.	16ryy	.	.	.
+8ryy	16ryy	.	8ee'J	.
+.	16ryy	.	.	.
+*	*X8va	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

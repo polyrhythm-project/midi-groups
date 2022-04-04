@@ -1,0 +1,154 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T195_Sch-w10p101-102m36-44]
+**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*
+*part2	*part2	*part2	*part2	*part1	*	*
+*staff3	*staff3	*staff2	*staff2	*staff1	*	*
+*I"Piano	*	*I"Piano	*	*I"Voice	*	*
+*clefF4	*	*clefG2	*	*clefF4	*	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*
+*M6/4	*	*M6/4	*	*M6/4	*	*
+=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:a:B:t=Etwas bewegter
+8ryy	.	8ryy	4ryy	2%3r	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	4ryy	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	4ryy	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4ryy	.	8ryy	4ryy	8r	.	.
+.	.	8ryy	.	8A	4ryy	4ryy
+*grp:B	*	*	*	*	*	*
+8r	.	8ryy	.	4G#X	4ryy	.
+8A-X	.	8ryy	.	.	.	.
+12cL	.	8ryy	.	4Fn	4ryy	.
+12A-	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.
+12GJ	.	.	.	.	.	.
+4G-X	.	8ryy	.	4.C#X	4ryy	4ryy
+.	.	8ryy	.	.	.	.
+8r	.	8ryy	.	.	.	.
+8G-	.	8ryy	.	8D	4ryy	.
+12B-L	.	8ryy	.	4F	4ryy	.
+12G-	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.
+12FnJ	.	.	.	.	.	4ryy
+=3	=3	=3	=3	=3	=3	=3
+4En	.	8ryy	.	4.cn	4ryy	4ryy
+.	.	8ryy	.	.	.	.
+*grp:A	*	*	*	*	*	*
+4ryy	.	8ryy	.	.	.	.
+.	.	8ryy	.	8A-X	4ryy	.
+4ryy	.	8ryy	.	4Gn	4ryy	4ryy
+.	.	8ryy	.	.	.	.
+4ryy	.	8ryy	.	4r	.	.
+.	.	8ryy	.	.	.	.
+4ryy	.	8ryy	.	4r	.	.
+.	.	8ryy	.	.	.	.
+4ryy	.	8ryy	.	(8AnL	4ryy	4ryy
+.	.	8ryy	4ryy	8B-XJ)	.	.
+=4	=4	=4	=4	=4	=4	=4
+*grp:A	*	*	*	*	*	*
+4ryy	.	8ryy	4ryy	2dn	4ryy	.
+.	.	8ryy	.	.	.	.
+2ryy	.	8ryy	.	.	.	.
+.	.	8ryy	.	.	.	.
+.	.	8ryy	.	(8A#XL	4ryy	.
+.	.	8ryy	.	8BnJ)	.	.
+2ryy	.	8ryy	.	4.d	4ryy	.
+.	.	8ryy	.	.	.	.
+.	.	8ryy	.	.	.	.
+.	.	8ryy	.	8A#X	4ryy	.
+4ryy	.	8ryy	.	4Bn	4ryy	.
+.	.	8ryy	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8ryy	4ryy	2dn	4ryy	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	4E-X	4ryy	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	2.r	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+4ryy	.	8ryy	4ryy	8r	.	.
+.	.	8ryy	.	8C	4ryy	4ryy
+*grp:B	*	*	*	*	*	*
+8r	.	8ryy	.	4D-X	4ryy	.
+8B-X	.	8ryy	.	.	.	.
+12dnL	.	8ryy	.	4F	4ryy	.
+12B-X	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.
+12AnJ	.	.	.	.	.	.
+4A-X	.	8ryy	.	4.A-X	4ryy	.
+.	.	8ryy	.	.	.	.
+8r	.	8ryy	.	.	.	.
+8Gn	.	8ryy	.	8An	4ryy	.
+12B-XL	.	8ryy	.	4c	4ryy	.
+12G-X	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.
+12FnJ	.	.	.	.	.	.
+!!linebreak:original
+=7	=7	=7	=7	=7	=7	=7
+*	*	*^	*	*	*	*
+4E-X	.	8ryy	2.ryyyy	4ryy	4.Bn	4ryy	.
+.	.	8ryy	.	.	.	.	.
+*grp:A	*	*	*	*	*	*	*
+4ryy	.	8ryy	.	.	.	.	.
+.	.	8ryy	.	.	8Gn	4ryy	.
+4ryy	.	8ryy	.	.	4F#X	4ryy	.
+.	.	8ryy	.	.	.	.	.
+*	*	*v	*v	*	*	*	*
+8ryy	.	4ryy	.	4r	.	.
+8ryy	.	.	.	.	.	.
+8ryy	.	4ryy	.	4r	.	.
+8ryy	.	.	.	.	.	.
+*	*	*^	*	*	*	*
+!	!	!LO:TX:b:t=pesante	!	!	!	!	!LO:DY:rj
+8ryy	.	8ryy	4ryy	4ryy	8fn	4ryy	4ryy
+8ryy	.	8ryy	.	.	8e-X	4ryy	.
+*	*	*v	*v	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8
+*grp:B	*	*	*	*	*	*
+8GGnL 8E-X	.	8ryy	.	4.c#X	4ryy	.
+8Bn	.	8ryy	.	.	.	.
+8AA 8F	.	8ryy	.	.	.	.
+8c#X	.	8ryy	.	8Bn	4ryy	.
+8BBn 8Gn	.	8ryy	.	4A	4ryy	.
+8e-XJ	.	8ryy	.	.	.	.
+8C#XL 8A	.	8ryy	.	4.Gn	4ryy	.
+8fn	.	8ryy	.	.	.	.
+8E-X 8Bn	.	8ryy	.	.	.	.
+8g	.	8ryy	.	8Fn	4ryy	.
+8Fn 8c#X	.	8ryy	4ryy	4E-X	4ryy	.
+8anJ	.	8ryy	4ryy	.	.	.
+=9	=9	=9	=9	=9	=9	=9
+*grp:A	*	*	*	*	*	*
+8ryy	.	4ryy	4ryy	2en	4ryy	.
+8ryy	.	.	.	.	.	.
+4ryy	.	4.ryy	.	.	.	.
+4.ryy	.	.	.	4A	4ryy	.
+.	.	8ryy	.	.	.	.
+.	.	4ryy	.	2.r	.	.
+8ryy	4ryy	.	.	.	.	.
+4ryy	.	4.ryy	.	.	.	.
+4ryy	.	.	.	.	.	.
+.	4ryy	8ryy	4ryy	.	.	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2022/01/11

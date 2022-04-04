@@ -1,0 +1,131 @@
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!OMV: Cuadro V: La Fuga (The Escape)
+!!!example: 315
+!!!work: Fal-8
+!!!OMD-full: Andante molto sostenuto
+!!!OMD: Allegretto vivace
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*	*grp:A	*grp:A	*grp:A	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*	*part9	*part9	*part9	*part8	*	*part8	*	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICstr	*ICstr	*	*ICklav	*	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*	*	*	*Iarpa	*Iarpa	*	*Icemba	*	*Icemba	*	*Itimpa	*	*Itromp	*	*Icor	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trujamán	*	*	*I"Harp	*	*	*	*	*I"Harpsichord	*	*I"Timpani	*	*I"Trumpet [C]	*	*I"2 Horns in F	*	*I"Clarinet in Bb	*	*I"Cor Anglais	*	*I"2 Oboes	*	*I"Flute	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Truj.	*	*	*I'Hp.	*	*	*	*	*I'Hpsd.	*	*I'Timp.	*	*I'Tpt.	*	*I'Hn.	*	*I'Cl.	*	*I'C. A.	*	*I'Ob.	*	*I'Fl.	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*	*MM76	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*	*MM76	*
+!!LO:REH:t=67
+=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)	=36(633)
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=(Btte. di legno)	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=1 Sola	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis.	!	!LO:TX:a:t=unis. (pos. nat.)	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	8c'	f	8E-X'L 8c	f	16ryy	4ryy	16B-X'LL 16g-X	> f	4.ryy	.	.	8ryy	8ryy	4ryy	4.ryyyy	.	24ryy	8ryy	4ryy	8AA-X'	mf	4.ryy	.	4.ryy	4ryy	8ryy	4ryy	4.ryy	.	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	4ryy	8ryy	4ryy	16E-'LL 16cLL	p	16E-' 16c	p	8ryy	.	8B-' 8g-	] p	.	.	.	8ryy	8ryy	.	.	.	24ryy	8ryyyy	4ryy	8r	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s marc.	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	8ryy	.	8E-'JJ 8cJJ	.	8E-'J 8c	.	8ryy	.	16B-'L 16g-	.	.	.	.	8ryy	8ryy	.	.	.	24ryy	8ryyyy	.	8AA-	p	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+8ryy	.	8ryy	.	16E-X'LL 16c	.	16E-X'LL 16c	.	16ryy	4ryy	8B-X'L 8g-X	.	4ryy	4ryy	4ryy	4.ryy	4.ryy	.	4.ryyyy	.	24ryy	.	8r	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8E-' 8c	.	8E-' 8c	.	8ryy	.	16B-'L 16g-	.	.	.	.	.	.	.	.	.	24ryy	.	8AA-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	16E-' 16c	.	16E-' 16c	.	8ryy	.	8B-'J 8g-	.	8ryy	.	4ryy	.	.	.	.	.	24ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16cJJ	.	16E-' 16cJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	8E-X' 8cL	.	8E-X' 8cL	.	16ryy	.	16B-X'LL 16g-X	.	4.ryy	.	4ryy	4.ryy	4.ryy	.	4.ryyyy	.	24ryy	8ryy	.	8AA-X	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ryy	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	16E-' 16c	.	16E-' 16c	.	8ryy	.	8B-' 8g-	.	.	.	.	.	.	.	.	.	24ryy	8ryyyy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8E-' 8cJ	.	8E-' 8cJ	.	8ryy	.	16B-'L 16g-	.	.	.	.	.	.	.	.	.	24ryy	8ryyyy	.	8AA-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[con sord.]	!	!	!	!	!	!	!	!	!	!LO:TX:t=(modo ord.)	!
+8ryy	.	8ryy	.	16E-X' 16cLL	.	16E-X' 16cLL	.	8ryy	.	8B-X'L 8g-X	.	8ryy	.	4ryy	4.ryy	4.ryy	.	4ryyyy	.	24ryy	.	8r	.	8ryy	.	4ryy	.	4.ryy	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 16c	.	16E-' 16c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8E-' 8c	.	8E-' 8c	.	8ryy	.	16B-'L 16g-	.	8ryy	.	4ryy	.	.	.	.	.	24ryy	.	8AA-X	.	8ryy	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!LO:TX:t=[1.2.]	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	8cJJ	sf	8cJJ	sf	8ryy	4ryy	8g-J	sf	8ryy	.	4ryy	.	.	.	8ryy	4ryy	8ryy	.	8r	.	8ryy	4ryy	8ryy	4ryy	.	.	8ryy	4ryy	8ryy	4ryy	8ryy	4ryy
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[1.]	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	8E-X' 8cL	p	8E-X' 8cL	p	4.ryy	.	16B-X'LL 16g-X	p	4.ryy	.	4ryy	4.ryy	4.ryy	.	4.ryyyy	4ryy	24ryy	8ryy	4ryy	8AA-X	.	4.ryy	.	4.ryy	4ryy	4.ryy	.	4.ryy	.	4.ryy	.	4.ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	16E-' 16c	.	16E-' 16c	.	.	.	8B-' 8g-	.	.	.	.	.	.	.	.	.	24ryy	8ryyyy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16E-' 8c	.	16E-' 8c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8E-' 8cJ	.	8E-' 8cJ	.	.	.	16B-'L 16g-	.	.	.	.	.	.	.	.	.	24ryy	8ryyyy	.	8AA-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][(s7)]{(s8,s9,s10)}{(s11,s12)}s13[(s14,s15,s16,s17,s18,s19)]
+!!!CDT: 1876/11/23-1946/11/14
+!!!CBL: Cádiz, Spain
+!!!CDL: Alta Gracia, Argentina
+!!!CNT: Spanish
+!!!AGN: Stage; Theatrical
+!!!MCN: Falla, Manuel de
+!!!MDT: 1923/03/23
+!!!MGN: Orquesta Bétia de Cámara
+!!!MLC: Seville, Spain
+!!!MPD: 1923
+!!!MPN:
+!!!ODT: 1923
+!!!PDT: 1924
+!!!excerpt-start-measure: 36(633)
+!!!excerpt-end-measure: 40(637)
+!!!excerpt-start-time: 4:13
+!!!excerpt-end-time: 4:18
+!!!excerpt-duration-sec: 5
+!!!excerpt-time-signature: 3/8
+!!!excerpt-tempo-beat: eighth
+!!!excerpt-tempo-rate: 152
+!!!excerpt-meter-type: triple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

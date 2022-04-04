@@ -1,0 +1,146 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T644_Hin-w47p51h6m3-h7m2]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Clarinet in Bb	*	*I"Oboe	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Cl.	*	*I'Ob.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Iclars	*	*	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*
+*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
+=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
+!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=176]	!
+!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack
+8ryy	4ryy	8%9ryy	.	8ryy	4ryy	8%9r	.	(2.cc#XZ]	p
+8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	4.dd#X	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
+4ryy	4ryy	8%9ryy	.	4ryy	4ryy	8%9r	.	2.b#X	<
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	4.cc#X	.
+8ryy	4ryy	.	.	8ryy	4ryy	.	.	.	[[
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+4ryy	4ryy	8%9ryy	.	4ryy	4ryy	8%9r	.	4.ee	>
+8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	2.dd#X	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	4ryy	.	.	4ryy	4ryy	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	]]
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+4ryy	.	8%9ryy	.	4ryy	.	8%9r	.	4.cc#X)	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	(8ddnL	.
+.	.	.	.	.	.	.	.	8cc#	.
+8ryy	.	.	.	8ryy	.	.	.	8ddJ	.
+4ryy	4ryy	.	.	4ryy	4ryy	.	.	8eeL	<
+.	.	.	.	.	.	.	.	8dd	.
+8ryy	.	.	.	8ryy	.	.	.	8eeJ	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+8ryy	.	8%9ryy	.	8ryy	.	8%9r	.	[2.ffn)	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	4.ff_	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
+8ryy	.	8%9ryy	.	8ryy	.	8%9r	.	(4.ff]	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	4.ee)	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	(<8qee/	.
+4ryy	.	.	.	4ryy	.	.	.	(4.gg^)	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+4ryy	.	8%9ryy	.	4ryy	.	8%9r	.	2.ff#X)	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+4ryy	.	.	.	4ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	(<8qff#/	.
+8ryy	.	.	.	8ryy	.	.	.	(4.aa^)	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+8ryy	.	.	.	8ryy	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	8%9r	.	4.gg#X)	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+.	.	.	.	.	.	.	.	(<8qgg#/	.
+4ryy	.	4ryy	.	4ryy	.	.	.	(2.bb^)	mf
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+4ryy	.	4ryy	.	4ryy	.	8%9r	.	[2.aa#X)	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	4.aa#_	>
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+8ryy	.	8ryy	.	8ryy	.	8%9r	.	4.aa#]	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	(4.bb~	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	4.aan	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+4ryy	.	4ryy	.	4ryy	.	8%9r	.	4.gg#X)	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	(4.aa~	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	4.ggn	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+4ryy	.	4ryy	.	4ryy	.	8%9r	.	4.ff#X)	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	.	.	(4.gg~	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	4.ffn	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+4ryy	.	4ryy	.	4ryy	.	8%9r	.	4.ee	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	2.ff~	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	.	.	.	.
+8ryy	.	8ryy	.	8ryy	.	.	.	.	.
+!!LO:REH:t=7
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+4.ryy	4ryy	2.ryy	4ryy	4ryy	4ryy	4.r	.	4cc)	p
+.	.	.	.	8ryy	.	.	.	8r	.
+4.ryy	.	.	.	4ryy	.	(4.f	p	4.r	.
+.	.	.	.	8ryy	.	.	.	.	.
+4.ryy	.	4.ryy	.	4ryy	.	4.b-	.	4.r	.
+.	.	.	.	8ryy	.	.	.	.	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+4.ryy	4ryy	4.ryy	4ryy	8ryy	4ryy	[2.gg-X^)	<	8%9r	.
+.	.	.	.	8ryy	.	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	.
+4.ryy	.	2.ryy	.	4ryy	.	.	.	.	.
+.	.	.	.	8ryy	.	.	.	.	.
+4.ryy	4ryy	.	4ryy	4ryy	4ryy	4.gg-_	.	.	.
+.	.	.	.	8ryy	.	.	[[	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5)]
+!!!RDF**dynam: > = dim.
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: Z = editorial accidental, brack
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/15
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/18

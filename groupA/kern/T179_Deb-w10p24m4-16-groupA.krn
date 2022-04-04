@@ -1,0 +1,128 @@
+!!!COM: Claude (-Achille) Debussy
+!!!OTL: [T179_Deb-w10p24m4-16]
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*staff2/3	*staff1	*staff1	*
+*I"Piano	*I"Piano	*	*I"Soprano Solo	*	*
+*I'Pno.	*I'Pno.	*	*I'S. Solo	*	*
+*clefG2	*clefG2	*	*clefG2	*	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*
+*E:	*E:	*	*E:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+=4	=4	=4	=4	=4	=4
+!	!	!	!LO:TX:t=[[quarter]=64]	!	!
+*	*	*	*	*	*
+!	!LO:TX:t=P:problem: Cross-Measure Beaming still need to be implemented.	!	!	!	!
+4c#<	\8gnL	pp	4ryy	.	.
+.	8bJ)	.	.	.	.
+!	!LO:T:b	!	!	!	!
+4ryy	(N[[8c#<	.	8ryy	.	.
+.	N[>8d#<	.	8ryy	4ryy	4ryy
+4c#N]] 4d#N]	\8g	.	8ryy	4ryy	.
+.	8bJ)	.	8ryy	4ryy	.
+!!LO:REH:t=5
+=5	=5	=5	=5	=5	=5
+!	!LO:T:b	!	!	!	!
+4ryy	(N[[8c#<	.	4ryy	4ryy	.
+.	N[>8d#<	.	.	.	.
+4c#N]] 4d#N]	\8f#	.	8ryy	4ryy	.
+.	\8aJ)	.	8ryy	4ryy	.
+!	!LO:T:b	!	!	!	!
+4ryy	(N[[8c#<	.	8ryy	4ryy	.
+.	N[>8d#<	.	8ryy	4ryy	.
+=6	=6	=6	=6	=6	=6
+4c#N]] 4d#N]	\8gn	.	2ryy	4ryy	.
+.	\8bJ)	.	.	.	.
+4ryy	(N[[8c#<	.	.	.	.
+.	N[>8d#<	.	.	.	.
+4c#N]] 4d#N]	\8g	.	4ryy	4ryy	.
+.	\8bJ)	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4ryy	(N[[8c#<	.	4ryy	.	.
+.	N[>8d#<	.	.	.	.
+4c#N]] 4d#N]	\8f#	.	4ryy	4ryy	.
+.	\8aJ)	.	.	.	.
+4ryy	(N[[8c#<	.	8ryy	4ryy	.
+.	N[>8d#<	.	8ryy	4ryy	.
+=8	=8	=8	=8	=8	=8
+4c#N]] 4d#N]	\8f#	.	4ryy	4ryy	.
+.	\8aJ)	.	.	.	.
+4ryy	(N[[8c#<	.	8ryy	4ryy	4ryy
+.	N[>8d#<	.	8ryy	4ryy	.
+4c#N]] 4d#N]	\8f#	<	8ryy	4ryy	.
+.	\8aJ)	.	8ryy	4ryy	4ryy
+*clefF4	*	*	*	*	*
+!!LO:REH:t=9
+=9	=9	=9	=9	=9	=9
+4B	(<8c#L	[	2.ryy	4ryy	4ryy
+.	8d#	.	.	.	.
+4Gn	8gn	.	.	.	.
+.	8bJ)	.	.	.	.
+!	!LO:TX:b:i:t=dim.	!	!	!	!
+4D#	(<8c#L	.	.	.	.
+.	8d#	.	.	.	.
+!!linebreak:original
+=10	=10	=10	=10	=10	=10
+4BB	8gn	.	4ryy	4ryy	.
+.	8bJ)	.	.	.	.
+4GGn	(<8c#L	.	4ryy	.	.
+.	8d#	.	.	.	.
+4DD#	8g	.	4ryy	.	.
+.	8bJ)	.	.	.	.
+*clefG2	*	*	*	*	*
+=11	=11	=11	=11	=11	=11
+4ryy	(N[[8c#<	.	4ryy	.	.
+.	N[>8d#<	.	.	.	.
+4c#N]] 4d#N]	\8f#	.	4ryy	4ryy	.
+.	\8aJ)	.	.	.	.
+4ryy	(N[[8c#<	.	4ryy	4ryy	.
+.	N[>8d#<	.	.	.	.
+=12	=12	=12	=12	=12	=12
+4c#N]] 4d#N]	\8gn	.	8ryy	4ryy	.
+.	\8bJ)	.	8ryy	4ryy	.
+4ryy	(N[[8c#<	.	8ryy	4ryy	.
+.	N[>8d#<	.	8ryy	4ryy	.
+4c#N]] 4d#N]	\8g	.	8ryy	4ryy	.
+.	\8bJ)	.	8ryy	4ryy	.
+!!LO:REH:t=13
+=13	=13	=13	=13	=13	=13
+4ryy	(N[[8c#<	.	2ryy	4ryy	.
+.	N[>8e<	.	.	.	.
+4c#N]] 4eN]	\8gn	.	.	.	.
+.	\8bJ)	.	.	.	.
+4ryy	(N[[8c#<	.	4ryy	4ryy	.
+.	N[>8e<	.	.	.	.
+=14	=14	=14	=14	=14	=14
+4c#N]] 4eN]	\8gn	.	4ryy	.	.
+.	\8bJ)	.	.	.	.
+4ryy	(N[[8c#<	< [	2ryy	4ryy	.
+.	N[>8d#<	.	.	.	.
+4c#N]] 4d#N]	\8g	.	.	.	.
+.	\8bJ)	.	.	.	.
+*clefF4	*	*	*	*	*
+=15	=15	=15	=15	=15	=15
+[2.GG#X [2.D#	(<8BL	pp	8ryy	4ryy	.
+.	8d#	.	8ryy	4ryy	.
+.	8g#X	.	8ryy	4ryy	.
+.	8bJ)	.	8ryy	4ryy	.
+.	(<8BL	.	8ryy	4ryy	.
+.	8d#	.	8ryy	4ryy	.
+=16	=16	=16	=16	=16	=16
+*	*^	*	*	*	*
+!	!	!	!	!LO:TX:a:t=retenu -    -	!	!
+2GG#] 2D#]	8g#	2ryy	.	8ryy	.	.
+.	/8bJ)	.	.	8ryy	4ryy	.
+.	(>8BL	.	.	4ryy	4ryy	.
+.	8f#	.	.	.	.	.
+4CC# 4GG# 4E	8g#	4c# 4e	.	4ryy	4ryy	.
+.	8cc#J)	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!EED: Daniel Wright
+!!!EEV: 2021/11/12

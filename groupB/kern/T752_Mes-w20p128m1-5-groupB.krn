@@ -1,0 +1,60 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T752_Mes-20/128/1-5]
+**kern	**dynam	**kern	**dynam
+*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+!!pagebreak:original
+*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M2/4	*	*M2/4	*
+=1	=1	=1	=1
+!	!	!LO:TX:t=[eighth]=66	!
+!LO:TX:b:t=(mode 4^4)	!	!	!
+!	!	!LO:TX:a:t=(canon rhythmique par ajout du point)	!
+!	!LO:DY:t= %s impalpable	!LO:TX:a:t=(mode 3^4)	!LO:DY:t= %s impalpable
+*ped	*	*	*
+4.ryy	4ryy	4ryy	4ryy
+.	.	4ryy	.
+*ped	*	*	*
+8ryy	.	.	.
+=2	=2	=2	=2
+4ryy	.	4ryy	.
+*ped	*	*	*
+4ryy	.	8ryy	.
+.	.	8ryy	.
+=3	=3	=3	=3
+8ryy	.	16ryy	.
+.	.	8ryy	.
+*ped	*	*	*
+8ryy	.	.	.
+.	.	16ryy	.
+16ryy	.	16ryy	.
+8.ryy	.	8ryy	.
+.	.	16ryy	.
+!!linebreak:original
+=4	=4	=4	=4
+16ryy	.	16ryy	.
+32ryy	.	8.ryy	.
+32ryy	.	.	.
+8ryy	.	.	.
+32ryy	.	8.ryy	.
+!	!	!LO:TX:b:i:t=etc.	!
+32ryy	.	.	.
+8ryy	.	.	.
+32ryy	.	16ryy	.
+32ryy	.	.	.
+=5	=5	=5	=5
+8ryy	.	8ryy	.
+32ryy	.	16ryy	.
+32ryy	.	.	.
+16ryy	.	16ryy	.
+16ryy	.	16ryy	.
+32ryy	.	8.ryy	.
+32ryy	.	.	.
+8ryy	.	.	.
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

@@ -1,0 +1,90 @@
+!!!COM: Copland, Aaron
+!!!OTL: T716_Cop-w20p6m123-128
+**kern	**kern	**dynam
+*grp:A	*grp:B	*grp:A
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*	*8va	*
+=1	=1	=1
+*	*^	*
+!	!LO:TX:t=[[quarter]=80]	!	!
+!	!LO:TX:b:i:t=poco rubato	!	!
+!	!LO:TX:a:t=Più Largamente	!	!
+(8DDD#XL 8DD#X	8ryyyy	8ryy	ff
+8FFF#X 8FF#X	8ryyyy	8ryy	.
+8BBB 8BB	8ryyyy	8ryy	.
+8CC#XJ 8C#X	8ryyyy	8ryy	.
+*	*v	*v	*
+*	*	*
+*	*^	*
+8EE 8E	4ryyyy	2ryy	.
+*	*X8va	*	*
+4.AA 4.A)	.	.	.
+.	8ryy	.	.
+.	8ryy	.	.
+=2	=2	=2	=2
+*^	*	*	*
+2ryy	(>8DDD#XL 8DD#X	4rbbyy	8ryy	.
+.	8FFF#X 8FF#X	.	4.ryy	.
+.	8BBB 8BB	8ryy	.	.
+.	8CC#XJ 8C#X	8ryy	.	.
+4r	8EE/ 8E/	8ryy	2ryy	.
+.	4.AA/ 4.A/)	8ryy	.	.
+8B\L	.	8ryy	.	.
+8c#XJ	.	8ryy	.	.
+=3	=3	=3	=3	=3
+8r	2ryy	4rbbyy	8ryy	.
+(8DDD#X 8DD#X	.	.	4.ryy	.
+*	*	*8va	*	*
+8FFF#XL 8FF#X	.	8ryy	.	.
+8BBBJ 8BB	.	8ryy	.	.
+8CC#XL 8C#X	4ryy	8ryy	2ryy	.
+8EEJ 8E	.	8ryy	.	.
+4AA 4A)	8ryy	8ryy	.	.
+.	(>8B	8ryy	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+!!linebreak:original
+=4	=4	=4
+*M3/4	*M3/4	*
+8c#X	8ryy	.
+*clefG2	*	*
+8e	8ryy	.
+2a)	8ryy	.
+.	8ryy	.
+.	8ryy	.
+.	8ryy	.
+*clefF4	*X8va	*
+=5	=5	=5
+*M4/4	*M4/4	*
+*	*^	*
+(8DDD#XL 8DD#X	2ryyyy	8ryy	.
+8FFFn 8FFn	.	4.ryy	.
+8DDn 8Dn	.	.	.
+8FFJ 8F	.	.	.
+8GG 8G	4ryy	8ryy	.
+4.C 4.c)	.	4.ryy	.
+.	8ryy	.	.
+.	8ryy	.	.
+=6	=6	=6	=6
+(8DDD#XL 8DD#X	8ryy	4ryy	.
+8FFFn 8FFn	4.ryy	.	.
+8DDn 8Dn	.	8ryy	.
+8FFJ 8F	.	8ryy	.
+8GG 8G	4ryyyy	8ryy	.
+4.C 4.c)	.	8ryy	.
+.	8ryy	4ryy	.
+.	8ryy	.	.
+*	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

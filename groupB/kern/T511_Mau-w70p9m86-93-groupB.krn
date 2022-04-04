@@ -1,0 +1,90 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T511_Mau-w70p9m86-93]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*
+*I'Pno.	*	*	*I'Vc.	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*
+*met(c)	*met(c)	*	*met(c)	*
+=1	=1	=1	=1	=1
+*	*	*	*	*
+!!LO:TX:a:B:t=Andante
+!!LO:TX:a:B:t=Var. III
+!	!	!	!	!LO:DY:t=%s dolce
+2ryy	2ryy	4ryy	8f]	p
+.	.	.	(4e-X	.
+.	.	.	4f)	.
+4.ryy	4.ryy	.	.	.
+.	.	.	(4e-	.
+8ryy	8ryy	.	8f	.
+=2	=2	=2	=2	=2
+8ryy	8ryy	.	4e-X	.
+4.ryy	4.ryy	.	.	.
+.	.	.	4f)	.
+4ryy	4ryy	.	(4e-	.
+4ryy	4ryy	.	8fL	.
+.	.	.	[8dJ	.
+=3	=3	=3	=3	=3
+4.ryy	4.ryy	.	8d])	.
+.	.	.	(4f	.
+8ryy	8ryy	4ryy	4d)	.
+8ryy	8ryy	.	.	.
+4.ryy	4.ryy	.	(8en	<
+.	.	.	4A	.
+=4	=4	=4	=4	=4
+8ryy	8ryy	4ryy	8a)	mf [
+4.ryy	4.ryy	.	(4a-X	.
+.	.	.	[8g	.
+2ryy	2ryy	.	4g])	.
+.	.	.	(4g-X	.
+!!linebreak:original
+=5	=5	=5	=5	=5
+2.ryy	2.ryy	.	4f)	.
+*	*	*	*clefF4	*
+.	.	.	4B-X~	.
+.	.	.	(8A	.
+.	.	.	4B-)	.
+!LO:T:b	!	!	!	!
+4ryy	4ryy	4ryy	.	.
+.	.	.	([8E-X	<
+=6	=6	=6	=6	=6
+2ryy	2ryy	.	8E-]	.
+.	.	4ryy	4D)	[
+.	.	.	(8GG	.
+!	!	!LO:DY:rj	!	!
+2ryy	2ryy	4ryy	4.C)	.
+.	.	.	[8c	.
+=7	=7	=7	=7	=7
+2ryy	2ryy	4ryy	8cL]	.
+.	.	.	(8B-XJ	>
+.	.	.	[4d-X	.
+4ryy	4ryy	.	8d-])	]
+.	.	.	4c~	.
+!LO:T:b	!LO:T:a	!	!	!
+4ryy	4ryy	.	.	.
+.	.	.	(8B-	.
+=8	=8	=8	=8	=8
+8ryy	8ryy	.	4d-X	<
+4.ryy	4.ryy	.	.	.
+*	*	*	*clefG2	*
+.	.	.	[4b-X)	[
+4ryy	4ryy	4ryy	8b-]	.
+.	.	.	4a~	.
+!	!LO:T:a	!	!	!
+4ryy	4ryy	.	.	.
+.	.	4ryy	(8d-i	.
+*	*	*	*clefF4	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/09

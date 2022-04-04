@@ -1,0 +1,85 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T680_Hin-w90p88m191-195]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*	*grp:A	*	*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*	*grp:C	*	*grp:A	*	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*
+*part21	*	*part20	*	*part19	*	*part18	*	*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff21	*	*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin 2	*	*I"Violin 1	*	*I"Glockenspiel	*	*I"Timpani	*	*I"Tuba	*	*I"Trombone 2	*	*I"Trombone 1	*	*I"Trumpet in Bb	*	*I"Horn in F 2.3.	*	*I"Horn in F 1	*	*I"Bassoon 2	*	*I"Bassoon 1	*	*I"Clarinet in Bb 2	*	*I"Clarinet in Bb 1	*	*I"Oboe 2	*	*I"Oboe 1	*	*I"Flute	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Glock.	*	*I'Timp.	*	*I'Tba.	*	*I'Tbn.	*	*I'Tbn.	*	*I'Tpt.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iglock	*	*Itimpa	*	*Ituba	*	*Itromt	*	*Itromt	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Ifagot	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Ioboe	*	*Iflt	*	*Iflt	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd-14c24	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:t=[[quarter]=123]	!LO:DY:ed=brack
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	.	16ELL	4ryy	16dLL	4ryy	16gg#XLL	4ryy	16fffLL	4ryy	8ryy	.	4ryy	4ryy	8ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	8ryy	.	8ryy	.	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy	2.ryy	4ryy
+.	.	16E	.	16d	.	16gg#	.	16fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!
+8ryy	4ryy	16r	.	16r	.	16r	.	16r	.	8ryy	4ryy	.	.	8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	8ryy	4ryy	8ryy	4ryy	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BBJJ	.	16eJJ	.	16cccnJJ	.	16eeenJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16BBLL	.	16eLL	.	16cccLL	.	16eeeLL	.	8ryy	.	8ryy	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16r	.	16r	.	16r	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16E	.	16fn	.	16bb	.	16ggg	.	8ryy	.	16ryy	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16EJJ	.	16fJJ	.	16bbJJ	.	16gggJJ	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16r	.	16r	.	16r	.	16r	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	.	4ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16GLL	.	16e-XLL	.	16ccc#XLL	.	16aaaLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16GJJ	.	16e-JJ	.	16ccc#JJ	.	16aaaJJ	.	8ryy	.	16ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16r	.	16r	.	16r	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16ryy	.	16ALL	.	16gLL	.	16fffnLL	.	16bbbLL	.	4ryy	.	4ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.
+16ryy	.	16A	.	16g	.	16fff	.	16bbb	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16r	.	16r	.	16r	.	16r	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16DJJ	.	16fJJ	.	16eee-XJJ	.	16ccccJJ	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16DLL	.	16fLL	.	16eee-LL	.	16ccccKL	.	8ryy	.	8ryy	.	8ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	.	4ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16r	.	16r	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16G	.	16d	.	16a 16fff#X	.	16ddddL	.	8ryy	.	16ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16GJJ	.	16dJJ	.	16aJJ 16fff#	.	16ddddJJ	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16r	.	16r	.	16r	.	16r	.	8ryy	.	8ryy	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AALL 16F	.	16cLL	.	16aLL 16ddd	.	16aaaLL	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	16AAJJ 16F	.	16cJJ	.	16aJJ 16ddd	.	16aaaJJ	.	8ryy	.	16ryy	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16r	.	16r	.	16r	.	.	.	16ryy	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	16BBLL 16E	.	16eLL 16b	.	16gg#XLL 16eee	.	16eeeeLL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	.	4ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.
+.	.	16BB 16E	.	16e 16b	.	16gg# 16eee	.	16eeee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16r	.	16r	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16BBJJ 16E	.	16eJJ 16b	.	16gg#JJ 16eee	.	16eeeeJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16BBLL 16E	.	16eLL 16b	.	16gg#LL 16eee	.	16eeeeLL	.	8ryy	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16r	.	16r	.	16r	.	16r	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16BB 16E	.	16e 16b	.	16gg# 16eee	.	16eeee	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16BBJJ 16E	.	16eJJ 16b	.	16gg#JJ 16eee	.	16eeeeJJ	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8BB 8E	.	8e 8b	.	8gg# 8eee	.	8eeee	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	16ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+16ryy	.	16r	.	16r	.	16r	.	16r	.	4ryy	.	4ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.	2.ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16ELL 16B	.	16eLL 16ee	.	16bLL 16bb	.	16gg#XLL 16eee	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16E 16B	.	16e 16ee	.	16b 16bb	.	16gg# 16eee	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16EJJ 16B	.	16eJJ 16ee	.	16bJJ 16bb	.	16gg#JJ 16eee	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	8E 8B	.	8e 8ee	.	8b 8bb	.	8gg# 8eee	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	16ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16r	.	16r	.	16r	.	16r	.	8ryy	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	.	16EELL	.	16ELL	.	16eLL	.	16eLL	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16EE	.	16E	.	16e	.	16e	.	8ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	.	16EEJJ	.	16EJJ	.	16eJJ	.	16eJJ	.	.	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	.	16ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8ryy	.	8EE	.	8E	.	8e	.	8e	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8r	.	8r	.	8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.
+4ryy	.	4r	.	4r	.	4r	.	4r	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+4ryy	.	4r	.	4r	.	4r	.	4r	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2,s3,s4,s5,s6,s7,s8,s9,s10,s11,s12,s13,s14,s15,s16,s17,s18,s19,s20,s21

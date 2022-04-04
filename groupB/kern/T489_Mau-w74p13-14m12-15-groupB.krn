@@ -1,0 +1,62 @@
+!!!COM: Bohuslav (Jan) Martinů
+!!!OTL: [T489_Mau-74/13-14/12-15]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M6/4	*M6/4	*	*M6/4	*
+=12	=12	=12	=12	=12
+*	*^	*	*	*
+!	!	!	!	!LO:TX:t=[[quarter]=102]	!
+!	!	!	!	!	!LO:DY:t=%s espress.
+4ryy	2ryy	4ryy	4ryy	2ddd`	f
+4ryy	.	4ryy	.	.	.
+4ryy	4ryy@yy	4ryy	.	2.ddd	.
+!	!	!	!LO:DY:t=meno %s	!	!
+4ryy	4ryy@yy	4ryy	4ryy	.	.
+4ryy	4ryy@yy	4ryy	.	.	.
+4ryy	4ryy@yy	4ryy	.	4ccc~	.
+*	*v	*v	*	*	*
+=13	=13	=13	=13	=13
+*M5/4	*M5/4	*	*M5/4	*
+*	*^	*	*	*
+4ryy	4%5ryyyy	4ryy	.	4ccc~	.
+4ryy	.	4ryy	.	4ddd~	<
+4ryy	.	4ryy	.	(4ddd	.
+4ryy	.	4ryy	.	4eee)	[
+4ryy	.	4ryy	.	4ccc~	.
+*	*v	*v	*	*	*
+=14	=14	=14	=14	=14
+*M6/4	*M6/4	*	*M6/4	*
+*	*^	*	*	*
+4ryy	1.ryyyy	4ryy	.	2dddu	.
+4ryy	.	4ryy	.	.	.
+4ryy	.	4ryy	.	(2.ddd	.
+4ryy	.	4ryy	.	.	.
+4ryy	.	4ryy	.	.	.
+4ryy	.	4ryy	.	4ccc)	.
+*	*v	*v	*	*	*
+=15	=15	=15	=15	=15
+*M5/4	*M5/4	*	*M5/4	*
+*	*^	*	*	*
+4ryy	4%5ryyyy	4ryy	.	4ccc~	.
+4ryy	.	4ryy	4ryy	4ddd~	<
+4ryy	.	4ryy	.	(4ddd	.
+4ryy	.	4ryy	.	4bb)	.
+4ryy	.	4ryy	4ryy	4aa~	[
+*	*v	*v	*	*	*
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/04
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/05

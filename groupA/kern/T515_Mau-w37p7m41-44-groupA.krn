@@ -1,0 +1,75 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T515_Mau-w37p7m41-44]
+**kern	**kern	**dynam	**kern	**text	**text	**dynam
+*grp:A	*grp:A	*	*grp:B	*	*	*
+*part2	*part2	*part2	*part1	*part1	*part1	*
+*staff3	*staff2	*	*staff1	*	*	*
+*I"Piano	*	*	*I"Voice	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*	*
+*k[f#]	*k[f#]	*	*k[f#]	*	*	*
+*G:	*G:	*	*G:	*	*	*
+*M4/4	*M4/4	*	*M4/4	*	*	*
+=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*italic	*
+(>16ALL 16B-X 16d/	8GG< 8D<\	4ryy	8ryy	4ryy	4ryy	.
+16G)	.	.	.	.	.	.
+16GGG 16GG	2r..yy	.	8ryy	4ryy	4ryy	.
+([16AJJ [16B- [16d	.	.	.	.	.	.
+16ALL] 16B-] 16d]\	.	.	8ryy	4ryy	4ryy	.
+16GJ)	.	.	.	.	.	.
+8GGJ 8D	.	.	8ryy	4ryy	4ryy	.
+(16AL 16B- 16d\	.	.	4ryy	4ryy	4ryy	.
+8G~)	.	.	.	.	.	.
+16GGJ 16D	.	.	.	.	.	.
+8dd> 8b-> 8a>L	.	.	8ryy	4ryy	4ryy	.
+8GGGJ 8GG/	.	.	8ryy	4ryy	4ryy	.
+=2	=2	=2	=2	=2	=2	=2
+(16ALL 16B-X 16d	1ryy	.	8ryy	4ryy	4ryy	.
+16G)	.	.	.	.	.	.
+16GGG 16GG	.	.	8ryy	4ryy	4ryy	.
+([16AJJ [16B- [16d	.	.	.	.	.	.
+16ALL] 16B-] 16d]	.	.	12ryy	4ryy	4ryy	.
+16GJ)	.	.	.	.	.	.
+.	.	.	12ryy	4ryy	4ryy	.
+8GGJ 8D	.	.	.	.	.	.
+.	.	.	12ryy	4ryy	4ryy	.
+(16AKL 16B- 16d	.	.	4ryy	4ryy	4ryy	.
+8G~)	.	.	.	.	.	.
+16GGJk 16D	.	.	.	.	.	.
+8dd> 8b-> 8a>L	.	.	8ryy	4ryy	4ryy	.
+8GGGJ 8GG/	.	.	8ryy	4ryy	4ryy	.
+=3	=3	=3	=3	=3	=3	=3
+1ryy	(16dLL 16e 16a	.	8ryy	4ryy	4ryy	.
+.	16c)	.	.	.	.	.
+.	16AA< 16AAA<	.	8ryy	4ryy	4ryy	.
+.	([16dJJ [16e [16a	4ryy	.	.	.	.
+.	16dLL] 16e] 16a]	.	8ryy	4ryy	4ryy	.
+.	16cJ)	.	.	.	.	.
+.	8AA< 8E<J	.	8ryy	4ryy	4ryy	.
+.	(16cKL 16e 16g	.	4ryy	4ryy	4ryy	4ryy
+.	8BZ~)	.	.	.	.	.
+.	16E< 16EE<J	4ryy	.	.	.	.
+.	8bZL 8ee 8gg\	.	8ryy	4ryy	4ryy	.
+.	8EE< 8EEE<J	.	8ryy	.	.	4ryy
+=4	=4	=4	=4	=4	=4	=4
+1ryy	(16dLL 16e 16a	.	8ryy	4ryy	4ryy	.
+.	16c)	.	.	.	.	.
+.	16AA< 16AAA<	.	8ryy	4ryy	4ryy	.
+.	([16dJJ [16e [16a	.	.	.	.	.
+.	16dLL] 16e] 16a]	.	4ryy	4ryy	4ryy	.
+.	16cJ)	.	.	.	.	.
+.	8AA<J 8E<	.	.	.	.	.
+.	(16cKL 16d 16g	.	4ryy	4ryy	4ryy	.
+.	8B~)	.	.	.	.	.
+.	16GG<J 16D<	.	.	.	.	.
+.	8gL 8b 8dd\	.	8ryy	.	.	.
+!	!	!	!	!	!	!LO:DY:t=poco %s
+.	8GG< 8GGG<J	.	8ryy	4ryy	4ryy	4ryy
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: Z = editorial accidental, parenthesis
+!!!EED:Jason Lee
+!!!EEV:2022/01/20

@@ -1,0 +1,153 @@
+!!!COM: Aaron Copland
+!!!OTL: [T706_Cop-w8p14hOm2-6]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part3	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano	*I"Piano	*I"Piano	*I"Violoncello	*I"Violoncello	*I"Violin	*I"Violin
+*I'Pno.	*	*	*I'Vc.	*	*I'Vln.	*
+*clefF4	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*
+*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+*met(c)	*met(c)	*	*met(c)	*	*met(c)	*
+=1	=1	=1	=1	=1	=1	=1
+!	!LO:TX:b:i:t=[non legato]	!LO:DY:t=[ %s sempre ]	!	!	!	!LO:DY:a
+8EE-XL	16ff#XLL	ff	12ryy	.	8a^L 8aa	sf
+.	16ee	.	.	.	.	.
+!	!	!	!	!LO:DY:t=[ %s sempre ]	!	!
+.	.	.	12ryy	4ryy	.	.
+!	!	!	!	!	!	!LO:DY:rj:t=[ %s sempre ]
+8BBB-X	16ff#	.	.	.	8ff	ff
+.	.	.	12ryy	.	.	.
+.	16gg#XJJ	.	.	.	.	.
+8FF	16aaLL	.	12ryy	.	8dd	.
+.	16bb	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16ccc#X	.	.	.	8aJ 8aa	.
+.	.	.	12ryy	.	.	.
+.	16dddJJ	.	.	.	.	.
+8EE-L	16ccc#LL	.	12ryy	.	8aL 8aa	.
+.	16bb	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+!	!	!	!	!	!	!LO:DY:a
+8BBB-	16eee	.	.	.	8ff^	sf
+.	.	.	12ryy	.	.	.
+.	16dddJJ	.	.	.	.	.
+8FF	16ccc#LL	.	12ryy	.	8dd	.
+.	16bb	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16aa	.	.	.	8aJ 8aa	.
+.	.	.	12ryy	.	.	.
+.	16gg#JJ	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+8EE-XL	16ff#XLL	.	12ryy	.	8aL 8aa	.
+.	16ee	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8BBB-X	16dd	.	.	.	8a 8aa	.
+.	.	.	12ryy	.	.	.
+.	16cc#XJJ	.	.	.	.	.
+!	!	!	!	!	!	!LO:DY:a
+8FF	16bLL	.	12ryy	.	8a^ 8aa	sf
+.	16a	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16g#X	.	.	.	8ffJ	.
+.	.	.	12ryy	.	.	.
+.	16f#XJJ	.	.	.	.	.
+8EE-L	16eLL	.	12ryy	.	8ddL	.
+.	16f#	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8BBB-	16g#	.	.	.	8a 8aa	.
+.	.	.	12ryy	.	.	.
+.	16aJJ	.	.	.	.	.
+8FF	16bLL	.	12ryy	.	8a 8aa	.
+.	16cc#	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+!	!	!	!	!	!	!LO:DY:a
+8CCJ	16dd	.	.	.	8ff^J	sf
+.	.	.	12ryy	.	.	.
+.	16cc#JJ	.	.	.	.	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3
+8EE-XL	16bLL	.	12ryy	.	8ddL	.
+.	16a	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8BBB-X	16ee	.	.	.	8a 8aa	.
+.	.	.	12ryy	.	.	.
+.	16ddJJ	.	.	.	.	.
+8FF	16cc#XLL	.	12ryy	.	8a 8aa	.
+.	16b	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16a	.	.	.	8aJ 8aa	.
+.	.	.	12ryy	.	.	.
+.	16g#XJJ	.	.	.	.	.
+8EE-L	16f#XLL	.	12ryy	.	8aL 8aa	.
+.	16e	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+!	!	!	!	!	!	!LO:DY:a
+8BBB-	16f#	.	.	.	8ff^	sf
+.	.	.	12ryy	.	.	.
+.	16g#JJ	.	.	.	.	.
+8FF	16aLL	.	12ryy	.	8dd	.
+.	16b	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16cc#	.	.	.	8aJ 8aa	.
+.	.	.	12ryy	.	.	.
+.	16ddJJ	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!	!	!LO:DY:a
+8EE-XL	16cc#XLL	.	12ryy	.	8ff^L	sf
+.	16b	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8BBB-X	16a	.	.	.	8ddJ	.
+.	.	.	12ryy	.	.	.
+.	16eeJJ	.	.	.	.	.
+8FF	16ddLL	.	12ryy	.	8aL 8aaL	.
+.	16cc#	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16b	.	.	.	8aJ 8aaJ	.
+.	.	.	12ryy	.	.	.
+.	16aJJ	.	.	.	.	.
+8EE-L	16g#XLL	.	12ryy	.	8aL 8aaL	.
+.	16f#X	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8BBB-	16e	.	.	.	8a 8aa	.
+.	.	.	12ryy	.	.	.
+.	16f#JJ	.	.	.	.	.
+8FF	16g#LL	.	12ryy	.	8aJ 8aaJ	.
+.	16a	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+!	!	!	!	!	!	!LO:DY:a
+8CCJ	16b	.	.	.	8ff^L	sf
+.	.	.	12ryy	.	.	.
+.	16cc#JJ	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming	!
+8EE-XL	16ddLL	.	12ryy	.	8ddJ	.
+.	16ee	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8BBB-X	16ff#X	.	.	.	8aL 8aa	.
+.	.	.	12ryy	.	.	.
+.	16gg#XJJ	.	.	.	.	.
+8FF	16aaLL	.	12ryy	.	8a 8aa	.
+.	16bb	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16ccc#X	.	.	.	8a 8aa	.
+.	.	.	12ryy	.	.	.
+.	16dddJJ	.	.	.	.	.
+8EE-L	16ccc#LL	.	12ryy	.	8aJ 8aa	.
+.	16bb	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+!	!	!	!	!	!	!LO:DY:a
+8BBB-	16eee	.	.	.	8ff^L	sf
+.	.	.	12ryy	.	.	.
+.	16dddJJ	.	.	.	.	.
+8FF	16ccc#LL	.	12ryy	.	8ddJ	.
+.	16bb	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+8CCJ	16aa	.	.	.	8a 8aa	.
+.	.	.	12ryy	.	.	.
+.	16gg#JJ	.	.	.	.	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][({(s3,s4)})]

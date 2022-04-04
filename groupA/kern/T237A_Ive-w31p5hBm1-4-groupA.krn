@@ -1,0 +1,94 @@
+!!!COM: Charles Ives
+!!!OTL: [T237A_Ive-w31p5hBm1-4]
+**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern
+*part10	*part9	*part8	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part3	*part2	*part1
+*staff11	*staff10	*staff9	*staff8	*staff7	*	*staff6	*staff5	*staff4	*staff3	*	*staff2	*staff1
+*I"Bass	*I"'Cello	*I"Piano	*	*I"Timpani	*	*I"Triangle	*I"Bass Drum	*I"Trombone	*I"Trumpet in Bb I	*	*I"Bassoon	*I"Clarinet in Bb
+*I'Cb.	*I'Vc.	*I'Pno.	*	*I'Timp.	*	*I'Tri.	*I'B. D.	*I'Tbn.	*I'Tpt.	*	*I'Bsn.	*I'Cl.
+!!pagebreak:original
+*	*	*	*	*	*	*stria1	*stria1	*	*	*	*	*
+*clefF4	*clefF4	*clefF4	*clefG2	*clefF4	*	*clefX	*clefX	*clefF4	*clefG2	*	*clefF4	*clefG2
+*ITrd0c0	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*ITrd1c2
+*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[b-e-]	*	*k[]	*k[b-e-]
+*	*	*	*	*	*	*C:	*C:	*	*	*	*	*
+*M7/8	*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*M7/8
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:TX:t=[eighth]=156	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!LO:TX:t=[eighth]=156
+!	!LO:TX:a:t=B	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!LO:TX:a:t=B
+!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!	!	!LO:TX:b:t=[p]	!LO:TX:b:t=[p]	!LO:TX:b:t=[mf]	!LO:TX:a:t=Solo	!	!LO:TX:b:t=[mf]	!LO:TX:b:t=[mf]
+4.ryy	4.ryy	8%7ryy	8%7ryy	8%7ryy	4ryy	16%7ryy	4.ryy	8.ryy	8.ryy	4ryy	4.ryy	8.ryy
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	16ryy
+.	.	.	.	.	.	.	.	4.ryy	4.ryy	.	.	4.ryy
+16ryy	16ryy	.	.	.	.	.	16ryy	.	.	.	16ryy	.
+!	!	!	!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!
+4.ryy	4.ryy	.	.	.	.	16%7ryy	4.ryy	.	.	.	4.ryy	.
+*	*	*^	*^	*	*	*	*	*	*	*	*	*
+.	.	.	24%7ryy	.	24%7ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	8ryy
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	8ryy
+16ryy	16ryy	.	.	.	.	.	.	.	16ryy	.	.	.	16ryy	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+24%7ryy	24%7ryy	8%7ryy	8%7ryy	8%7ryy	4ryy	24%7ryy	4.ryy	8.ryy	8.ryy	.	24%7ryy	8.ryy
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	16ryy
+.	.	.	.	.	.	.	.	8.ryy	8.ryy	.	.	8.ryy
+!LO:TX:a:t=3	!LO:TX:a:t=3	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=3	!
+48%7.ryy	48%7.ryy	.	.	.	.	48%7.ryy	.	.	.	.	48%7.ryy	.
+.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	4.ryy	8.ryy	8.ryy	.	.	8.ryy
+!	!	!	!	!	!	!LO:TX:a:t=3	!	!	!	!	!	!
+96%7ryy	96%7ryy	.	.	.	.	96%7ryy	.	.	.	.	96%7ryy	.
+*	*	*^	*^	*	*	*	*	*	*	*	*	*
+.	.	.	24%7ryy	.	24%7ryy	.	.	.	.	.	.	.	.	.
+24%7ryy	24%7ryy	.	.	.	.	.	.	24%7ryy	.	.	.	.	24%7ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	8ryy
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	8ryy
+.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*^	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+16%7ryy	16%7ryy	4ryy	8%7ryy	8%7ryy	8%7ryy	4ryy	16%7ryy	4.ryy	8.ryy	8.ryy	.	16%7ryy	8.ryy
+.	.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	16ryy
+*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	4.ryy	4.ryy	.	.	4.ryy
+.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+!LO:TX:a:t=4	!LO:TX:a:t=4	!	!	!	!	!LO:TX:a:t=4	!	!	!	!	!LO:TX:a:t=4	!
+32%7ryy	32%7ryy	.	.	.	.	32%7ryy	4.ryy	.	.	.	32%7ryy	.
+*	*	*^	*^	*	*	*	*	*	*	*	*	*
+.	.	.	24%7ryy	.	24%7ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	8ryy
+32%7ryy	32%7ryy	.	.	.	.	.	.	32%7ryy	.	.	.	.	32%7ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.	.	8ryy
+.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:TX:a:t=2	!	!	!	!	!	!	!	!	!
+40%7ryy	40%7ryy	8%7ryy	8%7ryy	8%7ryy	4ryy	40%7ryy	4.ryy	8.ryy	8.ryy	.	40%7ryy	8.ryy
+40%7ryy	40%7ryy	.	.	.	.	40%7ryy	.	.	.	.	40%7ryy	.
+.	.	.	.	.	.	.	.	16ryy	16ryy	.	.	16ryy
+.	.	.	.	.	.	.	.	8.ryy	8.ryy	.	.	8.ryy
+!LO:TX:a:t=5	!LO:TX:a:t=5	!	!	!	!	!LO:TX:a:t=5	!	!	!	!	!LO:TX:a:t=5	!
+40%7ryy	40%7ryy	.	.	.	.	40%7ryy	.	.	.	.	40%7ryy	.
+.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+.	.	.	.	.	.	.	4.ryy	8.ryy	8.ryy	.	.	8.ryy
+40%7ryy	40%7ryy	.	.	.	.	40%7ryy	.	.	.	.	40%7ryy	.
+*	*	*^	*^	*	*	*	*	*	*	*	*	*
+.	.	.	24%7ryy	.	24%7ryy	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	12ryy
+40%7ryy	40%7ryy	.	.	.	.	.	.	40%7ryy	.	.	.	.	40%7ryy	.
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	12ryy
+.	.	.	.	.	.	.	.	.	.	12ryy	12ryy	.	.	12ryy
+.	.	.	.	.	.	.	.	.	16ryy	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6,s7)][({(s8,s9)})][(s10,s11)]

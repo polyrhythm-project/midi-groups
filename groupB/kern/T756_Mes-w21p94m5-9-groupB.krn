@@ -1,0 +1,53 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T756_Mes-21/94/5-9]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+!!pagebreak:original
+*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M2/4	*	*M2/4	*
+*8va	*	*8va	*
+=1	=1	=1	=1
+!	!	!LO:TX:t=[quarter]=50	!
+!	!	!LO:TX:a:B:t=Bien modéré	!
+!	!	!	!LO:DY:t= %s aérien
+*ped	*	*	*
+8ryy	4ryy	8eee-XL 8aaa-X 8ffff-X	pp
+32ryy	.	8fff-XJ 8bbb-X 8eeee-X	.
+32ryy	.	.	.
+16ryy	.	.	.
+16ryy	.	8cccnL 8ggg-X 8ddddn	.
+16ryy	.	.	.
+16.ryy	.	[8aanJ [8dddn [8aaa-X	.
+32ryy	.	.	.
+=2	=2	=2	=2
+4ryy	.	8aan] 8dddn] 8aaa-X]	.
+.	.	4eee-X 4fff-X 4aaan	.
+32ryy	.	.	.
+8..ryy	.	.	.
+.	.	8fff-X 8ddddn 8eeee-X	.
+!!linebreak:original
+=3	=3	=3	=3
+16.ryy	.	4eee-X 4aaa-X 4ffff-X	.
+32ryy	.	.	.
+8ryy	.	.	.
+4ryy	.	[4fff-X [4bbb-X [4eeee-X	.
+=4	=4	=4	=4
+16ryy	.	4fff-] 4bbb-] 4eeee-]	.
+8.ryy	.	.	.
+4ryy	.	4ccc 4ggg-X 4ddddn	.
+=5	=5	=5	=5
+8.ryy	.	4.aa 4.dddn 4.aaa-X	.
+16ryy	.	.	.
+4ryy	.	.	.
+*X8va	*	*	*
+.	.	[8eee-X [8fff-X [8aaan	.
+*	*	*X8va	*
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

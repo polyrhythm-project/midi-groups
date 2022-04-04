@@ -1,0 +1,77 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T463_Mau-w81p16h10m5-11]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Piano	*I"Piano	*I"Piano	*I"Flute	*I"Flute
+*I'Pno.	*	*	*I'Fl.	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M3/4	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1
+8F'L	(16fffLL 16aaa)	f	8r'yy	.
+.	16eeeJ	.	.	.
+8f'J	8fff'J 8aaa)	.	16ryy	4ryy
+.	.	.	16ryy	.
+8D'L	8ddd'L 8fff	.	8ryy	.
+8d'J	(16bb-XL 16ddd	.	8ryy	.
+.	16aaJJ	.	.	.
+8BB-X'L	8bb-'L 8ddd)	.	16ryy	.
+.	.	.	16ryy	.
+8B-X'J	8gg'J 8bb-	.	8ryy	.
+=2	=2	=2	=2	=2
+8G'L	(16eeLL 16gg	.	8ryy	.
+.	16ddJ	.	.	.
+8g'J	8ee'J 8gg)	.	16ryy	.
+.	.	.	16ryy	.
+8E'L	8cc'L 8ee	.	8ryy	.
+8e'J	(16ccL 16ee	.	8ryy	.
+.	16bJJ	.	.	.
+8C'L	8cc'L 8ee)	>	16ryy	.
+.	.	.	16ryy	.
+8c'J	8a'J 8cc	.	8ryy	.
+=3	=3	=3	=3	=3
+8AA'L	(16aLL 16cc	.	8ryy	.
+.	16gJ	.	.	.
+8A'J	8a'J 8cc)	.	16ryy	.
+.	.	.	16ryy	.
+(8DL	8eL [8a	mf ]	8ryy	.
+8d'J)	8f'J 8a]	.	8ryy	.
+8r	8r	.	8ryy	.
+(8DD	8e [8a	.	8ryy	.
+=4	=4	=4	=4	=4
+8D')	8f' 8a]	.	8ryy	.
+8r	8r	.	8ryy	.
+(8GGL	(8fL 8a	.	8ryy	.
+8Bn'J)	8g'J 8dd)	.	8ryy	.
+8r	8r	.	8ryy	.
+(8GG	(8b 8ee	<	8ryy	.
+=5	=5	=5	=5	=5
+8En')	8g' 8cc 8gg)	.	8ryy	.
+8r	8r	.	8ryy	.
+(8FFL 8F	(8aL 8ff 8aa	.	8ryy	.
+8EE-X'J 8E-X)	8cc'J 8gg 8ccc)	.	8ryy	.
+8r	8r	[	8ryy	.
+(8EE- 8E-	[8g [8b-X [8dd-X (8ee-X	f	8ryy	.
+=6	=6	=6	=6	=6
+8DD-X' 8D-X)	8g] 8b-] 8cc#X] 8een)	.	8ryy	.
+8r	8r	.	8ryy	.
+8ryy@	8r8r	.	8ryy	.
+8CCn\ 8Cn\	8G</ 8B-<X/ 8c#X' 8en	.	8ryy	.
+8r	8r8r	.	8ryy	.
+(8EE-X/ 8E-X/	[8g [8b-X [8cc#X (8ee-X	.	8ryy	.
+=7	=7	=7	=7	=7
+8DD-X' 8D-X)	8g] 8b-] 8cc#X] 8een)	.	8ryy	.
+8r	8r	.	8ryy	.
+8ryy@	8r8r	.	8ryy	.
+8CCn 8Cn	8G< 8B-<X 8c#X' 8e	.	8ryy	.
+4r	4r4r	.	8ryy	.
+.	.	.	8ryy	.
+*clefG2	*	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

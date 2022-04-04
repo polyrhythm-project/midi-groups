@@ -1,0 +1,60 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T654_Hin-w73p89h58m3-6]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:TX:t=[[quarter]=72]	!LO:DY:ed=brack
+2.CCC]	f	2.CC]	f	4g	f	4ff	f	4dddn	f	8ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	4f	.	4ee-X	.	8.cccL	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	16bb-XJk	.	.	.	.
+.	.	.	.	4g	.	4dd	.	2ccc	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+4r	.	4F	.	4e-X	.	4dd-X	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	4B-X	.	4d	.	4cc	.	4fff	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	4A	.	4g	.	4ff	.	4ddd	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	4G	.	4f	.	4ee-X	.	8.cccL	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	16bb-XJk	.	.	.	.
+.	.	4Eni	.	4g	.	4dd	.	[4ccc	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	.	4F	ff	4e-X	ff	4dd-X	ff	4ccc]	ff	8ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4B-X	<	4d	<	4cc	<	4fff	<	8ryy	8ryy	4ryy
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	4A	.	4g	.	4ff	.	4ddd	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	4G	.	4f	.	4ee-X	.	8.cccL	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	16bb-XJk	.	.	.	.
+=4	=4C	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	8FL	.	4g	.	4dd	.	2ccc	.	8ryy	8ryy	.
+.	.	8EJ	.	.	.	.	.	.	.	8ryy	8ryy	.
+4DD	ff <	4D	.	4.f	.	4cc	.	.	.	8ryy	8ryy	.
+.	.	.	.	.	.	.	.	.	.	8ryy	8ryy	.
+4.GGG	.	4.GG	.	.	.	4b-X	.	2dd 2ddd	.	8ryy	8ryy	.
+.	.	.	.	8en	.	.	.	.	.	8ryy	8ryy	.
+.	.	.	.	8fL	.	4a	.	.	.	8ryy	8ryy	.
+8FFF	[[	8FF	.	8dJ	.	.	.	.	.	8ryy	8ryy	.
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][(s3,s4,s5,s6,s7)]
+!!!RDF**kern: i = editorial accidental, brack

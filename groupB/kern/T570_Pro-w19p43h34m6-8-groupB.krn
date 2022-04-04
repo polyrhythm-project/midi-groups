@@ -1,0 +1,81 @@
+!!!COM: Sergey (Sergeyevich) Prokofiev
+!!!OTL: [T570_Pro-w19p43h34m6-8]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part10	*part9	*part9	*part9	*part8	*part8	*part8	*part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff17	*staff17	*staff16	*staff16	*staff15	*staff15	*staff14	*staff13	*staff13/14	*staff12	*staff11	*staff11/12	*staff10	*staff9	*staff9/10	*staff8	*staff7	*staff7/8	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contrabass II	*I"Contrabass II	*I"Contrabass I	*I"Contrabass I	*I"Violoncello	*I"Violoncello	*I"Piano II	*I"Piano II	*I"Piano II	*I"Piano I	*I"Piano I	*I"Piano I	*I"Harp II	*I"Harp II	*I"Harp II	*I"Harp I	*I"Harp I	*I"Harp I	*I"Trombones I.II.	*I"Trombones I.II.	*I"Trumpet in C II	*I"Trumpet in C II	*I"Trumpet in C I	*I"Trumpet in C I	*I"Bassoons I.II.	*I"Bassoons I.II.	*I"Clarinet in Bb II [C]	*I"Clarinet in Bb II [C]	*I"Clarinet in Bb I [C]	*I"Clarinet in Bb I [C]
+*I'Cb.	*	*I'Cb.	*	*I'Vc.	*	*I'Pno.	*	*	*I'Pno.	*	*	*I'Hp.	*	*	*I'Hp.	*	*	*I'Tbn.	*	*I'C Tpt.	*	*I'C Tpt.	*	*I'Bsn.	*	*I'Cl.	*	*I'Cl.	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*clefF4	*	*clefF4	*clefF4	*	*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*C:	*	*C:	*C:	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M12/8	*	*M12/8	*	*M12/8	*
+=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278	=278
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=84]	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>16qqg/LL	mp
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqb/	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqdd/	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqff/JJ	.
+*	*	*	*	*	*	*8ba	*	*	*8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:DY:t=%s molto tenuto e pesante	!	!	!LO:TX:b:rj:i:t=senza sord.	!	!	!	!LO:DY:t=%s pesante	!	!	!LO:DY:t=%s pesante	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:ed=brack	!LO:TX:a:rj:t=[arco]	!LO:DY:t=[ %s molto tenuto e pesante ]	!LO:DY:t=%s molto tenuto e pesante	!	!LO:TX:t=P:problem: 8ba Marks are not Rendering.	!	!LO:DY:ed=brack	!LO:TX:t=P:problem: 8ba Marks are not Rendering.	!L	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!LO:TX:a:i:t=ten.	!	!	!	!	!	!	!	!	!	!	!
+4ryy	4ryy	4ryy	4ryy	4ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	1ryy	1ryy	4ryy	4ryy	2ryy	4ryy	4ryy	4ryy	1ryy	4ryy	1ryy	4ryy	6AA)	mp [	6aa~)	mp [	6aa^	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(12E	.	12r	.	12dd	.
+!	!	!	!	!	!LO:DY:t=%s molto tenuto e pesante	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	4ryy	.	.	4ryy	.	.	.	.	.	12CnL	>	6.r	.	12ffL	>
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12Gn	.	.	.	12b	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12EJ	.	.	.	12ddJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	4ryy	.	2ryy	.	.	.	.	.	6B	.	3.r	.	6g	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12G	.	.	.	12b	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	4ryy	4ryy	.	.	.	.	.	.	.	12EL	.	.	.	12ddL	.
+*	*	*	*	*	*	*X8ba	*	*	*X8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12B	.	.	.	12g	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	]	.	.	12bJ	]
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279	=279
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M9/8	*	*M9/8	*	*M9/8	*
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	4%3ryy	4%3ryy	.	8ryy	4%3ryy	.	4%3ryy	.	2ryy	4ryy	2ryy	4ryy	6d)	p	(6e	p	6e)	p
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(12c#X	.	12f#X	.	12r	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	12BL	<	12g#XL	<	6.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12A	.	12a	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12G#XJ	.	12bJ	.	.	.
+8ryy	4ryy	8ryy	4ryy	8ryy	4ryy	8ryy	8ryy	4ryy	8ryy	8ryy	4ryy	.	.	.	8ryy	.	4ryy	.	.	4ryy	4ryy	4ryy	4ryy	12F#XL	.	12cc#XL	.	6.r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12D	.	12ee	.	.	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BBJ	.	12gg#XJ	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*
+=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280	=280
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M12/8	*	*M12/8	*	*M12/8	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16qqg/LL	mp
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqb/	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqdd/	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=ten.	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	16qqff/JJ	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	1ryy	1ryy	4ryy	8ryy	2ryy	.	4ryy	4ryy	1ryy	4ryy	1ryy	4ryy	6AA~)	mp [	6aa~)	mp [	6aa^	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(12E	.	12r	.	12dd	.
+4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.	.	4ryy	.	.	4ryy	.	.	4ryy	.	4ryy	12CnL	>	6.r	.	12ffL	>
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12Gn	.	.	.	12b	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12EJ	.	.	.	12ddJ	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	8ryy	.	2ryy	.	.	.	.	.	6B	.	3.r	.	6g	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12G	.	.	.	12b	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	12EL	.	.	.	12ddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12B	.	.	.	12g	.
+8ryy	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	8ryy	.	.	.	.	8ryy	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	12GJ	]	.	.	12bJ	]
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6{(s7,s8)}{(s9,s10)}{(s11,s12)}{(s13,s14)}s15,s16,s17)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/19
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/17

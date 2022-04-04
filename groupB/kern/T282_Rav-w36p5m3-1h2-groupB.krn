@@ -1,0 +1,91 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T282_Rav-w36p5m3-1h2]
+**kern	**dynam	**kern		**dynam	**kern		**dynam	**kern		**dynam	**kern		**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A		*grp:A	*grp:A		*grp:A	*grp:A		*grp:A	*grp:B		*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part17	*part17	*part16		*part16	*part15		*part15	*part14		*part14	*part13		*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff18	*staff18	*staff17		*staff17	*staff16		*staff16	*staff15		*staff15	*staff14		*staff14	*staff13	*staff12	*staff11	*staff11	*staff10	*staff10	*staff9	*staff9	*staff8	*staff8	*staff7	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Contrabass	*I"Contrabass	*I"Violoncello		*I"Violoncello	*I"Viola		*I"Viola	*I"Violin II		*I"Violin II	*I"Violin I		*I"Violin I	*I"Piano	*I"Piano	*I"Cymbals	*I"Cymbals	*I"Tambourine	*I"Tambourine	*I"Trumpet in C	*I"Trumpet in C	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Bassoon	*I"Clarinet in Bb	*I"Clarinet in Bb	*I"Clarinet in Eb	*I"Clarinet in Eb	*I"English Horn	*I"English Horn	*I"Oboe	*I"Oboe	*I"Flute	*I"Flute	*I"Piccolo	*I"Piccolo
+*I'Cb.	*	*I'Vc.		*	*I'Vla.		*	*I'Vln. II		*	*I'Vln. I		*	*I'Pno.	*	*I'Perc.	*	*I'Perc.	*	*I'C Tpt.	*	*I'Hn.	*	*I'Bsn.	*	*I'Cl.	*	*I'Eb Cl.	*	*I'Eng. Hn.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+!!pagebreak:original
+*	*	*		*	*		*	*		*	*		*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4		*	*clefC3		*	*clefG2		*	*clefG2		*	*clefG2	*clefG2	*clefX	*	*clefX	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*		*	*		*	*		*	*		*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd-2c-3	*	*ITrd4c7	*	*	*	*	*	*ITrd-7c-12	*
+*k[f#]	*	*k[f#]		*	*k[f#]		*	*k[f#]		*	*k[f#]		*	*k[f#]	*k[f#]	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:		*	*G:		*	*G:		*	*G:		*	*G:	*G:	*C:	*	*C:	*	*C:	*	*F:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*
+*M4/4	*	*M4/4		*	*M4/4		*	*M4/4		*	*M4/4		*	*M4/4	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1		=1	=1		=1	=1		=1	=1		=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*		*	*		*	*		*	*^		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!		!	!		!	!		!	!LO:TX:t=[ [half]=116 ]	!	!	!	!LO:TX:t=P:problem:gliss.	!	!	!	!	!LO:TX:a:t=[con sord.]	!	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t=  	!	!LO:HP:t= 	!LO:TX:t=[ [half]=116 ]	!LO:HP:t= 
+!	!	!LO:TX:t=arco		!	!		!	!		!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!LO:DY:rj:ed=brack	!L	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]	!	!LO:DY:t=[ %s crescendo ]
+!	!	!LO:TX:a:t=Div.		!	!		!	!		!	!LO:TX:a:t=Div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+1ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	4r	.	1ryy	1ryyyy	4ryy	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	8eeL	mf <	8ryy	4ryy	4ryy	4ryy	8ryy	4ryy	4ryy	4ryy	4r	mf <
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ddJ	.	8ryy	.	.	.	8ryy	.	.	.	.	.
+*	*	*		*	*		*	*		*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*		*	*		*	*		*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!		!LO:HP:t= 	!		!LO:HP:t= 	!LO:TX:t=arco		!LO:HP:t= 	!	!	!LO:HP:t= 	!	!	!	!	!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!		!LO:DY:t=%s crescendo	!LO:TX:a:t=arco		!LO:DY:t=%s crescendo	!LO:TX:a:t=Div		!LO:DY:t=%s crescendo	!	!	!LO:DY:t=%s crescendo	!	!	!	!LO:HP:t=crescendo	!	!LO:DY:t=%s crescendo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	2.r	8ggL	p <	.	.	16ryy	4ryy	16ryy	4ryy	8ryy	4ryy	4ryy	.	4ryy	.	4dd'	.	4ryy	.	4ryy	.	4ryy	.	8ryy	.	8gggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8eeJ	.	.	.	16ryy	.	16ryy	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8eeeJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*		*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!		!	!		!	!		!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=senza sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	.	4ryy	.	4ryy	.	.	8ddL	.	.	.	16ryy	.	16ryy	.	2ryy	.	4ryy	.	4ryy	.	4ee'	.	4ryy	.	2ryy	.	4ryy	.	8ryy	.	8dddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8gg	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ggg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!		!	!LO:TX:a:t=Div.		!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4ryy	.	4ryy	.	4ryy	.	.	8ee	.	.	.	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	4ff#'	.	4ryy	.	.	.	4ryy	.	8ryy	.	8eee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8ddJ	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8dddJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*		*	*		*	*		*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*		*	*		*	*		*	*		*	*clefF4	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2		=2	=2		=2	=2		=2	=2		=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*		*	*		*	*		*	*		*	*8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*^		*	*^		*	*^		*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!		!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:t=%s crescendo	!	!	!	!	!	!	!	!	!	!		!	!LO:TX:t=P:problem:gliss.	!LO:TX:t=P:problem:gliss.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4ryy	4ryy	4ryy	2ryyyy	.	4ryy	2ryyyy	.	4ryy	4ryy	.	8ggL 8ggg	.	8ryy	8ryy	16ryy	.	16ryy	.	1ryy	.	4ryy	.	4ryy	.	8ggL	.	4ryy	.	4r'yy	.	4ryy	.	4ryy	.	8gggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*		*	*X8ba	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	8ee 8eee	.	8ryyyy	8ryyyy	16ryy	.	16ryy	.	.	.	.	.	.	.	8ee	.	.	.	.	.	.	.	.	.	8eee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	.	.	4ryy	.	.	4ryy	4ryy	.	8dd 8ddd	.	4ryyyy	4ryyyy	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	8dd	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8ggJ 8ggg	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	8ggJ	.	.	.	.	.	.	.	.	.	8gggJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	4ryyyy	.	4ryy	4ryyyy	.	4ryy	4ryy	.	8eeL 8eee	.	2ryyyy	2ryyyy	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	8eeL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8eeeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8dd 8ddd	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	8dd	.	.	.	.	.	.	.	.	.	8ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8gg 8ggg	.	.	.	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	8gg	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8ggg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8eeJ 8eee	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	8eeJ	.	.	.	.	.	.	.	.	.	8eeeJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3		=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4ryy	.	4ryy	4ryy	.	4ryy	2ryyyy	.	4ryy	4ryy	.	8ddL 8ddd	.	8ryyyy	8ryyyy	16ryy	.	16ryy	.	1ryy	.	4ryy	.	4ryy	.	8ddL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8dddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8gg 8ggg	.	8ryyyy	8ryyyy	16ryy	.	16ryy	.	.	.	.	.	.	.	8gg	.	.	.	.	.	.	.	.	.	8ggg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	4ryy	.	4ryy	.	.	4ryy	4ryy	.	8ee 8eee	.	4ryyyy	4ryyyy	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	8ee	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8eee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8ddJ 8ddd	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	8ddJ	.	.	.	.	.	.	.	.	.	8dddJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	4ryy	.	4ryy	4ryyyy	.	4ryy	4ryy	.	8ggL 8ggg	.	8ryyyy	8ryyyy	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	8ggL	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8gggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	8gg 8ggg	.	8ryyyy	8ryyyy	16ryy	.	16ryy	.	.	.	.	.	.	.	8gg	.	.	.	.	.	.	.	.	.	8ggg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	4ryy	4ryy	.	8ee 8eee	.	8ryyyy	8ryyyy	16ryy	.	16ryy	.	.	.	4ryy	.	4ryy	.	8ee	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	8eee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*		*	*clefG2	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*		*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	8ddJ 8ddd	.	8ryy	8ryy	16ryy	.	16ryy	.	.	.	.	.	.	.	8ddJ	.	.	.	.	.	.	.	.	.	8dddJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ryy	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*		*	*	*X8va	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*		*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*v	*v	*	*	*	*	*v	*v	*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*		*	*v	*v	*	*		*	*		*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=		=	=		=	=		=	=		=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-		*-	*-		*-	*-		*-	*-		*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: < = below

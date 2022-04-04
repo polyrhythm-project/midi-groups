@@ -1,0 +1,62 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T651A_Hin-w64p11h16m5-8]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Ivioln	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M5/8	*M5/8	*	*M5/8	*
+!!LO:REH:t=16
+=1	=1	=1	=1	=1
+!	!LO:TX:t=P:problem:cross-measure beaming to be implemented	!	!LO:TX:t=[[eighth]=200]	!
+(16cLL	(16ccLL	4ryy	4.ryy	4ryy
+16e-X)	16ee-X)	.	.	.
+16c'	16cc'	.	.	.
+16B-X'	16b-X'	.	.	.
+16A'	16a'	.	.	.
+16A-X'JJ	16a-X'JJ	.	.	.
+(16GLL	(16gLL	.	8ryy	.
+16B-)	16b-)	.	.	.
+16G'	16g'	.	8ryy	.
+16F'	16f'	.	.	.
+=2	=2	=2	=2	=2
+16E'	16e'	.	16ryy	.
+16E-X'JJ	16e-X'JJ	.	16ryy	.
+(16DLL	(16dLL	.	16ryy	.
+16F)	16f)	.	16ryy	.
+16D'	16d'	.	8ryy	.
+16C'	16c'	.	.	.
+16BB'	16B'	.	8ryy	.
+16BB-X'JJ	16B-X'JJ	.	.	.
+*	*clefF4	*	*	*
+(16AALL	(16ALL	.	8ryy	.
+16C)	16c)	.	.	.
+=3	=3	=3	=3	=3
+16AA'	16A'	.	8ryy	.
+16GG'	16G'	.	.	.
+16FF#X'	16F#X'	.	8ryy	.
+16FFn'JJ	16Fn'JJ	.	.	.
+(16EELL	(16ELL	.	4ryy	.
+16GG)	16G)	.	.	.
+16EE'	16E'	.	.	.
+16DD'	16D'	.	.	.
+16CC#X'	16C#X'	.	16ryy	.
+16CCn'JJ	16Cn'JJ	.	16ryy	.
+=4	=4	=4	=4	=4
+(16BBBLL	(16BBLL	.	8ryy	4ryy
+16DD)	16D)	.	.	.
+16BBB'	16BB'	.	8ryy	.
+16AAA'	16AA'	.	.	.
+16GGG#X'	16GG#X'	.	8ryy	.
+16GGGn'JJ	16GGn'JJ	.	.	.
+8FFF#X'	8FF#X'	.	8ryy	.
+8r	8r	.	8ryy	4ryy
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]

@@ -1,0 +1,80 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T749_Mes-20/84/1-5]
+**kern	**kern	**kern	**dynam
+!!pagebreak:original
+*clefF4	*clefF4	*clefF4	*
+*k[]	*k[]	*k[]	*
+*C:	*C:	*C:	*
+*M3/4	*M3/4	*M3/4	*
+*	*^	*	*
+!	!	!	!LO:TX:t=[quarter]=120	!
+!	!	!	!LO:TX:t=[quarter]=120	!
+8ryy	8ryyyy	8ryy	8ryy	4ryy
+*	*v	*v	*	*
+=1	=1	=1	=1
+*M9/16	*M9/16	*M9/16	*
+4ryy	4.ryy	4.ryy	.
+*15ba	*	*	*
+16ryy	.	.	.
+!	!	!LO:TX:b:t=(Tam-tam; pédale rhythmique sur un rhythme non rétrogradables)	!
+16ryy	.	.	4ryy
+*	*	*clefG2	*
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+8ryy	16ryy	.	.
+*	*	*clefF4	*
+.	.	8ryy	.
+16ryy	.	.	.
+=2	=2	=2	=2
+*M11/16	*M11/16	*M11/16	*
+4ryy	8ryy	8ryy	.
+.	8ryy	8ryy	.
+8.ryy	8.ryy	16ryy	.
+.	.	8ryy	.
+4ryy	8ryy	8ryy	.
+.	8ryy	8ryy	.
+=3	=3	=3	=3
+*M2/4	*M2/4	*M2/4	*
+*	*X8ba	*	*
+16ryy	2ryy	2ryy	.
+8.ryy	.	.	.
+8ryy	.	.	.
+8ryy	.	.	.
+!!linebreak:original
+=4	=4	=4	=4
+*M21/16	*M21/16	*M21/16	*
+*15ba	*X8ba	*	*
+16ryy	8ryy	.	4ryy
+8ryy	.	.	.
+.	.	16ryy	.
+8ryy	.	8ryy	.
+8.ryy	4ryy	4ryy	.
+16ryy	.	.	.
+*	*	*clefG2	*
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+.	.	16ryy	.
+8ryy	8ryy	.	.
+8ryy	8ryy	.	.
+8.ryy	4ryy	.	.
+16ryy	.	.	.
+4ryy	4ryy	.	.
+*	*	*clefF4	*
+=5	=5	=5	=5
+*M11/16	*M11/16	*M11/16	*
+8.ryy	16%11ryy	8ryy	4ryy
+.	.	4ryy	.
+16ryy	.	.	.
+4ryy	.	.	.
+.	.	8ryy	.
+*X15ba	*	*	*
+8.ryy	.	16ryy	.
+.	.	8ryy	.
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2,s3)})]

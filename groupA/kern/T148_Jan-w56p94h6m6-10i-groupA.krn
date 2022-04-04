@@ -1,0 +1,51 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T148_Jan-w56p94h6m6-10i]
+!!!ONB: This work was completed posthumously by many composers, without known record of whose version included this passage. With the goal of diplomatic transcription in mind, and the knowledge of the many versions of this work, the instrumentation information for this example is missing from the original manuscript as well as Suter's dissertation, and is thus not included in this example.
+**kern	**kern	**kern	**kern
+*grp:A	*grp:A	*grp:A	*grp:B
+*part4	*part3	*part2	*part1
+*staff4	*staff3	*staff2	*staff1
+*I"P4	*I"P3	*I"P2	*I"P1
+*I'P4	*I'P3	*I'P2	*I'P1
+*clefF4	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+*^	*	*	*
+4AA-X 4F	4EE-X	4ff 4aa-X 4ddd-X	4e-X 4ee-X	8ryy
+.	.	.	.	8ryy
+4r	4DD-X	4r	4d-X 4dd-X	8ryy
+.	.	.	.	8ryy
+4r	4DD-	4r	4e- 4ee-	8ryy
+.	.	.	.	8ryy
+4AA- 4F	4EE-	4ff 4aa- 4ddd-	4f 4ff	8ryy
+.	.	.	.	8ryy
+=2	=2	=2	=2	=2
+!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming
+4AA-X 4F	4EE-X	4ff 4aa-X 4ddd-X	4a-X 4aa-X	8ryy
+.	.	.	.	8ryy
+4r	4DD-X	4r	4dd-X 4ddd-X	8ryy
+.	.	.	.	8ryy
+4r	4DD-	4r	4e-X 4ee-X	8ryy
+.	.	.	.	8ryy
+4AA- 4F	4EE-	4ff 4aa- 4ddd-	4d-X 4dd-	8ryy
+.	.	.	.	8ryy
+=3	=3	=3	=3	=3
+!	!	!	!	!LO:TX:t=P:problem:cross-bar beaming
+4AA-X 4F	4EE-X	4ff 4aa-X 4ddd-X	4e-X 4ee-X	8ryy
+.	.	.	.	8ryy
+4r	4DD-X	4r	4f 4ff	8ryy
+.	.	.	.	8ryy
+4r	4DD-	4r	4a-X 4aa-X	8ryy
+.	.	.	.	8ryy
+4AA- 4F	4EE-	4ff 4aa- 4ddd-	4dd-X 4ddd-X	8ryy
+.	.	.	.	8ryy
+=4	=4	=4	=4	=4
+4AA-X 4F	4EE-X	4ff 4aa-X 4ddd-X	4dd-X 4ddd-X	4ryy
+4ryy@	4ryy	4ryy	4ryy	4ryyyy
+2ryy	2ryy	2ryy	2ryy	2ryyyy
+*v	*v	*	*	*
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

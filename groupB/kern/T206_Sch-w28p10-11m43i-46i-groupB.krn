@@ -1,0 +1,91 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T206_Sch-w28p10-11m43i-46i]
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part7	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"Clarinet in Eb	*
+*I'Pno.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'B. Cl.	*	*I'Cl.	*	*I'Eb Cl.	*
+*clefG2	*clefG2	*	*clefC4	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*ITrd0c0	*	*ITrd0c0	*	*ITrd0c0	*
+*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*M6/8	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+!	!	!LO:DY:ed=brack	!LO:TX:a:t=[pizz. (cantabile)]	!	!	!	!LO:TX:a:t=[pizz. (cantabile)]	!LO:DY:ed=brack	!	!	!	!	!LO:TX:t=[[quarter-dot]=46]	!
+16ryy	16ryy	4ryy	16ryy	.	4%3r	.	16ryy	4ryy	4.ryy	.	4.ryy	.	4.ryy	.
+!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+8.ryy	8.ryy	.	8.ryy	4ryy	.	.	16ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	16ryy	.	.	.	.	.	.	.
+16ryy	16ryy	.	8ryy	4ryy	.	.	16ryy	.	.	.	.	.	.	.
+16ryy	16ryy	.	.	4ryy	.	.	16ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:t=P:problem:Wavy Glissando line needed between g and b	!	!	!	!	!	!	!
+8.ryy	8.ryy	.	16ryy	.	.	.	16ryy	.	8ryy	.	8ryy	.	8ryy	.
+*	*Xhaupt	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	8.ryy	4ryy	.	.	16ryy	.	.	.	.	.	.	.
+.	.	.	.	4ryy	.	.	16ryy	.	8ryy	.	8ryy	.	8.ryy	.
+16ryy	16ryy	.	.	4ryy	.	.	8.ryy	4ryy	.	.	.	.	.	.
+8ryy	8ryy	.	8ryy	4ryy	.	.	.	.	16ryy	.	16ryy	.	.	.
+*	*	*	*Xneben	*	*	*	*	*	*	*	*	*	*haupt	*
+.	.	.	.	.	.	.	.	.	16ryy	4ryy	16ryy	4ryy	16ryy	4ryy
+*clefF4	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+!	!	!	!LO:TX:a:t=(pizz.)	!	!LO:TX:a:t=(pizz.)	!	!LO:TX:a:t=(pizz.)	!	!	!	!	!	!	!
+*	*neben	*	*grp:B	*grp:B	*	*	*grp:B	*grp:B	*	*	*	*	*	*
+*	*grp:B	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	16fn'	4ryy	16BB-X`	mf	16F#X`	mf	16An`	mf	16ryy	.	16ryy	.	16ryy	.
+16ryy	16r	.	16r	.	16r	.	16r	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	16g-X'	.	8r	.	8r	.	8r	.	.	.	.	.	.	.
+16ryy	16r	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+16r`yy	16r	.	16AA-X`	.	16cn`	.	16bn`	.	.	.	.	.	.	.
+16ryy	8.gg#X~	.	16r	.	16r	.	16r	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	.	.	16EEn`	.	16E-X`	.	16Gn`	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	.	.	16r	.	16r	.	16r	.	.	.	.	.	.	.
+16ryy	16r	.	8r	.	8r	.	8r	.	16ryy	.	16ryy	.	16ryy	.
+8ryy	8.gn~	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	16DDn`	.	16Fn`	.	16dd-X`	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	.	.	16r	.	16r	.	16r	.	.	.	.	.	.	.
+!!pagebreak:original
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*grp:A	*grp:A	*	*	*	*	*	*	*	*	*	*	*	*	*
+8ryy	8ryyyy	8ryy	.	16r	.	16r	.	16r	.	16ryy	.	16ryy	.	16ryy	.
+.	.	.	.	16Bn	f	16b-X	f	16ddn	f	16ryy	.	16ryy	.	16ryy	.
+!	!	!	!LO:DY:b=2	!	!	!	!	!	!	!	!	!	!	!	!
+16ryy	16ryy	8.ryy	4ryy	8r	.	8r	.	8r	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	16ryy	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	8ryy	.
+16ryy	16ryy	.	.	8r	.	8r	.	8r	.	.	.	.	.	.	.
+16ryy	16ryy	16ryy	4ryy	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.
+*	*	*	*	*clefC4	*	*clefG2	*	*	*	*	*	*	*	*	*
+16ryy	16ryy	8ryy	.	16an	f	16aa-X	f	16cccn	f	8ryy	.	8ryy	.	8ryy	.
+16ryy	16ryy	.	.	16r	.	16r	.	16r	.	.	.	.	.	.	.
+16ryy	16ryyyy	16ryy	4ryy	8r	.	8r	.	8r	.	16ryy	.	16ryy	.	16ryy	.
+(16ryy	16ryy	16ryy	.	.	.	.	.	.	.	8.ryy	.	8.ryy	.	8.ryy	.
+*	*	*	*	*clefF4	*	*clefC3	*	*	*	*	*	*	*	*	*
+16ryy	8ryy	16ryy	.	16Fn	.	16en	.	16ccc#X	.	.	.	.	.	.	.
+16ryy	.	16ryy	.	16r	.	16r	.	16r	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+16ryy	8ryyyy	16ryy	.	8r	.	8r	.	8r	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	.	16ryy	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.
+16ryy	16ryyyy	8ryy	.	8GGn	.	8D#X	.	8f#X	.	8.ryy	.	8.ryy	.	8.ryy	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*
+16ryy	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ryy	16ryy	16ryy	4ryy	8r	.	8r	.	8r	.	.	.	.	.	.	.
+*	*	*Xneben	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	16ryyyy	16ryy	.	.	.	.	.	.	.	16ryy	.	16ryy	.	16ryy	.
+*	*	*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*
+16ryy	4.ryyyy	8.ryy	.	4.r	.	4.r	.	4.r	.	4.ryy	.	4.ryy	.	4.ryy	.
+16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)][({(s7,s8)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/15

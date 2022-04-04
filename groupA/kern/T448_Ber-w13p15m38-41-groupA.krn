@@ -1,0 +1,69 @@
+!!!COM: Alban (Maria Johannes) Berg
+!!!OTL: [T448_Ber-w13p15m38-41]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=38
+=1	=1	=1	=1	=1	=1	=1	=1
+!!LO:TX:t=[a tempo, ma più mosso [quarter-dot]=50 (Tempo II)]
+!	!LO:HP:t=[%s]	!	!LO:HP:t=[%s]	!	!LO:HP:t=[%s]	!	!LO:HP:t=[%s]
+(8G-X'J)i	4ryy	16ryy	4ryy	(8aa-XL	4ryy	8dn`^^L 8ddn	4ryy
+.	.	.	.	.	4ryy	.	.
+.	.	16ryy	.	.	4ryy	.	.
+(16E-XLL	.	16ryy	.	8.ggn'~)	4ryy	(16dL 16dd	4ryy
+16CnJ	.	16ryy	.	.	.	16d#X 16dd#X	.
+8A-X'J)	.	16ryy	.	.	4ryy	16en 16een	.
+.	.	16ryy	.	16bb-XJk	4ryy	16fnJJ 16ffn)	4ryy
+*	*	*Xneben	*	*Xhaupt	*	*	*
+!!LO:REH:t=39
+=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*haupt	*
+!	!	!	!	!	!	!LO:TX:a:B:t=viel Bogen	!
+!	!	!	!	!LO:TX:a:B:t=viel Bogen	!	!LO:TX:a:t=poco allargando [al Tempo I]	!
+(16E-XLL	.	8ryy	.	(8aa-XL	.	(8cccnL	4ryy
+16BBnJ	.	.	.	.	4ryy	.	4ryy
+!	!	!LO:TX:t=P:problem:grey note should be in parentheses	!	!	!	!	!
+8An'J)	.	16ryy	.	8.ggn'~)	.	8.bbn'~)	.
+.	.	16ryy	.	.	.	.	.
+(16E-XLL	.	8ryy	.	.	4ryy	.	4ryy
+16AAnJ	.	.	.	16ff#XJk	4ryy	16dddnJk	4ryy
+!!LO:REH:t=40
+=3	=3	=3	=3	=3	=3	=3	=3
+8B-X'J)	.	16ryy	.	(8aa-XL	.	(8cccnL	.
+.	.	16ryy	.	.	4ryy	.	4ryy
+(16E-XLL	.	8ryy	.	8.ggn'~)	.	8.bbn'~)	.
+16AA-X	.	.	.	.	.	.	.
+16B-X'JJ)	.	16ryy	.	.	4ryy	.	4ryy
+(16E-XLL	.	16ryy	.	16ff#XJk	4ryy	16dddnJk	4ryy
+*	*	*clefG2	*	*	*	*	*
+!!LO:REH:t=41
+=4	=4	=4	=4	=4	=4	=4	=4
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+16GGn	4ryy	8ryy	4ryy	(8aa-XL	4ryy	(8cccnL	4ryy
+16Bn'JJ)	.	.	.	.	.	.	.
+(16E-XLLi	.	16ryy	.	8ggn	.	8bbn	.
+16FF#XJ	.	16ryy	.	.	.	.	.
+16DnL	.	16ryy	.	8ee-XJ)	.	8ff#XJ	4ryy
+[16cnJJ	.	16ryy	.	.	4ryy	.	.
+*	*	*	*	*neben	*	*	*
+!	!	!	!	!LO:TX:a:t=G Saite	!	!	!
+4.c]	.	8.ryy	.	(16a-XLL	.	8.ddnL)	.
+.	.	.	.	16g'J)	.	.	4ryy
+.	.	.	.	(8gni	4ryy	.	.
+.	.	16ryy	4ryy	.	.	(16ee-Xki	.
+.	.	16ryy	.	8dnJ	4ryy	[8ffnJ	.
+.	.	16ryy	4ryy	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: N = cue size, color="grey"
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED:Jason Lee
+!!!EEV:2021/11/12

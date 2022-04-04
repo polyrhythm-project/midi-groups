@@ -1,0 +1,74 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T621_Hin-w20p26m88-95]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!!LO:REH:t=E
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=Solo	!LO:DY:t=%s grazioso	!	!	!	!	!LO:TX:t=[half-dot]=66	!
+(4F	p	4r	.	4ryy	.	4ryy	.
+4AA-X	.	(8d-XL	pp	4ryy	4ryy	4ryy	4ryy
+.	.	8c	.	.	.	.	.
+4F)	.	8d-	.	4ryy	.	4ryy	.
+.	.	8e-XJ	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+(2G-X	.	8enL	.	4ryy	.	4ryy	.
+.	.	8a	.	.	.	.	.
+.	.	8g	.	4ryy	.	4ryy	.
+.	.	8f#X	.	.	.	.	.
+8A-XL	.	8e	.	4ryy	.	4ryy	.
+8G-J)	.	8dJ)	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+(4F	.	(8d-XL	.	4ryy	.	4ryy	.
+.	.	8c	.	.	.	.	.
+4AA-X	.	8B-X	.	4ryy	.	4ryy	.
+.	.	8c	.	.	.	.	.
+4F)	.	8d-	.	4ryy	.	4ryy	.
+.	.	8e-XJ	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+(2E-X	.	8fL	.	4ryy	.	4ryy	.
+.	.	8gn	.	.	.	.	.
+.	.	8a-X	.	4ryy	.	4ryy	.
+.	.	8g	.	.	.	.	.
+8D-XL	.	8a-	.	4ryy	.	4ryy	.
+8CJ)	.	8anJ)	.	.	.	.	.
+!!linebreak:original
+=5	=5	=5	=5	=5	=5	=5	=5
+(4BB-X	.	(8b-XL	.	4ryy	.	4ryy	.
+.	.	8a-X	.	.	.	.	.
+4D-X	.	8g-X	.	4ryy	.	4ryy	.
+.	.	8f	.	.	.	.	.
+4G-X)	.	8e-X	.	4ryy	.	4ryy	.
+.	.	8dnJ	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2An	<	8c#XL	<	4ryy	4ryy	4ryy	4ryy
+.	.	8en	.	.	.	.	.
+.	.	8bn	.	4ryy	.	4ryy	.
+.	.	8a	.	.	.	.	.
+(8B-XL	.	8gn	.	4ryy	.	4ryy	.
+8AJ)	.	8f#XJ)	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+(4.d	.	(8fnL	.	4ryy	.	4ryy	.
+.	.	8e	.	.	.	.	.
+.	.	8f	.	4ryy	.	4ryy	.
+8Bn)	.	8g	.	.	.	.	.
+[4d	.	8a-X	.	4ryy	.	4ryy	.
+.	.	8b-XJ	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8dL]	.	8a-XL	.	4ryy	.	4ryy	.
+8BJ	.	8g	.	.	.	.	.
+(4.B	.	8f	.	4ryy	.	4ryy	.
+.	.	8e	.	.	.	.	.
+.	.	8f	mf [	4ryy	4ryy	4ryy	4ryy
+8A)	mf [	8gJ)	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

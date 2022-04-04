@@ -1,0 +1,49 @@
+!!!COM: Leoš [Leo Eugen] Janáček
+!!!OTL: [T122_Jan-w16p19m21-23]
+**kern	**kern		**dynam	**fing
+*grp:A	*grp:B		*	*
+*part1	*part1		*part1	*
+*staff2	*staff1		*	*
+*I"Piano	*I"Piano		*	*
+*clefF4	*clefG2		*	*
+*k[f#]	*k[f#]		*	*
+*M2/4	*M2/4		*	*
+=1	=1		=1	=1
+*	*^		*	*
+!!LO:TX:t=[Andante [quarter]=72]
+!	!	!	!LO:HP:t=[ %s ]	!
+2ryy	8eenL	2re	4ryy	.
+.	8ee-X	.	.	.
+.	8a	.	.	1ryy
+.	8gJ)j	.	.	2ryy
+*Xped	*	*	*	*
+*	*v	*v	*	*
+=2	=2		=2	=2
+32ryy	6ra	.	.
+32ryy	.	.	.
+16rc>yy	.	.	.
+32ryy	.	.	.
+32ryy	.	.	.
+.	6en^>	.	5ryy
+16rcyy	.	.	.
+*ped	*		*	*
+4ryy	.	.	.
+.	6e-X^>	.	4ryy
+=3	=3		=3	=3
+32ryy	6ra	.	1ryy
+32ryy	.	.	3ryy
+16rc>yy	.	.	.
+32ryy	.	.	.
+32ryy	.	.	.
+.	6A^>	.	2ryy
+16rcyy	.	.	.
+4ryy	.	.	.
+.	6G^>	.	.
+=	=		=	=
+*-	*-		*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"
+!!!RDF**kern: Z = editorial accidental, bracket
+!!!EED:Jason Lee
+!!!EEV:2021/12/29

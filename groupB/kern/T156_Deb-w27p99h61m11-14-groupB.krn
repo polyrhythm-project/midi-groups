@@ -1,0 +1,71 @@
+!!!COM: (Achille-) Claude Debussy
+!!!OTL: [T156_Deb-w27p99h61m11-14]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I'Violin 1 Div.	*I'Violin 1 Div.	*I"Violin 1 Div.	*I"Violin 1 Div.	*I"Eng. Horn	*I"Eng. Horn	*I"Oboe	*I"Oboe
+*I'Vln. 1	*	*I'Vln. 1	*	*I'C. A.	*	*I'Ob.	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*ITrd4c7	*	*	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*G:	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=76	=76	=76	=76	=76	=76	=76	=76
+*^	*	*^	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=112]	!
+!	!	!	!	!	!	!LO:TX:b:i:t=gai et fantastique	!	!	!LO:DY:ed=brack
+4ryy	4ryy	4ryy	8r'yy	8r'yyyy	.	8g'~L	mf	8ryy	4ryy
+.	.	.	8ryy	8ryy	4ryy	8a'~J	.	8ryy	.
+*v	*v	*	*	*	*	*	*	*	*
+*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*Xtuplet	*	*	*
+*^	*	*^	*	*	*	*	*
+4ryy	4ryy	.	8r'yy	8r'yyyy	.	(12bL	.	4ryy	.
+.	.	.	.	.	.	12a	.	.	.
+.	.	.	8ryy	8ryy	.	.	.	.	.
+.	.	.	.	.	.	12gJ	.	.	.
+4ryy	4ryy	4ryy	8r'yy	8r'yyyy	.	8a'L	.	4ryy	.
+.	.	.	8ryy	8ryy	4ryy	8b'J)	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+4ryy	4ryy	.	8r'yy	8r'yyyy	.	8g'~L	.	4%3ryy	.
+.	.	.	8ryy	8ryy	.	8a'~J	.	.	.
+4ryy	4ryy	.	8r'yy	8r'yyyy	.	(12bL	.	.	.
+.	.	.	.	.	.	12a	.	.	.
+.	.	.	8ryy	8ryy	.	.	.	.	.
+.	.	.	.	.	.	12gJ	.	.	.
+4ryy	4ryy	.	8r'yy	8r'yyyy	.	8aL	.	.	.
+.	.	.	8ryy	8ryy	.	8bJ)	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+4ryy	4ryy	4ryy	8r'yy	8r'yyyy	4ryy	12.cc#X~L	<	4%3ryy	.
+.	.	.	8ryy	8ryy	.	24cc#'k	.	.	.
+.	.	.	.	.	.	12cc#'J	.	.	.
+4ryy	4ryy	.	8r'yy	8r'yyyy	.	12cc#'L	.	.	.
+.	.	.	.	.	.	12cc#'	.	.	.
+.	.	.	8ryy	8ryy	.	.	.	.	.
+.	.	.	.	.	.	12cc#'J	.	.	.
+4ryy	4ryy	4ryy	8r'yy	8r'yyyy	.	12cc#'L	.	.	.
+.	.	.	.	.	.	12cc#'	.	.	.
+.	.	.	8ryy	8ryy	4ryy	.	.	.	.
+.	.	.	.	.	.	12dd'J	[	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+4ryy	4ryy	4ryy	8r'yy	8r'yyyy	4ryy	12cc#X'L	.	4%3ryy	.
+.	.	.	.	.	.	(12cc#	.	.	.
+.	.	.	8ryy	8ryy	.	.	.	.	.
+.	.	.	.	.	.	12bJ)	.	.	.
+4ryy	4ryy	.	8r'yy	8r'yyyy	.	[4a~	>	.	.
+.	.	.	8ryy	8ryy	.	.	.	.	.
+4ryy	4ryy	4ryy	8r'yy	8r'yyyy	.	8aL]	.	.	.
+.	.	.	8ryy	8ryy	4ryy	(32bLL	.	.	.
+.	.	.	.	.	.	32a	.	.	.
+.	.	.	.	.	.	32g	.	.	.
+.	.	.	.	.	.	32fJJJ	]	.	.
+*v	*v	*	*	*	*	*	*	*	*
+*	*	*v	*v	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/01/26

@@ -1,0 +1,138 @@
+!!!COM: Hindemith, Paul
+!!!OTL: Kammermusik No. 2 (Chamber Music No. 2), Concerto for Piano and Chamber Orchestra Op. 36, No. 1
+!!!OMV: Movement 4: Finale
+!!!example: 630
+!!!work: Hin-22
+!!!OMD-full: Schnelle viertel
+!!!OMD: [Schnelle Viertel]
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*	*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Trombone	*	*I"Horn in F	*	*I"Bassoon	*
+*I'Pno.	*	*	*I'Tbn.	*	*I'Hn.	*	*I'Bsn.	*
+*ICklav	*	*ICklav	*ICbras	*	*ICbras	*	*ICww	*
+*Ipiano	*	*Ipiano	*Itromt	*	*Icor	*	*Ifagot	*
+*clefG2	*	*clefG2	*clefF4	*	*clefG2	*	*clefF4	*
+*k[]	*	*	*k[]	*	*ITrd-3c-5	*	*k[]	*
+*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+*MM131	*	*MM131	*MM131	*	*MM131	*	*MM131	*
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+!LO:TX:t=[quarter]=131	!LO:DY:ed=brack	!	!	!	!	!	!LO:TX:t=[[quarter]=131]	!
+*Xtuplet	*	*Xtuplet	*	*	*	*	*	*
+!	!LO:DY:a	!	!	!	!	!	!	!
+12cc>^L	p	4ryy	1ryy	.	1ryy	.	1ryy	.
+12a>n	.	.	.	.	.	.	.	.
+12enJ/	.	.	.	.	.	.	.	.
+12gnL	.	4ryy	.	.	.	.	.	.
+12b>/	.	.	.	.	.	.	.	.
+12g>#XJ	.	.	.	.	.	.	.	.
+12e#XL/	.	4ryy	.	.	.	.	.	.
+12g#X	.	.	.	.	.	.	.	.
+!	!	!LO:TX:t=(Triolen)	!	!	!	!	!	!
+12cc>nJ	.	.	.	.	.	.	.	.
+12ryy	.	12bL	.	.	.	.	.	.
+12dL	.	12aJ	.	.	.	.	.	.
+12enJ	.	12ryy	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+12f#XL/	.	1ryy	1ryy	4ryy	1ryy	.	1ryy	.
+12g	.	.	.	.	.	.	.	.
+12dd>-X^>J	.	.	.	.	.	.	.	.
+12b>-XL	.	.	.	.	.	.	.	.
+12e-X/	.	.	.	.	.	.	.	.
+12g-XJ	.	.	.	4ryy	.	.	.	.
+12cc>L	.	.	.	4ryy	.	.	.	.
+!	!	!	!	!	!	!	!	!
+12a>-X	.	.	.	.	.	.	.	.
+12f-XJ/	.	.	.	.	.	.	.	.
+12a-L/	.	.	.	.	.	.	.	.
+12dd>-	.	.	.	.	.	.	.	.
+12cc>J	.	.	.	4ryy	.	.	.	.
+*	*	*	*	*	*clefF4	*	*	*
+=55	=55	=55	=55	=55	=55	=55	=55	=55
+12d-XL	.	12b-X	1ryy	.	1ryy	4ryy	1ryy	.
+12e-X	.	12ryy	.	.	.	.	.	.
+12fJ	.	12ryy	.	.	.	.	.	.
+12g-XL/	.	4ryy	.	.	.	.	.	.
+12dd>n^	.	.	.	.	.	.	.	.
+12b>nJ	.	.	.	.	.	4ryy	.	.
+12dnL/	.	4ryy	.	.	.	4ryy	.	.
+12f	.	.	.	.	.	.	.	.
+12dd>-XJ	.	.	.	.	.	.	.	.
+12a>-XL	.	4ryy	.	.	.	.	.	.
+12e-X/	.	.	.	.	.	.	.	.
+12a-XJ	.	.	.	.	.	4ryy	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+12ryy	.	12ddnL	1ryy	4ryy	1ryy	.	1ryy	.
+12ryy	.	12cc#X	.	.	.	.	.	.
+12cn	.	12bJ	.	.	.	.	.	.
+12dL	.	4ryy	.	.	.	.	.	.
+12enX	.	.	.	.	.	.	.	.
+12fJ	.	.	.	4ryy	.	.	.	.
+12ee>-X^L	.	4ryy	.	4ryy	.	.	.	.
+12cc>n	.	.	.	.	.	.	.	.
+12c#XJ/	.	.	.	.	.	.	.	.
+12eL/	.	4ryy	.	.	.	.	.	.
+12dd>	.	.	.	.	.	.	.	.
+12g>#XJ	.	.	.	4ryy	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+12eL/	.	4ryy	1ryy	.	1ryy	4ryy	1ryy	.
+12g#X	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!
+12ee>-XJ	.	.	.	.	.	.	.	.
+12ryy	.	12ddL	.	.	.	.	.	.
+12BL	.	12ccJ	.	.	.	.	.	.
+12c#XJ	.	12ryy	.	.	.	4ryy	.	.
+12d#XL/	.	4ryy	.	.	.	4ryy	.	.
+12e	.	.	.	.	.	.	.	.
+12ee>n^J	.	.	.	.	.	.	.	.
+12cc>#XL	.	4ryy	.	.	.	.	.	.
+12cn/	.	.	.	.	.	.	.	.
+12e-XJ	.	.	.	.	.	4ryy	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58
+!	!	!	!LO:TX:b:i:t=cresc.	!	!	!	!	!LO:DY:t=%s cresc.
+12dd>#XL	.	4ryy	2.ryy	4ryy	2ryy	.	1ryy	4ryy
+12g>#X	.	.	.	.	.	.	.	.
+12c#XJ/	.	.	.	.	.	.	.	.
+12g#XL/	.	4ryy	.	.	.	.	.	.
+12ee>	.	.	.	4ryy	.	.	.	.
+12dd>#XJ	.	.	.	4ryy	.	.	.	.
+12B-XL	.	12cc#X	.	.	4ryy	.	.	.
+12cn	.	12ryy	.	.	.	.	.	.
+12dJ	.	12ryy	.	.	.	.	.	.
+!	!	!	!	!	!LO:TX:i:b:t=cresc.	!	!	!
+12e-XL/	.	4ryy	4ryy	4ryy	4ryy	4ryy	.	.
+12b>-X 12bb>-^X	.	.	.	.	.	.	.	.
+12g>J#	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [s1][(s2,s3)]{(s4,s5)}
+!!!CDT: 1895/11/16-1963/12/28
+!!!CBL: Hanau, Germany
+!!!CDL: Frankfurt, Germany
+!!!CNT: German
+!!!AGN: Orchestral; Concerto
+!!!MCN: Kraus, Clemens
+!!!MDT: 1924/10/31
+!!!MGN: Ensemble of the Frankfurter Museumgesellschaft
+!!!MLC: Frankfurt, Germany
+!!!MPD: 1924
+!!!MPN: Lübbecke-Job, Emma
+!!!ODT: 1924
+!!!PDT: 1924
+!!!excerpt-start-measure: 53
+!!!excerpt-end-measure: 58
+!!!excerpt-start-time: 1:28
+!!!excerpt-end-time: 1:39
+!!!excerpt-duration-sec: 11
+!!!excerpt-time-signature: [4/4]
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {131}
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/01/27
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

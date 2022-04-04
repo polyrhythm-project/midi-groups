@@ -1,0 +1,62 @@
+!!!COM: Aaron Copland
+!!!OTL: [T696_Cop-12/27-28/[3]6-[4]3]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A
+*part16	*part16	*part15	*part15	*part14	*part14	*part13	*part13	*part12	*part12	*part11	*part11	*part10	*part10	*part9	*part9	*part8	*part8	*part7	*part7	*part6	*	*part5	*part5	*part4	*part4	*part3	*	*part2	*part2	*part1	*
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Cymbals	*	*I"Snare Drum	*	*I"Tuba	*	*I"Horn in F III & IV	*	*I"Horn in F I & II	*	*I"Bassoon I & II	*	*I"Bass Clarinet in Bb	*	*I"Clarinet II in Eb	*	*I"Clarinet I in Bb	*	*I"Oboe I	*	*I"Flute	*	*I"Piccolo	*
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. I	*	*I'Cym.	*	*I'S. D.	*	*I'Tba.	*	*I'Hn.	*	*I'Hn.	*	*I'Bsn.	*	*I'B. Cl.	*	*I'Eb Cl.	*	*I'Cl.	*	*I'Ob.	*	*I'Fl.	*	*I'Picc.	*
+*	*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefX	*	*clefX	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd0c9	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd-2c-3	*	*ITrd1c2	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=	=1	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=	=	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=132]	!
+!	!	!	!	!	!	!	!	!LO:TX:a:t=(with soft stick)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+1r	.	1r	.	2ryy	4ryy	(2aa-X	p	4ryy	4ryy	4ryy	.	1r	.	1r	.	1r	.	1r	.	4ryy	.	4ryy	.	4ryy	.	4aa-X'	mp	1r	.	(2aaa-X	p
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=(with brush)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	4ryy	.	4ryy	4ryy	.	.	.	.	.	.	.	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	4r	.	.	.	.	<
+.	.	.	.	4ryy	.	2ff)	.	2ryy	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	2r	.	.	.	2fff	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+1r	.	1r	.	4ryy	.	(2ee-X	.	2ryy	.	4ryy	.	1r	.	1r	.	1r	.	1r	.	2ryy	.	4ryy	.	4ryy	.	1r	.	1r	.	2eee-X	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	2ryy	.	2dd-X)	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	2ddd-X	.
+.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+1r	.	1r	.	4ryy	.	(2ee-X	.	1ryy	.	4ryy	.	1r	.	1r	.	1r	.	1r	.	4ryy	.	4ryy	.	4ryy	.	1r	.	1r	.	2eee-X	.
+.	.	.	.	2ryy	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	4dd-X)	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	2ryy	.	4ryy	.	4ryy	.	.	.	.	.	4ddd-X	.
+.	.	.	.	4ryy	.	([4b-X	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	.	[4bb-X	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+1r	.	1r	.	2ryy	.	4b-]	.	4ryy	.	4ryy	.	1r	.	1r	.	1r	.	1r	.	4ryy	.	4ryy	.	4ryy	.	1r	.	1r	.	4bb-]	.
+.	.	.	.	.	.	4cc)	.	4ryy	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	4ccc	.
+.	.	.	.	4ryy	.	2dd-X	.	2ryy	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	2ddd-X)	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	.	.	.	.	.	.
+!!LO:REH:t=4
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+1r	.	2r	.	4ryy	.	[2dd-X~v	.	2ryy	.	4ryy	.	2r	.	2r	.	2r	.	2r	.	2ryy	.	4ryy	.	4ryy	.	1r	.	([2ddd-X	p	([2ddd-X	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	.	.	.	<	.	.
+!	!	!LO:TX:a:t=div. pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	4CC#X' 4C#X	p	2ryy	.	4dd-]v	.	4ryy	.	4ryy	.	4r	.	4r	.	4r	.	\4C#X'<	p	4ryy	.	4ryy	.	4ryy	.	.	.	4ddd-]	.	4ddd-]	.
+.	.	4r	.	.	.	[4ee-X~	.	4ryy	.	4ryy	.	4CC#'	p	4E' 4c#X	p	\4A'<	p	4r'	.	4ryy	.	4ryy	.	4ryy	.	.	.	[4eee-X	.	[4eee-X	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+!LO:TX:a:t=div. pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AAA' 4AA'	p	2r	.	1ryy	.	4ee-]~	.	1ryy	.	1ryy	.	4r	.	4r'	.	4r'	.	\4AA'<	.	2ryy	.	4ryy	.	4ryy	.	1r	.	4eee-]	.	4eee-]	.
+4r	.	.	.	.	.	(2dd-Xv~	.	.	.	.	.	4AAA'	.	4E' 4c#X	.	\4A'<	.	4r'	.	.	.	4ryy	.	4ryy	.	.	.	2ddd-X	.	2ddd-X	.
+2r	.	4CC#X' 4C#X	.	.	.	.	.	.	.	.	.	4r	.	4r'	.	4r'	.	\4C#X'<	.	4ryy	.	4r'yy	.	4r'yy	.	.	.	.	.	.	.
+.	.	4r	.	.	.	4ee-Xv)	.	.	.	.	.	4CC#'	.	4E' 4c#	.	\4A'<	.	4r	.	4ryy	.	4ryy	.	4ryy	.	.	.	4eee-X	.	4eee-X	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+4AAA' 4AA'	.	2r	.	1ryy	.	2ff~	.	1ryy	.	1ryy	.	4r	.	4r'	.	4r'	.	\4AA'<	.	4ryy	.	2ryy	.	2ryy	.	1r	.	2fff	.	2fff	.
+4r	.	.	.	.	.	.	.	.	.	.	.	4AAA'	.	4E' 4c#X	.	\4A'<	.	4r'	.	4ryy	.	.	.	.	.	.	.	.	.	.	.
+2r	.	4CC#X' 4C#X	.	.	.	(2ee-Xv~	.	.	.	.	.	4r	.	4r'	.	4r'	.	\4C#X'<	.	2ryy	.	4ryy	.	4ryy	.	.	.	2eee-X	.	2eee-X	.
+.	.	4r	.	.	.	.	.	.	.	.	.	4CC#'	.	4E' 4c#	.	\4A'<	.	4r	.	.	.	4ryy	.	4ryy	.	.	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)][(s8,s9,s10)][(s11,s12)][(s13,s14,s15,s16)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/09/17

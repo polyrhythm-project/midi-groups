@@ -1,0 +1,60 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T479_Mau-w117p3h2m2-5]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part2	*part1	*
+*staff6	*	*staff5	*	*staff4	*	*staff3	*staff3	*staff2	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin	*	*I"Piano	*	*	*I"Clarinet in Bb	*
+*I'>Vc.	*	*I'>Vla.	*	*I'>Vln.	*	*I'>Pno.	*	*	*I'>Cl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ipiano	*	*Ipiano	*Iclars	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefF4	*	*clefG2	*clefG2	*
+*	*	*	*	*	*	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[Allegro Moderato [quarter]=88]	!
+4r	.	4r	.	4r	.	8ryy	.	2ryyyy	2ryy	.
+!	!	!	!	!	!	!	!LO:DY:a	!	!	!
+.	.	.	.	.	.	8ryy	4ryy	.	.	.
+8r	.	16e'>LL	f	16a'>LL	f	8.ryy	.	.	.	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+!LO:TX:a:t=(>)	!	!	!	!	!	!	!	!	!	!
+[>8CC#X	f	16e'>	.	16a'>	.	.	.	.	.	.
+.	.	16g#X'>JJ	.	16b-X'>JJ	.	16ryy	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2CC#_>	>	16e'>LL	.	16a'>LL	.	4ryy	.	2ryyyy	2ryy	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+.	]	16g#X'>JJ	.	16b-X'>JJ	.	.	.	.	.	.
+.	mf	16e'>LL	.	16a'>LL	.	16ryy	.	.	.	.
+!	!	!	!	!	!	!	!LO:HP:b	!	!	!
+.	.	16e'>	.	16a'>	.	8.ryy	4ryy	.	.	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+.	]	16g#'>JJ	.	16b-'>JJ	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2CC#_>	>	16e'>LL	>	16a'>LL	>	16ryy	.	2ryyyy	16ryy	.
+.	.	16e'>	.	16a'>	.	16ryy	.	.	16ryy	4ryy
+.	.	16e'>	.	16a'>	.	8ryy	.	.	8ryy	.
+.	]	16g#X'>JJ	]	16b-X'>JJ	]	.	4ryy	.	.	.
+.	p	16e'>LL	mf	16a'>LL	mf	8.ryy	4ryy	.	4ryy	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+.	.	16g#'>JJ	.	16b-'>JJ	.	16ryy	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+8CC#]	.	16e'>LL	.	16a'>LL	.	4.ryy	.	2ryyyy	4.ryy	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+8r	.	16e'>	>	16a'>	>	.	.	.	.	.
+.	.	16g#X'>JJ	.	16b-X'>JJ	.	.	.	.	.	.
+4ryy	.	16e'>LL	.	16a'>LL	.	.	.	.	.	.
+.	.	16e'>	.	16a'>	.	.	.	.	.	.
+.	.	16e'>	.	16a'>	.	8ryy	.	.	8ryy	.
+.	.	16g#'>JJ	]	16b-'>JJ	]	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}[(s4,s5,s6)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/04

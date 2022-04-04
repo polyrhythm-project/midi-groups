@@ -1,0 +1,82 @@
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Les Corps glorieux (Glorious Bodies) for Organ
+!!!OMV: 1st Fascicule, No. 3: L'Ange aux parfums (The Angel's Fragrance)
+!!!example: 730
+!!!work: Mes-16
+!!!OMD-full: Modéré, un peu lent, rêveur
+!!!OMD: [Modéré, un peu lent, rêveur]
+**kern	**kern	**kern
+*grp:A	*grp:A	*grp:B
+*part2	*part1	*part1
+*staff3	*staff2	*staff1
+*I"Pedals	*I"Organ	*
+*I'Ped.	*I'Org.	*
+*ICklav	*ICklav	*ICklav
+*Iorgan	*Iorgan	*Iorgan
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+*M11/8	*M11/8	*M11/8
+=26	=26	=26
+8ryy	4ryy	4ee 4aa 4ddd#X
+8ryy	.	.
+16ryy	8.ryy	16ccnLL 16ee 16aa
+8ryy	.	16cc#X 16ff#X 16bb-X
+.	.	16dd#XJJ 16ggn 16cccn
+8ryy	16ryy	8eeL 8aa 8ccc#X
+.	4.ryy	.
+8ryy	.	8.b-X 8.dd#X 8.ggn
+16ryy	.	.
+8ryy	.	8cc#XJ 8ff#X 8bb-X
+8.ryy	8ryy	2dd#X 2ggn 2cccn
+.	8ryy	.
+16ryy	.	.
+8.ryy	8.ryy	.
+16ryy	16ryy	.
+=27	=27	=27
+8.ryy	16ryy	4ee 4aa 4ddd#X
+.	16ryy	.
+.	16ryy	.
+16ryy	16ryy	.
+8.ryy	8.ryy	16ccnLL 16ee 16aa
+.	.	16cc#X 16ff#X 16bb-X
+.	.	16dd#XJJ 16gg 16cccn
+8ryy	16ryy	8eeL 8aa 8ccc#X
+.	16ryy	.
+8.ryy	8.ryy	8.b-X 8.dd#X 8.ggn
+16ryy	8ryy	8cc#XJ 8ff#X 8bb-X
+16ryy	.	.
+16ryy	4.ryy	2dd#X 2ggn 2cccn
+8.ryy	.	.
+8ryy	.	.
+8ryy	8ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Instrumental; Keyboard
+!!!MCN:
+!!!MDT: 1943/11/15
+!!!MGN:
+!!!MLC: Paris, France
+!!!MPD: 1943
+!!!MPN: Messiaen, Olivier
+!!!ODT: 1939
+!!!PDT: 1942
+!!!excerpt-start-measure: 26
+!!!excerpt-end-measure: 27
+!!!excerpt-start-time: 2:22
+!!!excerpt-end-time: 2:51
+!!!excerpt-duration-sec: 29
+!!!excerpt-time-signature: [11/8]
+!!!excerpt-tempo-beat: {eighth}
+!!!excerpt-tempo-rate: {46}
+!!!excerpt-meter-type: [odd]
+!!!excerpt-beat-group: Gx
+!!!excerpt-beat-subgroup: Gx
+!!!experiment: 0
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28

@@ -1,0 +1,90 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T296_Rav-w31p1h1m1-8]
+**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*
+*part2	*part2	*part1	*
+*staff2	*	*staff1	*
+*I"1 Contrabass	*	*I"2 Oboes	*
+*I'Cb.	*	*I'Ob.	*
+*ICstr	*	*ICww	*
+*Icbass	*	*Ioboe	*
+*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*
+*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*
+*M8/8	*	*M8/8	*
+!!LO:REH:t=1
+=1	=1	=1	=1
+!LO:TX:a:t=sul SOL	!	!	!
+!LO:TX:a:t=Solo	!	!LO:TX:t=[[eighth]=112]	!LO:DY:ed=brack
+4ryy	.	8eeL (8bb	4ryy
+.	.	8dd 8aa	.
+4ryy	4ryy	8ee 8bb	.
+.	.	8ggJ 8ddd	.
+8ryy	.	8eeL 8bb	.
+8ryy	.	8dd 8aa	.
+4ryy	.	8b 8ee	.
+.	.	8ddJ 8gg	.
+=2	=2	=2	=2
+*M5/8	*	*M5/8	*
+4ryy	.	8eeL 8bb	.
+.	.	8dd 8aa	.
+4ryy	.	8ee 8bb	.
+.	.	8dd 8aa	.
+!LO:TX:t=P:problem:cross-bar meaming to be implemented	!	!	!
+8ryy	.	8bJ)j 8ee)	.
+=3	=3	=3	=3
+*M7/8	*	*M7/8	*
+8ryy	.	(8eeL 8bb	.
+4ryy	.	8dd 8aa	.
+.	.	8ee 8bb	.
+2ryy	.	8ggJ 8ddd	.
+.	.	8bbL 8fff#	.
+.	.	8gg 8ddd	.
+.	.	8eeJ 8bb	.
+=4	=4	=4	=4
+*M4/8	*	*M4/8	*
+8ryy	.	8ddL 8aa	.
+8ryy	.	8ee 8bb	.
+4ryy	.	8a 8dd	.
+.	.	8bJ 8ee)	.
+=5	=5	=5	=5
+*M7/8	*	*M7/8	*
+2ryy	.	(8ddL 8gg	.
+.	.	8b 8ee	.
+.	.	8dd 8gg	.
+.	.	8eeJ 8aa	.
+4ryy	.	8ddL 8gg	.
+.	.	8b 8ee	.
+!LO:TX:t=P:problem:cross-bar beaming to be implemented	!	!	!
+8ryy	.	8aJ 8dd)	.
+=6	=6	=6	=6
+*M3/8	*	*M3/8	*
+8ryy	.	(8ddL 8gg	.
+8ryy	.	8b 8ee	.
+8ryy	.	8aJ 8dd)	.
+=7	=7	=7	=7
+*M7/8	*	*M7/8	*
+4ryy	.	(8ddL 8gg	.
+.	.	8b 8ee	.
+2ryy	.	8dd 8gg	.
+.	.	8eeJ 8aa	.
+.	.	8aL 8dd	.
+.	.	8b 8ee	.
+!LO:TX:t=P:problem:cross-bar beaming to be implemented	!	!	!
+8ryy	.	8ddJ 8gg)	.
+=8	=8	=8	=8
+*M9/8	*	*M9/8	*
+8ryy	.	(8ff#L 8bb	.
+2ryy	.	8ee 8aa	.
+.	.	8aa 8ddd	.
+.	.	8ff# 8bb	.
+.	.	8eeJ 8aa)	.
+2ryy	.	(8f#L 8b	.
+.	.	8a 8dd	.
+.	.	8ee 8aa	.
+.	.	8bJ 8ff#)	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -1,0 +1,72 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T751_Mes-20/122/1-9]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*	*part1	*part1
+*staff2	*	*staff1	*staff1
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+!!pagebreak:original
+*clefF4	*	*clefF4	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*M2/4	*	*M2/4	*
+*8ba	*	*	*
+=1	=1	=1	=1
+*ped	*	*	*
+!	!	!LO:TX:t=Modéré ([quarter]=72)	!
+!	!	!LO:TX:b:t=(laissez résonner)	!
+!	!	!	!LO:DY:b
+!LO:TX:b:t=(comme un Tam-Tam) (Valeurs progressivement accélérées)	!LO:DY:a	!	!
+[2AAAA^ [2DDD#X [2GGG#X	sfff	8ryy	4ryy
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+=2	=2	=2	=2
+2AAAA] 2DDD#X] 2GGG#X]	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+=3	=3	=3	=3
+!	!LO:DY:a	!	!
+[2AAAA [2DDD#X [2GGG#X	ff	8ryy	4ryy
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+=4	=4	=4	=4
+4AAAA_ 4DDD#X_ 4GGG#X_	.	8ryy	.
+.	.	8ryy	.
+8.AAAAL] 8.DDD#] 8.GGG#]	.	8ryy	.
+.	.	8ryy	.
+[16AAAAJk [16DDD#X [16GGG#X	.	.	.
+=5	=5	=5	=5
+2AAAA_ 2DDD#_ 2GGG#_	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+!!linebreak:original
+=6	=6	=6	=6
+4AAAA_ 4DDD#_ 4GGG#_	.	8ryy	.
+.	.	8ryy	.
+16AAAAKL] 16DDD#] 16GGG#]	.	8ryy	.
+[8.AAAAJ [8.DDD#X [8.GGG#X	.	.	.
+.	.	8ryy	.
+=7	=7	=7	=7
+2AAAA_ 2DDD#X_ 2GGG#X_	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+=8	=8	=8	=8
+8AAAA] 8DDD#X] 8GGG#X]	.	8ryy	4ryy
+[4.AAAA [4.DDD#X [4.GGG#X	>	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+=9	=9	=9	=9
+4.AAAA] 4.DDD#X] 4.GGG#X]	.	8ryy	.
+.	.	8ryy	.
+.	.	8ryy	.
+[8AAAA [8DDD#X [8GGG#X	.	8ryy	.
+*X8ba	*	*	*
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]

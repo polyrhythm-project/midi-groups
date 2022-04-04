@@ -1,0 +1,179 @@
+!!!COM: Copland, Aaron
+!!!OTL: Music for a Great City for Orchestra
+!!!OMV: Movement 3: Subway Jam
+!!!example: 724
+!!!work: Cop-42
+!!!OMD-full: none
+!!!OMD: none
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**blank	**kern	**dynam	**blank	**blank	**blank
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B	*grp:B
+*part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*	*part1	*part1	*	*	*
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*	*staff1	*	*	*	*
+*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICbras	*	*	*ICbras	*	*	*	*
+*Ibdrum	*	*Itimpa	*	*	*	*	*	*Itromt	*	*	*Itromt	*	*	*	*
+*I"Bass Drum	*	*I"Timbales	*	*I"Congas	*	*I"Tenor Drum	*	*I"Trombone 3.	*	*	*I"Trombone 1. 2.	*	*	*	*
+*I'B. D.	*	*I'Timb.	*	*I'Congas	*	*I'T. D.	*	*I'Tbn.	*	*	*I'Tbn.	*	*	*	*
+*stria1	*	*stria1	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*
+*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefF4	*	*	*clefF4	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*	*
+!!LO:REH:t=66
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[quarter]=132]	!	!	!	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!
+4r	mf	16r	mf	8.r	mf	16Re/LL	mf	4ryy	4ryy	.	4ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=[con sord]	!	!	!LO:TX:a:t=[con sord]	!	!	!	!
+8Re/J	.	.	.	16r	.	16Re/	.	8ryy	4ryy	.	8ryy	4ryy	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	8ryy	4ryy	.	8ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+4r	.	16r	.	8.r	.	16Re/LL	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	4.ryy	4ryy	.	4.ryy	4ryy	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	16r	.	8.r	.	16Re/LL	.	8ryy	4ryy	.	8ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	4.ryy	4ryy	.	4.ryy	4ryy	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+4r	.	16r	.	8.r	.	16Re/LL	.	8ryy	4ryy	.	8ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	16r	.	8.r	.	16Re/LL	.	8ryy	4ryy	.	8ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	4ryy	.	.	4ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+4r	.	16r	.	8.r	.	16Re/LL	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	4.ryy	.	.	4.ryy	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8r'^yy	.	.	8r'^yy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	4.ryy	4ryy	.	4.ryy	4ryy	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	.	.	.	.	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+4r	.	16r	.	8.r	.	16Re/LL	.	8ryy	4ryy	.	8ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	.	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	.	.	16Re/	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+8Re/L	.	4r	.	16Re/LL	.	16Re/LL	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	.	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	.	.	16r	.	16Re/	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	.	.	16Re/JJ	.	16Re/JJ	.	.	.	.	.	.	.	.	.
+4r	.	16r	.	16Re/LL	.	4r	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16Rf\LL	.	16Re/	.	.	.	.	.	.	.	.	.	.	.
+.	.	16Rd\JJ	.	16r	.	.	.	8ryy	.	.	8ryy	.	.	.	.
+.	.	16r	.	16Re/JJ	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8Re/L	.	16r	.	16Re/LL	.	16Re/LL	.	4ryy	4ryy	.	4ryy	4ryy	.	.	.
+.	.	16Rf\LL	.	16Re/	.	16Re/	.	.	.	.	.	.	.	.	.
+8Re/J	.	16Rd\JJ	.	16r	.	16Re/	.	.	.	.	.	.	.	.	.
+.	.	16r	.	16Re/JJ	.	16Re/JJ	.	.	4ryy	.	.	4ryy	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([(s1,s2)])][(s3,s4,s5,s6)]
+!!!Xfilter:slurcheck
+!!!CDT: 1900/11/14-1990/12/02
+!!!CBL: Brooklyn, United States
+!!!CDL: North Tarrytown, United States
+!!!CNT: American
+!!!AGN: Orchestral; Programmatic
+!!!MCN: Copland, Aaron
+!!!MDT: 1964/05/26
+!!!MGN: London Symphony Orchestra
+!!!MLC: London, United Kingdom
+!!!MPD: 1964
+!!!MPN:
+!!!ODT: 1964
+!!!PDT: 1965
+!!!excerpt-start-measure: 30
+!!!excerpt-end-measure: 36
+!!!excerpt-start-time: 0:51
+!!!excerpt-end-time: 1:03
+!!!excerpt-duration-sec: 12
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [132]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

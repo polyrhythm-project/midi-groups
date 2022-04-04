@@ -1,0 +1,146 @@
+!!!COM: Béla Bartók
+!!!OTL: [T353_Bar-w37p50-51m99-122]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=99	=99	=99	=99	=99	=99	=99	=99
+!	!	!	!	!	!	!LO:TX:t=[[quarter]=152]	!
+4ryy	.	4ryy	.	2r	.	2r	.
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!
+8ryy	4ryy	8ryy	4ryy	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+!!LO:REH:t=100
+=100	=100	=100	=100	=100	=100	=100	=100
+8ryy	.	8ryy	.	8B~ 8e	ff	8B~ 8e	ff
+8ryy	.	8ryy	.	8r	.	8r	.
+8r~yy	.	8r~yy	.	4r	.	4r	.
+8ryy	.	8ryy	.	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	101
+8ryy	.	8ryy	.	8B~ 8e	.	8B~ 8e	.
+8ryy	.	8ryy	.	8r	.	8r	.
+4ryy	.	4ryy	.	4r	.	4r	.
+=102	=102	=102	=102	=102	=102	=102	=102
+2ryy	.	4ryy	.	8r	mf	8r	mf
+!	!	!	!	!LO:TX:a:i:t=scherzando	!	!LO:TX:a:i:t=scherzando	!
+.	.	.	.	(8g#XL	.	(8cc#XL	.
+.	.	8ryy	.	8a#X)	.	8dd#X)	.
+!	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!	!	!	!	!
+.	.	8ryy	4ryy	8gnJ	.	8ff#XJ	.
+=103	=103	=103	=103	=103	=103	=103	=103
+!	!	!	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!	!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!
+2ryy	.	8ryy	.	(8f#XL	.	(8bL	.
+.	.	8ryy	.	8g#X)	.	8cc#X)	.
+.	.	8ryy	.	8e#XJ	.	8eeJ	.
+.	.	8ryy	.	(8g#L	.	(8cc#L	.
+=104	=104	=104	=104	=104	=104	=104	=104
+4ryy	.	8ryy	.	8a#X)	.	8dd#X)	.
+.	.	8ryy	.	8gnJ	.	8ff#XJ	.
+8ryy	.	4ryy	.	4r	.	4r	.
+!LO:TX:t=P:problem: Cross-Measure beaming still needs to be applied.	!	!	!	!	!	!	!
+8ryy	4ryy	.	.	.	.	.	.
+!!LO:REH:t=105
+=105	=105	=105	=105	=105	=105	=105	=105
+8ryy	4ryy	4ryy	.	2r	.	2r	.
+8ryy	4ryy	.	.	.	.	.	.
+4ryy	.	8ryy	.	.	.	.	.
+.	.	8ryy	4ryy	.	.	.	.
+=106	=106	=106	=106	=106	=106	=106	=106
+8ryy	.	8ryy	4ryy	2r	.	2r	.
+8ryy	4ryy	8ryy	4ryy	.	.	.	.
+8ryy	4ryy	8ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	.	.	.	.	.
+!!linebreak:original
+=107	=107	=107	=107	=107	=107	=107	=107
+4ryy	.	8ryy	.	2r	.	2r	.
+.	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	.	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108
+8ryy	4ryy	4ryy	.	4r	.	2r	.
+8ryy	4ryy	.	.	.	.	.	.
+8ryy	4ryy	8ryy	.	8r	.	.	.
+8ryy	.	8ryy	4ryy	(8d#XL	mf	.	.
+=109	=109	=109	=109	=109	=109	=109	=109
+!	!	!	!	!LO:TX:b:i:t=scherzando	!	!	!
+8ryy	.	8ryy	.	8e#X)	.	2r	.
+8ryy	.	8ryy	.	8g#XJ	.	.	.
+8ryy	.	8ryy	.	(8BL	.	.	.
+8ryy	.	8ryy	.	8c#X)	.	.	.
+!!LO:REH:t=110
+=110	=110	=110	=110	=110	=110	=110	=110
+8ryy	.	8ryy	.	8enJ	.	2r	.
+8ryy	.	8ryy	.	(8c#XL	.	.	.
+8ryy	.	8ryy	.	8d#X)	.	.	.
+8ryy	.	8ryy	.	8f#XJ	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111
+8ryy	.	2ryy	.	2r	.	2r	.
+8ryy	4ryy	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	.	.
+8ryy	4ryy	.	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112	=112
+8ryy	.	8ryy	4ryy	2r	.	2r	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113
+8ryy	.	8ryy	.	2r	.	2r	.
+8ryy	.	8ryy	4ryy	.	.	.	.
+8ryy	.	8ryy	4ryy	.	.	.	.
+8ryy	4ryy	8ryy	4ryy	.	.	.	.
+=114	=114	=114	=114	=114	=114	=114	=114
+8ryy	4ryy	8ryy	.	8r	.	8r	.
+8ryy	4ryy	8ryy	4ryy	(8ffL	mf	(8ggL	mf
+4ryy	.	8ryy	.	8ee)	.	8aa)	.
+.	.	8ryy	.	8dd-XJ	.	8cccJ	.
+!!linebreak:original
+!!LO:REH:t=115
+=115	=115	=115	=115	=115	=115	=115	=115
+8ryy	.	4ryy	.	4r	.	4r	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	8ryy	.	8r	.	8r	.
+8ryy	.	8ryy	4ryy	(8fL	f	(8gL	f
+=116	=116	=116	=116	=116	=116	=116	=116
+4ryy	.	8ryy	.	8e)	.	8a)	.
+.	.	8ryy	.	8c#X	.	/8cc	.
+8ryy	.	4ryy	.	8BJ	.	8dJ 8dd	.
+8ryy	.	.	.	8r	.	8r	.
+=117	=117	=117	=117	=117	=117	=117	=117
+8ryy	.	8ryy	.	2r	.	2r	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	.	.	.	.	.
+8ryy	4ryy	8ryy	.	.	.	.	.
+=118	=118	=118	=118	=118	=118	=118	=118
+8ryy	4ryy	4ryy	.	2r	.	2r	.
+8ryy	4ryy	.	.	.	.	.	.
+8ryy	4ryy	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119	=119
+8ryy	.	8ryy	.	2r	.	2r	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	.	.	.	.	.
+8ryy	.	8ryy	4ryy	.	.	.	.
+!!LO:REH:t=120
+=120	=120	=120	=120	=120	=120	=120	=22
+2ryy	.	8ryy	4ryy	8r	.	8r	.
+.	.	8ryy	4ryy	(8b-XL	f <	(8ccL	f <
+.	.	4ryy	.	8an)	.	8dd)	.
+.	.	.	.	8g-XJ	[[	8ffJ	[[
+=121	=121	=121	=121	=121	=121	=121	=121
+2ryy	.	4ryy	4ryy	4e-X~ 4a-X 4ee-X	ff	4a-X~ 4ee-X 4aa-X	ff
+.	.	4ryy	.	4e-~ 4a- 4ee-	.	4a-~ 4ee- 4aa-	.
+=122	=122	=122	=122	=122	=122	=122	=122
+2ryy	.	4ryy	.	4e-X~ 4a-X 4ee-X	.	4a-X~ 4ee-X 4aa-X	.
+.	.	4ryy	.	4e-~ 4a- 4ee-	.	4a-~ 4ee- 4aa-	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/13
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/02

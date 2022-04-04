@@ -1,0 +1,52 @@
+!!!COM: Charles Ives
+!!!OTL: [T243_Ive-w21p3-4m16-19]
+**kern	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern
+!!pagebreak:original
+*clefF4	*clefF4	*	*clefF4	*clefC3	*clefG2	*	*clefG2
+*k[]	*k[]	*	*k[]	*k[]	*k[]	*	*k[]
+*C:	*C:	*	*C:	*C:	*C:	*	*C:
+*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*	*M4/4
+!	!LO:TX:t=[quarter]=38	!	!	!	!	!	!LO:TX:t=[quarter]=38
+!	!LO:TX:b:t=	!	!	!	!	!	!LO:TX:a:t=16
+!	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!LO:TX:b:t=[f]	!	!LO:TX:b:t=[f]
+!	!LO:TX:b:t=	!	!LO:TX:b:t=	!LO:TX:b:t=	!LO:TX:b:t=	!	!LO:TX:b:t=
+4ryy	2ryy	.	2ryy	16.ryy	2ryy	.	2ryy
+.	.	.	.	16.ryy	.	.	.
+.	.	.	.	16.ryy	.	.	.
+4ryy	.	.	.	.	.	.	.
+.	.	.	.	16.ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+*8ba	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:a:t=17
+2ryy	2ryy	4ryy	3ryy	16ryy	2ryy	.	2ryy
+!	!	!	!	!LO:TX:b:t=	!	!	!
+.	.	.	.	10ryy	.	.	.
+.	.	.	.	20ryy	.	.	.
+.	.	.	.	20ryy	.	.	.
+.	.	.	.	20ryy	.	.	.
+!	!	!	!	!LO:TX:b:t=	!	!	!
+.	.	.	.	6.ryy	.	.	.
+.	.	.	6ryy	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:a:t=18
+2ryy	2ryy	4ryy	12ryy	.	2ryy	.	2ryy
+.	.	.	.	12ryy	.	.	.
+.	.	.	12ryy	.	.	.	.
+.	.	.	.	12ryy	.	.	.
+.	.	.	12ryy	.	.	.	.
+.	.	.	.	12ryy	.	.	.
+.	.	.	16ryy	.	.	.	.
+!	!	!	!	!LO:TX:b:t=	!	!	!
+.	.	.	16ryy	8.ryy	.	.	.
+.	.	.	16ryy	.	.	.	.
+.	.	.	16ryy	.	.	.	.
+*X8ba	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:a:t=19
+!	!	!	!LO:TX:b:t=	!	!LO:TX:b:t=	!	!LO:TX:b:t=
+2ryy	2ryy	4ryy	8ryy	8.ryy	4ryy	4ryy	4.ryy
+.	.	.	16ryy	.	.	.	.
+.	.	.	16ryy	8.ryy	.	.	.
+.	.	.	16ryy	.	8ryy	.	.
+.	.	.	16ryy	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})]

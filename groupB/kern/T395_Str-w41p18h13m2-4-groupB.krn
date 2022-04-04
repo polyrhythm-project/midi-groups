@@ -1,0 +1,74 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [T395_Str-w41p18h13m2-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part3	*	*part2	*part2	*part1	*
+*staff3	*	*staff2	*	*staff1	*
+*I"Bassoon II	*	*I"Bassoon I	*	*I"Clarinet in Bb I	*
+*I'Bsn. II	*	*I'Bsn. I	*	*I'Cl.	*
+!!pagebreak:original
+*clefF4	*	*clefC4	*	*clefG2	*
+*	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[b-e-]	*
+*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*
+=53	=53	=53	=53	=53	=53
+!	!	!	!	!LO:TX:t=[[quarter]=108]	!
+!	!	!	!	!LO:TX:a:i:t=[staccato]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8ryy	4ryy	(8dL]	p	16GLL	p
+.	.	.	.	16A	.
+!	!	!LO:TX:a:t=solo	!	!	!
+8ryy	.	8gJ)	mf	16BX	.
+.	.	.	.	16cJJ	.
+8ryy	.	(16dLL	.	16GLL	.
+.	.	16e	.	16A	.
+8ryy	.	16f	.	16B	.
+.	.	16dJJ)	.	16cJJ	.
+8ryy	.	(8.eL	.	16GLL	.
+.	.	.	.	16A	.
+8ryy	.	.	.	16B	.
+.	.	16fJk	.	16cJJ	.
+8ryy	.	8e'L)	.	16GLL	.
+.	.	.	.	16A	.
+8ryy	.	8c'J	.	16B	.
+.	.	.	.	16cJJ	.
+=54	=54	=54	=54	=54	=54
+8ryy	.	(8dL	.	16BXLL	.
+.	.	.	.	16A	.
+8ryy	.	8gJ)	.	16B	.
+.	.	.	.	16cJJ	.
+8ryy	.	(16dLL	.	16dLL	.
+.	.	16e	.	16c	.
+8ryy	.	16f	.	16B	.
+.	.	16dJJ)	.	16AJJ	.
+8ryy	.	([2e	.	16dLL	.
+.	.	.	.	16c	.
+8ryy	.	.	.	16B	.
+.	.	.	.	16AJJ	.
+8ryy	.	.	.	16GLL	.
+.	.	.	.	16A	.
+8ryy	.	.	.	16B	.
+.	.	.	.	16cJJ	.
+=55	=55	=55	=55	=55	=55
+8ryy	.	8eL]	.	16GLL	.
+.	.	.	.	16A	.
+8ryy	.	8gJ)	.	16BX	.
+.	.	.	.	16cJJ	.
+8ryy	.	(16dLL	.	16GLL	.
+.	.	16e	.	16A	.
+8ryy	.	16f	.	16B	.
+.	.	16dJJ)	.	16cJJ	.
+8ryy	.	(8.eL	.	16GLL	.
+.	.	.	.	16A	.
+8ryy	.	.	.	16B	.
+.	.	16fJk	.	16cJJ	.
+8ryy	.	8e'L)	.	16GLL	.
+.	.	.	.	16A	.
+8ryy	.	8c'J	.	16B	.
+.	.	.	.	16cJJ	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/27

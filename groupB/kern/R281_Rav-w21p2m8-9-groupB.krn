@@ -1,0 +1,382 @@
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Trois poèmes de Stéphane Mallarmé (Three Poems by Stéphane Mallarmé) for Voice, String Quartet, Two Flutes and Two Clarinets
+!!!OMV: I: Soupir (Sigh)
+!!!example: 281
+!!!work: Rav-21
+!!!OMD-full: Lent
+!!!OMD: [Lent]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A
+*part7	*	*part7	*	*part6	*	*part6	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1
+*staff8	*	*staff7	*	*staff6	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*	*	*	*I"Voice	*	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Flute II	*
+*I'Pno.	*	*	*	*I'V.	*	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'2.Fl.	*
+*ICklav	*	*	*	*ICvox	*	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
+*Ipiano	*	*	*	*	*	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iflt	*
+*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*
+*G:	*	*G:	*	*G:	*	*	*G:	*	*C:	*	*G:	*	*G:	*	*G:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=1
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=40]	!
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+8ryy	.	4ryy	.	4ryy	4ryy	4ryy	64ryy	4ryy	64ryy	4ryy	(48ddoLLL	pp	64ryy	4ryy	1ryy	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*ped	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:DY:t=%s  sourdine	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+8ryy	4ryy	.	.	.	.	.	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+4ryy	.	4ryy	.	8ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	8ryy	.	4ryy	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+4ryy	.	2ryy	.	8ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	8ryy	.	4ryy	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+8ryy	.	.	.	4ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+8ryy	.	.	.	.	.	.	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+2ryy	.	4ryy	.	8ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	2ryy	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	8ryy	.	4ryy	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	4ryy	.	4ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+8ryy	.	4ryy	.	8ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	4ryy	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+8ryy	.	.	.	8ryy	.	4ryy	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+4ryy	.	4ryy	.	4ryy	.	4ryy	64ryy	.	64ryy	.	(48ddoLLL	.	64ryy	.	4ryy	4ryy
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48ddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bboJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	48dddoLL	.	64ryy	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48bbo	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	48ggoJJJ)	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:N:head=dia	!	!LO:N:head=dia	!	!	!	!LO:N:head=dia	!	!	!
+.	.	.	.	.	.	.	64ryy	.	64ryy	.	.	.	64ryy	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2,s3,s4,s5)](s6)[({(s7,s8)})]
+!!!CDT: 1875/03/07-1937/12/28
+!!!CBL: Ciboure, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!AGN: Vocal; Solo
+!!!MCN: Inghelbrecht, Désiré-Émile
+!!!MDT: 1914/01/24
+!!!MGN: unknown
+!!!MLC: Paris, France
+!!!MPD: 1914
+!!!MPN: Bathori, Jane
+!!!ODT: 1913
+!!!PDT: 1914
+!!!excerpt-start-measure: 8
+!!!excerpt-end-measure: 9
+!!!excerpt-start-time: 0:46
+!!!excerpt-end-time: 0:59
+!!!excerpt-duration-sec: 13
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [40]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!Xfilter: slurcheck
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

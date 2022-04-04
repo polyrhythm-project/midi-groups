@@ -1,0 +1,122 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T668_Hin-w100p98m54-59]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part9	*part9	*part8	*part8	*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Viola II	*	*I"Viola I	*	*I"Violin II	*	*I"Violin I	*	*I"Glockenspiel	*	*I"Timpani	*	*I"Contrabassoon	*	*I"Bassoon II	*	*I"Bass Clarinet [C]	*
+*I'2.Vla.	*	*I'1.Vla.	*	*I'2.Vln.	*	*I'1.Vln.	*	*I'Glock.	*	*I'Timp.	*	*I'Cbsn.	*	*I'2.Bsn.	*	*I'B. Cl.	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICidio	*	*ICww	*	*ICww	*	*ICww	*
+*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iglock	*	*Itimpa	*	*Ifag_c	*	*Ifagot	*	*Iclarb	*
+*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*
+*	*	*	*	*	*	*	*	*ITrd-14c-24	*	*	*	*ITrd7c12	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[0]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M6/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.	!	!LO:DY:t=%s espr.	!	!	!	!	!	!	!	!	!LO:TX:t=[[half]=92]	!
+!LO:N:n=2:head=dia	!LO:DY:ed=brack	!LO:N:n=2:head=dia	!LO:DY:ed=brack	!LO:N:head=dia	!LO:DY:ed=brack	!LO:N:n=2:head=dia	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+(6An 6dn	4ryy	(6An 6dn	4ryy	(6ddn	4ryy	(6bn 6een	4ryy	1r	.	4ryy	.	4ryy	4ryy	4ryy	4ryy	4ryy	4ryy
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!	!	!
+3En 3An)	.	3En 3An)	.	3en 3an)	.	6cc#X 6ff#X	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	4ryy	4ryy	4ryy	.	4ryy	.	4ryy	.
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	[6dd [6gg)	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+(6c 6f	4ryy	(6c 6f	4ryy	(6cc 6ff	4ryy	6dd] 6gg]	.	.	.	4ryy	.	2ryy	.	2ryy	.	2ryy	.
+!	!	!	!	!	!	!LO:TX:p	!	!	!	!	!	!	!	!	!	!	!
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!LO:TX:t=P:problem: open diamonds to be implemented	!	!	!	!	!	!	!	!	!	!	!
+6B 6e	.	6B 6e	.	6b 6ee	.	[3ffn [3bb-X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+6c 6f)	4ryy	6c 6f)	4ryy	6cc 6ff)	4ryy	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=odia	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!
+(6d-X 6g-X	.	(6d-X 6g-X	.	(6dd-X 6gg-X	.	3ff] 3bb-]	.	3.bbb-X	4ryy	1ryy	.	2ryy	.	2ryy	.	2.ryy	.
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!	!	!
+[3A-X [3d-)	.	[3A-X [3d-)	.	[3a-X [3dd-)	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	(6cc 6ff	4ryy	.	.	.	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!
+6A-] 6d-]	.	6A-] 6d-]	.	6a-] 6dd-]	.	3.dd-X 3.gg-X)	.	6dddd-X	.	.	.	8ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.	8ryy	.	.	.
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+6G-X 6c-X	4ryy	6G-X 6c-X	4ryy	6g-X 6cc-X	4ryy	.	.	6eeee-X	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	8ryy	.
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+6A- 6d-	.	6A- 6d-	.	6a- 6dd-	.	.	.	6ffff	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ryy	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:head=odia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!
+(3c-X 3f-X	.	(3c-X 3f-X	.	(3.ddn	.	[3.ee-X [3.aa-X	.	3.gggg-X	.	2ryy	.	2ryy	.	2ryy	.	2.ryy	.
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6B-X 6e-X)	.	6B-X 6e-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+3.An 3.dn	4ryy	3.An 3.dn	4ryy	3.gn 3.ccn)	4ryy	6ee-] 6aa-]	.	3.r	.	4ryy	.	4ryy	.	4ryy	.	.	.
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	6dd-X 6gg-X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	4ryy	.	4ryy	.	4ryy	.
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	6cc-X 6ff-X	4ryy	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=dia	!	!LO:TX:b:B:t=poco allargando	!	!	!	!	!	!	!	!LO:TX:a:B:t=poco allargando	!
+(3E-X 3A-X	4ryy	(3.c 3.f	4ryy	[3.f#X [3.b	4ryy	(6b-X 6ee-X	.	3.eeee-X	.	4ryy	.	1ryy	.	1ryy	.	1ryy	.
+!	!	!	!	!	!	!LO:N:head=odia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	3ddn)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6D 6G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!
+3.C#X 3.F#X)	4ryy	3.B 3.en)	4ryy	(6f#] 6b]	4ryy	[3.ee-X [3.aa-X	4ryy	6r	.	4ryy	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	6g 6cc	.	.	.	3bbb-X	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	6f# 6b)	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+(3F#X 3Bn	4ryy	(3.A 3.d	4ryy	(3fn 3b-X	4ryy	6ee-] 6aa-]	.	3.aaan	.	4ryy	.	1ryy	.	1ryy	.	1ryy	.
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	6dd-X 6gg-X	4ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+6G 6c	.	.	.	6e-X 6a-X	.	6cc-X 6ff-X	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:head=odia	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+3E 3A	.	6A-X 6d-X	.	3g	.	(6b-X 6ee-X	.	3.eeee-X	.	4ryy	.	.	.	.	.	.	.
+!	!	!LO:N:head=odia	!	!	!	!LO:N:head=odia	!	!	!	!	!	!	!	!	!	!	!
+.	.	3c)	.	.	.	3ddn)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+6D 6G)	.	.	.	6en 6an)	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=odia	!	!	!	!	!	!	!	!	!	!	!
+(6g	.	(3%2.F#X 3%2.Bn	.	(3f 3b-X	.	[3.ee-X [3.aa-X	.	6r	.	4ryy	.	2%3ryy	.	2%3ryy	.	2%3ryy	.
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6d-X 6g-X	.	.	.	.	.	.	.	3bbb-X	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!
+6c 6f	.	.	.	6g-X 6cc-X	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:N:n=2:head=odia	!	!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+3Bn 3en	.	.	.	3f 3b-	.	6ee-] 6aa-]	.	3.aaa	.	4ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	6dd-X 6gg-X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.	.	.	.	.
+!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+6c 6f	.	.	.	6e-X 6a-X	.	6cc-X 6ff-X	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:head=odia	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:N:n=2:head=odia	!	!LO:N:n=2:head=odia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!
+3.B 3.e)	.	3.Fn 3.B-X)	.	3.gn)	.	(6b-X 6ee-	.	3.r	.	4ryy	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:N:head=odia	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	3ddn)	.	.	.	.	.	.	.	.	.	.	.
+.	4ryy	.	4ryy	.	4ryy	.	4ryy	.	4ryy	4ryy	4ryy	.	4ryy	.	4ryy	.	4ryy
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]s4,s5[(s6,s7[(s8,s9)])]
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

@@ -1,0 +1,149 @@
+!!!COM: Martin, Frank
+!!!OTL: Quatre sonnets à Cassandre (Four Sonnets to Cassandra) for Mezzo-Soprano, Flute, Viola and Violoncello
+!!!OMV: No. 3
+!!!example: 536
+!!!work: Mai-8
+!!!OMD-full: Vif et léger
+!!!OMD: [Léger et mordant]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*staff1
+*I"Violoncello	*	*I"Viola	*	*I"Flute	*	*I"Soprano	*
+*I'Vc.	*	*I'Vla.	*	*I'Fl.	*	*I'S.	*
+*ICstr	*	*ICstr	*	*ICww	*	*ICvox	*
+*Icello	*	*Iviola	*	*Iflt	*	*	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=32	=32	=32	=32	=32	=32	=32	=32
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
+!	!LO:DY:rj	!	!LO:DY:rj	!	!LO:DY:rj	!	!
+[1G [1do	f >	8ryy	4ryy	8ryy	4ryy	1g	cieux.
+!	!	!	!	!	!	!	!
+.	.	8ryy	4ryy	8ryy	4ryy	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2.G_ 2.d_	.	8ryy	.	8ryy	.	1r	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	4ryy	.	4ryy	.	.	.
+!	!	!	!	!	!	!	!
+.	.	8ryy	.	8ryy	.	.	.
+!	!	!	!	!	!	!	!
+.	.	8ryy	.	8ryy	.	.	.
+!	!	!	!	!	!	!LO:TX:a:B:i:t=Retenu	!
+8G] 8d]	.	8ryy	4ryy	8ryy	4ryy	.	.
+8r	.	8ryy	.	8ryy	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+*grp:B	*grp:B	*grp:A	*grp:A	*grp:A	*grp:A	*	*
+2ryy	.	[2cc	.	[2dd	.	1r	.
+8r;yy	.	8cc]	]]	8dd]	]]	.	.
+!LO:TX:a:i:t=très tranquille 	!	!	!	!	!	!	!
+!LO:TX:b:B:i:t=dolce	!	!	!	!	!	!LO:TX:a:B:i:t=Très modéré	!
+8ryy	.	8r	.	8r	.	.	.
+8ryy	.	4r;	.	4r;	.	.	.
+8ryy	.	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35
+4.ryy	.	1r	.	1r	.	1r	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*	*
+[1CC [1GG	>	2ryy	.	8ryy	.	1r	.
+.	.	.	.	8ryy	4ryy	.	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+.	.	8ryy	.	4.ryy	.	.	.
+.	.	8ryy	4ryy	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:B:i:t=Pressez peu à peu	!
+.	.	8ryy	.	.	.	.	.
+.	]]	8ryy	.	8ryy	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+1CC_ 1GG_	p	4.ryy	4ryy	8ryy	4ryy	1r	.
+.	.	.	.	8ryy	.	.	.
+.	.	.	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	4ryy	8ryy	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+1CC_ 1GG_	.	8ryy	4ryy	8ryy	4ryy	4r	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4c	Ain-
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4d	si
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4d	di-
+.	.	8ryy	.	8ryy	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+1CC_ 1GG_	.	8ryy	.	8ryy	.	2.e-	-sait
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+!	!LO:HP:t=poco a poco %s	!	!LO:HP:t=poco a poco %s	!	!LO:HP:t=poco a poco %s	!	!
+.	<	8ryy	4ryy	8ryy	4ryy	.	.
+.	.	8ryy	.	8ryy	.	4e-	la
+.	.	8ryy	.	8ryy	.	.	.
+!!LO:REH:t=40
+=40	=40	=40	=40	=40	=40	=40	=40
+1CC] 1GG]	.	8ryy	.	8ryy	.	4f	nym-
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4f	-phe
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4c	qui
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4g	m'af-
+.	.	8ryy	.	8ryy	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+[1FF [1C	.	8ryy	.	8ryy	.	2.a-	-ol-
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	.	.
+.	.	8ryy	.	8ryy	.	4a-	-le
+.	.	8ryy	.	8ryy	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4)]
+!!!RDF**dynam: > = dimin.
+!!!Xfilter: slurcheck
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Vocal; Solo
+!!!MCN: Martin, Frank
+!!!MDT: 1923/04/07
+!!!MGN:
+!!!MLC: Geneva, Switzerland
+!!!MPD: 1923
+!!!MPN: Wyss, Colette
+!!!ODT: 1921
+!!!PDT: 1940?
+!!!excerpt-start-measure: 32
+!!!excerpt-end-measure: 41
+!!!excerpt-start-time: 1:02
+!!!excerpt-end-time: 1:23
+!!!excerpt-duration-sec: 21
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: [quarter]
+!!!excerpt-tempo-rate: [120]
+!!!excerpt-meter-type: quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: 1
+!!!EEV: 2020/07/28
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

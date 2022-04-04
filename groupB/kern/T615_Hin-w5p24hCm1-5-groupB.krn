@@ -1,0 +1,94 @@
+!!!COM: Paul Hindemith
+!!!OTL: [T615_Hin-w5p24hCm1-5]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:A	*grp:A
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"Violin	*
+*I'Pno.	*	*	*I'Vln.	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Ivioln	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*
+*D:	*D:	*	*D:	*
+*M3/4	*M3/4	*	*M3/4	*
+*	*8va	*	*	*
+*	*Xtuplet	*	*	*
+!!LO:REH:t=C
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:t=[[quarter]=128]	!
+!	!	!LO:DY:ed=brack	!LO:TX:a:B:t=Wieder sehr fließend	!
+8ryy	12dddd#XLi]	ff >	4ryy	4ryy
+.	12eee	.	.	.
+4ryy	.	.	.	.
+.	12ddd#XJ	.	.	.
+!	!	!LO:DY:t= %s  sempre ben legato	!	!
+.	12eeL	ppp ]	8.ryy	.
+.	12dd#X	.	.	.
+4ryy	.	.	.	.
+.	12eeeJ	.	.	.
+.	.	.	16ryy	.
+.	12ddd#L	.	4ryy	.
+.	12eeee	.	.	.
+8ryy	.	.	.	.
+.	12dddd#XJ	.	.	.
+=2	=2	=2	=2	=2
+8ryy	12eeeL	.	4ryy	.
+.	12ddd#X	.	.	.
+4ryy	.	.	.	.
+.	12eeJ	.	.	.
+.	12dd#XL	.	4ryy	.
+.	12eee	.	.	.
+4ryy	.	.	.	.
+.	12ddd#J	.	.	.
+.	12eeeeL	.	8ryy	.
+.	12dddd#X	.	.	.
+8ryy	.	.	8ryy	.
+.	12eeeJ	.	.	.
+=3	=3	=3	=3	=3
+8ryy	12ddd#XL	.	4ryy	.
+.	12ee	.	.	.
+4ryy	.	.	.	.
+.	12dd#XJ	.	.	.
+.	12eeeL	.	8.ryy	.
+.	12ddd#	.	.	.
+4ryy	.	.	.	.
+.	12eeeeJ	.	.	.
+.	.	.	16ryy	4ryy
+.	12dddd#XL	.	4ryy	.
+.	12eee	.	.	.
+8ryy	.	.	.	.
+.	12ddd#J	.	.	.
+=4	=4	=4	=4	=4
+8ryy	12eeL	.	8ryy	.
+.	12dd#X	.	.	.
+4ryy	.	.	8ryy	4ryy
+.	12eeeJ	.	.	.
+.	12ddd#XL	.	8ryy	.
+.	12eeee	.	.	.
+4ryy	.	.	8ryy	.
+.	12dddd#XJ	.	.	.
+.	12eeeL	.	8ryy	.
+.	12ddd#	.	.	.
+8ryy	.	.	8ryy	.
+.	12eeJ	.	.	.
+=5	=5	=5	=5	=5
+8ryy	12dd#XL	.	4ryy	.
+.	12eee	.	.	.
+4ryy	.	.	.	.
+.	12ddd#XJ	.	.	.
+.	12eeeeL	.	8ryy	.
+.	12dddd#X	.	.	.
+4ryy	.	.	8ryy	.
+.	12eeeJ	.	.	.
+.	12ddd#L	.	4ryy	4ryy
+.	12ee	.	.	.
+8ryy	.	.	.	.
+.	12dd#J	.	.	.
+*	*X8va	*	*	*
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: i = editorial accidental, brack
+!!!Xfilter: slurcheck
+!!!RDF**kern: j = marked note, color="magenta", text="extra)"

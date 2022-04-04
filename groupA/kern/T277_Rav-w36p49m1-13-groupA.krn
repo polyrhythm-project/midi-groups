@@ -1,0 +1,122 @@
+!!!COM: (Joseph) Maurice Ravel
+!!!OTL: [T277_Rav-w36p49m1-13]
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+!!LO:TX:t=Adagio assai. [eighth]=76
+*ped	*	*
+8EEL	4%3ryy	4ryy
+8G#J 8e	.	.
+8G#L 8e	.	.
+8EEJ	.	.
+8G#L 8e	.	.
+8G#J 8e	.	.
+=2	=2	=2
+!	!LO:TX:b:i:t=espressivo	!
+8EEL	4ryy	.
+8G#J 8e	.	.
+8G#L 8e	2ryy	.
+8EEJ	.	.
+8G#L 8e	.	.
+8G#J 8e	.	.
+=3	=3	=3
+8EEL	4ryy	.
+8G#J 8e	.	.
+8G#L 8d#	4ryy	.
+8EEJ	.	.
+8G#L 8c#	4ryy	.
+8G#J 8c#	.	.
+=4	=4	=4
+8GG#L	4ryy	.
+8BJ 8d#	.	.
+8BL 8d#	8ryy	.
+8GG#J	16ryy	.
+.	16ryy	.
+8BL 8d#	16ryy	.
+.	16ryy	.
+8BJ 8d#	8ryy	.
+=5	=5	=5
+8GG#L	2ryy	.
+8BJ 8d#	.	.
+8BL 8d#	.	.
+8G#J	.	.
+8BL 8d#	8ryy	.
+8BJ 8d#	8ryy	.
+=6	=6	=6
+8G#L	4ryy	.
+8AJ 8e	.	.
+8AL 8e	4ryy	.
+8G#J	.	.
+8AL 8e	4ryy	.
+8AJ 8e	.	.
+!!linebreak:original
+=7	=7	=7
+8F#L	2ryy	.
+8AJ 8e	.	.
+8AL 8e	.	.
+8F#J	.	.
+8AL 8e	16ryy	.
+.	16ryy	.
+8AJ 8d#	16ryy	.
+.	16ryy	.
+=8	=8	=8
+8EL	16ryy	.
+.	16ryy	.
+8AJ 8d#	8ryy	.
+8AL 8d#	4ryy	.
+8EJ	.	.
+8AL 8c#	8ryy	.
+8AJ 8c#	8ryy	.
+=9	=9	=9
+8D#L	8ryy	.
+8AJ 8c#	8ryy	4ryy
+8AL 8c#	8ryy	.
+8D#J	8ryy	.
+8G#L 8c#	8ryy	.
+8G#J 8B	8ryy	.
+=10	=10	=10
+8C#L	4ryy	.
+8G#J 8B	.	.
+8G#L 8B	8ryy	.
+8C#J	8ryy	.
+8EL 8G#	8ryy	.
+8EJ 8G#	8ryy	.
+=11	=11	=11
+8BBL	4ryy	.
+8EJ 8G#	.	.
+8EL 8A	16ryy	4ryy
+.	16ryy	.
+8AAJ	16ryy	.
+.	16ryy	.
+8EL 8B	4ryy	4ryy
+8EJ 8B	.	.
+=12	=12	=12
+8GG#L	4ryy	4ryy
+8C#J 8A	.	.
+8D#L 8B	4ryy	.
+8FF#J	.	.
+8EL 8c#	4ryy	.
+8EJ 8c#	.	.
+=13	=13	=13
+8EEL\	2ryy	.
+8AJ 8d#	.	.
+8AL 8c#	.	.
+8EJ	.	.
+8AL 8B	16ryy	.
+.	16ryy	.
+8AJ 8B	16ryy	.
+.	16ryy	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("
+!!!EED:Jason Lee
+!!!EEV:2021/10/26

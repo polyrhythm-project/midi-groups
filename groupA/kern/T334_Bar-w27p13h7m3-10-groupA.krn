@@ -1,0 +1,94 @@
+!!!COM: Béla Bartók
+!!!OTL: [T334_Bar-w27p13h7m3-10]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Violin	*
+*I'Pno.	*I'Pno.	*	*I'Vln.	*
+*clefF4	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*M2/4	*M2/4	*	*M2/4	*
+=67	=67	=67	=67	=67
+!	!LO:TX:a:i:t=[staccato]	!LO:DY:ed=brack	!LO:TX:t=[Più vivo [quarter]=120]	!LO:DY:ed=brack
+!	!	!	!LO:TX:t=P:problem:cross-measure beaming still needs to be applied.	!
+/8EEEL 8BBB	2ryy	p	16ryy	4ryy
+.	.	.	16ryy	.
+8FF>^>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	.
+/8BBL 8D#X	.	.	16ryy	.
+.	.	.	16ryy	.
+8B-X>J 8d>	.	.	16ryy	.
+.	.	.	16ryy	4ryy
+=68	=68	=68	=68	=68
+/8EEE^<L 8BBB	2ryy	.	16ryy	.
+.	.	.	16ryy	.
+8FF>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	4ryy
+/8BBL 8D#X	.	.	8ryy	.
+8B-X>^>J 8d>	.	.	16ryy	4ryy
+.	.	.	16ryy	.
+=69	=69	=69	=69	=69
+/8EEEL 8BBB	2ryy	.	16ryy	.
+.	.	.	16ryy	.
+8FF>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	.
+/8BB^<L 8D#X	.	.	16ryy	4ryy
+.	.	.	16ryy	.
+8B-X>J 8d>	.	.	16ryy	4ryy
+.	.	.	16ryy	.
+=70	=70	=70	=70	=70
+/8EEEL 8BBB	2ryy	.	16ryy	.
+.	.	.	16ryy	.
+8FF>^>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	.
+/8BBL 8D#X	.	.	16ryy	.
+.	.	.	16ryy	.
+8B-X>J 8dn>	.	.	16ryy	.
+.	.	.	16ryy	.
+!!linebreak:original
+=71	=71	=71	=71	=71
+/8EEE^<L 8BBB	2ryy	.	16ryy	.
+.	.	.	16ryy	.
+8FF>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	.
+/8BBL 8D#X	.	.	8ryy	.
+8B-X>^>J 8d>	.	.	16ryy	.
+.	.	.	16ryy	.
+=72	=72	=72	=72	=72
+/8EEEL 8BBB	2ryy	.	16ryy	.
+.	.	.	16ryy	.
+8FF>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	.
+/8BB^<L 8D#X	.	.	16ryy	.
+.	.	.	16ryy	.
+8B-X>J 8d>	.	.	16ryy	.
+.	.	.	16ryy	.
+=73	=73	=73	=73	=73
+/8EEEL 8BBB	2ryy	.	16ryy	.
+.	.	.	16ryy	.
+8FF>^>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	.
+/8BBL 8D#X	.	.	16ryy	4ryy
+.	.	.	16ryy	.
+8B-X>J 8d>	.	<	16ryy	.
+.	.	.	16ryy	.
+=74	=74	=74	=74	=74
+/8EEE^<L 8BBB	2ryy	.	16ryy	4ryy
+.	.	.	16ryy	.
+8FF>J 8C>	.	.	16ryy	.
+.	.	.	16ryy	4ryy
+/8BB^<L 8D#X	.	.	16ryy	4ryy
+.	.	.	16ryy	.
+8B-X>J 8d>	.	.	8ryy	.
+.	.	[	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/22
+!!!EEV: 2021/08/04
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/28

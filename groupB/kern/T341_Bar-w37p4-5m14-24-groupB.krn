@@ -1,0 +1,153 @@
+!!!COM: Béla Bartók
+!!!OTL: [T341_Bar-w37p4-5m14-24]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B	*grp:A	*grp:A
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[quarter]=110	!
+2ryy	.	(<8CL	pp	1r	.	1ryy	.
+.	.	8dJ	.	.	.	.	.
+!	!	!LO:N:n=1:head=dia	!	!	!	!	!
+.	.	8E/	.	.	.	.	.
+.	.	4d)	.	.	.	.	.
+!LO:TX:t=P:problem:cross-staff beaming not implemented yet	!	!	!	!	!	!	!
+8ryy	4ryy	.	.	.	.	.	.
+8ryy	.	(>8C	.	.	.	.	.
+8ryy	.	8dL	.	.	.	.	.
+!	!	!LO:N:head=dia	!	!	!	!	!
+8ryy	.	8EJ	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+8ryy	.	4d)	.	2r	.	1ryy	.
+8ryy	.	.	.	.	.	.	.
+8ryy	.	(8CL	.	.	.	.	.
+8ryy	.	8dJ	.	.	.	.	.
+!	!	!LO:N:head=dia	!	!	!	!	!
+4ryy	.	8E	.	4r	.	.	.
+.	.	4d)	.	.	.	.	.
+4ryy	.	.	.	8r	.	.	.
+!	!	!	!	!LO:TX:t=P:problem:cross-staff beaming not implemented yet	!	!	!
+.	.	(>8C	.	(8c#XL	p	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8ryy	.	8dL	.	8d#X	.	1ryy	.
+!	!	!LO:N:head=dia	!	!	!	!	!
+8ryy	.	8EJ	.	8f#XJ)	.	.	.
+8ryy	.	4d)	.	(8gn^	.	.	.
+8ryy	.	.	.	4f#	.	.	.
+4ryy	.	(8C	.	.	.	.	.
+.	.	8dL	.	8d#)	.	.	.
+!	!	!LO:N:head=dia	!	!	!	!	!
+4ryy	.	8EJ	.	(8c#XL	.	.	.
+!	!	!LO:TX:t=P:problem:cross-staff beaming not implemented yet	!	!	!	!	!
+.	.	[8dL	.	8d#	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+8ryy	.	8dJ])	.	8gJ)	.	8ryy	4ryy
+!!!ONB: note that in the Violin II part, the breath mark is originally notated as a thick vertical line bisecting the E5 space on the treble stave.
+8ryy	.	(>8C	.	8f#X~,	.	8ryy	.
+8ryy	.	8dL	.	(8c#XL	.	8ryy	.
+!	!	!LO:N:head=dia	!	!	!	!	!
+8ryy	.	8EJ	.	8d#X	.	8ryy	.
+8ryy	.	4d)	.	8f#J)	.	4ryy	.
+4ryy	.	.	.	(8g^	.	.	.
+.	.	(>8C	.	4f#	.	8ryy	.
+!	!	!	!	!	!	!LO:TX:t=P:problem:cross-staff beaming not implemented yet	!
+8ryy	.	8d	.	.	.	8ryy	.
+=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!LO:N:head=dia	!	!	!	!	!
+8ryy	.	8E	.	8d#X)	.	8ryy	.
+8ryy	.	4d)	.	(8c#XL	.	8ryy	.
+!!!ONB: note that in the Violin I part, the breath mark is originally notated as a thick vertical line bisecting the E5 space on the treble stave.
+4ryy	.	.	.	8d#	.	8ryy	.
+.	.	(>8C	.	8gJ)	.	8ryy	.
+!!!ONB: note that in the Violin II part, the breath mark is originally notated as a thick vertical line bisecting the E5 space on the treble stave.
+4ryy	.	8dL	.	8f#X~,	.	8ryy	.
+!	!	!LO:N:head=dia	!	!	!	!	!
+.	.	8EJ	.	(8c#L	.	8ryy	.
+8ryy	.	8d)	.	8d#	.	8ryy	.
+*	*	*clefG2	*	*	*	*	*
+8ryy	.	(8ddL	p	8f#J)	.	8ryy	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4ryy	.	8ee	.	(8g	.	8ryy	.
+.	.	8ggJ)	.	4f#X	.	8ryy	.
+!LO:N:n=1:head=dia	!	!	!	!	!	!	!
+4ryy	.	(8aa-X^	.	.	.	8ryy	.
+.	.	4gg	.	4d#X	.	8ryy	.
+8ryy	.	.	.	.	.	8ryy	.
+4ryy	.	8ee)	.	4c#X	.	8ryy	.
+.	.	(8ddL	.	.	.	8ryy	.
+8ryy	.	8ee	.	8B-X)	.	8ryy	.
+=7	=7	=7	=7	=7	=7	=7	=7
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	8aa-XJ)	.	4.B-X	.	8ryy	.
+8ryy	.	(8ddd-XL	.	.	.	8ryy	.
+8ryy	.	8aa-J	.	.	.	8ryy	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+4ryy	.	4gg)	.	(8g	.	8ryy	.
+.	.	.	.	4f#X	.	8ryy	.
+*	*	*clefC3	*	*	*	*	*
+8ryy	.	(8dL	.	.	.	4ryy	.
+8ryy	.	8e	.	4d#X	.	.	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	8gJ)	.	.	.	8ryy	.
+=8	=8	=8	=8	=8	=8	=8	=8
+4ryy	.	(4a-X	.	8c#X	.	8ryy	.
+.	.	.	.	4.B-X)	.	8ryy	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	8dd-X	.	.	.	4ryy	.
+8ryy	.	[4.a-	.	.	.	.	.
+8ryy	.	.	.	(8c#	.	8ryy	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	.	.	4.B-)	.	8ryy	.
+4ryy	.	8a-L]	.	.	.	4ryy	.
+.	.	8gJ)	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+8ryy	.	8r	.	1B-X	.	8ryy	.
+4ryy	.	(8G#XL	.	.	.	8ryy	.
+.	.	8c#XJ)	.	.	.	4ryy	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+4ryy	.	4.d	.	.	.	.	.
+.	.	.	.	.	.	8ryy	.
+8ryy	.	.	.	.	.	8ryy	.
+8ryy	.	(8G#L	.	.	.	4ryy	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	8c#J)	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+4ryy	.	4d	.	[1B-X	.	8ryy	.
+.	.	.	.	.	.	8ryy	.
+8ryy	.	4G#X	<	.	.	8ryy	4ryy
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	.	.	.	.	4ryy	.
+8ryy	.	4c#X	.	.	.	.	.
+8ryy	.	.	.	.	.	4ryy	.
+!LO:N:head=dia	!	!	!	!	!	!	!
+8ryy	.	4G#	.	.	.	.	.
+8ryy	.	.	.	.	.	8ryy	.
+=11	=11	=11	=11	=11	=11	=11	=11
+*	*	*	*	*	*	*^	*
+8ryy	.	4c#X	.	4.B-]	.	8ryy	2ryyyy	.
+!LO:N:head=dia	!	!	!	!	!	!	!	!
+8ryy	.	.	.	.	.	4ryy	.	.
+8ryy	.	4B-X	.	.	.	.	.	.
+8ryy	.	.	.	8r	.	4ryy	.	.
+!LO:N:head=dia	!	!	!	!	!	!	!	!
+8ryy	.	4Cn 4c#X	.	4r	.	.	8ryyyy	.
+8ryy	.	.	.	.	.	8ryy	8ryy	.
+8ryy	.	8B- 8cn	.	8r	.	8ryy	8ryy	.
+8ryy	4ryy	8r	.	[8Bn [8d#X	pp	8ryy	8ryyyy	.
+*	*	*	*	*	*	*v	*v	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: N = cue size
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/12
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/16

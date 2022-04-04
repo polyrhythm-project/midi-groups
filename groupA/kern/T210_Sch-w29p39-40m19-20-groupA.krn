@@ -1,0 +1,54 @@
+!!!COM: Arnold (Franz Walter) Schoenberg [Schönberg]
+!!!OTL: [T210_Sch-w29p39-40m19-20]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M12/8	*	*M12/8	*	*M12/8	*	*M12/8	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[[quarter-dot]=94]	!
+8DDnL^	f	2.r	.	8ryy	.	4.ryy	4ryy
+8DD	.	.	.	8ryy	4ryy	.	.
+8DDJ	.	.	.	8ryy	.	.	.
+!LO:TX:t=/	!	!	!	!	!	!	!
+8BBnL	<	.	.	4.ryy	.	4ryy	.
+8BB	.	.	.	.	.	.	.
+8BB	.	.	.	.	.	8ryy	.
+!LO:TX:t=⏑	!	!	!	!	!	!	!
+8BBJ	.	4r	.	8ryy	.	4.ryy	.
+!LO:TX:t=/	!	!	!	!	!	!	!
+8F#XL	.	.	.	8ryy	.	.	.
+8F#	.	8r	.	8ryy	.	.	.
+!LO:TX:t=⏑	!	!	!	!	!	!	!
+8F#	.	8en`L	ff	8ryy	4ryy	8ryy	4ryy
+8F#	.	(8e	.	8ryy	.	8ryy	.
+8F#J	[	8gnJ)	.	8ryy	.	8ryy	.
+=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:t=/	!	!	!	!	!	!	!
+8FnL	.	2.r	.	8ryy	.	4ryy	.
+8F	>	.	.	8ryy	.	.	.
+8FJ	.	.	.	8ryy	.	8ryy	.
+!LO:TX:t=/	!	!	!	!	!	!	!
+8AA-XL	.	.	.	8ryy	.	2.ryy	.
+8AA-	.	.	.	4ryy	.	.	.
+8AA-	.	.	.	.	.	.	.
+!LO:TX:t=⏑	!	!	!	!	!	!	!
+8AA-J	.	4r	.	8ryy	.	.	.
+!LO:TX:t=/	!	!	!	!	!	!	!
+8DD-XL	.	.	.	8ryy	.	.	.
+8DD-	.	8r	.	8ryy	.	.	.
+!LO:TX:t=⏑	!	!	!	!	!	!	!
+8DD-	.	8CL`	ff	8ryy	4ryy	8ryy	4ryy
+8DD-	.	(8C	.	8ryy	.	8ryy	.
+8DD-J	]	8e-XJ)	.	8ryy	.	8ryy	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

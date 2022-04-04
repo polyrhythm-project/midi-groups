@@ -1,0 +1,83 @@
+!!!COM: Olivier (Eugène Prosper Charles) Messiaen
+!!!OTL: [T748_Mes-20/26/23-28]
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*grp:B	*grp:B	*grp:B
+*part2	*part2	*part2	*part1	*part1
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*	*	*I"P1	*
+*I'Pno.	*	*	*	*
+!!pagebreak:original
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+*M2/4	*M2/4	*	*M2/4	*
+*8ba	*	*	*	*
+=1	=1	=1	=1	=1
+*	*	*	*^	*
+!	!	!	!LO:TX:t=[[eighth]=160]	!	!
+!	!LO:TX:t=[[eighth]=160]	!	!LO:TX:b:i:t=marcato	!	!
+!	!LO:TX:a:i:t=stacc.	!	!LO:TX:a:t=(Sujet, canon à 3 voix)	!	!
+!	!	!	!	!	!LO:DY:a
+16ryy	2r	mf	4dd#X	4r	f
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+16ryy	.	.	4dd#	4g#X	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+!	!LO:TX:b:i:t=m.dr.	!	!	!	!
+!	!LO:TX:a:t=marcato	!	!	!	!
+!	!	!LO:DY:a	!	!	!
+16ryy	4dn	f	4dd#X	4g#X	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+16ryy	4d	.	8dd#L	4g#	.
+16ryy	.	.	.	.	.
+16ryy	.	.	[8dd#J	.	.
+16ryy	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+!	!LO:TX:a:i:t=stacc. sempre	!	!	!	!
+16ryy	4d	<	16dd#KL]	8g#XL	.
+16ryy	.	.	8dd#X	.	.
+16ryy	.	.	.	[8g#J	.
+16ryy	.	.	[16dd#Jk	.	.
+16ryy	8dL	.	16dd#KL]	16g#KL]	.
+16ryy	.	.	8dd#	8g#	.
+16ryy	[8dJ	.	.	.	.
+16ryy	.	.	[16eeJk	[16g#Jk	.
+!!linebreak:original
+=4	=4	=4	=4	=4	=4
+16ryy	16dKL]	.	16eeKL]	16g#KL]	.
+16ryy	8d	.	8.ffnJ	8g#X	.
+16ryy	.	.	.	.	.
+16ryy	[16dJk	.	.	[16aJk	.
+16ryy	16dKL]	.	8.ff#XL	16aKL]	.
+16ryy	8d	.	.	8.a#XJ	.
+16ryy	.	.	.	.	.
+16ryy	[16d#XJk	.	[16cccnJk	.	.
+=5	=5	=5	=5	=5	=5
+16ryy	16d#KL]	.	8cccL]	8.bL	.
+16ryy	8.eJ	.	.	.	.
+16ryy	.	.	16bbL	.	.
+16ryy	.	.	[16ff#XJJ	[16ffnJk	.
+16ryy	8.fnL	[ mf	16ff#XKL]	8ffnL]	.
+16ryy	.	.	8.ffnJ	.	.
+16ryy	.	.	.	16eeL	.
+16ryy	[16bJk	.	.	[16bJJ	.
+=6	=6	=6	=6	=6	=6
+16ryy	8bL]	.	4ee	16bKL]	.
+16ryy	.	.	.	8.a#XJ	.
+16ryy	16a#XL	.	.	.	.
+16ryy	[16fnJJ	.	.	.	.
+16ryy	16fKL]	.	[4bb	4an	.
+16ryy	8.eJ	.	.	.	.
+16ryy	.	.	.	.	.
+16ryy	.	.	.	.	.
+*X8ba	*	*	*	*	*
+*	*	*	*v	*v	*
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1{(s2,s3)})]

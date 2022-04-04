@@ -1,0 +1,96 @@
+!!!COM: Igor (Fyodorovich) Stravinsky
+!!!OTL: [378_Str-18/8/[14]1-4]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:B	*grp:B
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Violoncello	*I"Violoncello	*I"Viola	*staff3	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I
+*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*
+!!pagebreak:original
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+*M8/4	*	*M8/4	*	*M8/4	*	*M8/4	*
+!!LO:REH:t=14
+=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:b:t=[pizz.]	!	!	!LO:DY:t=[ %s sempre ]	!	!LO:DY:t=[ %s sempre ]	!	!LO:DY:ed=brack
+2ryy	.	2ryy	4ryy	2ryy	4ryy	8gL] 8ee]	p
+.	.	.	.	.	.	(8cc#X 8ff#X	.
+.	.	.	.	.	.	8dd#X 8gg	.
+.	.	.	.	.	.	[8ffnJ [8aa	.
+=:	=:	=:	=:	=:	=:	=:	=:
+!	!LO:DY:ed=brack	!	!	!	!	!	!
+4ryy	4ryy	4ryy	.	4ryy	.	4ff] 4aa])	.
+4ryy	.	8ryy	.	2ryy	.	(4a-X 4dd-Xu	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	.	.	4an 4aa-X	.
+8ryy	.	8ryy	.	8ryy	.	[4ccn [4ff)	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+=:	=:	=:	=:	=:	=:	=:	=:
+2ryy	.	2ryy	.	2ryy	.	8ccL] 8ff]	.
+.	.	.	.	.	.	8cc-X 8ee-Xv	.
+.	.	.	.	.	.	8ccn 8ff	.
+.	.	.	.	.	.	[8ee-J [8gg	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*M9/4	*	*M9/4	*	*M9/4	*	*M9/4	*
+4ryy	.	4ryy	.	4ryy	.	6ee-] 6gg]	.
+.	.	.	.	.	.	(6ff 6aanu	.
+4ryy	.	8ryy	.	4ryy	.	.	.
+.	.	.	.	.	.	6ff#X 6bb	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	4ryy	.	4b 4gg#X)	.
+8ryy	.	8ryy	.	8ryy	.	4ee 4ggn	.
+8ryy	.	8ryy	.	8ryy	.	.	.
+=:	=:	=:	=:	=:	=:	=:	=:
+2ryy	.	2.ryy	.	2.ryy	.	(4dd 4bbn	.
+.	.	.	.	.	.	4b-X 4gg)	.
+4ryy	.	.	.	.	.	4ff# 4aa	.
+=:	=:	=:	=:	=:	=:	=:	=:
+4ryy	.	8ryy	.	2ryy	.	(4ff#X 4bb	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	.	.	[4b- [4gg)	.
+!!linebreak:original
+=3	=3	=3	=3	=3	=3	=3	=3
+*M10/4	*	*M10/4	*	*M10/4	*	*M10/4	*
+8ryy	.	8ryy	.	8ryy	.	8bL] 8gg]	.
+8ryy	.	4.ryy	.	8ryy	.	(8ff 8aa	.
+4ryy	.	.	.	4ryy	.	8ff#X 8bb	.
+.	.	.	.	.	.	[8gg#XJ [8bb#X)	.
+=:	=:	=:	=:	=:	=:	=:	=:
+4ryy	.	2ryy	.	2ryy	.	4gg#] 4bb#]	.
+4ryy	.	.	.	.	.	(4gg# 4bbn	.
+4ryy	.	8ryy	.	2ryy	.	4ffn 4aa	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	.	.	4ee-X 4aa-X)	.
+=:	=:	=:	=:	=:	=:	=:	=:
+8ryy	.	8ryy	.	8ryy	.	(6een 6ccc	.
+8ryy	.	4.ryy	.	8ryy	.	.	.
+.	.	.	.	.	.	6ff#X 6bb	.
+4ryy	.	.	.	4ryy	.	.	.
+.	.	.	.	.	.	6ee#X 6aan	.
+4ryy	.	2ryy	.	2ryy	.	4b 4gg#X	.
+4ryy	.	.	.	.	.	4dd 4ff#)	.
+=4	=4	=4	=4	=4	=4	=4	=4
+*M11/4	*	*M11/4	*	*M11/4	*	*M11/4	*
+4ryy	.	8ryy	.	2ryy	.	(4dd#X 4gg#X	.
+.	.	8ryy	.	.	.	.	.
+4ryy	.	4ryy	.	.	.	4ee#X 4aa	.
+8ryy	.	8ryy	.	8ryy	.	4b 4gg#	.
+8ryy	.	4.ryy	.	8ryy	.	.	.
+4ryy	.	.	.	4ryy	.	4dd# 4ff#X)	.
+!	!	!	!	!	!	!LO:TX:a:Bi:t=al - lar - gan - do	!
+=:	=:	=:	=:	=:	=:	=:	=:
+4ryy	.	2ryy	.	2ryy	.	(4cc [4ffn	<
+4ryy	.	.	.	.	.	4cc 4ff] 4aa)	.
+4ryy	.	8ryy	.	4ryy	.	4b-X [4ggn	.
+.	.	8ryy	.	.	.	.	.
+!	!	!	!LO:DY:t=%s cresc.allarg.	!LO:TX:b:i:t=colla parte, non cresc.	!	!	!
+=:	=:	=:	=:	=:	=:	=:	=:
+4ryy	.	2ryy	4ryy	1ryy	.	2ggn] 2bbn	.
+!LO:TX:b:t=col Viol I.	!	!	!	!	!	!	!
+8ryy	.	.	.	.	.	.	.
+8ryy	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	.	.	2gg#Xv, 2ccc#X	ff [
+=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]

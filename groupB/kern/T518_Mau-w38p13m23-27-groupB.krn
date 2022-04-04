@@ -1,0 +1,129 @@
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: [T518_Mau-w38p13m23-27]
+**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:B	*grp:B
+*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*
+*I"Piano	*	*	*
+*I'Pno.	*	*	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+=23	=23	=23	=23
+!!LO:TX:B:t=[Allegro vivo]
+8ryy	.	16r	p
+.	.	(16g^LL	.
+8ryy	.	16e-X	.
+.	.	16GJJ	.
+8ryy	.	16g^LL	.
+.	.	16d	.
+8ryy	.	16G	.
+.	.	16g^JJ	.
+8ryy	.	16cLL	.
+.	.	16G	.
+8ryy	.	16g^	<
+.	.	16dJJ	.
+8ryy	.	16GLL	.
+.	.	16g^	.
+8ryy	.	16e-X	.
+.	.	16GJJ)	[[
+=24	=24	=24	=24
+8ryy	.	(16cc^LL	mf
+.	.	16a-X	.
+8ryy	.	16c	.
+.	.	16cc^JJ	.
+8ryy	.	16gLL	.
+.	.	16c	.
+8ryy	.	16cc^	.
+.	.	16f#XJJ	.
+8ryy	.	16cLL	<
+.	.	16cc^	.
+8ryy	.	16g	.
+.	.	16cJJ	.
+8ryy	.	16cc^LL	.
+.	.	16a-X	.
+8ryy	.	16c)	.
+.	.	(16ee-X^JJ	[
+!!linebreak:original
+=25	=25	=25	=25
+!	!	!	!LO:DY:t=poco %s
+8ryy	.	16b-XLL	f
+.	.	16f	.
+8ryy	.	16bb-X^	.
+.	.	16ffJJ	.
+8ryy	.	16ccLL	.
+.	.	16ee-X^	.
+8ryy	.	16b-	.
+.	.	16fJJ	<
+8ryy	.	16bb-^LL	.
+.	.	16ff	.
+8ryy	.	16cc	.
+.	.	16ee-^JJ	.
+8ryy	.	16b-LL	.
+.	.	16f)	.
+8ryy	.	(16ccc^	.
+.	.	16aanJJ	[[
+*clefG2	*	*	*
+=26	=26	=26	=26
+8ryy	.	16eenLL	f
+.	.	16b-X	.
+16ryy	.	16ccc#X^	.
+16ryy	.	16ggnJJ	.
+16ryy	.	16ddLL	.
+16ryy	.	16aa^	.
+16ryy	.	16ee	.
+16ryy	.	16b-XJJ	.
+16ryy	.	16ccc#X^LL	.
+16ryy	.	16ggn	.
+16ryy	.	16dd	.
+16ryy	.	16aa^JJ	.
+16ryy	.	16eeLL	.
+16ryy	.	16b-XJJ)	.
+16ryy	.	8r	.
+16ryy	.	.	.
+!!linebreak:original
+=27	=27	=27	=27
+16ryy	.	8dd':L 8bb-X: 8ddd:	f
+16ryy	.	.	.
+16ryy	.	8dd'J	.
+16ryy	.	.	.
+16ryy	.	8a#X'L 8ff#X	.
+16ryy	.	.	.
+16ryy	.	8bn'J 8gg	.
+16ryy	.	.	.
+16ryy	.	8b#X'L 8gg#X	.
+16ryy	.	.	.
+16ryy	.	8cc#X'J 8aan	.
+16ryy	.	.	.
+16ryy	.	8dd':L 8bb-X: 8ddd:	.
+16ryy	.	.	.
+16ryy	.	8dd'J	.
+16ryy	.	.	.
+*clefF4	*	*	*
+16ryy	.	8a#X'L 8ff#X	.
+16ryy	.	.	.
+16ryy	.	8bn'J 8ggn	.
+16ryy	.	.	.
+16ryy	.	8cc#X'L 8aa	.
+16ryy	.	.	.
+16ryy	.	8dd'J 8bb-X	.
+16ryy	.	.	.
+16ryy	.	8dd':L 8bbn: 8ddd:	.
+16ryy	.	.	.
+16ryy	.	8dd'J	.
+16ryy	.	.	.
+16ryy	.	8a#X'L 8ff#X	.
+16ryy	.	.	.
+16ryy	.	8b'J 8gg	.
+16ryy	.	.	.
+16ryy	.	8ccn 8aa	.
+16ryy	.	.	.
+16ryy	.	8r	.
+16ryy	.	.	.
+=	=	=	=
+*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/13
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/09
+!!!RDF**kern: i = marked note, color="hotpink", text="extra("

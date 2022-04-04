@@ -1,0 +1,97 @@
+!!!COM: Frank Martin
+!!!OTL: [T555_Mai-w21p1m1-10]
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*grp:A	*gr:A	*grp:A	*grp:B	*grp:B
+*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1	*part1
+*staff7	*staff7	*staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff1	*staff1/2
+*I"Contrabass	*I"Contrabass	*I"Violoncello	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Piano	*I"Piano	*I"Piano
+*I'Cb.	*	*I'Vc.	*	*I'Vla.	*	*I'Vln. II	*	*I'Vln. I	*	*I'Pno.	*	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:rj:t=pizz.	!	!LO:TX:a:rj:t=pizz.	!	!LO:TX:a:rj:t=pizz.	!	!	!	!LO:TX:a:t=pizz.	!	!	!LO:TX:t=[quarter]=80	!
+4ryy	4ryy	4ryy	4ryy	4ryy	4ryy	1ryy	4ryy	4ryy	4ryy	4ryy	1r	p
+*	*	*	*	*	*	*	*	*	*	*clefG2	*	*
+4ryy	.	4ryy	.	4ryy	.	.	.	4ryy	.	4ryy	.	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!
+2ryy	.	2ryy	.	2ryy	4ryy	.	.	2ryy	.	4ryy	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*^	*	*
+1ryy	.	1ryy	.	2ryy	.	1ryy	.	1ryy	.	4ryy	2ryy	2r	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.
+.	.	.	.	2ryy	.	.	.	.	.	4ryy	2ryy	4r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=dolce cantabile	!
+.	.	.	.	.	.	.	.	.	.	4ryy	.	[4cc#X	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1ryy	.	1ryy	.	4ryy	.	1ryy	.	1ryy	.	4ryy	4ryy	2cc#_	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	4ryy	.	.
+.	.	.	.	2ryy	.	.	.	.	.	2ryy	4ryy	8cc#]	.
+.	.	.	.	.	.	.	.	.	.	.	.	(4cc#X	.
+.	.	.	.	.	.	.	.	.	.	.	4ryy	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ccnLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16dd-XJJ	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1ryy	.	1ryy	.	4ryy	.	1ryy	.	1ryy	.	4ryy	4ryy	2.cc)	.
+.	.	.	.	4ryy	.	.	.	.	.	2ryy	4ryy	.	.
+.	.	.	.	4ryy	.	.	.	.	.	.	4ryy	.	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	4ryy	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	([8cc#X	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1ryy	.	1ryy	.	4ryy	.	1ryy	.	1ryy	.	4ryy	4ryy	8cc#L]	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ccnL	<
+.	.	.	.	.	.	.	.	.	.	.	.	16dd-XJJ	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	4ryy	[4cc	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	4ryy	8cc])	.
+.	.	.	.	.	.	.	.	.	.	.	.	(4dd-	.
+.	.	.	.	4ryy	.	.	.	.	.	4ryy	4ryy	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8cc)	[[
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1ryy	.	1ryy	.	1ryy	4ryy	2ryy	.	1ryy	.	4ryy	2ryy	([2cc	>
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.
+.	.	.	.	.	4ryy	4ryy	.	.	.	4ryy	2ryy	8cc]	.
+.	.	.	.	.	.	.	.	.	.	.	.	4.bn)	]
+.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+1ryy	.	1ryy	.	1ryy	.	4ryy	.	1ryy	.	4ryy	4ryy	4r	.
+.	.	.	.	.	.	4ryy	.	.	.	4ryy	2ryy	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	([8cc	.
+.	.	.	.	.	.	4ryy	.	.	.	4ryy	.	4.cc]	.
+.	.	.	.	.	.	4ryy	.	.	.	4ryy	4ryy	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8a-X	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+1ryy	.	1ryy	.	1ryy	.	4ryy	.	1ryy	.	4ryy	4ryy	2.cc-X	.
+.	.	.	.	.	.	2.ryy	.	.	.	4ryy	2.ryy	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	4a-X)	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+1ryy	.	1ryy	.	2ryy	.	8ryy	.	1ryy	.	4ryy	4ryy	4r	.
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+.	.	.	.	.	.	2ryy	.	.	.	4ryy	2ryy	(8a-XL>	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8cc-XJ	.
+.	.	.	.	8ryy	.	.	.	.	.	4ryy	.	8cc-L>]	.
+.	.	.	.	8ryy	.	.	.	.	.	.	.	8a-	<
+.	.	.	.	4ryy	.	4ryy	.	.	.	4ryy	4ryy	8cc-	.
+.	.	.	.	.	.	.	.	.	.	.	.	[8ffJ	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+1ryy	.	1ryy	.	2.ryy	.	4ryy	.	1ryy	.	4ryy	4ryy	6ff]	.
+.	.	.	.	.	.	.	.	.	.	.	.	12ff-X)	.
+.	.	.	.	.	.	2ryy	.	.	.	4ryy	2ryy	(2ff-X	.
+.	.	.	.	.	.	.	.	.	.	4ryy	.	.	.
+.	.	.	.	4ryy	.	8ryy	.	.	.	4ryy	4ryy	4ddn)	[
+.	.	.	.	.	.	8ryy	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][([(s3,s4)]s5,s6,s7)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/08/18
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/10
